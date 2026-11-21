@@ -14,7 +14,7 @@ description: Les étapes pour passer à la République délibérative, ce qu'ell
 <li><div><h3>La convention constituante</h3><p>Trois cents citoyennes et citoyens tirés au sort, pendant trois à six mois, délibèrent article par article à partir de l’avant-projet. Ils peuvent l’élargir, le restreindre ou le corriger (Titre [XVI](#revision)).</p></div></li>
 <li><div><h3>La convention des droits fondamentaux</h3><p>Cent cinquante citoyennes et citoyens tirés au sort rédigent la Déclaration des droits fondamentaux annexée à la Constitution, en partant de la Déclaration de 1789, du Préambule de 1946 et de la Charte de l’environnement (article [8](#declaration-droits-fondamentaux)).</p></div></li>
 <li><div><h3>Le contrôle de cohérence</h3><p>Le Conseil constitutionnel vérifie la cohérence du texte et le respect des droits intangibles de l’article [9](#droits-intangibles), y compris contre la volonté de la majorité.</p></div></li>
-<li><div><h3>Le référendum de ratification</h3><p>Le texte est adopté si la majorité des suffrages exprimés est favorable et si la participation atteint au moins la moitié des inscrits (article [215](#referendum-revision-majorite)).</p></div></li>
+<li><div><h3>Le référendum de ratification</h3><p>Le texte est adopté si la majorité des suffrages exprimés est favorable et si les « oui » représentent au moins un tiers des inscrits (article [215](#referendum-revision-majorite)).</p></div></li>
 </ol>
 
 ## <span class="kicker">02</span>Pas plus cher que le système actuel

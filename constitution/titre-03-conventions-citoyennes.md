@@ -164,13 +164,19 @@ L'adoption vaut loi, sous réserve des contrôles scientifiques et constitutionn
 
 ### Article 25 — Réexamen en cas de suspension {#reexamen-cas-suspension}
 
-Lorsqu'un texte est suspendu par le Conseil scientifique ad hoc ou par le Conseil constitutionnel, il est réexaminé par la convention ordinaire annuelle suivante, en commission thématique, dans les conditions prévues à l'article suivant.
+Lorsqu'un texte est suspendu par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, la décision de suspension qualifie chacun des griefs de grief de forme ou de grief de fond.
 
-Par exception :
+Toute convention citoyenne qui adopte un texte désigne à cette fin trois rapporteurs, dans les conditions prévues à l'article [21](#thematique-formation-objet).
 
-- lorsque la suspension prononcée par le Conseil constitutionnel est fondée sur une atteinte grave à un droit intangible garanti à l'article [9](#droits-intangibles) ou à une liberté publique essentielle, le Conseil saisit directement la convention de secours, qui statue dans les conditions prévues au Titre [XII](#crises) ;
+En cas de grief de forme, les rapporteurs de la convention ayant adopté le texte peuvent, dans un délai d'un mois, retirer ou rectifier les seules dispositions visées par ce grief. Ils ne peuvent ajouter aucune disposition nouvelle. Le texte rectifié est de nouveau soumis au Conseil constitutionnel, qui statue dans un délai fixé par la loi organique. Le texte est réexaminé dans les conditions prévues pour les griefs de fond lorsque le Conseil constitutionnel estime que la rectification modifie l'économie générale du texte, lorsque le tiers des membres de la convention d'origine le demande, ou lorsque le grief ne peut être levé que par un nouveau vote.
 
-- lorsque le texte suspendu a été adopté par la convention de secours et que celle-ci est encore en activité, elle peut directement re-soumettre un nouveau projet sans attendre la convention ordinaire annuelle.
+En cas de grief de fond, le texte est réexaminé par la convention ordinaire annuelle suivante, en séance plénière, après audition publique d'une rapporteuse ou d'un rapporteur désigné par l'autorité ayant prononcé la suspension et d'une rapporteuse ou d'un rapporteur de la convention d'origine. La convention peut corriger, abandonner ou confirmer le texte. Le texte corrigé est de nouveau soumis aux contrôles prévus par la présente Constitution.
+
+La confirmation est décidée par une délibération motivée, à la majorité des deux tiers des membres de la convention. Le texte confirmé entre en vigueur ; il ne peut plus être suspendu ni abrogé pour les griefs ainsi examinés. La confirmation est exclue lorsque le grief porte sur un droit absolu mentionné à l'article [9](#droits-intangibles), sur la compétence de la convention ou la procédure d'adoption, ou sur l'organisation et les compétences des institutions établies par la présente Constitution. Seule une révision constitutionnelle, dans les limites fixées au Titre [XVI](#revision), peut alors lever l'obstacle.
+
+Lorsque le texte doit entrer en vigueur avant une échéance juridique certaine, notamment la date limite de transposition d'un acte de l'Union européenne, la date d'effet d'une décision juridictionnelle ou le début de l'exercice budgétaire, et que la convention ordinaire annuelle ne peut statuer avant cette échéance, l'Autorité de programmation civique saisit la convention de secours. Celle-ci statue dans les conditions prévues au présent article, après audition des rapporteurs.
+
+Lorsque le texte suspendu a été adopté par la convention de secours et que celle-ci est encore en activité, elle procède elle-même au réexamen, dans les conditions prévues au présent article.
 
 ## Chapitre IV — La convention ordinaire annuelle
 
@@ -182,17 +188,7 @@ La convention ordinaire annuelle adopte chaque année :
 
 - la ratification des traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
 
-- les textes réexaminés après suspension par le Conseil scientifique ad hoc ou par le Conseil constitutionnel, sous réserve des exceptions prévues à l'article [25](#reexamen-cas-suspension).
-
-Pour le réexamen des textes suspendus, la convention se divise en commissions thématiques. Chaque commission entend :
-
-- une rapporteuse ou un rapporteur désigné par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, qui présente les griefs ayant fondé la suspension ;
-
-- une rapporteuse ou un rapporteur désigné parmi les membres de la convention ayant adopté le texte initial, qui présente l'intention et le contenu délibéré de la loi.
-
-La commission délibère à la lumière de ces rapports et statue à la majorité qualifiée définie à l'article [17](#majorite-qualifiee). Elle peut confirmer, corriger ou abandonner le texte.
-
-La composition et le nombre des commissions sont fixés par la loi organique.
+- le réexamen des textes suspendus par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, dans les conditions prévues à l'article [25](#reexamen-cas-suspension).
 
 ## Chapitre V — La convention de secours
 

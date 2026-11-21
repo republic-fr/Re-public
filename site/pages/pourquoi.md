@@ -86,7 +86,7 @@ Dignité, interdiction de la torture et de la peine de mort, égalité, liberté
 
 ### Vous votez sur la Constitution
 
-Toute révision de la Constitution, préparée par une convention constituante tirée au sort, est soumise à référendum. Elle n’est adoptée que si la majorité des votants l’approuve et que la moitié au moins des inscrits a voté (article [215](#referendum-revision-majorite)).
+Toute révision de la Constitution, préparée par une convention constituante tirée au sort, est soumise à référendum. Elle n’est adoptée que si la majorité des votants l’approuve et que les « oui » représentent au moins un tiers des inscrits (article [215](#referendum-revision-majorite)).
 
 ### Près de chez vous aussi
 

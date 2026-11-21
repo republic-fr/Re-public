@@ -140,7 +140,7 @@ La convention de secours peut s'auto-saisir dès qu'une mesure conservatoire a �
 
 À défaut d'auto-saisine dans les vingt-quatre heures, l'Autorité générale des conventions citoyennes la convoque de plein droit.
 
-En l'absence de mesure conservatoire, la convention de secours peut également être saisie par la demande concordante d'au moins deux autorités constitutionnelles distinctes, aux fins d'examiner une crise politique, institutionnelle ou systémique. Elle peut également être saisie par tout représentant aux relations extérieures en cas d'urgence internationale, dans les conditions prévues au Titre [VII](#execution).
+En l'absence de mesure conservatoire, la convention de secours peut également être saisie par la demande concordante d'au moins deux autorités constitutionnelles distinctes, aux fins d'examiner une crise politique, institutionnelle ou systémique. Elle peut également être saisie par tout représentant aux relations extérieures en cas d'urgence internationale, dans les conditions prévues au Titre [VII](#execution). Elle est saisie par l'Autorité de programmation civique pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [25](#reexamen-cas-suspension).
 
 ### Article 153 — Délai de siège {#secours-delai-siege}
 
