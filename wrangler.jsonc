@@ -4,6 +4,8 @@
   "compatibility_date": "2026-11-01",
   "workers_dev": true,
   "preview_urls": true,
+  // Versions d'essai des pull requests (commande « wrangler preview »).
+  "previews": {},
   "assets": {
     "directory": "./dist",
     "html_handling": "auto-trailing-slash",
