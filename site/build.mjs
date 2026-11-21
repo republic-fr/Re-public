@@ -300,7 +300,8 @@ function contentPage(file, href) {
   <label>Votre e-mail, pour vous répondre <span>(facultatif)</span><input class="rp-input" type="email" name="email" autocomplete="email"></label>
   <label>Message<textarea class="rp-input" name="message" rows="7" required></textarea></label>
   <button class="rp-btn rp-btn--primary" type="submit">Envoyer</button>
-</form>` : '';
+  <p class="contact-form__status" role="status" aria-live="polite"></p>
+</form>${mailBtn ? `<p class="note">Vous préférez écrire directement ?</p>${mailBtn}` : ''}` : '';
   const contactLine = form || mailBtn || `<p><a class="rp-btn rp-btn--primary" href="https://github.com/${config.repo}/issues">Écrire sur GitHub</a></p>`;
   raw = raw.replaceAll('{{contactLine}}', contactLine).replaceAll('{{repo}}', config.repo);
   const html = md.render(linkify(raw));

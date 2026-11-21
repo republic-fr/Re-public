@@ -139,6 +139,24 @@
     a.insertAdjacentHTML('afterend', ' <span class="mail-addr">' + addr + '</span>');
   });
 
+  // Formulaire de contact : envoi sans quitter la page.
+  document.querySelectorAll('.contact-form').forEach(function (f) {
+    f.addEventListener('submit', function (e) {
+      if (!window.fetch) return;
+      e.preventDefault();
+      var status = f.querySelector('.contact-form__status'), btn = f.querySelector('button');
+      btn.disabled = true; status.textContent = 'Envoi en cours…';
+      fetch(f.action, { method: 'POST', headers: { Accept: 'application/json' }, body: new FormData(f) })
+        .then(function (r) { return r.json(); })
+        .then(function (d) {
+          if (d.success) { f.reset(); status.textContent = 'Merci, votre message a bien été envoyé.'; }
+          else { status.textContent = 'L’envoi a échoué. Réessayez, ou écrivez-nous directement.'; }
+        })
+        .catch(function () { status.textContent = 'L’envoi a échoué. Réessayez, ou écrivez-nous directement.'; })
+        .then(function () { btn.disabled = false; });
+    });
+  });
+
   // Lien vers l'article : copie l'adresse.
   document.querySelectorAll('.js-permalink').forEach(function (a) {
     a.addEventListener('click', function () {

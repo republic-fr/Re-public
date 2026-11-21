@@ -249,3 +249,4 @@ sup { font-size: 0.6em; line-height: 0; vertical-align: super; }
 .contact-form textarea { resize: vertical; }
 .contact-form button { justify-self: start; }
 .faq h3 { margin-top: var(--space-5); }
+.contact-form__status { margin: 0; font-size: 15px; }
