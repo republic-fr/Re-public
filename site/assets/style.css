@@ -169,7 +169,8 @@ a:hover { text-decoration-thickness: 2px; }
 .rp-article__body li { margin-bottom: var(--space-1); }
 .rp-article__body a { text-decoration-color: var(--ink-muted); }
 .rp-article__foot { display: flex; gap: var(--space-3); align-items: center; margin-top: var(--space-4); font-size: 14px; color: var(--ink-muted); }
-.rp-article:target .rp-article__num { background: var(--inverse); color: var(--on-inverse); display: inline-block; padding: 0 0.06em; }
+.rp-article:target .rp-article__num, .rp-anchor:target + .rp-article .rp-article__num { background: var(--inverse); color: var(--on-inverse); display: inline-block; padding: 0 0.06em; }
+.rp-anchor { display: block; height: 0; }
 @media (max-width: 720px) { .rp-article { grid-template-columns: 1fr; gap: var(--space-2); } }
 
 .comments { margin-top: var(--space-4); background: var(--surface-alt); padding: var(--space-4); max-width: 66ch; }

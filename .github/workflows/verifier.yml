@@ -1,0 +1,19 @@
+# Vérifie, à chaque proposition de modification, que les renvois entre articles
+# sont valides et que le site se génère.
+name: Vérifier le texte et le site
+on:
+  pull_request:
+  push:
+    branches: [main]
+jobs:
+  verifier:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npm run refs
+      - run: npm run build

@@ -1,8 +1,8 @@
-# Titre III — Des conventions citoyennes
+# Titre III — Des conventions citoyennes {#conventions}
 
 ## Chapitre I — Dispositions communes
 
-### Article 11 — Nature des conventions citoyennes
+### Article 11 — Nature des conventions citoyennes {#nature-conventions-citoyennes}
 
 Les conventions citoyennes sont des organes délibératifs tirés au sort selon des procédures garantissant la représentativité de la population résidant en France. Elles forment le mode normal d'exercice de la souveraineté.
 
@@ -22,9 +22,9 @@ La présente Constitution prévoit les conventions suivantes :
 
 - les conventions citoyennes territoriales, qui exercent les fonctions délibératives locales.
 
-### Article 12 — Composition et représentativité
+### Article 12 — Composition et représentativité {#composition-representativite}
 
-Les conventions citoyennes sont composées de personnes majeures résidant en France, tirées au sort dans les conditions fixées à l'article 13. Leur composition assure une représentativité effective de la population résidant en France selon les critères déterminés par la loi organique, comprenant :
+Les conventions citoyennes sont composées de personnes majeures résidant en France, tirées au sort dans les conditions fixées à l'article [13](#eligibilite-participation). Leur composition assure une représentativité effective de la population résidant en France selon les critères déterminés par la loi organique, comprenant :
 
 - le sexe ;
 
@@ -38,13 +38,13 @@ Les conventions citoyennes sont composées de personnes majeures résidant en Fr
 
 - la zone géographique.
 
-### Article 13 — Éligibilité et participation
+### Article 13 — Éligibilité et participation {#eligibilite-participation}
 
 Toute personne majeure résidant de manière permanente ou durable en France, dans les conditions fixées par la loi organique, est éligible au tirage au sort civique. Les personnes placées sous un régime juridique de protection ou dont l'état de santé rend impossible la participation bénéficient de mesures d'adaptation ou, à défaut, sont exemptées.
 
 La participation à une convention citoyenne tirée au sort constitue un devoir civique. Le refus de siéger n'est admis que pour motif grave, notamment médical, familial ou de force majeure, dans les conditions et selon la procédure fixées par la loi organique. La loi organique détermine les conséquences des refus non motivés.
 
-### Article 14 — Statut du conventionnel
+### Article 14 — Statut du conventionnel {#statut-conventionnel}
 
 Tout membre d'une convention citoyenne bénéficie d'un statut constitutionnel protecteur comprenant notamment :
 
@@ -66,7 +66,7 @@ Tout membre d'une convention citoyenne bénéficie d'un statut constitutionnel p
 
 L'atteinte au statut du conventionnel est sanctionnée par la loi.
 
-### Article 15 — Conditions matérielles de la délibération
+### Article 15 — Conditions matérielles de la délibération {#conditions-materielles-deliberation}
 
 Chaque convention reçoit :
 
@@ -82,13 +82,13 @@ Chaque convention reçoit :
 
 - un temps suffisant de formation, de débat et de délibération, dont la durée minimale est fixée par la loi organique. La durée effective des conventions thématiques est arrêtée par l'Autorité de programmation civique, en fonction de la complexité et du volume du sujet à traiter.
 
-### Article 16 — Probité de la délibération
+### Article 16 — Probité de la délibération {#probite-deliberation}
 
 Les délibérations des conventions sont libres. Les membres ne sont liés par aucun mandat impératif et ne peuvent recevoir d'instructions.
 
-Les règles de transparence des influences, de probité et de prévention des manipulations fixées au Titre XIV s'appliquent aux conventions citoyennes.
+Les règles de transparence des influences, de probité et de prévention des manipulations fixées au Titre [XIV](#probite-deliberative) s'appliquent aux conventions citoyennes.
 
-### Article 17 — Majorité qualifiée
+### Article 17 — Majorité qualifiée {#majorite-qualifiee}
 
 Sauf disposition contraire de la présente Constitution, pour que la convention citoyenne puisse délibérer valablement, un quorum des deux tiers de ses membres est requis. Les décisions matérielles sont adoptées à la majorité qualifiée des deux tiers des membres présents. Cette majorité s'applique notamment à l'adoption de la loi, du budget, des décisions stratégiques et des mesures exceptionnelles de crise.
 
@@ -96,7 +96,7 @@ Les décisions relatives à la procédure interne et à l'organisation des trava
 
 Si le quorum n'est pas atteint, la délibération est ajournée. La convention est reconvoquée dans un délai fixé par la loi organique, qui ne peut excéder sept jours. Lors de la seconde convocation, la convention délibère valablement à la majorité des deux tiers des membres présents, sous réserve d'un quorum résiduel de la moitié des membres de la convention.
 
-### Article 18 — Application aux autres conventions
+### Article 18 — Application aux autres conventions {#application-autres-conventions}
 
 Les dispositions du présent chapitre s'appliquent à l'ensemble des conventions citoyennes prévues par la présente Constitution, y compris les conventions organisées par d'autres titres.
 
@@ -104,9 +104,9 @@ Les dispositions spécifiques prévues par ces titres peuvent adapter ou complé
 
 ## Chapitre II — La convention de programmation
 
-### Article 19 — Objet et fréquence de la convention de programmation
+### Article 19 — Objet et fréquence de la convention de programmation {#convention-programmation}
 
-Une convention de programmation est convoquée tous les cinq ans. Elle est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article 12.
+Une convention de programmation est convoquée tous les cinq ans. Elle est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
 
 Elle fixe notamment :
 
@@ -114,11 +114,11 @@ Elle fixe notamment :
 
 - le programme législatif de la période et sa répartition entre conventions thématiques ;
 
-- les grandes orientations budgétaires et fiscales pluriannuelles, dans les conditions prévues au Titre XI.
+- les grandes orientations budgétaires et fiscales pluriannuelles, dans les conditions prévues au Titre [XI](#finances-publiques).
 
 La durée de ses travaux est fixée par la loi organique. Elle se dissout à l'issue de ses travaux.
 
-### Article 20 — Traitement des saisines
+### Article 20 — Traitement des saisines {#programmation-saisines}
 
 La convention de programmation examine l'ensemble des saisines répertoriées par l'Autorité de programmation civique.
 
@@ -126,11 +126,11 @@ Elle motive publiquement ses choix de priorisation : les sujets retenus et les s
 
 ## Chapitre III — Les conventions thématiques
 
-### Article 21 — Formation et objet
+### Article 21 — Formation et objet {#thematique-formation-objet}
 
-Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme défini par la convention de programmation ou, par exception, dans les conditions prévues à l'article 36.
+Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme défini par la convention de programmation ou, par exception, dans les conditions prévues à l'article [36](#seuils-effets-petitions).
 
-Chacune examine un objet législatif déterminé. Elles sont composées de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article 12.
+Chacune examine un objet législatif déterminé. Elles sont composées de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
 
 Les conventions thématiques sont éphémères et dissoutes à l'issue de leur mission, sous réserve des dispositions ci-après.
 
@@ -146,43 +146,43 @@ Les rapporteurs disposent à ce titre des prérogatives suivantes :
 
 Les rapporteurs bénéficient d'un statut protecteur fixé par la loi organique, comprenant la protection contre les pressions, l'accès à un secrétariat administratif léger et l'indemnisation du temps consacré à leur mission.
 
-### Article 22 — Cycle délibératif
+### Article 22 — Cycle délibératif {#thematique-cycle-deliberatif}
 
-Chaque convention thématique déroule un cycle comprenant la formation civique et thématique de ses membres, la remise d'un dossier pluraliste et contradictoire, la phase publique de contre-expertise prévue au Titre XIV, les auditions publiques, la délibération interne protégée, l'assistance rédactionnelle neutre, l'adoption du texte et la dissolution de la convention.
+Chaque convention thématique déroule un cycle comprenant la formation civique et thématique de ses membres, la remise d'un dossier pluraliste et contradictoire, la phase publique de contre-expertise prévue au Titre [XIV](#probite-deliberative), les auditions publiques, la délibération interne protégée, l'assistance rédactionnelle neutre, l'adoption du texte et la dissolution de la convention.
 
-### Article 23 — Durée
+### Article 23 — Durée {#thematique-duree}
 
 La durée d'une convention thématique est fixée par l'Autorité de programmation civique lors de son ouverture, en fonction de la complexité de l'objet examiné.
 
 Elle ne peut être inférieure à une durée minimale ni supérieure à une durée maximale fixées par la loi organique. La convention thématique peut demander une prorogation motivée dans les conditions fixées par la loi organique.
 
-### Article 24 — Adoption de la loi
+### Article 24 — Adoption de la loi {#adoption-loi}
 
-La convention thématique adopte le texte de loi à la majorité qualifiée définie à l'article 17.
+La convention thématique adopte le texte de loi à la majorité qualifiée définie à l'article [17](#majorite-qualifiee).
 
 L'adoption vaut loi, sous réserve des contrôles scientifiques et constitutionnels prévus par la présente Constitution. La loi entre en vigueur à la date qu'elle fixe ou, à défaut, le lendemain de sa publication officielle. Les modalités de publication sont fixées par la loi organique.
 
-### Article 25 — Réexamen en cas de suspension
+### Article 25 — Réexamen en cas de suspension {#reexamen-cas-suspension}
 
 Lorsqu'un texte est suspendu par le Conseil scientifique ad hoc ou par le Conseil constitutionnel, il est réexaminé par la convention ordinaire annuelle suivante, en commission thématique, dans les conditions prévues à l'article suivant.
 
 Par exception :
 
-- lorsque la suspension prononcée par le Conseil constitutionnel est fondée sur une atteinte grave à un droit intangible garanti à l'article 9 ou à une liberté publique essentielle, le Conseil saisit directement la convention de secours, qui statue dans les conditions prévues au Titre XII ;
+- lorsque la suspension prononcée par le Conseil constitutionnel est fondée sur une atteinte grave à un droit intangible garanti à l'article [9](#droits-intangibles) ou à une liberté publique essentielle, le Conseil saisit directement la convention de secours, qui statue dans les conditions prévues au Titre [XII](#crises) ;
 
 - lorsque le texte suspendu a été adopté par la convention de secours et que celle-ci est encore en activité, elle peut directement re-soumettre un nouveau projet sans attendre la convention ordinaire annuelle.
 
 ## Chapitre IV — La convention ordinaire annuelle
 
-### Article 26 — Objet
+### Article 26 — Objet {#convention-ordinaire-objet}
 
 La convention ordinaire annuelle adopte chaque année :
 
-- le budget de l'État et les lois fiscales annuelles, dans le cadre des priorités définies par la convention de programmation et dans les conditions prévues au Titre XI ;
+- le budget de l'État et les lois fiscales annuelles, dans le cadre des priorités définies par la convention de programmation et dans les conditions prévues au Titre [XI](#finances-publiques) ;
 
-- la ratification des traités majeurs relevant de l'article 73 ;
+- la ratification des traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
 
-- les textes réexaminés après suspension par le Conseil scientifique ad hoc ou par le Conseil constitutionnel, sous réserve des exceptions prévues à l'article 25.
+- les textes réexaminés après suspension par le Conseil scientifique ad hoc ou par le Conseil constitutionnel, sous réserve des exceptions prévues à l'article [25](#reexamen-cas-suspension).
 
 Pour le réexamen des textes suspendus, la convention se divise en commissions thématiques. Chaque commission entend :
 
@@ -190,12 +190,12 @@ Pour le réexamen des textes suspendus, la convention se divise en commissions t
 
 - une rapporteuse ou un rapporteur désigné parmi les membres de la convention ayant adopté le texte initial, qui présente l'intention et le contenu délibéré de la loi.
 
-La commission délibère à la lumière de ces rapports et statue à la majorité qualifiée définie à l'article 17. Elle peut confirmer, corriger ou abandonner le texte.
+La commission délibère à la lumière de ces rapports et statue à la majorité qualifiée définie à l'article [17](#majorite-qualifiee). Elle peut confirmer, corriger ou abandonner le texte.
 
 La composition et le nombre des commissions sont fixés par la loi organique.
 
 ## Chapitre V — La convention de secours
 
-### Article 27 — Convention de secours
+### Article 27 — Convention de secours {#convention-secours}
 
-La convention de secours encadre les mesures de crise. Sa composition, sa saisine, ses compétences et sa durée sont régies par le Titre XII.
+La convention de secours encadre les mesures de crise. Sa composition, sa saisine, ses compétences et sa durée sont régies par le Titre [XII](#crises).

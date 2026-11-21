@@ -12,6 +12,13 @@
     g.appendChild(frag);
   });
 
+  // Anciens liens « #article-N » (numérotation de la v25) : renvoi vers la place actuelle de l'article.
+  var old = /^#article-(\d{1,3})$/.exec(location.hash);
+  if (old && window.fetch) fetch('/v25.json').then(function (r) { return r.json(); }).then(function (map) {
+    var url = map[old[1]];
+    if (url) location.replace(url);
+  }).catch(function () {});
+
   // Menu mobile
   var toggle = document.querySelector('.menu-toggle'), nav = document.getElementById('nav');
   if (toggle && nav) toggle.addEventListener('click', function () {

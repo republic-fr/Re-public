@@ -1,36 +1,36 @@
-# Titre VII — De l'exécution des lois
+# Titre VII — De l'exécution des lois {#execution}
 
 ## Chapitre I — Principes de l**'**exécution
 
-### Article 58 — Nature de l'administration d'exécution
+### Article 58 — Nature de l'administration d'exécution {#nature-administration-execution}
 
 L'exécutif de la République est une haute administration d'exécution, strictement subordonnée à la loi adoptée par les conventions citoyennes. Il n'existe pas de pouvoir exécutif politiquement autonome.
 
 Il n'existe ni président de la République, ni chef de l'État, ni Premier ministre, ni aucune autorité de synthèse placée au-dessus de l'administration d'exécution. La représentation extérieure de la République est assurée dans les conditions fixées au chapitre III du présent titre.
 
-Avant toute prise de fonction, les ministres, les représentants aux relations extérieures, les magistrates et magistrats, les officiers généraux des forces armées, les membres des autorités constitutionnelles et les directrices et directeurs généraux des administrations d'exécution prêtent, en séance publique, serment de défendre la Constitution, de respecter les droits intangibles visés à l'article 9 et de s'opposer à toute tentative de renversement de l'ordre constitutionnel. La formule et les modalités sont fixées par la loi organique. La violation du serment constitue une faute grave au sens de l'article 101.
+Avant toute prise de fonction, les ministres, les représentants aux relations extérieures, les magistrates et magistrats, les officiers généraux des forces armées, les membres des autorités constitutionnelles et les directrices et directeurs généraux des administrations d'exécution prêtent, en séance publique, serment de défendre la Constitution, de respecter les droits intangibles visés à l'article [9](#droits-intangibles) et de s'opposer à toute tentative de renversement de l'ordre constitutionnel. La formule et les modalités sont fixées par la loi organique. La violation du serment constitue une faute grave au sens de l'article [101](#jugement-fautes-graves).
 
-### Article 59 — Subordination à la loi
+### Article 59 — Subordination à la loi {#subordination-loi}
 
 Tout acte d'exécution est strictement subordonné à la lettre, à l'objet et à l'intention de la loi. Les actes d'exécution ne peuvent ni altérer l'économie générale d'une loi, ni en réduire la portée, ni en différer indûment l'application.
 
 Lorsqu'une mesure technique d'exécution est nécessaire, elle est strictement limitée à ce qui est indispensable à l'application matérielle de la loi.
 
-### Article 60 — Structure collégiale
+### Article 60 — Structure collégiale {#structure-collegiale}
 
 L'administration d'exécution est collégiale. Elle est composée de ministres responsables de domaines de compétence distincts. Le nombre de ministères, leur périmètre et leurs règles de coordination sont fixés par la loi organique, sans que la concentration de compétences excessives puisse être opérée entre peu de mains.
 
-Les désaccords entre ministres sont réglés par délibération collective. En cas de blocage persistant affectant la mise en œuvre d'une loi ou la continuité d'un service public, la convention de secours peut être saisie dans les conditions prévues au Titre XII.
+Les désaccords entre ministres sont réglés par délibération collective. En cas de blocage persistant affectant la mise en œuvre d'une loi ou la continuité d'un service public, la convention de secours peut être saisie dans les conditions prévues au Titre [XII](#crises).
 
 ## Chapitre II — Désignation, mandat et intérim des ministres
 
-### Article 61 — Convention de désignation
+### Article 61 — Convention de désignation {#convention-designation-ministres}
 
 Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente ; ses membres sont tirés au sort pour un mandat de deux ans, renouvelé intégralement à son terme sans continuité de personnes.
 
 La convention de désignation est également saisie de toute vacance ministérielle et de tout renouvellement de mandat.
 
-### Article 62 — Procédure de désignation
+### Article 62 — Procédure de désignation {#procedure-designation-ministres}
 
 La désignation d'une ou d'un ministre suit trois étapes :
 
@@ -38,67 +38,67 @@ La désignation d'une ou d'un ministre suit trois étapes :
 
 - un double contrôle de recevabilité opéré en parallèle par un jury technique ad hoc et par la Juridiction de probité et de responsabilité publique ;
 
-- des auditions publiques et la désignation par la convention de désignation à la majorité qualifiée prévue à l'article 17.
+- des auditions publiques et la désignation par la convention de désignation à la majorité qualifiée prévue à l'article [17](#majorite-qualifiee).
 
-### Article 63 — Jury technique ad hoc
+### Article 63 — Jury technique ad hoc {#jury-technique-ministres}
 
 Un jury technique ad hoc vérifie, pour chaque candidate ou candidat, les compétences minimales requises pour la fonction ministérielle concernée, notamment l'expérience administrative, les qualifications techniques et la capacité de direction. Il n'apprécie ni la sensibilité politique des candidates et candidats, ni leurs positions publiques sur des sujets controversés, ni leur adhésion à un programme particulier.
 
 Les membres du jury technique sont tirés au sort dans un vivier public permanent d'experts en administration publique, constitué par l'Autorité générale des conventions citoyennes selon les conditions d'accréditation fixées par la loi organique. Le tirage au sort est stratifié de manière à garantir le pluralisme disciplinaire. Les règles de récusation, d'opinions dissidentes, de mandat court, de non-renouvellement immédiat et de rémunération uniforme applicables au Conseil scientifique ad hoc s'appliquent pareillement au jury technique.
 
-### Article 64 — Contrôle de probité et d'intégrité
+### Article 64 — Contrôle de probité et d'intégrité {#ministres-controle-probite}
 
-Le contrôle préalable de probité et d'intégrité des candidates et candidats à une fonction ministérielle est exercé par la Juridiction de probité et de responsabilité publique, selon les critères et dans les conditions prévus au Titre IX. La Juridiction établit, à l'issue de son examen, la liste des candidates et candidats recevables, transmise à la convention de désignation.
+Le contrôle préalable de probité et d'intégrité des candidates et candidats à une fonction ministérielle est exercé par la Juridiction de probité et de responsabilité publique, selon les critères et dans les conditions prévus au Titre [IX](#juridiction-probite). La Juridiction établit, à l'issue de son examen, la liste des candidates et candidats recevables, transmise à la convention de désignation.
 
-### Article 65 — Durée du mandat ministériel
+### Article 65 — Durée du mandat ministériel {#duree-mandat-ministeriel}
 
-Le mandat ministériel est de trois ans, renouvelable une fois. Les ministres sont révocables en cours de mandat par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre IX.
+Le mandat ministériel est de trois ans, renouvelable une fois. Les ministres sont révocables en cours de mandat par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre [IX](#juridiction-probite).
 
-### Article 66 — Intérim ministériel
+### Article 66 — Intérim ministériel {#interim-ministeriel}
 
 En cas de vacance d'un ministère, l'intérim est assuré par la ou le ministre délégué du ministère concerné. À défaut, il est assuré par la haute fonctionnaire ou le haut fonctionnaire du plus haut grade en fonction dans le ministère.
 
 L'intérim est limité aux affaires strictement courantes, à l'exclusion de toute décision politique, réglementaire ou budgétaire nouvelle. Sa durée maximale est de quatre-vingt-dix jours. La convention de désignation est tenue de pourvoir au poste dans ce délai. À défaut, la convention de secours est saisie de plein droit.
 
-### Article 67 — Recours citoyen sur faits nouveaux
+### Article 67 — Recours citoyen sur faits nouveaux {#ministres-recours-faits-nouveaux}
 
-Toute personne peut saisir la Juridiction de probité et de responsabilité publique en cas de révélation de faits nouveaux affectant l'intégrité d'une ou d'un ministre, qui n'étaient pas connus ou n'avaient pas été révélés lors de la désignation, dans les conditions prévues au Titre IX.
+Toute personne peut saisir la Juridiction de probité et de responsabilité publique en cas de révélation de faits nouveaux affectant l'intégrité d'une ou d'un ministre, qui n'étaient pas connus ou n'avaient pas été révélés lors de la désignation, dans les conditions prévues au Titre [IX](#juridiction-probite).
 
 ## Chapitre III — Représentation extérieure
 
-### Article 68 — Représentants aux relations extérieures
+### Article 68 — Représentants aux relations extérieures {#representants-relations-exterieures}
 
-La représentation extérieure de la République est assurée par une pluralité de représentants spécialisés, dont le nombre et les périmètres respectifs sont fixés par la loi organique. Les représentants sont choisis par la convention de désignation selon la procédure prévue à l'article 62.
+La représentation extérieure de la République est assurée par une pluralité de représentants spécialisés, dont le nombre et les périmètres respectifs sont fixés par la loi organique. Les représentants sont choisis par la convention de désignation selon la procédure prévue à l'article [62](#procedure-designation-ministres).
 
 Les représentants exercent une fonction de rapporteurs auprès des ministres compétents, sans pouvoir de décision propre.
 
-### Article 69 — Mandat et incompatibilités
+### Article 69 — Mandat et incompatibilités {#representants-mandat-incompatibilites}
 
 Le mandat d'un représentant aux relations extérieures est de deux ans, non renouvelable immédiatement.
 
 La fonction de représentant est absolument incompatible avec toute fonction ministérielle simultanée. Un délai de viduité de deux ans est exigé entre une fonction ministérielle et un mandat de représentant, et réciproquement.
 
-Les représentants sont révocables en cours de mandat par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre IX, notamment pour manquement aux obligations de transparence ou pour prise de position publique en nom propre.
+Les représentants sont révocables en cours de mandat par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre [IX](#juridiction-probite), notamment pour manquement aux obligations de transparence ou pour prise de position publique en nom propre.
 
-### Article 70 — Obligations de transparence et d'abstention
+### Article 70 — Obligations de transparence et d'abstention {#representants-transparence-abstention}
 
 Les représentants rendent compte intégralement de leurs entretiens aux ministres concernés et aux organes de contrôle. L'ensemble des comptes rendus est versé au dossier public dans les conditions fixées par la loi organique, sous réserve des secrets strictement protégés par la Constitution.
 
 Il est absolument interdit aux représentants de prendre position publiquement en leur nom propre. Ils ne s'expriment qu'au nom des ministres compétents, sur la base d'instructions écrites et publiques.
 
-### Article 71 — Négociations préparatoires
+### Article 71 — Négociations préparatoires {#negociations-preparatoires}
 
 Les représentants peuvent engager la République dans des négociations préparatoires, sans pouvoir de ratification finale, sur la base d'un mandat écrit et public émanant des ministres concernés.
 
-La chaîne de conclusion d'un traité est la suivante : un représentant négocie le texte ; la ou le ministre compétent valide la version négociée ; le traité est ratifié selon les règles de l'article 73.
+La chaîne de conclusion d'un traité est la suivante : un représentant négocie le texte ; la ou le ministre compétent valide la version négociée ; le traité est ratifié selon les règles de l'article [73](#ratification-traites-majeurs).
 
-### Article 72 — Saisine de la convention de secours
+### Article 72 — Saisine de la convention de secours {#relations-exterieures-saisine-secours}
 
-En cas d'urgence internationale, tout représentant peut saisir directement la convention de secours, dans les conditions prévues au Titre XII.
+En cas d'urgence internationale, tout représentant peut saisir directement la convention de secours, dans les conditions prévues au Titre [XII](#crises).
 
 ## Chapitre IV — Traités internationaux
 
-### Article 73 — Ratification des traités majeurs
+### Article 73 — Ratification des traités majeurs {#ratification-traites-majeurs}
 
 Les traités engageant les finances de la République, sa souveraineté, les compétences des autorités constitutionnelles, les droits fondamentaux ou comportant cession, échange ou adjonction de territoire sont ratifiés par la convention ordinaire annuelle.
 
@@ -108,13 +108,13 @@ Une session supplémentaire de la convention ordinaire annuelle peut être réun
 
 Nulle cession, nul échange, nulle adjonction de territoire n'est valable sans le consentement préalable des populations intéressées, recueilli par convention citoyenne territoriale.
 
-### Article 74 — Ratification en urgence
+### Article 74 — Ratification en urgence {#ratification-urgence}
 
 En cas d'urgence internationale, la ratification d'un traité majeur peut être prononcée par la convention de secours, sous réserve de confirmation obligatoire par la convention ordinaire annuelle à sa prochaine session ordinaire. À défaut de confirmation, la ratification devient caduque et les engagements sont dénoncés dans les formes du droit international.
 
-### Article 75 — Autres traités
+### Article 75 — Autres traités {#autres-traites}
 
-Les traités n'entrant pas dans le champ de l'article 73 sont ratifiés par la ou le ministre compétent, sous réserve :
+Les traités n'entrant pas dans le champ de l'article [73](#ratification-traites-majeurs) sont ratifiés par la ou le ministre compétent, sous réserve :
 
 - de l'information obligatoire et préalable de l'Autorité de programmation civique ;
 
@@ -124,11 +124,11 @@ Les traités n'entrant pas dans le champ de l'article 73 sont ratifiés par la o
 
 ## Chapitre V — Défense et forces armées
 
-### Article 76 — Chef des armées
+### Article 76 — Chef des armées {#chef-armees}
 
 Le ministre de la Défense est le chef des forces armées. Il en assure le commandement, dans le respect strict de la loi et sous le contrôle des conventions citoyennes et des juridictions compétentes.
 
-### Article 77 — Autorisation des opérations militaires
+### Article 77 — Autorisation des opérations militaires {#autorisation-operations-militaires}
 
 Aucune déclaration de guerre, aucune intervention armée offensive ni aucune opération militaire à l'étranger ne peut être engagée sans autorisation préalable d'une convention thématique dédiée. Lorsque l'urgence ne permet pas la convocation d'une convention thématique, l'autorisation relève de la convention de secours.
 
@@ -136,7 +136,7 @@ Les opérations strictement défensives en cas d'agression directe peuvent être
 
 Toute opération militaire autorisée fait l'objet d'un réexamen périodique obligatoire par la convention compétente, selon une fréquence fixée par la loi organique, qui ne peut excéder quatre mois.
 
-### Article 78 — Emploi de l'arme nucléaire
+### Article 78 — Emploi de l'arme nucléaire {#emploi-arme-nucleaire}
 
 En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise conjointement par la ou le ministre de la Défense et la ou le chef d'état-major des armées. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
 

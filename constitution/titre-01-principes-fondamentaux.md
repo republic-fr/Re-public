@@ -1,6 +1,6 @@
-# Titre I — Des principes fondamentaux
+# Titre I — Des principes fondamentaux {#principes}
 
-### Article 1 — République délibérative et égalité
+### Article 1 — République délibérative et égalité {#republique-egalite}
 
 La France est une République démocratique délibérative, indivisible et laïque.
 
@@ -8,7 +8,7 @@ Elle assure l'égalité devant la loi de toutes les citoyennes et de tous les ci
 
 La République garantit l'égal accès de toutes et de tous, sans distinction de sexe ni de genre, aux responsabilités publiques, professionnelles, sociales et économiques.
 
-### Article 2 — Langue, emblème, hymne, devise et principe
+### Article 2 — Langue, emblème, hymne, devise et principe {#langue-embleme-devise}
 
 La langue de la République est le français.
 
@@ -22,13 +22,13 @@ La devise de la République est « Liberté, Égalité, Fraternité ».
 
 Son principe est le gouvernement du peuple, par le peuple et pour le peuple.
 
-### Article 3 — Souveraineté et modes d'exercice
+### Article 3 — Souveraineté et modes d'exercice {#souverainete-modes-exercice}
 
 La souveraineté appartient au peuple.
 
 Elle s'exerce, comme mode normal, par des conventions citoyennes tirées au sort selon des procédures assurant la représentativité sociale, territoriale et démographique de la République, et, dans les cas prévus par la présente Constitution, par voie de suffrage universel direct.
 
-### Article 4 — Séparation des pouvoirs
+### Article 4 — Séparation des pouvoirs {#separation-pouvoirs}
 
 Aucune autorité ne peut exercer simultanément plusieurs des pouvoirs suivants :
 
@@ -44,29 +44,29 @@ Aucune autorité ne peut exercer simultanément plusieurs des pouvoirs suivants 
 
 — le pouvoir de contrôler l'exécution de la loi et l'emploi des fonds publics ;
 
-— le pouvoir de juger, exercé par les juridictions indépendantes dans les conditions fixées aux Titres IX et X ;
+— le pouvoir de juger, exercé par les juridictions indépendantes dans les conditions fixées aux Titres [IX](#juridiction-probite) et [X](#autorite-judiciaire) ;
 
 — le pouvoir de commander les forces armées ;
 
 — le pouvoir de décider de l'engagement militaire.
 
-Par dérogation, la convention citoyenne de secours peut, en cas de crise et dans les conditions fixées au Titre XII, exercer temporairement plusieurs des pouvoirs énumérés ci-dessus. Cette dérogation ne peut en aucun cas porter sur le pouvoir de juger ni sur le contrôle de la validité constitutionnelle de la loi.
+Par dérogation, la convention citoyenne de secours peut, en cas de crise et dans les conditions fixées au Titre [XII](#crises), exercer temporairement plusieurs des pouvoirs énumérés ci-dessus. Cette dérogation ne peut en aucun cas porter sur le pouvoir de juger ni sur le contrôle de la validité constitutionnelle de la loi.
 
-### Article 5 — Partis et groupements politiques
+### Article 5 — Partis et groupements politiques {#partis-groupements-politiques}
 
 Les partis et groupements politiques se forment et exercent leur activité librement. L'expression des idées politiques, y compris minoritaires, critiques ou dissidentes, est protégée.
 
 Les partis et groupements politiques concourent à l'expression du pluralisme. Ils ne disposent d'aucun rôle propre dans la formation de la loi, dans la désignation des responsables publics ni dans l'organisation des conventions citoyennes, qui reposent sur le tirage au sort civique.
 
-Un parti ou groupement politique ne peut être dissous à raison des idées ou opinions qu'il défend publiquement. La dissolution ne peut être prononcée que par décision motivée et contradictoire du juge judiciaire, pour des faits matériels graves portant atteinte à l'ordre constitutionnel, ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique, dans les conditions fixées au Titre XIV.
+Un parti ou groupement politique ne peut être dissous à raison des idées ou opinions qu'il défend publiquement. La dissolution ne peut être prononcée que par décision motivée et contradictoire du juge judiciaire, pour des faits matériels graves portant atteinte à l'ordre constitutionnel, ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique, dans les conditions fixées au Titre [XIV](#probite-deliberative).
 
-Les règles relatives au financement des partis, à la transparence de leurs ressources et à leur participation aux campagnes référendaires sont fixées au Titre XIV.
+Les règles relatives au financement des partis, à la transparence de leurs ressources et à leur participation aux campagnes référendaires sont fixées au Titre [XIV](#probite-deliberative).
 
-### Article 6 — Force obligatoire de la loi
+### Article 6 — Force obligatoire de la loi {#force-obligatoire-loi}
 
 Toute autorité publique est tenue par la lettre et la finalité de la loi adoptée selon la Constitution. Aucun motif d'urgence, d'opportunité ou de convenance ne peut justifier de s'y soustraire.
 
-### Article 7 — Protection contre la tyrannie de la majorité, résistance et désobéissance
+### Article 7 — Protection contre la tyrannie de la majorité, résistance et désobéissance {#tyrannie-majorite-resistance}
 
 La République garantit à toute personne la protection contre la tyrannie de la majorité. Aucune loi, aucun acte d'exécution, aucune mesure de crise et aucune révision constitutionnelle ne peut porter atteinte aux droits déclarés intangibles par la présente Constitution.
 

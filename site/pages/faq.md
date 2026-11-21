@@ -12,11 +12,11 @@ faq: true
 
 ### Des citoyens tirés au sort ne sont pas compétents pour faire la loi.
 
-La compétence ne se présume pas : elle s’organise. Chaque convention reçoit une formation, un dossier contradictoire, des expertises pluralistes, des auditions publiques, une aide à la rédaction et le temps nécessaire (articles 15 et 22). C’est ce qu’a montré la Convention citoyenne pour le climat : 150 personnes ordinaires, bien outillées, ont produit 149 propositions précises. Les élus non plus ne sont pas experts de tout : ils s’appuient sur des services et des auditions. Le texte donne ces moyens directement aux citoyens.
+La compétence ne se présume pas : elle s’organise. Chaque convention reçoit une formation, un dossier contradictoire, des expertises pluralistes, des auditions publiques, une aide à la rédaction et le temps nécessaire (articles [15](#conditions-materielles-deliberation) et [22](#thematique-cycle-deliberatif)). C’est ce qu’a montré la Convention citoyenne pour le climat : 150 personnes ordinaires, bien outillées, ont produit 149 propositions précises. Les élus non plus ne sont pas experts de tout : ils s’appuient sur des services et des auditions. Le texte donne ces moyens directement aux citoyens.
 
 ### Sans élection, d’où vient la légitimité ?
 
-D’abord de la représentativité : une convention tirée au sort selon le sexe, l’âge, le diplôme, la catégorie sociale et le territoire (article 12) ressemble au pays bien plus qu’une assemblée élue. Ensuite de la procédure : la loi n’est légitime que si elle résulte d’une délibération informée et pluraliste (préambule). Enfin du peuple lui-même : toute révision de la Constitution est soumise à référendum (article 215).
+D’abord de la représentativité : une convention tirée au sort selon le sexe, l’âge, le diplôme, la catégorie sociale et le territoire (article [12](#composition-representativite)) ressemble au pays bien plus qu’une assemblée élue. Ensuite de la procédure : la loi n’est légitime que si elle résulte d’une délibération informée et pluraliste (préambule). Enfin du peuple lui-même : toute révision de la Constitution est soumise à référendum (article [215](#referendum-revision-majorite)).
 
 ### 150 personnes ne peuvent pas représenter 68 millions d’habitants.
 
@@ -24,65 +24,65 @@ C’est le principe du sondage : un échantillon bien construit reflète la dive
 
 ### Qui rend des comptes, si personne n’est réélu ?
 
-Les conventions sont temporaires et sans réélection : personne n’a de carrière à protéger ni de clientèle à satisfaire. Ceux qui exercent un pouvoir durable, ministres et responsables publics, sont contrôlés en continu par l’Autorité de contrôle de l’exécution des lois (Titre VIII) et révocables par la Juridiction de probité (Titre IX).
+Les conventions sont temporaires et sans réélection : personne n’a de carrière à protéger ni de clientèle à satisfaire. Ceux qui exercent un pouvoir durable, ministres et responsables publics, sont contrôlés en continu par l’Autorité de contrôle de l’exécution des lois (Titre [VIII](#controle-execution)) et révocables par la Juridiction de probité (Titre [IX](#juridiction-probite)).
 
 ### Le projet dénonce le « gouvernement des juges », mais ne le renforce-t-il pas ?
 
-Les membres du Conseil constitutionnel, de la Juridiction de probité et la part non magistrate du CSM sont tirés au sort : aucun pouvoir politique ne les choisit (articles 39, 96 et 113). Leurs mandats sont uniques et non renouvelables, leurs décisions motivées, publiques et accompagnées des opinions dissidentes (article 49). Le Conseil constitutionnel ne réécrit jamais une loi : il la suspend et la renvoie à une convention citoyenne (article 25). Et le peuple garde le dernier mot sur la Constitution elle-même, par la convention constituante et le référendum (Titre XVI).
+Les membres du Conseil constitutionnel, de la Juridiction de probité et la part non magistrate du CSM sont tirés au sort : aucun pouvoir politique ne les choisit (articles [39](#cc-composition), [96](#juridiction-probite-composition) et [113](#csm-designation-membres)). Leurs mandats sont uniques et non renouvelables, leurs décisions motivées, publiques et accompagnées des opinions dissidentes (article [49](#cc-autorite-decisions)). Le Conseil constitutionnel ne réécrit jamais une loi : il la suspend et la renvoie à une convention citoyenne (article [25](#reexamen-cas-suspension)). Et le peuple garde le dernier mot sur la Constitution elle-même, par la convention constituante et le référendum (Titre [XVI](#revision)).
 
 ## <span class="kicker">02</span>Risques
 
 ### Les lobbies vont manipuler des citoyens inexpérimentés.
 
-Le texte y consacre un titre entier (Titre XIV). Toute influence doit être déclarée et publiée dans un registre public (articles 167 et 168). Les experts auditionnés déclarent leurs intérêts (article 176), le pluralisme des auditions est obligatoire (article 175), et toute pression sur un conventionnel est un délit aggravé (article 169). Un élu de carrière est d’ailleurs une cible plus durable qu’un citoyen qui siège trois mois.
+Le texte y consacre un titre entier (Titre [XIV](#probite-deliberative)). Toute influence doit être déclarée et publiée dans un registre public (articles [167](#obligation-generale-transparence-influences) et [168](#registre-public-influences)). Les experts auditionnés déclarent leurs intérêts (article [176](#declarations-interets-expertes-experts)), le pluralisme des auditions est obligatoire (article [175](#pluralite-minimale-auditions)), et toute pression sur un conventionnel est un délit aggravé (article [169](#influences-interdictions-sanctions)). Un élu de carrière est d’ailleurs une cible plus durable qu’un citoyen qui siège trois mois.
 
 ### Les experts et le « contrôle scientifique » vont gouverner à la place du peuple.
 
-Non. Le contrôle scientifique ne porte que sur un contresens scientifique manifeste qui menace la santé, l’intégrité des personnes ou l’environnement, et seulement s’il existe un consensus scientifique (article 55). Il ne peut que suspendre un texte, jamais le réécrire, et ne juge pas son opportunité politique (article 56). Le dernier mot revient à une convention citoyenne (article 25).
+Non. Le contrôle scientifique ne porte que sur un contresens scientifique manifeste qui menace la santé, l’intégrité des personnes ou l’environnement, et seulement s’il existe un consensus scientifique (article [55](#controle-scientifique-champ)). Il ne peut que suspendre un texte, jamais le réécrire, et ne juge pas son opportunité politique (article [56](#controle-scientifique-suspension)). Le dernier mot revient à une convention citoyenne (article [25](#reexamen-cas-suspension)).
 
 ### Le pouvoir ne passe-t-il pas simplement aux experts et à l’administration, dans une oligarchie masquée ?
 
-Personne ne choisit les experts : ils sont tirés au sort dans des viviers ouverts, avec des critères de pluralité publics et contrôlés par une autorité elle-même composée de citoyens tirés au sort (articles 34, 170 et 171). Le dossier préparé par les experts est publié et soumis à une contre-expertise publique (article 174). Les experts déclarent leurs intérêts, sont rémunérés de façon uniforme et peuvent être récusés par la convention (articles 173 et 176). Le budget préparé par l’administration est accompagné d’un rapport indépendant qui en signale les zones d’ombre (article 132).
+Personne ne choisit les experts : ils sont tirés au sort dans des viviers ouverts, avec des critères de pluralité publics et contrôlés par une autorité elle-même composée de citoyens tirés au sort (articles [34](#apc-missions), [170](#vivier-public-experts) et [171](#jury-experts-independants)). Le dossier préparé par les experts est publié et soumis à une contre-expertise publique (article [174](#contre-expertise-publique)). Les experts déclarent leurs intérêts, sont rémunérés de façon uniforme et peuvent être récusés par la convention (articles [173](#jury-experts-independance) et [176](#declarations-interets-expertes-experts)). Le budget préparé par l’administration est accompagné d’un rapport indépendant qui en signale les zones d’ombre (article [132](#preparation-projet-budget)).
 
 ### Une majorité tirée au sort pourrait opprimer une minorité.
 
-Les droits fondamentaux sont intangibles : aucune loi, aucune crise, aucune révision ne peut y porter atteinte (articles 7 et 9). Chaque loi est contrôlée par le Conseil constitutionnel avant d’entrer en vigueur (article 42).
+Les droits fondamentaux sont intangibles : aucune loi, aucune crise, aucune révision ne peut y porter atteinte (articles [7](#tyrannie-majorite-resistance) et [9](#droits-intangibles)). Chaque loi est contrôlée par le Conseil constitutionnel avant d’entrer en vigueur (article [42](#controle-prealable-automatique-lois)).
 
 ### La démocratie procédurale ne se paie-t-elle pas d’un recul de la liberté d’expression et du pluralisme ?
 
-Les partis restent libres et ne peuvent être dissous pour leurs idées (articles 5 et 186). Le contrôle d’intégrité des candidats est strictement limité aux positions objectivement incompatibles avec la défense de la Constitution et des droits intangibles (article 99). Les sanctions contre la manipulation informationnelle visent les comportements organisés, jamais les opinions ni les erreurs journalistiques, et restent sous contrôle d’un juge (article 179). Les auditions des conventions doivent représenter toutes les grandes familles d’acteurs (article 175).
+Les partis restent libres et ne peuvent être dissous pour leurs idées (articles [5](#partis-groupements-politiques) et [186](#dissolution-partis)). Le contrôle d’intégrité des candidats est strictement limité aux positions objectivement incompatibles avec la défense de la Constitution et des droits intangibles (article [99](#controle-prealable-probite)). Les sanctions contre la manipulation informationnelle visent les comportements organisés, jamais les opinions ni les erreurs journalistiques, et restent sous contrôle d’un juge (article [179](#manipulation-sanctions)). Les auditions des conventions doivent représenter toutes les grandes familles d’acteurs (article [175](#pluralite-minimale-auditions)).
 
 ## <span class="kicker">03</span>Efficacité et continuité
 
 ### Sans président, qui décide en cas de crise ?
 
-Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles 151 à 153). En attendant, l’administration prend les mesures de protection immédiate, sous le contrôle d’un juge (articles 146 à 149). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles 144 et 157).
+Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles [151](#secours-composition-veille) à [153](#secours-delai-siege)). En attendant, l’administration prend les mesures de protection immédiate, sous le contrôle d’un juge (articles [146](#conservatoires-cadre-autorise) à [149](#crise-controle-juridictionnel)). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles [144](#crise-interdictions-absolues) et [157](#secours-duree-reexamen)).
 
 ### Le régime de crise ne rend-il pas la France vulnérable face à une cyberattaque, une pandémie ou une guerre ?
 
-L’administration agit immédiatement, sans attendre aucune convention, pour protéger les personnes et les infrastructures, sous le contrôle d’un juge qui statue en quelques heures (articles 146 et 149). Le ministre de la Défense peut engager sans délai la riposte à une agression armée (article 77). La convention de secours est désignée et formée à l’avance, dispose de sièges de repli et peut siéger à distance (article 151). En cas de conflit armé, l’état de crise peut être prolongé au-delà de six mois (article 157). Les seules interdictions absolues portent sur les droits intangibles et sur la confiscation du pouvoir (article 144).
+L’administration agit immédiatement, sans attendre aucune convention, pour protéger les personnes et les infrastructures, sous le contrôle d’un juge qui statue en quelques heures (articles [146](#conservatoires-cadre-autorise) et [149](#crise-controle-juridictionnel)). Le ministre de la Défense peut engager sans délai la riposte à une agression armée (article [77](#autorisation-operations-militaires)). La convention de secours est désignée et formée à l’avance, dispose de sièges de repli et peut siéger à distance (article [151](#secours-composition-veille)). En cas de conflit armé, l’état de crise peut être prolongé au-delà de six mois (article [157](#secours-duree-reexamen)). Les seules interdictions absolues portent sur les droits intangibles et sur la confiscation du pouvoir (article [144](#crise-interdictions-absolues)).
 
 ### L’empilement des contrôles ne va-t-il pas paralyser la décision ?
 
-Le contrôle scientifique est étroit : il ne joue qu’en cas de contresens manifeste menaçant la santé ou l’environnement (article 55). Un recours contre une loi déjà en vigueur ne la suspend pas : c’est le Conseil constitutionnel qui fixe lui-même les effets dans le temps de sa décision (article 48). La majorité des deux tiers et la double condition du référendum ne concernent pas les mêmes textes : le référendum est réservé aux révisions de la Constitution. Les urgences relèvent de la convention de secours, qui siège sous 72 heures (article 153).
+Le contrôle scientifique est étroit : il ne joue qu’en cas de contresens manifeste menaçant la santé ou l’environnement (article [55](#controle-scientifique-champ)). Un recours contre une loi déjà en vigueur ne la suspend pas : c’est le Conseil constitutionnel qui fixe lui-même les effets dans le temps de sa décision (article [48](#effet-controle-posteriori)). La majorité des deux tiers et la double condition du référendum ne concernent pas les mêmes textes : le référendum est réservé aux révisions de la Constitution. Les urgences relèvent de la convention de secours, qui siège sous 72 heures (article [153](#secours-delai-siege)).
 
 ### Sans chef de l’État, qui parle pour la France au Conseil européen ou au G7 ?
 
-La représentation extérieure est confiée à des représentants spécialisés, qui négocient sur la base de mandats écrits et publics des ministres compétents (articles 68 à 71). En cas d’urgence internationale, la convention de secours peut ratifier un traité, sous réserve de confirmation (article 74).
+La représentation extérieure est confiée à des représentants spécialisés, qui négocient sur la base de mandats écrits et publics des ministres compétents (articles [68](#representants-relations-exterieures) à [71](#negociations-preparatoires)). En cas d’urgence internationale, la convention de secours peut ratifier un traité, sous réserve de confirmation (article [74](#ratification-urgence)).
 
 ### Avec des mandats courts et des conventions éphémères, comment mener une politique sur vingt ou trente ans ?
 
-La continuité ne repose pas sur les conventionnels, mais sur plusieurs éléments durables : une convention de programmation fixe les priorités et les trajectoires budgétaires sur cinq ans (articles 19 et 130) ; les rapporteurs de chaque convention gardent sa mémoire pendant cinq à dix ans et sont entendus par les suivantes (article 21) ; les autorités de contrôle et de justice ont des mandats de six à neuf ans, renouvelés par tiers ou par moitié pour assurer la continuité (articles 40, 97 et 114). L’administration, elle, est permanente.
+La continuité ne repose pas sur les conventionnels, mais sur plusieurs éléments durables : une convention de programmation fixe les priorités et les trajectoires budgétaires sur cinq ans (articles [19](#convention-programmation) et [130](#budget-convention-programmation)) ; les rapporteurs de chaque convention gardent sa mémoire pendant cinq à dix ans et sont entendus par les suivantes (article [21](#thematique-formation-objet)) ; les autorités de contrôle et de justice ont des mandats de six à neuf ans, renouvelés par tiers ou par moitié pour assurer la continuité (articles [40](#cc-duree-mandat), [97](#juridiction-probite-duree-mandat) et [114](#csm-duree-mandat)). L’administration, elle, est permanente.
 
 ## <span class="kicker">04</span>Vie quotidienne
 
 ### Je ne veux pas être tiré au sort.
 
-Siéger est un devoir civique, comme être juré d’assises. On peut être dispensé pour motif grave, notamment médical ou familial (article 13). Pendant la convention, vos revenus et votre emploi sont garantis, vos frais et la garde de vos enfants sont pris en charge (article 14). Au niveau national, environ un millier de personnes siègent chaque année.
+Siéger est un devoir civique, comme être juré d’assises. On peut être dispensé pour motif grave, notamment médical ou familial (article [13](#eligibilite-participation)). Pendant la convention, vos revenus et votre emploi sont garantis, vos frais et la garde de vos enfants sont pris en charge (article [14](#statut-conventionnel)). Au niveau national, environ un millier de personnes siègent chaque année.
 
 ### Et les partis politiques ? Je ne pourrai plus voter pour mes idées ?
 
-Les partis restent libres, et toutes les opinions sont protégées (article 5). Ils continuent de débattre, de proposer, de mobiliser l’opinion et de lancer des pétitions. Ce qui change, c’est qu’ils ne choisissent plus ceux qui font la loi. Vous gardez le vote sur la Constitution, la pétition (article 36) et le recours contre une loi (article 44).
+Les partis restent libres, et toutes les opinions sont protégées (article [5](#partis-groupements-politiques)). Ils continuent de débattre, de proposer, de mobiliser l’opinion et de lancer des pétitions. Ce qui change, c’est qu’ils ne choisissent plus ceux qui font la loi. Vous gardez le vote sur la Constitution, la pétition (article [36](#seuils-effets-petitions)) et le recours contre une loi (article [44](#cc-saisine-posteriori)).
 
 ### Combien ça coûte ?
 

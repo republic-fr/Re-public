@@ -1,6 +1,6 @@
-# Titre II — Des droits fondamentaux
+# Titre II — Des droits fondamentaux {#droits}
 
-### Article 8 — Déclaration des droits fondamentaux
+### Article 8 — Déclaration des droits fondamentaux {#declaration-droits-fondamentaux}
 
 La Constitution est complétée par une Déclaration des droits fondamentaux qui lui est annexée et dont la valeur est supérieure à la loi et aux actes qui en découlent. Elle est interprétée à la lumière des engagements internationaux de la République en matière de droits humains.
 
@@ -8,7 +8,7 @@ La Déclaration des droits fondamentaux se fonde sur la Déclaration des droits 
 
 Elle est complétée et précisée par une convention thématique des droits fondamentaux, sans que ses travaux puissent réduire la substance des libertés et droits humains fondamentaux déjà reconnus.
 
-### Article 9 — Droits intangibles
+### Article 9 — Droits intangibles {#droits-intangibles}
 
 Sont intangibles et ne peuvent faire l'objet d'aucune restriction, d'aucune dérogation ni d'aucune suspension, quel qu'en soit le motif :
 
@@ -38,7 +38,7 @@ Sont intangibles et ne peuvent faire l'objet d'aucune restriction, d'aucune dér
 
 - l'indépendance de la justice et le droit au recours juridictionnel effectif.
 
-### Article 10 — Principe d'interprétation protectrice
+### Article 10 — Principe d'interprétation protectrice {#principe-interpretation-protectrice}
 
 En cas de doute sur la portée d'une disposition relative aux droits et libertés, celle-ci s'interprète de la manière la plus favorable à la personne concernée.
 

@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "node site/build.mjs",
+    "refs": "node site/refs.mjs",
     "serve": "node site/build.mjs && npx --yes serve dist -l 4173"
   },
   "dependencies": {

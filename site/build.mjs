@@ -3,6 +3,7 @@
 import fs from 'node:fs';
 import path from 'node:path';
 import MarkdownIt from 'markdown-it';
+import { check, renderRefs, stripIds, headIds, ROMAN } from './refs.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const SRC = path.join(ROOT, 'constitution');
@@ -11,8 +12,17 @@ const OUT = path.join(ROOT, 'dist');
 const config = JSON.parse(fs.readFileSync(path.join(SITE, 'config.json'), 'utf8'));
 const md = new MarkdownIt({ html: true, typographer: false, linkify: false });
 
-const ROMAN = ['I','II','III','IV','V','VI','VII','VIII','IX','X','XI','XII','XIII','XIV','XV','XVI','XVII','XVIII','XIX','XX'];
 const esc = (s) => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+
+// ---------- Vérification des renvois (bloque la publication en cas d'erreur) ----------
+
+const refs = check();
+for (const w of refs.warnings) console.warn(`Attention — ${w}`);
+if (refs.errors.length) {
+  for (const e of refs.errors) console.error(`Erreur — ${e}`);
+  console.error(`${refs.errors.length} erreur(s) dans les renvois : site non généré.`);
+  process.exit(1);
+}
 
 // ---------- Lecture du texte constitutionnel ----------
 
@@ -25,11 +35,12 @@ function stripWorkNotes(text) {
 function parseTitre(file) {
   const raw = stripWorkNotes(fs.readFileSync(path.join(SRC, file), 'utf8'));
   const lines = raw.split('\n');
-  const head = lines[0].replace(/^#\s+/, '');
+  const rawHead = lines[0].replace(/^#\s+/, '');
+  const head = stripIds(rawHead);
   const m = head.match(/^Titre ([IVX]+) — (.+)$/);
   const titre = m
-    ? { roman: m[1], num: ROMAN.indexOf(m[1]) + 1, name: m[2], slug: `titre-${String(ROMAN.indexOf(m[1]) + 1).padStart(2, '0')}` }
-    : { roman: '', num: 0, name: head, slug: 'preambule' };
+    ? { roman: m[1], num: ROMAN.indexOf(m[1]) + 1, name: m[2], slug: headIds(rawHead)[0], aliases: headIds(rawHead).slice(1) }
+    : { roman: '', num: 0, name: head, slug: 'preambule', aliases: [] };
   titre.label = m ? `Titre ${m[1]}` : head;
   titre.intro = [];
   titre.sections = []; // { heading, articles: [] } — heading peut être null
@@ -40,7 +51,8 @@ function parseTitre(file) {
     if ((h = line.match(/^##\s+(.+)$/))) { article = null; pushSection(h[1].trim()); continue; }
     if ((h = line.match(/^###\s+Article\s+(\d+)\s+—\s+(.+)$/))) {
       if (!section) pushSection(null);
-      article = { num: +h[1], name: h[2].trim(), body: [] };
+      const ids = headIds(h[2]);
+      article = { num: +h[1], name: stripIds(h[2]).trim(), id: ids[0], aliases: ids.slice(1), body: [] };
       section.articles.push(article);
       continue;
     }
@@ -54,22 +66,15 @@ const files = fs.readdirSync(SRC).filter((f) => /^titre-\d+.*\.md$/.test(f)).sor
 const preambule = parseTitre('00-preambule.md');
 const titres = files.map(parseTitre);
 const articleIndex = new Map(); // num -> { titre, article, section }
-for (const t of titres) for (const s of t.sections) for (const a of s.articles) articleIndex.set(a.num, { t, s, a });
-const titreByRoman = new Map(titres.map((t) => [t.roman, t]));
+const articleById = new Map(); // identifiant permanent -> { titre, article, section }
+const titreById = new Map(titres.map((t) => [t.slug, t]));
+for (const t of titres) for (const s of t.sections) for (const a of s.articles) { articleIndex.set(a.num, { t, s, a }); articleById.set(a.id, { t, s, a }); }
 const urlTitre = (t) => `/texte/${t.slug}/`;
-const urlArticle = (n) => { const x = articleIndex.get(n); return x ? `${urlTitre(x.t)}#article-${n}` : null; };
+const urlArticleId = (id) => { const x = articleById.get(id); return x ? `${urlTitre(x.t)}#${id}` : null; };
 
-// Liens automatiques vers les articles et les titres cités dans le texte.
-function linkify(text) {
-  text = text.replace(/\b(articles?)\s+((?:\d{1,3})(?:(?:\s*,\s*|\s+et\s+|\s+à\s+)\d{1,3})*)/gi, (all, word, nums) =>
-    `${word} ` + nums.replace(/\d{1,3}/g, (n) => { const u = urlArticle(+n); return u ? `<a href="${u}">${n}</a>` : n; }));
-  text = text.replace(/\b(Titres?)\s+([IVX]+)\b(?:\s+et\s+([IVX]+)\b)?/g, (all, word, r1, r2) => {
-    const l = (r) => { const t = titreByRoman.get(r); return t ? `<a href="${urlTitre(t)}">${r}</a>` : r; };
-    return `${word} ${l(r1)}${r2 ? ` et ${l(r2)}` : ''}`;
-  });
-  return text;
-}
-const renderBody = (text) => md.render(linkify(text));
+// Renvois écrits avec l'identifiant permanent : lien et numéro à jour.
+const refUrl = (e) => (e.kind === 'titre' ? urlTitre(titreById.get(e.primary)) : urlArticleId(e.primary));
+const renderBody = (text) => md.render(renderRefs(text, refs.byId, refUrl));
 
 // ---------- Gabarit ----------
 
@@ -171,7 +176,7 @@ const articleRange = (t) => {
 function sideNav(currentSlug) {
   const items = [preambule, ...titres].map((t) => {
     const cur = t.slug === currentSlug;
-    const arts = cur ? `<ol class="toc__arts">${t.sections.flatMap((s) => s.articles).map((a) => `<li><a href="#article-${a.num}"><span>${a.num}</span>${esc(a.name)}</a></li>`).join('')}</ol>` : '';
+    const arts = cur ? `<ol class="toc__arts">${t.sections.flatMap((s) => s.articles).map((a) => `<li><a href="#${a.id}"><span>${a.num}</span>${esc(a.name)}</a></li>`).join('')}</ol>` : '';
     return `<li${cur ? ' class="is-current"' : ''}><a href="${urlTitre(t)}"${cur ? ' aria-current="page"' : ''}><span class="toc__n">${t.roman || '—'}</span>${esc(t.roman ? t.name : 'Préambule')}</a>${arts}</li>`;
   }).join('');
   return `<nav class="toc" aria-label="Sommaire de la Constitution"><p class="toc__head">Sommaire</p><ol>${items}</ol></nav>`;
@@ -179,17 +184,17 @@ function sideNav(currentSlug) {
 
 function articleHtml(t, s, a) {
   const cat = [t.label, s.heading ? s.heading.split(' — ')[0] : ''].filter(Boolean).join('<br>');
-  const term = `Article ${a.num} — ${a.name}`;
-  return `<article class="rp-article" id="article-${a.num}">
+  const aliases = a.aliases.map((x) => `<span id="${x}" class="rp-anchor"></span>`).join('');
+  return `${aliases}<article class="rp-article" id="${a.id}">
   <div class="rp-article__cat">${cat}</div>
   <div class="rp-article__main">
     <p class="rp-article__num" aria-hidden="true">${a.num}</p>
     <h3 class="rp-article__title"><span class="sr">Article ${a.num} — </span>${esc(a.name)}</h3>
     <div class="rp-article__body">${renderBody(a.text)}</div>
     <div class="rp-article__foot">
-      <button class="rp-btn rp-btn--link js-comment" data-term="${esc(term)}" aria-expanded="false">Commenter</button>
+      <button class="rp-btn rp-btn--link js-comment" data-term="${esc(a.id)}" aria-expanded="false">Commenter</button>
       <span aria-hidden="true">·</span>
-      <a class="rp-btn rp-btn--link js-permalink" href="#article-${a.num}">Lien vers l’article</a>
+      <a class="rp-btn rp-btn--link js-permalink" href="#${a.id}">Lien vers l’article</a>
     </div>
     <div class="comments" hidden></div>
   </div>
@@ -218,7 +223,7 @@ function titrePage(t, prev, next) {
   const law = {
     '@type': 'Legislation', '@id': `${config.siteUrl}${path}#titre`, name: `${LAW_NAME} — ${label}`, url: config.siteUrl + path,
     legislationIdentifier: t.roman ? `Titre ${t.roman}` : 'Préambule', isPartOf: { '@id': LAW_ID }, ...draft,
-    hasPart: arts.map((a) => ({ '@type': 'Legislation', name: `Article ${a.num} — ${a.name}`, legislationIdentifier: `Article ${a.num}`, url: `${config.siteUrl}${path}#article-${a.num}`, ...draft })),
+    hasPart: arts.map((a) => ({ '@type': 'Legislation', name: `Article ${a.num} — ${a.name}`, legislationIdentifier: `Article ${a.num}`, url: `${config.siteUrl}${path}#${a.id}`, ...draft })),
   };
   const jsonld = [webPage(path, label, { mainEntity: { '@id': law['@id'] }, breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/'], [label, path]]) }), law];
   return layout({ title: label, current: '/texte/', body, bodyClass: 'page-text', path, jsonld, ogType: 'article' });
@@ -269,10 +274,11 @@ function home() {
 function sommaire() {
   const rows = [preambule, ...titres].map((t) => `<section class="sommaire__titre">
   <h2><a href="${urlTitre(t)}"><span>${t.roman ? `Titre ${t.roman}` : '—'}</span>${esc(t.roman ? t.name : 'Préambule')}</a></h2>
-  ${t.sections.map((s) => `${s.heading ? `<h3>${esc(s.heading)}</h3>` : ''}<ol>${s.articles.map((a) => `<li><a href="${urlTitre(t)}#article-${a.num}"><span>${a.num}</span>${esc(a.name)}</a></li>`).join('')}</ol>`).join('')}
+  ${t.sections.map((s) => `${s.heading ? `<h3>${esc(s.heading)}</h3>` : ''}<ol>${s.articles.map((a) => `<li><a href="${urlTitre(t)}#${a.id}"><span>${a.num}</span>${esc(a.name)}</a></li>`).join('')}</ol>`).join('')}
 </section>`).join('');
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">Texte</span><span class="rp-tag">${titres.length} titres · ${articleIndex.size} articles</span></div><h1 class="rp-title">Constitution de la République délibérative</h1>${searchBox}</div>
-<div class="wrap sommaire">${rows}</div>`;
+<div class="wrap sommaire">${rows}</div>
+<div class="wrap prose"><p class="note"><a href="/texte/concordance/">Table de concordance avec la version 25</a></p></div>`;
   const law = {
     '@type': 'Legislation', '@id': LAW_ID, name: LAW_NAME, alternateName: 'Projet de Constitution délibérative', url: `${config.siteUrl}/texte/`,
     legislationType: 'Constitution', legislationJurisdiction: 'FR', description: config.description, ...draft,
@@ -280,6 +286,23 @@ function sommaire() {
   };
   const jsonld = [webPage('/texte/', 'Le texte', { mainEntity: { '@id': LAW_ID }, breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/']]) }), law];
   return layout({ title: 'Le texte', current: '/texte/', body, path: '/texte/', jsonld });
+}
+
+// ---------- Concordance avec la v25 ----------
+
+const v25 = JSON.parse(fs.readFileSync(path.join(SITE, 'concordance', 'v25.json'), 'utf8'));
+const now = (id) => { const e = refs.byId.get(id); return e ? refs.byId.get(e.primary) : null; };
+const changes = Object.entries(v25.articles).map(([n, id]) => ({ n: +n, id, e: now(id) })).filter((r) => !r.e || r.e.label !== String(r.n) || r.e.primary !== r.id);
+
+function concordance() {
+  const rows = changes.map((r) => `<tr><td>${r.n}</td><td>${r.e ? `<a href="${urlArticleId(r.e.primary)}">Article ${r.e.label}</a> — ${esc(stripIds(r.e.name))}` : '—'}</td></tr>`).join('');
+  const table = changes.length
+    ? `<p>Les articles dont le numéro a changé depuis la version 25 sont listés ci-dessous. Les anciens liens vers ces articles redirigent automatiquement vers leur nouvelle place.</p>
+<table class="concordance"><thead><tr><th scope="col">Article (v25)</th><th scope="col">Aujourd’hui</th></tr></thead><tbody>${rows}</tbody></table>`
+    : `<p>La numérotation n’a pas changé depuis la version 25 : chaque article garde son numéro. Si elle change, cette page indiquera la nouvelle place de chaque article, et les anciens liens continueront de fonctionner.</p>`;
+  const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">Texte</span><span class="rp-tag">Concordance</span></div><h1 class="rp-title">Table de concordance</h1></div>
+<div class="wrap prose">${table}<p><a href="/texte/">Revenir au sommaire</a></p></div>`;
+  return layout({ title: 'Table de concordance', current: '/texte/', body, path: '/texte/concordance/', jsonld: [webPage('/texte/concordance/', 'Table de concordance', { breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/'], ['Concordance', '/texte/concordance/']]) })] });
 }
 
 // ---------- Pages éditoriales ----------
@@ -304,7 +327,7 @@ function contentPage(file, href) {
 </form>${mailBtn ? `<p class="note">Vous préférez écrire directement ?</p>${mailBtn}` : ''}` : '';
   const contactLine = form || mailBtn || `<p><a class="rp-btn rp-btn--primary" href="https://github.com/${config.repo}/issues">Écrire sur GitHub</a></p>`;
   raw = raw.replaceAll('{{contactLine}}', contactLine).replaceAll('{{repo}}', config.repo);
-  const html = md.render(linkify(raw));
+  const html = renderBody(raw);
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">${esc(fm.tag || fm.title)}</span>${fm.subtag ? `<span class="rp-tag">${esc(fm.subtag)}</span>` : ''}</div><h1 class="rp-title">${esc(fm.title)}</h1></div>
 <div class="wrap prose${fm.faq === 'true' ? ' faq' : ''}">${html}</div>`;
   const extra = {};
@@ -327,19 +350,26 @@ write('', home());
 write('texte', sommaire());
 const all = [preambule, ...titres];
 all.forEach((t, i) => write(`texte/${t.slug}`, titrePage(t, all[i - 1], all[i + 1])));
+write('texte/concordance', concordance());
+
+// Anciens liens : adresses des titres de la v25 (/texte/titre-03/) et ancres « #article-N ».
+const oldTitre = (r) => `/texte/titre-${String(ROMAN.indexOf(r) + 1).padStart(2, '0')}/`;
+const redirects = Object.entries(v25.titres).map(([r, id]) => [oldTitre(r), urlTitre(titreById.get(now(id).primary))]);
+fs.writeFileSync(path.join(OUT, '_redirects'), redirects.map(([a, b]) => `${a} ${b} 301\n${a.slice(0, -1)} ${b} 301`).join('\n') + '\n');
+fs.writeFileSync(path.join(OUT, 'v25.json'), JSON.stringify(Object.fromEntries(Object.entries(v25.articles).map(([n, id]) => [n, urlArticleId(now(id).primary)]))));
 for (const [file, href] of [['pourquoi.md', '/pourquoi/'], ['comment.md', '/comment/'], ['commenter.md', '/commenter/'], ['faq.md', '/faq/'], ['contact.md', '/contact/']]) {
   write(href.replaceAll('/', ''), contentPage(file, href));
 }
 
 // Index de recherche
 const plain = (s) => s.replace(/[#*_>`\[\]]/g, '').replace(/\s+/g, ' ').trim();
-const searchIndex = [...articleIndex.values()].map(({ t, a }) => ({ n: a.num, t: a.name, g: `Titre ${t.roman}`, u: urlArticle(a.num), x: plain(a.text) }));
+const searchIndex = [...articleIndex.values()].map(({ t, a }) => ({ n: a.num, t: a.name, g: `Titre ${t.roman}`, u: urlArticleId(a.id), x: plain(a.text) }));
 fs.writeFileSync(path.join(OUT, 'search.json'), JSON.stringify(searchIndex));
 
 // Fichiers utilitaires
 fs.writeFileSync(path.join(OUT, '404.html'), layout({ title: 'Page introuvable', noindex: true, path: '/404', body: `<div class="wrap page-head"><h1 class="rp-display">404</h1><p>Cette page n’existe pas. <a href="/texte/">Revenir au texte</a>.</p></div>` }));
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${config.siteUrl}/sitemap.xml\n`);
-const urls = ['/', '/texte/', ...all.map(urlTitre), '/pourquoi/', '/comment/', '/commenter/', '/faq/', '/contact/'];
+const urls = ['/', '/texte/', ...all.map(urlTitre), '/texte/concordance/', '/pourquoi/', '/comment/', '/commenter/', '/faq/', '/contact/'];
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${config.siteUrl}${u}</loc></url>`).join('')}</urlset>\n`);
 
 console.log(`Site généré : ${all.length} pages de texte, ${articleIndex.size} articles → dist/`);
