@@ -59,7 +59,7 @@ Quatre principes fondent le texte :
 
 ### Vous pouvez être appelé à faire la loi
 
-Toute personne majeure résidant durablement en France peut être tirée au sort pour siéger dans une convention citoyenne (article 13). C’est un devoir civique, dont on n’est dispensé que pour motif grave. En contrepartie, la Constitution vous garantit (article 14) :
+Toute personne majeure résidant durablement en France peut être tirée au sort pour siéger dans une convention citoyenne (article [13](#eligibilite-participation)). C’est un devoir civique, dont on n’est dispensé que pour motif grave. En contrepartie, la Constitution vous garantit (article [14](#statut-conventionnel)) :
 
 - le maintien intégral de vos revenus et de vos droits sociaux, plus une indemnité de participation ;
 - la protection de votre emploi pendant toute la durée de la convention ;
@@ -68,26 +68,26 @@ Toute personne majeure résidant durablement en France peut être tirée au sort
 
 ### Vous pouvez mettre un sujet à l’agenda
 
-Une pétition qui atteint le seuil fixé par la loi organique est transmise à la convention de programmation. À cinq cent mille signatures, l’Autorité de programmation civique doit examiner l’ouverture d’une convention dédiée et motiver publiquement sa décision (article 36). Une pétition peut aussi engager une révision de la Constitution, à partir d’un seuil qui ne peut être inférieur à deux millions de signatures (article 208).
+Une pétition qui atteint le seuil fixé par la loi organique est transmise à la convention de programmation. À cinq cent mille signatures, l’Autorité de programmation civique doit examiner l’ouverture d’une convention dédiée et motiver publiquement sa décision (article [36](#seuils-effets-petitions)). Une pétition peut aussi engager une révision de la Constitution, à partir d’un seuil qui ne peut être inférieur à deux millions de signatures (article [208](#revision-initiative)).
 
 ### Vous pouvez contester une loi ou un abus
 
-- Toute citoyenne et tout citoyen directement concerné par une loi en vigueur peut la contester devant le Conseil constitutionnel (article 44).
-- Toute personne peut saisir le Défenseur des droits face à une administration (article 91), et signaler un dysfonctionnement à l’Autorité de contrôle de l’exécution des lois (article 83).
-- Toute personne peut saisir la Juridiction de probité de faits nouveaux mettant en cause l’intégrité d’un responsable public (article 103).
+- Toute citoyenne et tout citoyen directement concerné par une loi en vigueur peut la contester devant le Conseil constitutionnel (article [44](#cc-saisine-posteriori)).
+- Toute personne peut saisir le Défenseur des droits face à une administration (article [91](#defenseur-droits-saisine)), et signaler un dysfonctionnement à l’Autorité de contrôle de l’exécution des lois (article [83](#session-pleniere-saisine)).
+- Toute personne peut saisir la Juridiction de probité de faits nouveaux mettant en cause l’intégrité d’un responsable public (article [103](#juridiction-probite-saisine)).
 
 ### Vous pouvez candidater
 
-Il n’y a plus de président de la République ni de Premier ministre (article 58). Les ministres sont choisis par une convention de désignation tirée au sort, après un appel à candidatures ouvert à toute citoyenne et tout citoyen, un contrôle de compétence et un contrôle de probité (article 62).
+Il n’y a plus de président de la République ni de Premier ministre (article [58](#nature-administration-execution)). Les ministres sont choisis par une convention de désignation tirée au sort, après un appel à candidatures ouvert à toute citoyenne et tout citoyen, un contrôle de compétence et un contrôle de probité (article [62](#procedure-designation-ministres)).
 
 ### Vos droits ne peuvent pas reculer
 
-Dignité, interdiction de la torture et de la peine de mort, égalité, liberté de conscience, droits de la défense, indépendance de la justice : ces droits sont intangibles, y compris en temps de crise et y compris face à une révision constitutionnelle (articles 9 et 218).
+Dignité, interdiction de la torture et de la peine de mort, égalité, liberté de conscience, droits de la défense, indépendance de la justice : ces droits sont intangibles, y compris en temps de crise et y compris face à une révision constitutionnelle (articles [9](#droits-intangibles) et [218](#renvoi-dispositions-intangibles)).
 
 ### Vous votez sur la Constitution
 
-Toute révision de la Constitution, préparée par une convention constituante tirée au sort, est soumise à référendum. Elle n’est adoptée que si la majorité des votants l’approuve et que la moitié au moins des inscrits a voté (article 215).
+Toute révision de la Constitution, préparée par une convention constituante tirée au sort, est soumise à référendum. Elle n’est adoptée que si la majorité des votants l’approuve et que la moitié au moins des inscrits a voté (article [215](#referendum-revision-majorite)).
 
 ### Près de chez vous aussi
 
-Les collectivités territoriales sont administrées par des conventions citoyennes territoriales tirées au sort, qui désignent et contrôlent l’exécutif local (articles 159 et 160).
+Les collectivités territoriales sont administrées par des conventions citoyennes territoriales tirées au sort, qui désignent et contrôlent l’exécutif local (articles [159](#principe-conventionnel-territorial) et [160](#designation-controle-executif-local)).

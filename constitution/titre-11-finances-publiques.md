@@ -1,8 +1,8 @@
-# Titre XI — Des finances publiques
+# Titre XI — Des finances publiques {#finances-publiques}
 
 ## Chapitre I — Principes budgétaires
 
-### Article 127 — Principes généraux
+### Article 127 — Principes généraux {#finances-principes-generaux}
 
 Les finances publiques obéissent aux principes suivants :
 
@@ -18,7 +18,7 @@ Les finances publiques obéissent aux principes suivants :
 
 - équilibre : la République tend à l'équilibre des comptes publics ; les dérogations sont motivées et limitées dans le temps.
 
-### Article 128 — Principes renforcés
+### Article 128 — Principes renforcés {#finances-principes-renforces}
 
 La présente Constitution consacre en outre :
 
@@ -28,13 +28,13 @@ La présente Constitution consacre en outre :
 
 - l'équité intergénérationnelle : l'endettement public ne peut excéder, sauf circonstances exceptionnelles motivées, un niveau fixé par la convention de programmation quinquennale.
 
-### Article 129 — Séparation des fonctions budgétaires
+### Article 129 — Séparation des fonctions budgétaires {#separation-fonctions-budgetaires}
 
-Conformément à l'article 4, la détermination de l'impôt, l'autorisation de la dépense, son exécution et le contrôle de leur emploi relèvent d'autorités distinctes. Le présent titre met en œuvre cette séparation.
+Conformément à l'article [4](#separation-pouvoirs), la détermination de l'impôt, l'autorisation de la dépense, son exécution et le contrôle de leur emploi relèvent d'autorités distinctes. Le présent titre met en œuvre cette séparation.
 
 ## Chapitre II — Le cycle budgétaire en deux temps
 
-### Article 130 — Convention de programmation en matière budgétaire
+### Article 130 — Convention de programmation en matière budgétaire {#budget-convention-programmation}
 
 Lors de sa session quinquennale, la convention de programmation fixe, pour la période à venir :
 
@@ -50,7 +50,7 @@ Lors de sa session quinquennale, la convention de programmation fixe, pour la p�
 
 Ces décisions ne sont pas votées en valeur détaillée, mais en orientations structurelles. Elles contraignent la convention ordinaire annuelle sans se substituer à sa délibération.
 
-### Article 131 — Convention ordinaire annuelle
+### Article 131 — Convention ordinaire annuelle {#budget-convention-ordinaire}
 
 La convention ordinaire annuelle adopte chaque année :
 
@@ -58,17 +58,17 @@ La convention ordinaire annuelle adopte chaque année :
 
 - le budget de la sécurité sociale, dans ses recettes et ses dépenses ;
 
-- les lois fiscales annuelles, dans les conditions prévues à l'article 133 ;
+- les lois fiscales annuelles, dans les conditions prévues à l'article [133](#determination-impot) ;
 
 - les autorisations d'emprunt ;
 
-- les traités majeurs relevant de l'article 73 ;
+- les traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
 
-- les lois suspendues, dans les conditions prévues à l'article 25.
+- les lois suspendues, dans les conditions prévues à l'article [25](#reexamen-cas-suspension).
 
-Elle vérifie la conformité du budget aux priorités pluriannuelles fixées par la convention de programmation. Elle peut, à la majorité qualifiée définie à l'article 17, déroger à ces priorités par décision motivée, notamment en cas de circonstances nouvelles significatives.
+Elle vérifie la conformité du budget aux priorités pluriannuelles fixées par la convention de programmation. Elle peut, à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), déroger à ces priorités par décision motivée, notamment en cas de circonstances nouvelles significatives.
 
-### Article 132 — Préparation du projet de budget
+### Article 132 — Préparation du projet de budget {#preparation-projet-budget}
 
 Le projet de budget est préparé par l'administration d'exécution, qui le transmet à la convention ordinaire annuelle sans aucun pouvoir d'approbation.
 
@@ -76,11 +76,11 @@ Afin d'éviter toute capture technique et d'éclairer la délibération citoyenn
 
 ## Chapitre III — Détermination de l**'**impôt
 
-### Article 133 — Détermination de l'impôt
+### Article 133 — Détermination de l'impôt {#determination-impot}
 
 L'impôt est déterminé par la loi adoptée en convention, dans les conditions suivantes :
 
-- la convention de programmation fixe, pour la période quinquennale, les orientations fiscales générales définies à l'article 130 ;
+- la convention de programmation fixe, pour la période quinquennale, les orientations fiscales générales définies à l'article [130](#budget-convention-programmation) ;
 
 - la convention ordinaire annuelle adopte les lois fiscales annuelles, notamment les barèmes, les taux, les mesures d'ajustement et les mesures fiscales nouvelles d'ampleur limitée, dans le respect des orientations pluriannuelles ;
 
@@ -90,19 +90,19 @@ En cas de contestation sur la nature d'une mesure fiscale, le Conseil constituti
 
 ## Chapitre IV — Autorisation de la dépense et exécution
 
-### Article 134 — Autorisation de la dépense
+### Article 134 — Autorisation de la dépense {#autorisation-depense}
 
 La dépense publique est autorisée par la convention ordinaire annuelle, au niveau du programme budgétaire. L'administration d'exécution exécute les dépenses dans les limites ainsi fixées, sans pouvoir redéployer les crédits entre programmes sans autorisation nouvelle.
 
-### Article 135 — Dépenses en cours d'année
+### Article 135 — Dépenses en cours d'année {#depenses-cours-annee}
 
-En cas de besoin urgent apparu en cours d'année, notamment en cas de crise relevant du Titre XII, la convention de secours peut autoriser, à la majorité qualifiée, les dépenses supplémentaires strictement nécessaires. Les autorisations ainsi accordées font l'objet d'une confirmation obligatoire par la convention ordinaire annuelle suivante.
+En cas de besoin urgent apparu en cours d'année, notamment en cas de crise relevant du Titre [XII](#crises), la convention de secours peut autoriser, à la majorité qualifiée, les dépenses supplémentaires strictement nécessaires. Les autorisations ainsi accordées font l'objet d'une confirmation obligatoire par la convention ordinaire annuelle suivante.
 
 Hors crise, une session supplémentaire de la convention ordinaire annuelle peut être réunie, sur saisine de l'Autorité de programmation civique, lorsqu'une dépense nouvelle d'ampleur significative ne peut attendre la session ordinaire suivante.
 
 ## Chapitre V — Contrôle de l**'**exécution budgétaire
 
-### Article 136 — Contrôle par l'Autorité de contrôle de l'exécution des lois
+### Article 136 — Contrôle par l'Autorité de contrôle de l'exécution des lois {#budget-controle-execution}
 
 Le contrôle de l'exécution budgétaire relève de l'Autorité de contrôle de l'exécution des lois, via son service technique. Ce contrôle porte notamment sur :
 
@@ -114,19 +114,19 @@ Le contrôle de l'exécution budgétaire relève de l'Autorité de contrôle de 
 
 - le respect des autorisations accordées par la convention ordinaire annuelle et des orientations fixées par la convention de programmation.
 
-### Article 137 — Rapport annuel d'exécution
+### Article 137 — Rapport annuel d'exécution {#rapport-annuel-execution}
 
 Le service technique de l'Autorité de contrôle de l'exécution des lois établit chaque année un rapport d'exécution budgétaire présenté à la session plénière annuelle. Ce rapport est transmis à la convention ordinaire annuelle suivante, qui peut en tirer les conséquences, notamment par des réorientations budgétaires, des demandes de convention thématique corrective, ou la saisine de la Juridiction de probité et de responsabilité publique en cas de faute grave imputable à un responsable public.
 
 ## Chapitre VI — Blocages et dépassements
 
-### Article 138 — Blocage de l'adoption du budget
+### Article 138 — Blocage de l'adoption du budget {#blocage-adoption-budget}
 
 Si la convention ordinaire annuelle ne parvient pas à adopter le budget à la majorité qualifiée requise, le budget antérieur est reconduit à titre provisoire, dans les strictes limites nécessaires à la continuité des services publics, sans nouveaux programmes ni augmentations. Cette reconduction ne peut excéder trois mois.
 
 À l'issue de ce délai, une nouvelle session de la convention ordinaire annuelle, composée de citoyens renouvelés par tirage au sort, est convoquée par l'Autorité générale des conventions citoyennes. Si ce second examen échoue à son tour, la convention de secours est saisie de plein droit.
 
-### Article 139 — Déficit ou dette excessifs
+### Article 139 — Déficit ou dette excessifs {#deficit-dette-excessifs}
 
 Lorsque l'exécution budgétaire fait apparaître un déficit ou un niveau d'endettement excédant les règles fixées par la convention de programmation, l'Autorité de contrôle de l'exécution des lois le constate dans son rapport annuel.
 
@@ -134,12 +134,12 @@ La convention ordinaire annuelle suivante doit motiver publiquement le maintien 
 
 ## Chapitre VII — Fiscalité et finances territoriales
 
-### Article 140 — Architecture fiscale territoriale
+### Article 140 — Architecture fiscale territoriale {#architecture-fiscale-territoriale}
 
 Les grandes orientations de la fiscalité territoriale, notamment les ressources propres des collectivités, la péréquation et les transferts de compétences accompagnés des ressources correspondantes, relèvent de la convention de programmation.
 
 Dans le cadre ainsi fixé, les conventions territoriales peuvent fixer les taux des impôts locaux dont elles bénéficient, dans les limites prévues par la loi nationale.
 
-### Article 141 — Péréquation
+### Article 141 — Péréquation {#perequation}
 
 La péréquation entre collectivités territoriales est organisée par la loi nationale, afin de garantir l'égalité effective entre les territoires et la solidarité entre les collectivités.

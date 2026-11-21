@@ -39,6 +39,27 @@ Les points de fond encore ouverts sont suivis en *issues* (une par décision à 
 - **Proposer une modification** : modifier le fichier concerné et ouvrir une *pull request* (possible directement depuis l'interface web de GitHub, bouton crayon).
 - **Discuter un point de fond** : ouvrir une *issue*.
 
+## Renvois entre articles
+
+Chaque article et chaque titre porte un **identifiant permanent**, écrit à la fin de son intitulé. Il ne change jamais, même si l'article est renuméroté, déplacé ou renommé :
+
+```markdown
+### Article 4 — Séparation des pouvoirs {#separation-pouvoirs}
+# Titre XII — Des crises et de la convention citoyenne de secours {#crises}
+```
+
+Les renvois s'écrivent avec cet identifiant. Le numéro entre crochets est indicatif : le site affiche toujours le numéro à jour.
+
+```markdown
+dans les conditions prévues à l'article [77](#autorisation-operations-militaires) et au Titre [XII](#crises)
+```
+
+- **Nouvel article** : choisir un identifiant court (minuscules sans accents, chiffres, tirets), qui n'a jamais servi.
+- **Fusion** : l'article qui en absorbe un autre garde l'identifiant de celui-ci comme alias : `{#statut-magistrats #statut-magistrats-normes}`.
+- **Vérifier** : `npm run refs` signale les renvois cassés, les renvois écrits sans identifiant et les numéros affichés périmés ; `npm run refs -- --fix` met ces numéros à jour dans les fichiers. La construction du site échoue tant qu'un renvoi est cassé.
+- **Anciens liens** : `site/concordance/v25.json` fige la numérotation de la v25. Les anciens liens (`/texte/titre-03/#article-19`) redirigent vers la place actuelle de l'article, et la page « Table de concordance » du site liste les changements de numéro.
+- Les commentaires du site sont rattachés à l'identifiant, pas au numéro.
+
 ## Le site web
 
 Le site est généré à partir des fichiers de `constitution/` : toute modification du texte fusionnée dans `main` met le site à jour.

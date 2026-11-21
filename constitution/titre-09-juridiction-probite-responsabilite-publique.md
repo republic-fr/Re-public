@@ -1,12 +1,12 @@
-# Titre IX — De la Juridiction de probité et de responsabilité publique
+# Titre IX — De la Juridiction de probité et de responsabilité publique {#juridiction-probite}
 
 ## Chapitre I — Nature et composition
 
-### Article 95 — Nature
+### Article 95 — Nature {#juridiction-probite-nature}
 
 La Juridiction de probité et de responsabilité publique est une juridiction constitutionnelle indépendante. Elle est compétente pour le contrôle préalable de l'intégrité des responsables publics, pour le contrôle périodique de leur probité en cours de mandat, et pour le jugement des fautes graves commises dans l'exercice des fonctions publiques.
 
-### Article 96 — Composition
+### Article 96 — Composition {#juridiction-probite-composition}
 
 La Juridiction est composée de quinze membres, exclusivement magistrats ou juristes de formation juridictionnelle équivalente, ayant une expertise particulière du droit pénal, du droit disciplinaire, du droit administratif ou du contrôle de la probité publique. Le nombre de membres peut être précisé par la loi organique sans pouvoir être inférieur à neuf.
 
@@ -30,13 +30,13 @@ L'inscription au vivier suppose le respect des règles d'indépendance, d'impart
 
 Le tirage au sort garantit la diversité des origines professionnelles et des domaines de spécialisation.
 
-La pluralité effective du vivier est contrôlée par l'Autorité de programmation civique selon les indicateurs de pluralité prévus à l'article 34.
+La pluralité effective du vivier est contrôlée par l'Autorité de programmation civique selon les indicateurs de pluralité prévus à l'article [34](#apc-missions).
 
-### Article 97 — Durée du mandat
+### Article 97 — Durée du mandat {#juridiction-probite-duree-mandat}
 
 Le mandat des membres de la Juridiction est de neuf ans, non renouvelable. La Juridiction se renouvelle par tiers tous les trois ans afin d'assurer la continuité jurisprudentielle.
 
-### Article 98 — Statut et indépendance
+### Article 98 — Statut et indépendance {#juridiction-probite-statut}
 
 La fonction de membre de la Juridiction est absolument incompatible avec toute fonction ministérielle, toute fonction de représentation extérieure et toute fonction dans une autre autorité constitutionnelle. Un délai de viduité de trois ans est exigé entre l'exercice de l'une de ces fonctions et le mandat de membre de la Juridiction, et réciproquement.
 
@@ -46,7 +46,7 @@ L'intégrité des membres de la Juridiction est contrôlée, préalablement à l
 
 ## Chapitre II — Fonctions et périmètre
 
-### Article 99 — Contrôle préalable de probité
+### Article 99 — Contrôle préalable de probité {#controle-prealable-probite}
 
 Avant toute désignation à une fonction soumise à contrôle, la Juridiction vérifie pour chaque candidat :
 
@@ -56,15 +56,15 @@ Avant toute désignation à une fonction soumise à contrôle, la Juridiction v�
 
 - l'intégrité pénale, selon une grille de compatibilité fixée par la loi organique ;
 
-- l'intégrité constitutionnelle, strictement limitée à l'absence de positions publiques objectivement incompatibles avec la défense de la Constitution et le respect des droits intangibles garantis à l'article 9.
+- l'intégrité constitutionnelle, strictement limitée à l'absence de positions publiques objectivement incompatibles avec la défense de la Constitution et le respect des droits intangibles garantis à l'article [9](#droits-intangibles).
 
 La Juridiction établit la liste des candidates et candidats recevables, transmise à la convention de désignation ou à l'autorité de nomination compétente.
 
-### Article 100 — Contrôle périodique de l'intégrité
+### Article 100 — Contrôle périodique de l'intégrité {#controle-periodique-integrite}
 
 La Juridiction exerce, en cours de mandat, un contrôle périodique de la probité des responsables publics soumis à son contrôle. Ce contrôle repose notamment sur les déclarations actualisées de patrimoine et d'intérêts. Il peut conduire, en cas de manquement grave, à l'ouverture d'une procédure de responsabilité.
 
-### Article 101 — Jugement des fautes graves
+### Article 101 — Jugement des fautes graves {#jugement-fautes-graves}
 
 La Juridiction juge les fautes graves commises dans l'exercice des fonctions publiques. Constituent notamment des fautes graves :
 
@@ -86,9 +86,9 @@ La Juridiction juge les fautes graves commises dans l'exercice des fonctions pub
 
 - l'atteinte à l'indépendance d'une autre autorité constitutionnelle ;
 
-- la violation du serment constitutionnel prêté en application de l'article 58.
+- la violation du serment constitutionnel prêté en application de l'article [58](#nature-administration-execution).
 
-### Article 102 — Périmètre personnel
+### Article 102 — Périmètre personnel {#juridiction-probite-perimetre}
 
 La Juridiction est compétente à l'égard :
 
@@ -110,7 +110,7 @@ Les membres des conventions citoyennes ne relèvent pas de la compétence de la 
 
 ## Chapitre III — Saisine, procédure et sanctions
 
-### Article 103 — Saisine
+### Article 103 — Saisine {#juridiction-probite-saisine}
 
 Le contrôle préalable de probité est systématique pour toute désignation à une fonction soumise à contrôle, sur transmission par l'Autorité générale des conventions citoyennes ou par l'autorité de nomination compétente.
 
@@ -132,7 +132,7 @@ La Juridiction écarte d'office, par décision motivée, les saisines manifestem
 
 Toute personne peut par ailleurs saisir la Juridiction en cas de révélation de faits nouveaux affectant l'intégrité d'un responsable public, non connus ou non révélés lors de la désignation ou du dernier contrôle périodique.
 
-### Article 104 — Procédure
+### Article 104 — Procédure {#juridiction-probite-procedure}
 
 La procédure devant la Juridiction est contradictoire. Le responsable mis en cause peut se défendre, présenter des pièces et être assisté d'un conseil.
 
@@ -142,7 +142,7 @@ La Juridiction statue dans un délai raisonnable fixé par la loi organique.
 
 Un recours juridictionnel est ouvert devant une formation de recours de la Juridiction, composée de membres n'ayant pas siégé en première instance.
 
-### Article 105 — Sanctions
+### Article 105 — Sanctions {#juridiction-probite-sanctions}
 
 Selon la gravité des manquements, la Juridiction peut prononcer :
 
@@ -158,11 +158,11 @@ Selon la gravité des manquements, la Juridiction peut prononcer :
 
 - la saisine du juge pénal pour les faits susceptibles de qualification pénale.
 
-Les décisions de la Juridiction ne sont susceptibles que du recours prévu à l'article 104.
+Les décisions de la Juridiction ne sont susceptibles que du recours prévu à l'article [104](#juridiction-probite-procedure).
 
 ## Chapitre IV — Indépendance du ministère public
 
-### Article 106 — Indépendance du parquet
+### Article 106 — Indépendance du parquet {#independance-parquet}
 
 Le ministère public est totalement indépendant du pouvoir exécutif. Aucune instruction, générale ou individuelle, ne peut être donnée aux magistrates et magistrats du parquet par une ou un ministre ou par toute autorité exécutive.
 
