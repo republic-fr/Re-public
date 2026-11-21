@@ -83,7 +83,9 @@ const NAV = [
 
 const wordmark = (size = '') => `<a class="rp-wordmark" href="/" aria-label="REpublic, accueil"${size ? ` style="font-size:${size}"` : ''}><span class="rp-wordmark__re">RE</span><span class="rp-wordmark__public">PUBLIC</span></a>`;
 
-function layout({ title, description = config.description, current = '', body, bodyClass = '' }) {
+function layout({ title, description = config.description, current = '', body, bodyClass = '', path = '/', jsonld = [], ogType = 'website', noindex = false }) {
+  const url = config.siteUrl + path;
+  const ld = jsonld.length ? `<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonld }).replace(/</g, '\\u003c')}</script>` : '';
   const fullTitle = title ? `${title} — ${config.siteName}` : `${config.siteName} — Avant-projet de Constitution délibérative`;
   const nav = NAV.map(([label, href]) => `<a href="${href}"${current === href ? ' aria-current="page"' : ''}>${label}</a>`).join('');
   return `<!doctype html>
@@ -95,7 +97,17 @@ function layout({ title, description = config.description, current = '', body, b
 <meta name="description" content="${esc(description)}">
 <meta property="og:title" content="${esc(fullTitle)}">
 <meta property="og:description" content="${esc(description)}">
-<meta property="og:type" content="website">
+<meta property="og:type" content="${ogType}">
+<meta property="og:url" content="${url}">
+<meta property="og:site_name" content="${config.siteName}">
+<meta property="og:locale" content="fr_FR">
+<meta property="og:image" content="${config.siteUrl}/assets/og.png">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:alt" content="REpublic — Repenser la démocratie par le tirage au sort">
+<meta name="twitter:card" content="summary_large_image">
+${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" href="${url}">`}
+${ld}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -137,6 +149,16 @@ function write(rel, html) {
   fs.mkdirSync(path.dirname(file), { recursive: true });
   fs.writeFileSync(file, html);
 }
+
+// ---------- Données structurées (schema.org) ----------
+
+const ORG = { '@type': 'Organization', '@id': `${config.siteUrl}/#org`, name: config.siteName, url: `${config.siteUrl}/`, logo: `${config.siteUrl}/assets/og.png` };
+const SITE_ID = `${config.siteUrl}/#website`;
+const LAW_ID = `${config.siteUrl}/texte/#constitution`;
+const LAW_NAME = 'Constitution de la République délibérative française (avant-projet)';
+const draft = { inLanguage: 'fr', creativeWorkStatus: 'Draft', legislationLegalForce: { '@id': 'https://schema.org/NotInForce' }, publisher: { '@id': ORG['@id'] }, version: config.version };
+const crumbs = (items) => ({ '@type': 'BreadcrumbList', itemListElement: items.map(([name, path], i) => ({ '@type': 'ListItem', position: i + 1, name, item: config.siteUrl + path })) });
+const webPage = (path, name, extra = {}) => ({ '@type': 'WebPage', '@id': config.siteUrl + path, url: config.siteUrl + path, name, inLanguage: 'fr', isPartOf: { '@id': SITE_ID }, ...extra });
 
 // ---------- Pages du texte ----------
 
@@ -189,7 +211,16 @@ function titrePage(t, prev, next) {
     ${pager}
   </div>
 </div>`;
-  return layout({ title: t.roman ? `Titre ${t.roman} — ${t.name}` : 'Préambule', current: '/texte/', body, bodyClass: 'page-text' });
+  const label = t.roman ? `Titre ${t.roman} — ${t.name}` : 'Préambule';
+  const path = urlTitre(t);
+  const arts = t.sections.flatMap((s) => s.articles);
+  const law = {
+    '@type': 'Legislation', '@id': `${config.siteUrl}${path}#titre`, name: `${LAW_NAME} — ${label}`, url: config.siteUrl + path,
+    legislationIdentifier: t.roman ? `Titre ${t.roman}` : 'Préambule', isPartOf: { '@id': LAW_ID }, ...draft,
+    hasPart: arts.map((a) => ({ '@type': 'Legislation', name: `Article ${a.num} — ${a.name}`, legislationIdentifier: `Article ${a.num}`, url: `${config.siteUrl}${path}#article-${a.num}`, ...draft })),
+  };
+  const jsonld = [webPage(path, label, { mainEntity: { '@id': law['@id'] }, breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/'], [label, path]]) }), law];
+  return layout({ title: label, current: '/texte/', body, bodyClass: 'page-text', path, jsonld, ogType: 'article' });
 }
 
 // ---------- Accueil et sommaire ----------
@@ -225,7 +256,13 @@ function home() {
   <a class="home-more__card" href="/comment/"><span class="rp-tag rp-tag--solid">Comment</span><span class="home-more__t">Les étapes pour y parvenir, le coût, la place des citoyens.</span></a>
   <a class="home-more__card" href="/commenter/"><span class="rp-tag rp-tag--solid">Commenter</span><span class="home-more__t">Proposer une modification ou discuter un article.</span></a>
 </section>`;
-  return layout({ title: '', body, current: '/', bodyClass: 'page-home' });
+  const jsonld = [
+    ORG,
+    { '@type': 'WebSite', '@id': SITE_ID, url: `${config.siteUrl}/`, name: config.siteName, description: config.description, inLanguage: 'fr', publisher: { '@id': ORG['@id'] },
+      potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${config.siteUrl}/texte/?q={search_term_string}` }, 'query-input': 'required name=search_term_string' } },
+    webPage('/', `${config.siteName} — Repenser la démocratie par le tirage au sort`, { about: { '@id': LAW_ID } }),
+  ];
+  return layout({ title: '', body, current: '/', bodyClass: 'page-home', path: '/', jsonld });
 }
 
 function sommaire() {
@@ -235,7 +272,13 @@ function sommaire() {
 </section>`).join('');
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">Texte</span><span class="rp-tag">${titres.length} titres · ${articleIndex.size} articles</span></div><h1 class="rp-title">Constitution de la République délibérative</h1>${searchBox}</div>
 <div class="wrap sommaire">${rows}</div>`;
-  return layout({ title: 'Le texte', current: '/texte/', body });
+  const law = {
+    '@type': 'Legislation', '@id': LAW_ID, name: LAW_NAME, alternateName: 'Projet de Constitution délibérative', url: `${config.siteUrl}/texte/`,
+    legislationType: 'Constitution', legislationJurisdiction: 'FR', description: config.description, ...draft,
+    hasPart: [preambule, ...titres].map((t) => ({ '@id': `${config.siteUrl}${urlTitre(t)}#titre` })),
+  };
+  const jsonld = [webPage('/texte/', 'Le texte', { mainEntity: { '@id': LAW_ID }, breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/']]) }), law];
+  return layout({ title: 'Le texte', current: '/texte/', body, path: '/texte/', jsonld });
 }
 
 // ---------- Pages éditoriales ----------
@@ -251,7 +294,8 @@ function contentPage(file, href) {
   raw = raw.replaceAll('{{contactLine}}', contactLine).replaceAll('{{repo}}', config.repo);
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">${esc(fm.tag || fm.title)}</span>${fm.subtag ? `<span class="rp-tag">${esc(fm.subtag)}</span>` : ''}</div><h1 class="rp-title">${esc(fm.title)}</h1></div>
 <div class="wrap prose">${md.render(linkify(raw))}</div>`;
-  return layout({ title: fm.title, description: fm.description || config.description, current: href, body });
+  const jsonld = [webPage(href, fm.title, { description: fm.description || config.description, publisher: { '@id': ORG['@id'] }, breadcrumb: crumbs([['Accueil', '/'], [fm.title, href]]) })];
+  return layout({ title: fm.title, description: fm.description || config.description, current: href, body, path: href, jsonld });
 }
 
 // ---------- Construction ----------
@@ -274,7 +318,7 @@ const searchIndex = [...articleIndex.values()].map(({ t, a }) => ({ n: a.num, t:
 fs.writeFileSync(path.join(OUT, 'search.json'), JSON.stringify(searchIndex));
 
 // Fichiers utilitaires
-fs.writeFileSync(path.join(OUT, '404.html'), layout({ title: 'Page introuvable', body: `<div class="wrap page-head"><h1 class="rp-display">404</h1><p>Cette page n’existe pas. <a href="/texte/">Revenir au texte</a>.</p></div>` }));
+fs.writeFileSync(path.join(OUT, '404.html'), layout({ title: 'Page introuvable', noindex: true, path: '/404', body: `<div class="wrap page-head"><h1 class="rp-display">404</h1><p>Cette page n’existe pas. <a href="/texte/">Revenir au texte</a>.</p></div>` }));
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${config.siteUrl}/sitemap.xml\n`);
 const urls = ['/', '/texte/', ...all.map(urlTitre), '/pourquoi/', '/comment/', '/commenter/', '/contact/'];
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${config.siteUrl}${u}</loc></url>`).join('')}</urlset>\n`);

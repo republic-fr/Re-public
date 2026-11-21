@@ -63,6 +63,8 @@
       });
     }
     input.addEventListener('focus', load);
+    var initial = new URLSearchParams(location.search).get('q');
+    if (initial && form === document.querySelector('.search')) { input.value = initial; render(initial); input.focus(); }
     input.addEventListener('input', function () { render(input.value); });
     input.addEventListener('keydown', function (e) {
       var links = list.querySelectorAll('a');
