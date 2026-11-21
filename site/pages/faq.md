@@ -72,6 +72,24 @@ Ces objections pointent de vraies faiblesses. Pour chacune, voici ce que le text
 
 **Ce qui reste ouvert.** Le régime actuel n’échappe pas au problème : son horizon est celui du cycle électoral. Mais le texte ne prévoit pas encore de stratégie explicite à vingt ou trente ans, ni de service chargé de la mémoire des décisions passées ([question #22](https://github.com/{{repo}}/issues/22)).
 
+### Le projet dénonce le « gouvernement des juges », mais ne le renforce-t-il pas ?
+
+**Ce que prévoit le texte.** Les membres du Conseil constitutionnel, de la Juridiction de probité et la part non magistrate du CSM sont tirés au sort : aucun pouvoir politique ne les choisit (articles 39, 96 et 113). Leurs mandats sont uniques et non renouvelables, leurs décisions motivées, publiques et accompagnées des opinions dissidentes (article 49). Le Conseil constitutionnel ne réécrit jamais une loi : il la suspend et la renvoie à une convention citoyenne (article 25). Et le peuple garde le dernier mot sur la Constitution elle-même, par la convention constituante et le référendum (Titre XVI).
+
+**Ce qui reste ouvert.** L’objection est sérieuse. Les compétences du Conseil constitutionnel sont très étendues, ses décisions sont sans recours, les viviers sont composés de professionnels du droit, et le texte ne dit pas ce qui se passe quand une convention confirme un texte suspendu. Il faut préciser qui a le dernier mot, hors droits intangibles ([question #23](https://github.com/{{repo}}/issues/23)).
+
+### La démocratie procédurale ne se paie-t-elle pas d’un recul de la liberté d’expression et du pluralisme ?
+
+**Ce que prévoit le texte.** Les partis restent libres et ne peuvent être dissous pour leurs idées (articles 5 et 186). Le contrôle d’intégrité des candidats est strictement limité aux positions objectivement incompatibles avec la défense de la Constitution et des droits intangibles (article 99). Les sanctions contre la manipulation informationnelle visent les comportements organisés, jamais les opinions ni les erreurs journalistiques, et restent sous contrôle d’un juge (article 179). Les auditions des conventions doivent représenter toutes les grandes familles d’acteurs (article 175).
+
+**Ce qui reste ouvert.** Plusieurs points méritent d’être resserrés : limiter le contrôle d’intégrité à des actes plutôt qu’à des opinions, réserver au juge les sanctions touchant l’expression, donner aux partis une place dans les auditions, et débattre de la diversité des opinions dans les conventions, que le tirage au sort démographique ne garantit pas à lui seul. Le caractère intangible de l’IVG et de la fin de vie, qui lie les générations futures, est lui aussi en discussion ([question #24](https://github.com/{{repo}}/issues/24) et [question #3](https://github.com/{{repo}}/issues/3)).
+
+### Le régime de crise ne rend-il pas la France vulnérable face à une cyberattaque, une pandémie ou une guerre ?
+
+**Ce que prévoit le texte.** L’administration agit immédiatement, sans attendre aucune convention, pour protéger les personnes et les infrastructures, sous le contrôle d’un juge qui statue en quelques heures (articles 146 et 149). Le ministre de la Défense peut engager sans délai la riposte à une agression armée (article 77). La convention de secours est désignée et formée à l’avance, dispose de sièges de repli et peut siéger à distance (article 151). En cas de conflit armé, l’état de crise peut être prolongé au-delà de six mois (article 157). Les seules interdictions absolues portent sur les droits intangibles et sur la confiscation du pouvoir (article 144).
+
+**Ce qui reste ouvert.** Le délai de 72 heures est long face à une attaque rapide, et le texte ne prévoit pas qui coordonne les ministres pendant une crise. La chaîne de décision nucléaire doit être validée par des spécialistes de défense ([question #25](https://github.com/{{repo}}/issues/25) et [question #8](https://github.com/{{repo}}/issues/8)).
+
 ## <span class="kicker">04</span>Vie quotidienne
 
 ### Je ne veux pas être tiré au sort.
