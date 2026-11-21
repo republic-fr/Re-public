@@ -6,7 +6,7 @@ La Constitution est complétée par une Déclaration des droits fondamentaux qui
 
 La Déclaration des droits fondamentaux se fonde sur la Déclaration des droits de l'homme et du citoyen du 26 août 1789, les principes économiques et sociaux particulièrement nécessaires à notre temps énoncés dans le Préambule de la Constitution du 27 octobre 1946, et la Charte de l'environnement de 2004.
 
-Elle est complétée et précisée par une convention thématique des droits fondamentaux , réunie  qui révise l'avant projet desans que ses travaux ne puissent réduire la substance des libertés et droits humains fondamentaux déjà reconnus.
+Elle est complétée et précisée par une convention thématique des droits fondamentaux, sans que ses travaux puissent réduire la substance des libertés et droits humains fondamentaux déjà reconnus.
 
 ### Article 9 — Droits intangibles
 

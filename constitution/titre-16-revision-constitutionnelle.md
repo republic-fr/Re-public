@@ -12,7 +12,7 @@ La révision de la Constitution peut être initiée :
 
 - par une convention ordinaire annuelle, à la majorité des trois quarts de ses membres présents ;
 
-- par la convention de secours, dans les conditions prévues à l'article 220, en cas de nécessité exceptionnelle dûment motivée.
+- par la convention de secours, dans les conditions prévues à l'article 219, en cas de nécessité exceptionnelle dûment motivée.
 
 L'initiative précise l'objet de la révision projetée.
 

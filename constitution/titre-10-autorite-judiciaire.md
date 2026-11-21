@@ -46,7 +46,7 @@ Chaque formation comprend douze membres :
 
 - une avocate ou un avocat ;
 
-- Deux universitaires spécialisés en droit ;
+- deux universitaires spécialisés en droit ;
 
 - une personnalité qualifiée issue de la société civile.
 
@@ -92,7 +92,7 @@ La formation compétente à l'égard des magistrates et magistrats du siège pro
 
 La formation compétente à l'égard des magistrates et magistrats du parquet propose les nominations aux plus hauts postes du parquet, notamment au parquet général près la Cour de cassation et aux fonctions de procureure générale ou procureur général et de procureure ou procureur de la République. Les autres magistrates et magistrats du parquet sont nommés sur son avis conforme.
 
-Aucune nomination ne peut intervenir sans l'accord conforme du Conseil supérieur de la magistrature. Ce principe s'applique également aux magistrats du parquet, par dérogation au régime antérieur.
+Aucune nomination ne peut intervenir sans l'accord conforme du Conseil supérieur de la magistrature. Ce principe s'applique également aux magistrats du parquet.
 
 ### Article 117 — Discipline
 
