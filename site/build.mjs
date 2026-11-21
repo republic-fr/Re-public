@@ -78,6 +78,7 @@ const NAV = [
   ['Pourquoi', '/pourquoi/'],
   ['Comment', '/comment/'],
   ['Commenter', '/commenter/'],
+  ['FAQ', '/faq/'],
   ['Contact', '/contact/'],
 ];
 
@@ -288,13 +289,30 @@ function contentPage(file, href) {
   const fm = {};
   const m = raw.match(/^---\n([\s\S]*?)\n---\n/);
   if (m) { for (const l of m[1].split('\n')) { const [k, ...v] = l.split(':'); fm[k.trim()] = v.join(':').trim(); } raw = raw.slice(m[0].length); }
-  const contactLine = config.contactEmail
-    ? `<p><a class="rp-btn rp-btn--primary" href="mailto:${esc(config.contactEmail)}">${esc(config.contactEmail)}</a></p>`
-    : `<p><a class="rp-btn rp-btn--primary" href="https://github.com/${config.repo}/discussions">Écrire sur GitHub</a></p>`;
+  // Adresse jamais écrite en clair dans le HTML : reconstituée par le navigateur (anti-collecte).
+  const [mu, mdom] = (config.contactEmail || '').split('@');
+  const mailBtn = mu ? `<p><a class="rp-btn rp-btn--primary js-mail" href="#" data-u="${esc([...mu].reverse().join(''))}" data-d="${esc([...mdom].reverse().join(''))}">Écrire à l’équipe</a></p><noscript><p>${esc(mu)} [arobase] ${esc(mdom)}</p></noscript>` : '';
+  const form = config.contactFormKey ? `<form class="contact-form" action="https://api.web3forms.com/submit" method="POST">
+  <input type="hidden" name="access_key" value="${esc(config.contactFormKey)}">
+  <input type="hidden" name="subject" value="Message depuis le site REpublic">
+  <input type="checkbox" name="botcheck" class="sr" tabindex="-1" autocomplete="off">
+  <label>Votre nom ou pseudonyme <span>(facultatif)</span><input class="rp-input" name="name" autocomplete="name"></label>
+  <label>Votre e-mail, pour vous répondre <span>(facultatif)</span><input class="rp-input" type="email" name="email" autocomplete="email"></label>
+  <label>Message<textarea class="rp-input" name="message" rows="7" required></textarea></label>
+  <button class="rp-btn rp-btn--primary" type="submit">Envoyer</button>
+</form>` : '';
+  const contactLine = form || mailBtn || `<p><a class="rp-btn rp-btn--primary" href="https://github.com/${config.repo}/issues">Écrire sur GitHub</a></p>`;
   raw = raw.replaceAll('{{contactLine}}', contactLine).replaceAll('{{repo}}', config.repo);
+  const html = md.render(linkify(raw));
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">${esc(fm.tag || fm.title)}</span>${fm.subtag ? `<span class="rp-tag">${esc(fm.subtag)}</span>` : ''}</div><h1 class="rp-title">${esc(fm.title)}</h1></div>
-<div class="wrap prose">${md.render(linkify(raw))}</div>`;
-  const jsonld = [webPage(href, fm.title, { description: fm.description || config.description, publisher: { '@id': ORG['@id'] }, breadcrumb: crumbs([['Accueil', '/'], [fm.title, href]]) })];
+<div class="wrap prose${fm.faq === 'true' ? ' faq' : ''}">${html}</div>`;
+  const extra = {};
+  if (fm.faq === 'true') {
+    const strip = (s) => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    const qa = [...html.matchAll(/<h3>([\s\S]*?)<\/h3>([\s\S]*?)(?=<h[23]>|$)/g)].map((m) => ({ '@type': 'Question', name: strip(m[1]), acceptedAnswer: { '@type': 'Answer', text: strip(m[2]) } }));
+    extra['@type'] = ['WebPage', 'FAQPage']; extra.mainEntity = qa;
+  }
+  const jsonld = [webPage(href, fm.title, { description: fm.description || config.description, publisher: { '@id': ORG['@id'] }, breadcrumb: crumbs([['Accueil', '/'], [fm.title, href]]), ...extra })];
   return layout({ title: fm.title, description: fm.description || config.description, current: href, body, path: href, jsonld });
 }
 
@@ -308,7 +326,7 @@ write('', home());
 write('texte', sommaire());
 const all = [preambule, ...titres];
 all.forEach((t, i) => write(`texte/${t.slug}`, titrePage(t, all[i - 1], all[i + 1])));
-for (const [file, href] of [['pourquoi.md', '/pourquoi/'], ['comment.md', '/comment/'], ['commenter.md', '/commenter/'], ['contact.md', '/contact/']]) {
+for (const [file, href] of [['pourquoi.md', '/pourquoi/'], ['comment.md', '/comment/'], ['commenter.md', '/commenter/'], ['faq.md', '/faq/'], ['contact.md', '/contact/']]) {
   write(href.replaceAll('/', ''), contentPage(file, href));
 }
 
@@ -320,7 +338,7 @@ fs.writeFileSync(path.join(OUT, 'search.json'), JSON.stringify(searchIndex));
 // Fichiers utilitaires
 fs.writeFileSync(path.join(OUT, '404.html'), layout({ title: 'Page introuvable', noindex: true, path: '/404', body: `<div class="wrap page-head"><h1 class="rp-display">404</h1><p>Cette page n’existe pas. <a href="/texte/">Revenir au texte</a>.</p></div>` }));
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${config.siteUrl}/sitemap.xml\n`);
-const urls = ['/', '/texte/', ...all.map(urlTitre), '/pourquoi/', '/comment/', '/commenter/', '/contact/'];
+const urls = ['/', '/texte/', ...all.map(urlTitre), '/pourquoi/', '/comment/', '/commenter/', '/faq/', '/contact/'];
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${config.siteUrl}${u}</loc></url>`).join('')}</urlset>\n`);
 
 console.log(`Site généré : ${all.length} pages de texte, ${articleIndex.size} articles → dist/`);

@@ -131,6 +131,14 @@
     });
   });
 
+  // Adresse de contact reconstituée au clic.
+  document.querySelectorAll('.js-mail').forEach(function (a) {
+    var rev = function (s) { return s.split('').reverse().join(''); };
+    var addr = rev(a.getAttribute('data-u')) + '@' + rev(a.getAttribute('data-d'));
+    a.setAttribute('href', 'mailto:' + addr);
+    a.insertAdjacentHTML('afterend', ' <span class="mail-addr">' + addr + '</span>');
+  });
+
   // Lien vers l'article : copie l'adresse.
   document.querySelectorAll('.js-permalink').forEach(function (a) {
     a.addEventListener('click', function () {

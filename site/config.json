@@ -4,7 +4,8 @@
   "description": "Avant-projet de Constitution de la République délibérative française : la loi formée par des conventions citoyennes tirées au sort.",
   "version": "Avant-projet · v25",
   "repo": "republic-fr/Re-public",
-  "contactEmail": "",
+  "contactEmail": "re-public-2027@proton.me",
+  "contactFormKey": "",
   "giscus": {
     "repo": "republic-fr/Re-public",
     "repoId": "R_kgDOV2rEZw",
