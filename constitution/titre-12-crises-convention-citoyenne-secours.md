@@ -80,8 +80,6 @@ Les mesures prises au titre des points 1° à 3° du présent article font l'obj
 
 - Clause de réexamen. Le présent article fait l'objet d'un réexamen obligatoire par convention constituante quinze ans après son entrée en vigueur. À défaut de reconfirmation expresse, les dispositions des points 1° à 3° et les garanties A à F deviennent caduques.
 
-.
-
 ### Article 147 — Cadre interdit
 
 Ne peuvent être prises qu'avec l'autorisation expresse de la convention de secours :

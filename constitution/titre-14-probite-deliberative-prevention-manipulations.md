@@ -78,7 +78,7 @@ Pour les représentants d'intérêts et les personnes exerçant une influence no
 
 L'Autorité générale des conventions citoyennes constitue et tient à jour un vivier public d'experts par domaine, aux fins notamment de préparation des dossiers des conventions et de sélection des auditions.
 
-Ce vivier est distinct du vivier du Conseil scientifique ad hoc prévu à l'article 56 et du vivier du jury technique ministériel prévu à l'article 62. Les conditions d'accréditation, fondées sur des critères objectifs de compétence, d'expérience, de diversité disciplinaire et méthodologique et d'absence de conflits d'intérêts, sont fixées par la loi organique.
+Ce vivier est distinct du vivier du Conseil scientifique ad hoc prévu à l'article 53 et du vivier du jury technique ministériel prévu à l'article 63. Les conditions d'accréditation, fondées sur des critères objectifs de compétence, d'expérience, de diversité disciplinaire et méthodologique et d'absence de conflits d'intérêts, sont fixées par la loi organique.
 
 Tout refus d'accréditation est motivé et peut faire l'objet d'un recours devant le Conseil constitutionnel.
 
@@ -92,7 +92,7 @@ Tout vivier public d'accréditation constitué en application de la présente Co
 
 - motivation publique de tout refus d'accréditation, susceptible de recours devant le Conseil constitutionnel.
 
-Les dispositions du présent alinéa sont applicables aux viviers prévus aux articles 39, 53, 62, 90, 93, 96, 113 et 170.
+Ces principes sont applicables aux viviers prévus aux articles 39, 53, 63, 90, 93, 96, 113 et 170.
 
 ### Article 171 — Jury d'experts indépendants
 
@@ -210,7 +210,7 @@ Il est institué par la présente Constitution une Autorité de régulation ind�
 
 - de prononcer les sanctions prévues à l'article 179 et les sanctions administratives prévues par la loi dans les matières relevant de ses compétences.
 
-L'Autorité est indépendante du pouvoir exécutif, du Parlement des conventions, des partis et groupements politiques et des intérêts privés. Sa composition, les modalités de désignation de ses membres, ses pouvoirs et ses règles de fonctionnement sont fixés par la loi organique, dans le respect des principes de la présente Constitution. L'intégrité de ses membres est contrôlée par la Juridiction de probité et de responsabilité publique. Ils sont révocables dans les conditions prévues au Titre IX.
+L'Autorité est indépendante du pouvoir exécutif, des conventions citoyennes, des partis et groupements politiques et des intérêts privés. Sa composition, les modalités de désignation de ses membres, ses pouvoirs et ses règles de fonctionnement sont fixés par la loi organique, dans le respect des principes de la présente Constitution. L'intégrité de ses membres est contrôlée par la Juridiction de probité et de responsabilité publique. Ils sont révocables dans les conditions prévues au Titre IX.
 
 ## Chapitre VI — Pluralisme des médias
 

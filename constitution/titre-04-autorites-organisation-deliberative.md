@@ -80,9 +80,9 @@ L'Autorité de programmation civique :
 
 - met en œuvre le programme défini par la convention de programmation en ouvrant les conventions thématiques selon le calendrier prévu ;
 
-- assure la continuité institutionnelle de l'activité législative entre deux conventions de programmation.
+- assure la continuité institutionnelle de l'activité législative entre deux conventions de programmation ;
 
-- propose à chaque convention citoyenne les sous-spécialité pertinentes des viviers d'expertise pour le sujet traité
+- propose à chaque convention citoyenne les sous-spécialités pertinentes des viviers d'expertise pour le sujet traité ;
 
 - valide la pluralité effective des viviers d'expertise mobilisés pour chaque convention citoyenne et pour chaque désignation aux fonctions juridictionnelles tirées au sort, ainsi que des programmes de formation des conventionnels. Elle peut imposer la modification de la composition d'un vivier ou d'un programme de formation pour défaut de pluralité ;
 
@@ -98,7 +98,7 @@ La pluralité des viviers est appréciée selon des indicateurs objectifs vérif
 
 — la diversité des positions doctrinales ou professionnelles, appréciée à partir des publications, des fonctions exercées et des contributions identifiables dans la spécialité.
 
-Le répertoriage des saisines et la tenue des registres sont matériellement assurées par les services de l'Autorité générale des conventions citoyennes, sous le contrôle de l'Autorité de programmation civique.
+Le répertoriage des saisines et la tenue des registres sont matériellement assurés par les services de l'Autorité générale des conventions citoyennes, sous le contrôle de l'Autorité de programmation civique.
 
 Les saisines émanant des juridictions prennent la forme de rapports publics collectifs, adoptés par la juridiction en formation plénière. Elles ne peuvent porter sur une affaire pendante devant la juridiction qui saisit. Les modalités de ces saisines sont précisées par la loi organique.
 

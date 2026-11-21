@@ -10,7 +10,7 @@ Le contrôle scientifique est assuré par un Conseil scientifique ad hoc, consti
 
 ### Article 53 — Vivier scientifique et désignation
 
-Un vivier public permanent d'experts est constitué  selon des critères objectifs vérifiables fixés par la loi organique. Sont inscrits de plein droit au vivier les titulaires d'un doctorat ou d'un titre universitaire équivalent dans une discipline scientifique reconnue, ainsi que les chercheurs en exercice dans un établissement public de recherche, une université ou un institut reconnu, exerçant une activité de recherche attestée par des publications.
+Un vivier public permanent d'experts est constitué selon des critères objectifs vérifiables fixés par la loi organique. Sont inscrits de plein droit au vivier les titulaires d'un doctorat ou d'un titre universitaire équivalent dans une discipline scientifique reconnue, ainsi que les chercheurs en exercice dans un établissement public de recherche, une université ou un institut reconnu, exerçant une activité de recherche attestée par des publications.
 
 Toute personne remplissant les critères d'inscription peut, à titre individuel, demander son inscription au vivier en justifiant de ses qualifications par des publications scientifiques évaluées par les pairs ou par des contributions vérifiables dans la discipline. La demande est examinée selon des critères objectifs fixés par la loi organique. Le refus d'inscription est motivé et peut faire l'objet d'un recours devant l'Autorité de programmation civique selon les modalités prévues à l'article 34.
 
