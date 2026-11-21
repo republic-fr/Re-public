@@ -1,6 +1,6 @@
 # Titre IV — Des autorités d'organisation délibérative {#autorites-deliberatives}
 
-## Chapitre I — L**'**Autorité générale des conventions citoyennes
+## Chapitre I — L'Autorité générale des conventions citoyennes
 
 ### Article 28 — Nature {#agcc-nature}
 
@@ -46,7 +46,7 @@ La fonction de direction générale est incompatible avec toute fonction minist�
 
 La loi organique fixe les mécanismes empêchant la capture, la corruption, l'influence occulte ou la bureaucratisation de cette autorité.
 
-## Chapitre II — L**'**Autorité de programmation civique
+## Chapitre II — L'Autorité de programmation civique
 
 ### Article 32 — Nature et composition {#apc-nature-composition}
 

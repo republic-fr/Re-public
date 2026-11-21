@@ -76,7 +76,7 @@ Le projet de budget est préparé par l'administration d'exécution, qui le tran
 
 Afin d'éviter toute capture technique et d'éclairer la délibération citoyenne, l'Autorité de contrôle de l'exécution des lois, via son service technique, produit un rapport d'analyse indépendant sur le projet de budget. Ce rapport identifie notamment les zones d'opacité, les dépenses insuffisamment justifiées et les écarts avec les priorités pluriannuelles. La convention délibère à la lumière des deux documents.
 
-## Chapitre III — Détermination de l**'**impôt
+## Chapitre III — Détermination de l'impôt
 
 ### Article 133 — Détermination de l'impôt {#determination-impot}
 
@@ -102,7 +102,7 @@ En cas de besoin urgent apparu en cours d'année, notamment en cas de crise rele
 
 Hors crise, une session supplémentaire de la convention ordinaire annuelle peut être réunie, sur saisine de l'Autorité de programmation civique, lorsqu'une dépense nouvelle d'ampleur significative ne peut attendre la session ordinaire suivante.
 
-## Chapitre V — Contrôle de l**'**exécution budgétaire
+## Chapitre V — Contrôle de l'exécution budgétaire
 
 ### Article 136 — Contrôle par l'Autorité de contrôle de l'exécution des lois {#budget-controle-execution}
 

@@ -1,6 +1,6 @@
 # Titre VII — De l'exécution des lois {#execution}
 
-## Chapitre I — Principes de l**'**exécution
+## Chapitre I — Principes de l'exécution
 
 ### Article 58 — Nature de l'administration d'exécution {#nature-administration-execution}
 
