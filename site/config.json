@@ -1,0 +1,14 @@
+{
+  "siteName": "REpublic",
+  "siteUrl": "https://re-public.pages.dev",
+  "description": "Avant-projet de Constitution de la République délibérative française : la loi formée par des conventions citoyennes tirées au sort.",
+  "version": "Avant-projet · v25",
+  "repo": "republic-fr/Re-public",
+  "contactEmail": "",
+  "giscus": {
+    "repo": "republic-fr/Re-public",
+    "repoId": "R_kgDOV2kH0A",
+    "category": "Commentaires",
+    "categoryId": ""
+  }
+}

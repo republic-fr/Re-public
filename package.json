@@ -1,0 +1,13 @@
+{
+  "name": "re-public-site",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node site/build.mjs",
+    "serve": "node site/build.mjs && npx --yes serve dist -l 4173"
+  },
+  "dependencies": {
+    "markdown-it": "14.1.0"
+  },
+  "engines": { "node": ">=20" }
+}

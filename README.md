@@ -9,6 +9,7 @@ Avant-projet de **Constitution de la République délibérative française** : u
 | Dossier | Contenu |
 |---|---|
 | `constitution/` | Le texte, un fichier par titre (Markdown). C'est la version de travail. |
+| `site/` | Le site web : pages éditoriales (`site/pages/`), styles et scripts (`site/assets/`), générateur (`site/build.mjs`), réglages (`site/config.json`). |
 
 Les points de fond encore ouverts sont suivis en *issues* (une par décision à prendre).
 
@@ -37,3 +38,11 @@ Les points de fond encore ouverts sont suivis en *issues* (une par décision à 
 
 - **Proposer une modification** : modifier le fichier concerné et ouvrir une *pull request* (possible directement depuis l'interface web de GitHub, bouton crayon).
 - **Discuter un point de fond** : ouvrir une *issue*.
+
+## Le site web
+
+Le site est généré à partir des fichiers de `constitution/` : toute modification du texte fusionnée dans `main` met le site à jour.
+
+- Générer en local : `npm install` puis `npm run build` (résultat dans `dist/`), ou `npm run serve` pour le voir sur http://localhost:4173.
+- Hébergement : Cloudflare Pages, relié à ce dépôt. Commande de build `npm run build`, dossier de sortie `dist`.
+- Commentaires : Giscus, sur GitHub Discussions, un fil par article. Les identifiants se règlent dans `site/config.json` (`giscus.categoryId`).
