@@ -30,27 +30,25 @@ Elle s'exerce, comme mode normal, par des conventions citoyennes tirées au sort
 
 ### Article 4 — Séparation des pouvoirs {#separation-pouvoirs}
 
-Aucune autorité ne peut exercer simultanément plusieurs des pouvoirs suivants :
+Les fonctions suivantes sont exercées par des autorités distinctes :
 
-— le pouvoir de former la loi ;
+— former la loi, y compris la loi de finances, qui détermine l'impôt et autorise la dépense ;
 
-— le pouvoir d'organiser la délibération citoyenne ;
+— organiser la délibération citoyenne ;
 
-— le pouvoir de contrôler la validité scientifique et constitutionnelle de la loi ;
+— contrôler la conformité de la loi à la Constitution et, dans les limites fixées au Titre [VI](#controle-scientifique), sa validité scientifique ;
 
-— le pouvoir d'assurer l'exécution de la loi ;
+— exécuter la loi, ce qui comprend le commandement des forces armées ;
 
-— le pouvoir de déterminer l'impôt et d'autoriser la dépense ;
+— contrôler l'exécution de la loi et l'emploi des fonds publics ;
 
-— le pouvoir de contrôler l'exécution de la loi et l'emploi des fonds publics ;
+— juger.
 
-— le pouvoir de juger, exercé par les juridictions indépendantes dans les conditions fixées aux Titres [IX](#juridiction-probite) et [X](#autorite-judiciaire) ;
+L'engagement des forces armées est décidé par une convention citoyenne. Seules les opérations strictement défensives en cas d'agression directe peuvent être engagées par l'autorité d'exécution, dans les conditions prévues à l'article [77](#autorisation-operations-militaires).
 
-— le pouvoir de commander les forces armées ;
+La Cour des comptes, juridiction financière, concourt au contrôle de l'emploi des fonds publics, dans les conditions prévues à l'article [84](#juridiction-financiere-service-technique).
 
-— le pouvoir de décider de l'engagement militaire.
-
-Par dérogation, la convention citoyenne de secours peut, en cas de crise et dans les conditions fixées au Titre [XII](#crises), exercer temporairement plusieurs des pouvoirs énumérés ci-dessus. Cette dérogation ne peut en aucun cas porter sur le pouvoir de juger ni sur le contrôle de la validité constitutionnelle de la loi.
+Par dérogation, la convention citoyenne de secours peut, en cas de crise et dans les conditions fixées au Titre [XII](#crises), exercer temporairement plusieurs de ces fonctions, à l'exclusion de la fonction de juger et du contrôle de constitutionnalité.
 
 ### Article 5 — Partis et groupements politiques {#partis-groupements-politiques}
 

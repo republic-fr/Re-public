@@ -30,7 +30,9 @@ La présente Constitution consacre en outre :
 
 ### Article 129 — Séparation des fonctions budgétaires {#separation-fonctions-budgetaires}
 
-Conformément à l'article [4](#separation-pouvoirs), la détermination de l'impôt, l'autorisation de la dépense, son exécution et le contrôle de leur emploi relèvent d'autorités distinctes. Le présent titre met en œuvre cette séparation.
+La détermination de l'impôt et l'autorisation de la dépense relèvent de la loi, adoptée par les conventions citoyennes. L'exécution de la dépense relève de l'administration d'exécution. Le contrôle de l'emploi des fonds publics relève de l'Autorité de contrôle de l'exécution des lois et de la Cour des comptes.
+
+Conformément à l'article [4](#separation-pouvoirs), ces fonctions sont exercées par des autorités distinctes. Le présent titre met en œuvre cette séparation.
 
 ## Chapitre II — Le cycle budgétaire en deux temps
 
