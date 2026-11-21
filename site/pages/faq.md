@@ -44,11 +44,35 @@ Les droits fondamentaux sont intangibles : aucune loi, aucune crise, aucune rév
 
 Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles 151 à 153). En attendant, l’administration prend les mesures de protection immédiate, sous le contrôle d’un juge (articles 146 à 149). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles 144 et 157).
 
-### Ce sera trop lent.
+## <span class="kicker">03</span>Les critiques les plus sérieuses
 
-Une convention thématique a une durée fixée à l’ouverture, bornée par la loi organique (article 23). Le budget est voté chaque année par une convention dédiée (article 26), et les urgences relèvent de la convention de secours.
+Ces objections pointent de vraies faiblesses. Pour chacune, voici ce que le texte prévoit déjà, et ce qui reste à améliorer : ces points sont ouverts à la discussion.
 
-## <span class="kicker">03</span>Vie quotidienne
+### Le pouvoir ne passe-t-il pas simplement aux experts et à l’administration, dans une oligarchie masquée ?
+
+**Ce que prévoit le texte.** Personne ne choisit les experts : ils sont tirés au sort dans des viviers ouverts, avec des critères de pluralité publics et contrôlés par une autorité elle-même composée de citoyens tirés au sort (articles 34, 170 et 171). Le dossier préparé par les experts est publié et soumis à une contre-expertise publique (article 174). Les experts déclarent leurs intérêts, sont rémunérés de façon uniforme et peuvent être récusés par la convention (articles 173 et 176). Le budget préparé par l’administration est accompagné d’un rapport indépendant qui en signale les zones d’ombre (article 132).
+
+**Ce qui reste ouvert.** Celui qui prépare le dossier cadre le débat : le risque ne disparaît pas, il se déplace. La répartition des rôles entre l’administration des conventions et l’autorité citoyenne qui la contrôle doit encore être clarifiée ([question #11](https://github.com/{{repo}}/issues/11)).
+
+### L’empilement des contrôles ne va-t-il pas paralyser la décision ?
+
+**Ce que prévoit le texte.** Le contrôle scientifique est étroit : il ne joue qu’en cas de contresens manifeste menaçant la santé ou l’environnement (article 55). Un recours contre une loi déjà en vigueur ne la suspend pas : c’est le Conseil constitutionnel qui fixe lui-même les effets dans le temps de sa décision (article 48). La majorité des deux tiers et la double condition du référendum ne concernent pas les mêmes textes : le référendum est réservé aux révisions de la Constitution. Les urgences relèvent de la convention de secours, qui siège sous 72 heures (article 153).
+
+**Ce qui reste ouvert.** L’objection est fondée sur plusieurs points : un texte suspendu peut attendre jusqu’à un an la convention annuelle suivante (article 25), rien n’empêche une suite de suspensions et de réexamens, et les contrôles n’ont pas de délai commun. Il faut borner ces délais dans la Constitution ([question #20](https://github.com/{{repo}}/issues/20)) et revoir les majorités ([question #17](https://github.com/{{repo}}/issues/17)).
+
+### Sans chef de l’État, qui parle pour la France au Conseil européen ou au G7 ?
+
+**Ce que prévoit le texte.** La représentation extérieure est confiée à des représentants spécialisés, qui négocient sur la base de mandats écrits et publics des ministres compétents (articles 68 à 71). En cas d’urgence internationale, la convention de secours peut ratifier un traité, sous réserve de confirmation (article 74).
+
+**Ce qui reste ouvert.** C’est une vraie faiblesse du texte actuel. Les traités européens réservent le Conseil européen aux chefs d’État ou de gouvernement, et le texte ne dit pas qui y siège pour la France. Il faut trancher qui incarne la République à l’extérieur, avec quel mandat, sans recréer un pouvoir personnel ([question #21](https://github.com/{{repo}}/issues/21)).
+
+### Avec des mandats courts et des conventions éphémères, comment mener une politique sur vingt ou trente ans ?
+
+**Ce que prévoit le texte.** La continuité ne repose pas sur les conventionnels, mais sur plusieurs éléments durables : une convention de programmation fixe les priorités et les trajectoires budgétaires sur cinq ans (articles 19 et 130) ; les rapporteurs de chaque convention gardent sa mémoire pendant cinq à dix ans et sont entendus par les suivantes (article 21) ; les autorités de contrôle et de justice ont des mandats de six à neuf ans, renouvelés par tiers ou par moitié pour assurer la continuité (articles 40, 97 et 114). L’administration, elle, est permanente.
+
+**Ce qui reste ouvert.** Le régime actuel n’échappe pas au problème : son horizon est celui du cycle électoral. Mais le texte ne prévoit pas encore de stratégie explicite à vingt ou trente ans, ni de service chargé de la mémoire des décisions passées ([question #22](https://github.com/{{repo}}/issues/22)).
+
+## <span class="kicker">04</span>Vie quotidienne
 
 ### Je ne veux pas être tiré au sort.
 
@@ -62,7 +86,7 @@ Les partis restent libres, et toutes les opinions sont protégées (article 5). 
 
 Le projet a été chiffré poste par poste. Hors coûts indirects, il coûterait environ 1 milliard d’euros de moins par an que les institutions actuelles. En incluant ces coûts indirects, le total est du même ordre. Le détail est sur la page [Comment](/comment/).
 
-## <span class="kicker">04</span>Le projet
+## <span class="kicker">05</span>Le projet
 
 ### Est-ce que ça existe déjà quelque part ?
 
