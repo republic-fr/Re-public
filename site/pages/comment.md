@@ -11,12 +11,10 @@ description: Les étapes pour passer à la République délibérative, ce qu'ell
 
 <ol class="steps">
 <li><div><h3>Un avant-projet ouvert</h3><p>Le texte que vous lisez. Il est publié, commenté article par article et révisé par des experts, pour que la convention constituante puisse se concentrer sur les points qui font débat.</p><a class="open" href="/commenter/">Commenter le texte</a></div></li>
-<li><div><h3>L’ouverture du processus constituant</h3><p>Elle relève de la Constitution actuelle. Le projet ne fixe pas encore la voie retenue pour convoquer la première convention constituante : c’est l’un des points à préciser.</p></div></li>
 <li><div><h3>La convention constituante</h3><p>Trois cents citoyennes et citoyens tirés au sort, pendant trois à six mois, délibèrent article par article à partir de l’avant-projet. Ils peuvent l’élargir, le restreindre ou le corriger (Titre XVI).</p></div></li>
-<li><div><h3>La convention des droits fondamentaux</h3><p>Cent cinquante citoyennes et citoyens tirés au sort rédigent la Déclaration des droits fondamentaux annexée à la Constitution, sans pouvoir réduire les droits déjà reconnus (article 8).</p></div></li>
+<li><div><h3>La convention des droits fondamentaux</h3><p>Cent cinquante citoyennes et citoyens tirés au sort rédigent la Déclaration des droits fondamentaux annexée à la Constitution, en partant de la Déclaration de 1789, du Préambule de 1946 et de la Charte de l’environnement (article 8).</p></div></li>
 <li><div><h3>Le contrôle de cohérence</h3><p>Le Conseil constitutionnel vérifie la cohérence du texte et le respect des droits intangibles de l’article 9, y compris contre la volonté de la majorité.</p></div></li>
 <li><div><h3>Le référendum de ratification</h3><p>Le texte est adopté si la majorité des suffrages exprimés est favorable et si la participation atteint au moins la moitié des inscrits (article 215).</p></div></li>
-<li><div><h3>La mise en place</h3><p>Lois organiques, premières conventions, passage des institutions actuelles aux nouvelles. Les dispositions transitoires restent à écrire : elles feront l’objet d’un titre dédié.</p></div></li>
 </ol>
 
 ## <span class="kicker">02</span>Pas plus cher que le système actuel

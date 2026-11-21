@@ -12,7 +12,7 @@ description: Le diagnostic qui fonde le projet, et ce que la Constitution délib
 Près de soixante-dix ans de Ve République, après treize Constitutions successives. Quatre défauts reviennent :
 
 - la concentration du pouvoir autour de la figure présidentielle ;
-- l’affaiblissement du Parlement, notamment par les articles 16 et 49.3 de la Constitution actuelle ;
+- l’affaiblissement du Parlement, notamment par les <a href="https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_16">articles&nbsp;16</a> et <a href="https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_49">49.3</a> de la Constitution de 1958 ;
 - la faible représentativité des mécanismes électoraux ;
 - la réduction de la participation à l’acte intermittent du vote.
 
@@ -72,7 +72,7 @@ Une pétition qui atteint le seuil fixé par la loi organique est transmise à l
 
 ### Vous pouvez contester une loi ou un abus
 
-- Toute citoyenne et tout citoyen justifiant d’un intérêt à agir peut contester une loi en vigueur devant le Conseil constitutionnel (article 44).
+- Toute citoyenne et tout citoyen directement concerné par une loi en vigueur peut la contester devant le Conseil constitutionnel (article 44).
 - Toute personne peut saisir le Défenseur des droits face à une administration (article 91), et signaler un dysfonctionnement à l’Autorité de contrôle de l’exécution des lois (article 83).
 - Toute personne peut saisir la Juridiction de probité de faits nouveaux mettant en cause l’intégrité d’un responsable public (article 103).
 
