@@ -8,7 +8,7 @@ La Juridiction de probité et de responsabilité publique est une juridiction co
 
 ### Article 96 — Composition
 
-La Juridiction est composée de quinze membres, exclusivement magistrats ou juristes de formation juridictionnelle équivalente, ayant une expertise articulière du droit pénal, du droit disciplinaire, du droit administratif ou du contrôle de la probité publique. Le nombre de membres peut être précisé par la loi organique sans pouvoir être inférieur à neuf.
+La Juridiction est composée de quinze membres, exclusivement magistrats ou juristes de formation juridictionnelle équivalente, ayant une expertise particulière du droit pénal, du droit disciplinaire, du droit administratif ou du contrôle de la probité publique. Le nombre de membres peut être précisé par la loi organique sans pouvoir être inférieur à neuf.
 
 Les membres sont désignés par tirage au sort stratifié dans un vivier public permanent d'accréditation constitué selon des critères objectifs vérifiables fixés par la loi organique.
 
@@ -30,7 +30,7 @@ L'inscription au vivier suppose le respect des règles d'indépendance, d'impart
 
 Le tirage au sort garantit la diversité des origines professionnelles et des domaines de spécialisation.
 
-La pluralité effective du vivier est contrôlée par l'Autorité de programmation civique selon les indicateurs fixés à l'article 39, dans les conditions prévues à l'article 34.
+La pluralité effective du vivier est contrôlée par l'Autorité de programmation civique selon les indicateurs de pluralité prévus à l'article 34.
 
 ### Article 97 — Durée du mandat
 

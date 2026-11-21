@@ -90,7 +90,7 @@ Les règles de transparence des influences, de probité et de prévention des ma
 
 ### Article 17 — Majorité qualifiée
 
-Sauf disposition contraire de la présente Constitution, pour que la convention citoyenne puisse délibérer valablement, un quorum des deux tiers de ses membres est requis. Les décisions matérielles sont adoptées à la majorité qualifiée des deux tiers des membres présents. Elle s'applique notamment à l'adoption de la loi, du budget, des décisions stratégiques et des mesures exceptionnelles de crise.
+Sauf disposition contraire de la présente Constitution, pour que la convention citoyenne puisse délibérer valablement, un quorum des deux tiers de ses membres est requis. Les décisions matérielles sont adoptées à la majorité qualifiée des deux tiers des membres présents. Cette majorité s'applique notamment à l'adoption de la loi, du budget, des décisions stratégiques et des mesures exceptionnelles de crise.
 
 Les décisions relatives à la procédure interne et à l'organisation des travaux sont prises à la majorité simple des membres présents.
 
@@ -186,7 +186,7 @@ La convention ordinaire annuelle adopte chaque année :
 
 Pour le réexamen des textes suspendus, la convention se divise en commissions thématiques. Chaque commission entend :
 
-- une rapporteuse ou un rapporteur désigné par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, qui présente les griefs  ayant fondé la suspension ;
+- une rapporteuse ou un rapporteur désigné par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, qui présente les griefs ayant fondé la suspension ;
 
 - une rapporteuse ou un rapporteur désigné parmi les membres de la convention ayant adopté le texte initial, qui présente l'intention et le contenu délibéré de la loi.
 

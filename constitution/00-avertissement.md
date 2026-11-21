@@ -12,7 +12,7 @@ Sont traités dans la présente version :
 
 - Titre V — Du Conseil constitutionnel
 
-- Titre VI — Du contrôle scientifique de non-régression matérielle
+- Titre VI — Du contrôle scientifique
 
 - Titre VII — De l'exécution des lois
 

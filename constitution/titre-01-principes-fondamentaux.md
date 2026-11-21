@@ -1,8 +1,8 @@
 # Titre I — Des principes fondamentaux
 
-### Article 1 — République conventionnelle et égalité
+### Article 1 — République délibérative et égalité
 
-La France est une République démocratique conventionnelle, indivisible et laïque.
+La France est une République démocratique délibérative, indivisible et laïque.
 
 Elle assure l'égalité devant la loi de toutes les citoyennes et de tous les citoyens, sans distinction d'origine, de condition sociale, de sexe, de genre, d'orientation sexuelle, d'âge, d'état de santé, de handicap, de conviction ou de religion.
 
@@ -42,9 +42,9 @@ Aucune autorité ne peut exercer simultanément plusieurs des pouvoirs suivants 
 
 — le pouvoir de déterminer l'impôt et d'autoriser la dépense ;
 
-— le pouvoir de contrôler l'exécution de la loi et l'emploi des fonds publics
+— le pouvoir de contrôler l'exécution de la loi et l'emploi des fonds publics ;
 
-— le pouvoir de juger, exercé par les juridictions indépendantes dans les conditions fixées aux Titres IX et X.
+— le pouvoir de juger, exercé par les juridictions indépendantes dans les conditions fixées aux Titres IX et X ;
 
 — le pouvoir de commander les forces armées ;
 
@@ -56,7 +56,7 @@ Par dérogation, la convention citoyenne de secours peut, en cas de crise et dan
 
 Les partis et groupements politiques se forment et exercent leur activité librement. L'expression des idées politiques, y compris minoritaires, critiques ou dissidentes, est protégée.
 
-Les partis et groupements politiques concourent à l'expression du pluralisme.  Ils ne disposent d'aucun rôle propre dans la formation de la loi, dans la désignation des responsables publics ni dans l'organisation des conventions citoyennes, qui reposent sur le tirage au sort civique.
+Les partis et groupements politiques concourent à l'expression du pluralisme. Ils ne disposent d'aucun rôle propre dans la formation de la loi, dans la désignation des responsables publics ni dans l'organisation des conventions citoyennes, qui reposent sur le tirage au sort civique.
 
 Un parti ou groupement politique ne peut être dissous à raison des idées ou opinions qu'il défend publiquement. La dissolution ne peut être prononcée que par décision motivée et contradictoire du juge judiciaire, pour des faits matériels graves portant atteinte à l'ordre constitutionnel, ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique, dans les conditions fixées au Titre XIV.
 
