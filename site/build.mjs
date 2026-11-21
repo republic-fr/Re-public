@@ -207,9 +207,9 @@ const searchBox = `<form class="search" role="search" action="/texte/" onsubmit=
 function home() {
   const body = `<section class="hero wrap">
   <div class="rp-tags"><span class="rp-tag rp-tag--solid">Avant-projet</span><span class="rp-tag">de Constitution délibérative</span></div>
-  <h1 class="rp-display hero__title">Plus qu’un vote</h1>
+  <h1 class="rp-display hero__title">Repenser la démocratie par le tirage au sort</h1>
   <div class="hero__grid">
-    <p class="hero__lead">Une République où la loi est écrite par des conventions de citoyennes et de citoyens tirés au sort, protégées, outillées et contrôlées. Le texte est ouvert : lisez-le, commentez-le article par article.</p>
+    <p class="hero__lead">Un modèle démocratique prêt à l’emploi pour le XXI<sup>e</sup> siècle : une République où la loi est écrite par des conventions de citoyennes et de citoyens tirés au sort, protégées, outillées et contrôlées. Le texte est ouvert : lisez-le, commentez-le article par article.</p>
     <div class="rp-sortition hero__mark" data-sortition="14" aria-hidden="true" style="--cell:12px;--gap:4px"></div>
   </div>
 </section>
