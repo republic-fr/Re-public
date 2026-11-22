@@ -22,7 +22,7 @@ description: Les étapes pour passer à la République délibérative, ce qu'ell
 
 Une Constitution ne peut pas organiser sa propre adoption : ce sont les règles de 1958 qui s’appliquent jusqu’au référendum. Deux voies existent.
 
-**La révision par le Parlement (article 89 de la Constitution de 1958).** L’Assemblée nationale et le Sénat adoptent une loi constitutionnelle qui crée la convention constituante tirée au sort et prévoit le référendum. C’est ainsi qu’a été ouverte la rédaction de la Constitution actuelle : la loi constitutionnelle du 3 juin 1958 a organisé le passage de la IVe à la Ve République. C’est la voie la plus sûre juridiquement, mais elle suppose l’accord des deux chambres, dont le Sénat, appelé à disparaître.
+**La révision par le Parlement (article 89 de la Constitution de 1958).** L’Assemblée nationale et le Sénat adoptent une loi constitutionnelle qui crée la convention constituante tirée au sort et prévoit le référendum. C’est ainsi qu’a été ouverte la rédaction de la Constitution actuelle : la loi constitutionnelle du 3 juin 1958 a organisé le passage de la IVe à la Ve République. C’est la voie la plus sûre juridiquement, mais elle suppose l’accord des deux chambres, alors que toutes deux sont appelées à disparaître.
 
 **Le référendum décidé par le président (article 11 de la Constitution de 1958).** Le président soumet directement au peuple une loi qui organise la convention constituante. Le général de Gaulle a modifié la Constitution de cette façon en 1962 ; la régularité du procédé reste discutée, mais le Conseil constitutionnel s’est déclaré incompétent pour le juger. C’est la voie la plus directe : elle suppose un président qui s’y engage, par exemple dans son programme.
 
