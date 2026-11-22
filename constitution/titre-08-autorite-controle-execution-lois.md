@@ -140,12 +140,18 @@ Elle exerce, dans des conditions préservant les secrets strictement nécessaire
 
 - saisine du Conseil constitutionnel, de la Juridiction de probité et de l'autorité judiciaire ;
 
-- information en temps réel de tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires ;
+- information en temps réel de tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires, et de tout déploiement d'unités d'intervention des forces de sécurité intérieure aux abords des lieux mentionnés à l'article [145](#exclusion-regime-militaire-exception) ;
 - saisine immédiate et de plein droit de la convention de secours et du Conseil constitutionnel en cas de suspicion d'atteinte à l'ordre constitutionnel.
 
 Elle rend compte chaque année à la session plénière de l'Autorité de contrôle, selon des modalités garantissant la protection des secrets légitimes et la publicité des constatations structurelles.
 
 Les atteintes à son droit d'accès constituent une faute grave au sens de l'article [101](#jugement-fautes-graves).
+
+Seuls peuvent être protégés par le secret, au sens de la présente Constitution : les plans et opérations militaires en cours ; les sources, méthodes et agents des services de renseignement ; les positions de repli et éléments confidentiels d'une négociation internationale en cours ; les informations dont la divulgation mettrait en danger une personne protégée. Aucune autre information ne peut être classifiée.
+
+Tout secret a une durée limitée. Il prend fin à la conclusion ou à l'abandon de la négociation et, dans les autres cas, au plus tard vingt-cinq ans après la classification. Seule la Commission peut prolonger cette durée, par décision motivée et pour une durée déterminée.
+
+Le secret n'est opposable ni à la Commission, ni aux juridictions, ni au Conseil constitutionnel, ni à la Juridiction de probité et de responsabilité publique, qui en assurent la protection. La déclassification est décidée par la Commission ou par le juge saisi, jamais par l'autorité qui a classifié l'information. Aucun secret ne peut couvrir une infraction ou une atteinte aux droits garantis par la présente Constitution.
 
 ## Chapitre IV — Le Défenseur des droits
 

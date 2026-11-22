@@ -24,7 +24,7 @@ C’est le principe du sondage : un échantillon bien construit reflète la dive
 
 ### Qui rend des comptes, si personne n’est réélu ?
 
-Les conventions sont temporaires et sans réélection : personne n’a de carrière à protéger ni de clientèle à satisfaire. Ceux qui exercent un pouvoir durable, ministres et responsables publics, sont contrôlés en continu par l’Autorité de contrôle de l’exécution des lois (Titre [VIII](#controle-execution)) et révocables par la Juridiction de probité (Titre [IX](#juridiction-probite)).
+Les conventions sont temporaires et sans réélection : personne n’a de carrière à protéger ni de clientèle à satisfaire. Ceux qui exercent un pouvoir durable, ministres et responsables publics, sont contrôlés en continu par l’Autorité de contrôle de l’exécution des lois (Titre [VIII](#controle-execution)) et révocables par la Juridiction de probité (Titre [IX](#juridiction-probite)). Un ministre qui n’exécute pas les lois peut aussi être averti, puis remplacé (article [65](#duree-mandat-ministeriel)).
 
 ### Le projet dénonce le « gouvernement des juges », mais ne le renforce-t-il pas ?
 

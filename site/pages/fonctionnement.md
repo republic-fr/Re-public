@@ -335,7 +335,7 @@ noeuds:
     detail: 50 citoyens, renouvelés par moitié chaque année
     info: >-
       Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après trois tours sans majorité, la désignation est reprise après un renouvellement partiel de la convention, et un intérim assure la continuité. Elle désigne aussi les représentants
-      aux relations extérieures (articles [61](#convention-designation-ministres) et [62](#procedure-designation-ministres)).
+      aux relations extérieures. Si l’Autorité de contrôle constate qu’un ministre n’exécute pas les lois, elle peut l’avertir, puis, six mois plus tard et aux deux tiers, mettre fin à son mandat (articles [61](#convention-designation-ministres), [62](#procedure-designation-ministres) et [65](#duree-mandat-ministeriel)).
   - id: ministres
     ligne: 4
     colonne: 2
@@ -475,7 +475,7 @@ noeuds:
     nom: Conseil supérieur de la magistrature
     detail: Trois formations (siège, parquet, juridiction administrative)
     info: >-
-      Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats et peut être saisi par tout justiciable
+      Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats, dans une formation où les magistrats sont minoritaires, et peut être saisi par tout justiciable
       (articles [116](#csm-nominations) à [120](#csm-saisine-justiciables)).
   - id: pairs
     ligne: 5

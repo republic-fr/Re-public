@@ -73,6 +73,10 @@ Le contrôle préalable de probité et d'intégrité des candidates et candidats
 
 Le mandat ministériel est de trois ans, renouvelable une fois. Les ministres sont révocables en cours de mandat par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre [IX](#juridiction-probite).
 
+Lorsqu'un rapport de l'Autorité de contrôle de l'exécution des lois constate une défaillance persistante dans l'exécution des lois ou du budget relevant d'un ministère, la convention de désignation peut adresser à la ou au ministre un avertissement public assorti d'objectifs précis. Si, six mois au moins après l'avertissement, un nouveau rapport de l'Autorité constate que ces objectifs ne sont pas atteints, la convention peut, après audition publique de la ou du ministre, mettre fin à son mandat à la majorité des deux tiers de ses membres.
+
+Ces décisions se fondent exclusivement sur les constats de l'Autorité de contrôle, jamais sur un désaccord avec les choix faits par la ou le ministre dans le cadre de la loi. Aucun avertissement ne peut être adressé dans les six mois qui suivent la désignation. La décision de mettre fin au mandat est susceptible de recours devant le Conseil constitutionnel, qui vérifie le respect de ces conditions.
+
 ### Article 66 — Intérim ministériel {#interim-ministeriel}
 
 En cas de vacance d'un ministère, l'intérim est assuré par la ou le ministre délégué du ministère concerné. À défaut, il est assuré par la haute fonctionnaire ou le haut fonctionnaire du plus haut grade en fonction dans le ministère.
@@ -91,6 +95,8 @@ La représentation extérieure de la République est assurée par une pluralité
 
 Les représentants exercent une fonction de rapporteurs auprès des ministres compétents, sans pouvoir de décision propre.
 
+Au Conseil de sécurité des Nations unies, la République vote selon une doctrine adoptée par convention thématique. Les votes sont émis par le représentant compétent sur instruction écrite du ministre chargé des relations extérieures. L'usage du droit de veto est décidé par le collège des ministres, qui en publie les motifs.
+
 ### Article 69 — Mandat et incompatibilités {#representants-mandat-incompatibilites}
 
 Le mandat d'un représentant aux relations extérieures est de deux ans, non renouvelable immédiatement.
@@ -107,7 +113,7 @@ Il est absolument interdit aux représentants de prendre position publiquement e
 
 ### Article 71 — Négociations préparatoires {#negociations-preparatoires}
 
-Les représentants peuvent engager la République dans des négociations préparatoires, sans pouvoir de ratification finale, sur la base d'un mandat écrit et public émanant des ministres concernés.
+Les représentants peuvent engager la République dans des négociations préparatoires, sans pouvoir de ratification finale, sur la base d'un mandat écrit émanant des ministres concernés. Le mandat est public dans ses objectifs et ses lignes rouges. Les positions de repli sont confidentielles ; elles sont communiquées à la Commission permanente de contrôle du renseignement et des forces armées et publiées après la conclusion ou l'abandon de la négociation.
 
 La chaîne de conclusion d'un traité est la suivante : un représentant négocie le texte ; la ou le ministre compétent valide la version négociée ; le traité est ratifié selon les règles de l'article [73](#ratification-traites-majeurs).
 
