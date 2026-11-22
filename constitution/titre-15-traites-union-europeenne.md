@@ -116,7 +116,7 @@ En cas de doute ou de contestation, le Conseil constitutionnel privilégie la pr
 
 Lorsqu'un transfert intermédiaire est examiné par une convention thématique, la convention peut, à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), décider de soumettre le texte au référendum avant ratification.
 
-Un référendum peut également être déclenché par pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à un million de signatures d'électrices et électeurs inscrits, dans un délai fixé par la loi organique à compter de l'adoption du texte par la convention thématique.
+Un référendum peut également être déclenché par pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à un million de signatures de membres du corps civique, dans un délai fixé par la loi organique à compter de l'adoption du texte par la convention thématique.
 
 Les règles de campagne référendaire et de majorité sont celles prévues aux articles du Titre [XVI](#revision) relatifs au référendum constitutionnel, adaptées par la loi organique aux spécificités du référendum européen.
 
@@ -164,9 +164,7 @@ La convention constituante de sortie délibère sur les modalités de la sortie,
 
 ### Article 206 — Droits des citoyennes et citoyens européens résidant en France {#droits-citoyens-europeens}
 
-Les citoyens des États membres de l'Union européenne résidant régulièrement en France peuvent participer aux conventions citoyennes territoriales, selon les conditions de tirage au sort précisées par la loi organique et dans les limites fixées par les traités.
-
-Les modalités précises de participation, notamment les conditions de durée de résidence et les fonctions incompatibles, sont déterminées par la convention constituante de mise en œuvre de la présente Constitution.
+Les citoyennes et citoyens des autres États membres de l'Union européenne résidant en France participent aux conventions citoyennes territoriales dans les conditions prévues par les traités, y compris lorsqu'ils ne remplissent pas encore la condition de durée de résidence prévue à l'article [13](#eligibilite-participation).
 
 ### Article 207 — Coopérations européennes thématiques {#cooperations-europeennes-thematiques}
 

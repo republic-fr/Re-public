@@ -24,7 +24,7 @@ La présente Constitution prévoit les conventions suivantes :
 
 ### Article 12 — Composition et représentativité {#composition-representativite}
 
-Les conventions citoyennes sont composées de personnes majeures résidant en France, tirées au sort dans les conditions fixées à l'article [13](#eligibilite-participation). Leur composition assure une représentativité effective de la population résidant en France selon les critères déterminés par la loi organique, comprenant :
+Les conventions citoyennes sont composées de membres du corps civique résidant en France, tirés au sort dans les conditions fixées à l'article [13](#eligibilite-participation). Leur composition assure une représentativité effective de la population résidant en France selon les critères déterminés par la loi organique, comprenant :
 
 - le sexe ;
 
@@ -38,9 +38,11 @@ Les conventions citoyennes sont composées de personnes majeures résidant en Fr
 
 - la zone géographique.
 
-### Article 13 — Éligibilité et participation {#eligibilite-participation}
+### Article 13 — Corps civique, éligibilité et participation {#eligibilite-participation}
 
-Toute personne majeure résidant de manière permanente ou durable en France, dans les conditions fixées par la loi organique, est éligible au tirage au sort civique. Les personnes placées sous un régime juridique de protection ou dont l'état de santé rend impossible la participation bénéficient de mesures d'adaptation ou, à défaut, sont exemptées.
+Le corps civique comprend les Françaises et les Français majeurs, ainsi que les personnes majeures de nationalité étrangère résidant régulièrement en France depuis au moins cinq ans. Ses membres signent les pétitions et votent aux référendums prévus par la présente Constitution. Dans la présente Constitution, les mots « citoyennes » et « citoyens » désignent les membres du corps civique.
+
+Tout membre du corps civique résidant en France est éligible au tirage au sort civique. Le tirage au sort est effectué dans les fichiers administratifs de population, notamment fiscaux et sociaux, et non sur les listes électorales, dans des conditions fixées par la loi organique qui garantissent la protection des données personnelles. Les personnes placées sous un régime juridique de protection ou dont l'état de santé rend impossible la participation bénéficient de mesures d'adaptation ou, à défaut, sont exemptées.
 
 La participation à une convention citoyenne tirée au sort constitue un devoir civique. Le refus de siéger n'est admis que pour motif grave, notamment médical, familial ou de force majeure, dans les conditions et selon la procédure fixées par la loi organique. La loi organique détermine les conséquences des refus non motivés.
 

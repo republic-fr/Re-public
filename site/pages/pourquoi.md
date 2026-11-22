@@ -59,7 +59,7 @@ Quatre principes fondent le texte :
 
 ### Vous pouvez être appelé à faire la loi
 
-Toute personne majeure résidant durablement en France peut être tirée au sort pour siéger dans une convention citoyenne (article [13](#eligibilite-participation)). C’est un devoir civique, dont on n’est dispensé que pour motif grave. En contrepartie, la Constitution vous garantit (article [14](#statut-conventionnel)) :
+Toute personne majeure de nationalité française, ou de nationalité étrangère résidant en France depuis au moins cinq ans, peut être tirée au sort pour siéger dans une convention citoyenne (article [13](#eligibilite-participation)). C’est un devoir civique, dont on n’est dispensé que pour motif grave. En contrepartie, la Constitution vous garantit (article [14](#statut-conventionnel)) :
 
 - le maintien intégral de vos revenus et de vos droits sociaux, plus une indemnité de participation ;
 - la protection de votre emploi pendant toute la durée de la convention ;
@@ -86,7 +86,7 @@ Dignité, interdiction de la torture et de la peine de mort, égalité, liberté
 
 ### Vous votez sur la Constitution
 
-Toute révision de la Constitution, préparée par une convention constituante tirée au sort, est soumise à référendum. Elle n’est adoptée que si la majorité des votants l’approuve et que les « oui » représentent au moins un tiers des inscrits (article [215](#referendum-revision-majorite)).
+Toute révision de la Constitution, préparée par une convention constituante tirée au sort, est soumise à référendum. Elle n’est adoptée que si la majorité des votants l’approuve et que les « oui » représentent au moins un tiers du corps civique (article [215](#referendum-revision-majorite)).
 
 ### Près de chez vous aussi
 

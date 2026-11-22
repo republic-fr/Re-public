@@ -84,6 +84,10 @@ Siéger est un devoir civique, comme être juré d’assises. On peut être disp
 
 Les partis restent libres, et toutes les opinions sont protégées (article [5](#partis-groupements-politiques)). Ils continuent de débattre, de proposer, de mobiliser l’opinion et de lancer des pétitions. Ce qui change, c’est qu’ils ne choisissent plus ceux qui font la loi. Vous gardez le vote sur la Constitution, la pétition (article [36](#seuils-effets-petitions)) et le recours contre une loi (article [44](#cc-saisine-posteriori)).
 
+### Des étrangers pourront-ils voter ou siéger dans une convention ?
+
+Oui, après cinq ans de résidence régulière en France. Le peuple souverain, c’est le corps civique : les Françaises et Français majeurs, et les personnes étrangères majeures qui vivent en France depuis au moins cinq ans (article [13](#eligibilite-participation)). Tous peuvent signer les pétitions, voter aux référendums et être tirés au sort. Ceux qui vivent durablement sous la loi participent à la faire. La Nouvelle-Zélande fait de même depuis 1975 : les résidents permanents y votent aux élections nationales et aux référendums.
+
 ### Combien ça coûte ?
 
 Le projet a été chiffré poste par poste. Hors coûts indirects, il coûterait environ 1 milliard d’euros de moins par an que les institutions actuelles. En incluant ces coûts indirects, le total est du même ordre. Le détail est sur la page [Comment](/comment/).

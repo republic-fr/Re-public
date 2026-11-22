@@ -51,7 +51,7 @@ noeuds:
     nom: Référendum
     detail: Ratifie
     info: >-
-      Le texte est adopté si la majorité des votants l’approuve et si les « oui » représentent au moins un tiers des inscrits
+      Le texte est adopté si la majorité des votants l’approuve et si les « oui » représentent au moins un tiers du corps civique
       (article [215](#referendum-revision-majorite)).
   - id: petitions
     ligne: 3

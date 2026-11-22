@@ -6,7 +6,7 @@
 
 La révision de la Constitution peut être initiée :
 
-- par une pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à deux millions de signatures d'électrices et électeurs inscrits ;
+- par une pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à deux millions de signatures de membres du corps civique ;
 
 - par la convention de programmation, à la majorité qualifiée ;
 
@@ -80,7 +80,7 @@ La révision constitutionnelle est adoptée lorsque deux conditions sont simulta
 
 - la majorité des suffrages exprimés est favorable à la révision ;
 
-- les suffrages favorables représentent au moins le tiers des électrices et électeurs inscrits.
+- les suffrages favorables représentent au moins le tiers des membres du corps civique.
 
 À défaut de l'une de ces conditions, le texte est rejeté.
 
@@ -88,7 +88,7 @@ La révision constitutionnelle est adoptée lorsque deux conditions sont simulta
 
 La campagne référendaire est encadrée par la loi organique, dans le respect des principes suivants :
 
-- présentation pluraliste des positions favorables et défavorables à la révision, dans les médias publics et dans un document officiel adressé à chaque électeur ;
+- présentation pluraliste des positions favorables et défavorables à la révision, dans les médias publics et dans un document officiel adressé à chaque membre du corps civique ;
 
 - plafonnement et transparence intégrale des dépenses de campagne ;
 
