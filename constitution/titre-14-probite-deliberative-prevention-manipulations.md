@@ -66,7 +66,7 @@ Pour les responsables publics, la Juridiction de probité et de responsabilité 
 
 Pour les membres des conventions citoyennes, la convention peut, à la majorité qualifiée, exclure l'un de ses membres pour faute grave avérée, par décision motivée. Cette décision est susceptible de recours devant la Juridiction de probité et de responsabilité publique.
 
-Constitue une atteinte à la souveraineté populaire, qualification d'ordre constitutionnel, toute corruption, tentative de corruption, pression, menace, représaille, intimidation, collecte ou exploitation d'informations personnelles, ou campagne de désinformation organisée, dirigée contre un membre d'une convention citoyenne, d'un jury d'experts, du Conseil scientifique ad hoc, de la Juridiction de probité ou du Conseil constitutionnel, ou contre leurs proches, en lien avec leurs fonctions.
+Constitue une atteinte à la souveraineté populaire, qualification d'ordre constitutionnel, toute corruption, tentative de corruption, pression, menace, représaille, intimidation, collecte ou exploitation d'informations personnelles, révélation de l'identité d'un membre dont l'identité est protégée, ou campagne de désinformation organisée, dirigée contre un membre d'une convention citoyenne, d'un jury d'experts, du Conseil scientifique ad hoc, de la Juridiction de probité ou du Conseil constitutionnel, ou contre leurs proches, en lien avec leurs fonctions.
 
 Ces infractions font l'objet d'un régime pénal aggravé, d'un délai de prescription allongé et d'une compétence universelle des juridictions françaises lorsqu'elles sont commises depuis l'étranger ou par des personnes ou entités étrangères. Les peines ne peuvent être inférieures à celles prévues pour la corruption de personnes dépositaires de l'autorité publique. La responsabilité des personnes morales peut emporter dissolution.
 
@@ -182,6 +182,8 @@ L'éducation à la délibération éclairée, à l'évaluation des informations 
 
 Les plateformes numériques accueillant un volume significatif de contenus, ainsi que les médias audiovisuels et écrits d'information bénéficiant d'une audience significative ou d'aides publiques, sont soumis à des obligations de transparence sur leurs algorithmes, leurs règles de modération, leurs sources de financement et leurs pratiques éditoriales, dans les conditions fixées par la loi.
 
+Un service public de vigilance, placé auprès de l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique), détecte les ingérences numériques étrangères. Il informe publiquement les conventions concernées des campagnes qu'il constate. Saisi par l'Autorité ou par une convention, le juge des référés peut ordonner, dans un délai de quarante-huit heures, le retrait d'une campagne coordonnée et inauthentique visant une convention.
+
 ### Article 179 — Sanctions {#manipulation-sanctions}
 
 Les comportements de manipulation informationnelle organisée constituent des infractions définies par la loi adoptée en convention, punies notamment d'amendes proportionnelles aux moyens employés, de peines privatives de liberté et de mesures complémentaires comprenant la publication du jugement.
@@ -234,13 +236,15 @@ Les médias d'information, notamment ceux qui bénéficient d'aides publiques, s
 
 ### Article 184 — Financement des partis et groupements politiques {#financement-partis}
 
-Le financement des partis et groupements politiques par des États étrangers, par des personnes physiques ou morales étrangères ou par toute entité sous contrôle étranger est interdit.
+Le financement des partis et groupements politiques par des États étrangers, par des personnes morales étrangères ou sous contrôle étranger, ou par des personnes physiques qui ne font pas partie du corps civique, est interdit.
 
 La transparence intégrale des sources et des emplois de financement des partis et groupements politiques est garantie. Les modalités en sont fixées par la loi. Le contrôle du respect de ces règles relève de l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique). Les manquements sont sanctionnés dans les conditions fixées par la loi.
 
 ### Article 185 — Campagnes référendaires et collecte de signatures {#campagnes-referendaires-signatures}
 
 Les campagnes de soutien ou d'opposition aux référendums, ainsi que les campagnes de collecte de signatures pour les pétitions d'initiative citoyenne prévues par la présente Constitution, sont soumises à des règles de plafonnement, de transparence et de contrôle, fixées par la loi et appliquées par l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique).
+
+Le financement de ces campagnes, et des contributions versées aux conventions, par les États, personnes et entités mentionnés au premier alinéa de l'article [184](#financement-partis) est interdit.
 
 L'égalité entre partis et groupements politiques dans l'accès aux médias publics pendant les campagnes référendaires est garantie. Les modalités en sont précisées par la loi.
 

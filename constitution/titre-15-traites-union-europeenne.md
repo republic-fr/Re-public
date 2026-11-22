@@ -68,9 +68,9 @@ Cette primauté s'exerce sous réserve du respect de l'identité constitutionnel
 
 En cas de conflit entre une norme européenne et un droit intangible ou un principe constituant l'identité constitutionnelle de la République, le Conseil constitutionnel statue.
 
-Avant de statuer, le Conseil constitutionnel peut saisir la Cour de justice de l'Union européenne d'une question préjudicielle.
+Avant de statuer, le Conseil constitutionnel saisit la Cour de justice de l'Union européenne d'une question préjudicielle.
 
-Lorsqu'il constate qu'une norme européenne porte atteinte à l'identité constitutionnelle, le Conseil constitutionnel la déclare inapplicable sur le territoire de la République.
+Lorsqu'il constate, après la réponse de la Cour de justice, qu'une norme européenne porte atteinte à l'identité constitutionnelle, le Conseil constitutionnel la déclare inapplicable sur le territoire de la République. Sa décision est transmise à la convention ordinaire annuelle, qui décide des suites à lui donner auprès de l'Union européenne.
 
 ### Article 196 — Identité constitutionnelle de la République {#identite-constitutionnelle-republique}
 

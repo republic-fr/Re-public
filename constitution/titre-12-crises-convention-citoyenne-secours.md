@@ -92,7 +92,7 @@ Ne peuvent être prises qu'avec l'autorisation expresse de la convention de seco
 
 - toute suspension ou restriction de médias, de réseaux de communication ou d'internet ;
 
-- toute mesure fiscale, budgétaire ou monétaire exceptionnelle ;
+- toute mesure fiscale, budgétaire ou monétaire exceptionnelle, sous réserve des garanties d'urgence prévues à l'article [135](#depenses-cours-annee) ;
 
 - toute réquisition de biens privés excédant un seuil fixé par la loi organique ;
 
@@ -134,7 +134,7 @@ Toute personne affectée par une mesure conservatoire peut saisir le même juge,
 
 La convention citoyenne de secours est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite). Elle est en veille permanente : ses membres sont désignés à l'avance, formés et placés sous astreinte pour une durée fixée par la loi organique, sans qu'aucune continuité de personnes ne soit assurée d'une période d'astreinte à la suivante. Ils sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
-La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Lorsque des membres sont empêchés de siéger par la force, le quorum et les majorités sont calculés sur les seuls membres qui ne sont pas empêchés.
+La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Ses moyens de communication sont indépendants des réseaux ordinaires. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Lorsque des membres sont empêchés de siéger par la force, le quorum et les majorités sont calculés sur les seuls membres qui ne sont pas empêchés.
 
 ### Article 152 — Saisine {#secours-saisine}
 

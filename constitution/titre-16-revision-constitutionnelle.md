@@ -64,13 +64,13 @@ Si le Conseil constitutionnel constate d'autres atteintes, il suspend et renvoie
 
 ### Article 213 — Principe et portée {#referendum-revision-principe}
 
-Le texte adopté par la convention constituante et contrôlé par le Conseil constitutionnel est soumis au référendum pour ratification par le corps électoral.
+Le texte adopté par la convention constituante et contrôlé par le Conseil constitutionnel est soumis au référendum pour ratification par le corps civique. Tout référendum prévu par la présente Constitution a lieu sur bulletin papier.
 
 Le référendum porte exclusivement sur le texte préalablement délibéré et adopté par la convention constituante. Le vote populaire ne peut se substituer à la phase de délibération constituante.
 
 ### Article 214 — Unité matérielle {#referendum-revision-unite-materielle}
 
-Chaque révision soumise au référendum doit porter sur un objet unique ou sur un ensemble d'articles formant une cohérence matérielle. Les révisions portant sur des objets distincts sont soumises séparément au corps électoral.
+Chaque révision soumise au référendum doit porter sur un objet unique ou sur un ensemble d'articles formant une cohérence matérielle. Les révisions portant sur des objets distincts sont soumises séparément au corps civique.
 
 Le Conseil constitutionnel contrôle le respect du principe d'unité matérielle lors du contrôle de recevabilité prévu à l'article [209](#revision-recevabilite) et lors du contrôle préalable au référendum prévu à l'article [212](#constituante-controle-constitutionnel).
 
