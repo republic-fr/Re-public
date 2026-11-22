@@ -94,6 +94,8 @@ Tout vivier public d'accréditation constitué en application de la présente Co
 
 - contrôle de la pluralité effective du vivier par l'Autorité de programmation civique, selon les indicateurs prévus à l'article [34](#apc-missions).
 
+Ces principes s'appliquent sans préjudice des refus d'accréditation et des radiations prévus par la présente Constitution.
+
 Ces principes sont applicables aux viviers prévus aux articles [39](#cc-composition), [53](#vivier-scientifique-designation), [63](#jury-technique-ministres), [88](#controle-renseignement-armees), [90](#defenseur-droits-designation), [93](#defenseur-droits-college), [96](#juridiction-probite-composition), [113](#csm-designation-membres), [170](#vivier-public-experts) et [180](#autorite-regulation-vie-democratique).
 
 ### Article 171 — Jury d'experts indépendants {#jury-experts-independants #jury-experts-mission #jury-experts-independance}
@@ -246,7 +248,7 @@ La transparence intégrale des sources et des emplois de financement des partis 
 
 Les campagnes de soutien ou d'opposition aux référendums, ainsi que les campagnes de collecte de signatures pour les pétitions d'initiative citoyenne prévues par la présente Constitution, sont soumises à des règles de plafonnement, de transparence et de contrôle, fixées par la loi et appliquées par l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique).
 
-Le financement de ces campagnes, et des contributions versées aux conventions, par les États, personnes et entités mentionnés au premier alinéa de l'article [184](#financement-partis) est interdit.
+Le financement de ces campagnes, et des contributions versées aux conventions, par les États, personnes et entités mentionnés au premier alinéa est interdit.
 
 L'égalité entre partis et groupements politiques dans l'accès aux médias publics pendant les campagnes référendaires est garantie. Les modalités en sont précisées par la loi.
 

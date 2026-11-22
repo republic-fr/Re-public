@@ -6,7 +6,7 @@
 
 ### Article 187 — Négociation et conclusion {#traites-negociation-conclusion #negociations-preparatoires}
 
-Les traités sont négociés par les représentants aux relations extérieures prévus à l'article [68](#representants-relations-exterieures), sans pouvoir de ratification, sur la base d'un mandat écrit fixé, selon les matières, par les ministres concernés ou par les conventions compétentes. Le mandat est public dans ses objectifs et ses lignes rouges. Les positions de repli sont confidentielles ; elles sont communiquées à la Commission permanente de contrôle du renseignement et des forces armées et publiées après la conclusion ou l'abandon de la négociation.
+Les traités sont négociés par les représentants aux relations extérieures prévus à l'article [68](#representants-relations-exterieures), sans pouvoir de ratification, sur la base d'un mandat écrit fixé, selon les matières, par l'administration d'exécution ou par les conventions compétentes. Lorsque le mandat émane des ministres, il est public dans ses objectifs et ses lignes rouges. Les positions de repli sont confidentielles ; elles sont communiquées à la Commission permanente de contrôle du renseignement et des forces armées et publiées après la conclusion ou l'abandon de la négociation.
 
 Un représentant négocie le texte, le ministre compétent valide la version négociée, et les représentants habilités le signent. Le traité est ensuite ratifié selon les règles de l'article [188](#traites-ratification).
 
@@ -14,7 +14,7 @@ Un représentant négocie le texte, le ministre compétent valide la version né
 
 Sont ratifiés :
 
-- par la convention ordinaire annuelle, les traités majeurs, c'est-à-dire ceux qui engagent les finances de la République, sa souveraineté, les compétences des autorités constitutionnelles ou les droits fondamentaux. La convention de programmation peut, par décision motivée, renvoyer à une convention thématique dédiée la ratification d'un traité majeur dont l'importance particulière le justifie. Si un traité majeur doit être ratifié avant la session ordinaire suivante, une session supplémentaire est réunie sur saisine de l'Autorité de programmation civique ;
+- par la convention ordinaire annuelle, les traités majeurs, c'est-à-dire ceux qui engagent les finances de la République, sa souveraineté, les compétences des autorités constitutionnelles ou les droits fondamentaux. La convention de programmation peut, par décision motivée, renvoyer à une convention thématique dédiée la ratification d'un traité majeur dont l'importance particulière le justifie. Si un traité majeur doit être ratifié avant la session ordinaire suivante, une session supplémentaire peut être réunie sur saisine de l'Autorité de programmation civique ;
 
 - par une convention thématique dédiée, les traités comportant cession, échange ou adjonction de territoire. Aucune cession, aucun échange ni aucune adjonction de territoire n'est valable sans le consentement préalable des populations intéressées, recueilli par convention citoyenne territoriale ;
 
