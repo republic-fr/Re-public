@@ -64,6 +64,10 @@ dans les conditions prévues à l'article [77](#autorisation-operations-militair
 
 Les schémas de `site/pages/fonctionnement.md` s'écrivent dans des blocs ```` ```schema ```` au format YAML : des nœuds placés sur une grille (`ligne`, `colonne`), avec un `type` (`citoyens`, `electeurs`, `autorite`, `administration`, `etape`), un `nom`, un `detail` court et une `info` affichée au survol. Les liens s'écrivent `a -> b | étiquette` (pointillé : `-->`, contournement : `| droite` ou `| gauche`). Les renvois aux articles suivent la syntaxe ci-dessus et sont vérifiés. Le mode d'emploi complet est en tête de `site/schemas.mjs`.
 
+## Vérifier la refonte
+
+Pendant la refonte du texte (issue #19), le texte d'avant est figé dans `site/refonte/avant.json`. Chaque article réécrit garde, comme identifiant ou comme alias, les identifiants des articles qu'il remplace. `npm run refonte` compare alors chaque nouvel article aux anciens qu'il absorbe et signale tout nombre, délai, majorité, institution ou mot de garantie (« ne peut », « interdit », « de plein droit »…) qui a disparu ; la vérification échoue si un ancien article n'a plus de destination. La page `/texte/refonte/` du site montre la comparaison « avant / après ».
+
 ## Le site web
 
 Le site est généré à partir des fichiers de `constitution/` : toute modification du texte fusionnée dans `main` met le site à jour.

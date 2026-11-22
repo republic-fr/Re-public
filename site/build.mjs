@@ -5,6 +5,7 @@ import path from 'node:path';
 import MarkdownIt from 'markdown-it';
 import { check, renderRefs, stripIds, headIds, ROMAN } from './refs.mjs';
 import { extractSchemas, injectSchemas } from './schemas.mjs';
+import { comparer } from './refonte.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const SRC = path.join(ROOT, 'constitution');
@@ -308,6 +309,34 @@ function concordance() {
   return layout({ title: 'Table de concordance', current: '/texte/', body, path: '/texte/concordance/', jsonld: [webPage('/texte/concordance/', 'Table de concordance', { breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/'], ['Concordance', '/texte/concordance/']]) })] });
 }
 
+// ---------- Refonte : comparaison « avant / après » (issue #19) ----------
+
+function refontePage(c) {
+  const chips = (label, arr, cls) => arr.length ? `<li class="rf-flag ${cls}"><b>${label}</b> ${arr.map(esc).join(', ')}</li>` : '';
+  const items = c.resultats.map((r) => {
+    const baisses = r.verrous.filter((v) => v.apres < v.avant).map((v) => `« ${v.mot} » ${v.avant} → ${v.apres}`);
+    const flags = [
+      r.nouveau ? '<li class="rf-flag rf-bad"><b>Nouvel article sans ancien texte</b></li>' : '',
+      chips('Nombres disparus :', r.nombres.perdus, 'rf-bad'), chips('Nombres apparus :', r.nombres.ajoutes, 'rf-warn'),
+      chips('Majorités disparues :', r.fractions.perdus, 'rf-bad'), chips('Majorités apparues :', r.fractions.ajoutes, 'rf-warn'),
+      chips('Institutions plus citées :', r.institutions.perdus, 'rf-bad'), chips('Verrous en baisse :', baisses, 'rf-bad'),
+      chips('Renvois retirés :', r.renvois.perdus, 'rf-info'),
+    ].join('');
+    const old = r.avant.map((o) => `<h4>Ancien article ${o.num} — ${esc(o.nom)}</h4>${renderBody(o.texte)}`).join('') || '<p>—</p>';
+    return `<section class="rf-item${r.alerte ? ' rf-item--alerte' : ''}" id="rf-${r.apres.id}">
+<h3>Article ${r.apres.num} — ${esc(stripIds(r.apres.nom))} <span class="rf-words">${r.mots.avant} → ${r.mots.apres} mots</span></h3>
+${flags ? `<ul class="rf-flags">${flags}</ul>` : '<p class="rf-ok">Aucun nombre, majorité, institution ni verrou perdu.</p>'}
+<div class="rf-cols"><div class="rf-col"><p class="rf-label">Avant</p>${old}</div><div class="rf-col"><p class="rf-label">Après</p>${renderBody(r.apres.texte)}</div></div>
+</section>`;
+  }).join('');
+  const pct = Math.round((c.mots.apres / c.mots.avant - 1) * 100);
+  const intro = `<p>Cette page compare le texte réécrit au texte figé avant la refonte. Pour chaque article modifié, elle montre l’ancien et le nouveau texte côte à côte, et signale tout nombre, délai, majorité, institution ou mot de garantie (« ne peut », « interdit », « de plein droit »…) qui a disparu. Chaque signalement doit être expliqué : la refonte simplifie l’écriture, elle ne change pas le fond.</p>
+<p><b>${c.nbAvant}</b> articles avant, <b>${c.nbApres}</b> après ; <b>${c.mots.avant}</b> mots avant, <b>${c.mots.apres}</b> après (${pct > 0 ? '+' : ''}${pct} %). ${c.resultats.length} article(s) modifié(s), dont ${c.resultats.filter((r) => r.alerte).length} à examiner.</p>`;
+  const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">Texte</span><span class="rp-tag">Refonte</span></div><h1 class="rp-title">Avant / après la refonte</h1></div>
+<div class="wrap prose rf">${intro}${items || '<p>Aucun article modifié pour l’instant.</p>'}</div>`;
+  return layout({ title: 'Avant / après la refonte', current: '/texte/', body, path: '/texte/refonte/', noindex: true });
+}
+
 // ---------- Pages éditoriales ----------
 
 function contentPage(file, href) {
@@ -356,6 +385,11 @@ write('texte', sommaire());
 const all = [preambule, ...titres];
 all.forEach((t, i) => write(`texte/${t.slug}`, titrePage(t, all[i - 1], all[i + 1])));
 write('texte/concordance', concordance());
+const refonte = comparer();
+if (refonte) {
+  if (refonte.erreurs.length) { for (const e of refonte.erreurs) console.error(`Erreur — ${e}`); process.exit(1); }
+  write('texte/refonte', refontePage(refonte));
+}
 
 // Anciens liens : adresses des titres de la v25 (/texte/titre-03/) et ancres « #article-N ».
 const oldTitre = (r) => `/texte/titre-${String(ROMAN.indexOf(r) + 1).padStart(2, '0')}/`;

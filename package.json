@@ -5,7 +5,8 @@
   "scripts": {
     "build": "node site/build.mjs",
     "refs": "node site/refs.mjs",
-    "serve": "node site/build.mjs && npx --yes serve dist -l 4173"
+    "serve": "node site/build.mjs && npx --yes serve dist -l 4173",
+    "refonte": "node site/refonte.mjs"
   },
   "dependencies": {
     "js-yaml": "4.1.0",
