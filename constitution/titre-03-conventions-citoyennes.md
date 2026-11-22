@@ -100,11 +100,17 @@ Les décisions relatives à la procédure interne et à l'organisation des trava
 
 Une convention ne délibère valablement que si la majorité de ses membres est présente. À défaut, la délibération est ajournée et la convention est reconvoquée dans un délai fixé par la loi organique, qui ne peut excéder sept jours.
 
-### Article 18 — Application aux autres conventions {#application-autres-conventions}
+### Article 18 — Application aux autres conventions et lois organiques {#application-autres-conventions}
 
 Les dispositions du présent chapitre s'appliquent à l'ensemble des conventions citoyennes prévues par la présente Constitution, y compris les conventions organisées par d'autres titres.
 
 Les dispositions spécifiques prévues par ces titres peuvent adapter ou compléter les règles communes, sans pouvoir y déroger sur le principe du tirage au sort, la représentativité, le statut protecteur du conventionnel et la probité de la délibération.
+
+Les lois organiques prévues par la présente Constitution sont adoptées par la convention thématique compétente pour le sujet qu'elles traitent, à la majorité qualifiée définie à l'article [17](#majorite-qualifiee). L'autorité dont l'organisation ou le fonctionnement est en cause rend un avis public, qui ne lie pas la convention. Aucune autorité ne fixe elle-même les règles qui la gouvernent.
+
+Le Conseil constitutionnel contrôle toute loi organique avant son entrée en vigueur. Il vérifie notamment qu'elle n'excède pas ce que la présente Constitution renvoie à la loi organique et qu'elle est cohérente avec les lois organiques en vigueur.
+
+Les lois organiques nécessaires à la première mise en place des institutions, notamment celles relatives au tirage au sort, au statut du conventionnel et aux autorités d'organisation délibérative, sont adoptées par la convention constituante qui adopte la présente Constitution et soumises au même référendum.
 
 ## Chapitre II — La convention de programmation
 
