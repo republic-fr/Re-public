@@ -38,7 +38,7 @@ Le Conseil scientifique ad hoc intervient exclusivement en cas de consensus scie
 
 - à leur environnement.
 
-L'existence du consensus scientifique suffisant est établie à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), au sein du Conseil scientifique ad hoc. La qualification du consensus peut être contestée devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
+L'existence du consensus scientifique suffisant est établie à la majorité des deux tiers des membres du Conseil scientifique ad hoc. La qualification du consensus peut être contestée devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
 
 ### Article 56 — Effet de la suspension {#controle-scientifique-suspension}
 

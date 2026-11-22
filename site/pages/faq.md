@@ -64,7 +64,7 @@ L’administration agit immédiatement, sans attendre aucune convention, pour pr
 
 ### L’empilement des contrôles ne va-t-il pas paralyser la décision ?
 
-Le contrôle scientifique est étroit : il ne joue qu’en cas de contresens manifeste menaçant la santé ou l’environnement (article [55](#controle-scientifique-champ)). Un recours contre une loi déjà en vigueur ne la suspend pas : c’est le Conseil constitutionnel qui fixe lui-même les effets dans le temps de sa décision (article [48](#effet-controle-posteriori)). La majorité des deux tiers et la double condition du référendum ne concernent pas les mêmes textes : le référendum est réservé aux révisions de la Constitution. Les urgences relèvent de la convention de secours, qui siège sous 72 heures (article [153](#secours-delai-siege)).
+Le contrôle scientifique est étroit : il ne joue qu’en cas de contresens manifeste menaçant la santé ou l’environnement (article [55](#controle-scientifique-champ)). Un recours contre une loi déjà en vigueur ne la suspend pas : c’est le Conseil constitutionnel qui fixe lui-même les effets dans le temps de sa décision (article [48](#effet-controle-posteriori)). Les lois, le budget et les nominations sont adoptés à la majorité absolue des membres de la convention : une minorité ne peut pas tout bloquer. Les deux tiers ne sont exigés que pour les décisions exceptionnelles, comme les mesures de crise (article [17](#majorite-qualifiee)). Le référendum est réservé aux révisions de la Constitution. Les urgences relèvent de la convention de secours, qui siège sous 72 heures (article [153](#secours-delai-siege)).
 
 ### Sans chef de l’État, qui parle pour la France au Conseil européen ou au G7 ?
 

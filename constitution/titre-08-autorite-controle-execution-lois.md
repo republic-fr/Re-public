@@ -52,7 +52,7 @@ La session plénière annuelle :
 
 - examine le rapport annuel de la Commission permanente de contrôle du renseignement et des forces armées et peut, dans les limites compatibles avec le secret, formuler des recommandations publiques, demander à la Commission des enquêtes complémentaires ou saisir la Juridiction de probité et de responsabilité publique des fautes graves portées à sa connaissance.
 
-La session plénière statue à la majorité qualifiée définie à l'article [17](#majorite-qualifiee).
+La session plénière statue à la majorité absolue de ses membres, sauf disposition contraire de la présente Constitution.
 
 ### Article 83 — Saisine {#session-pleniere-saisine}
 
@@ -162,7 +162,7 @@ La Défenseure ou le Défenseur des droits est nommé selon la procédure suivan
 
 - contrôle d'intégrité des candidates et candidats pré-sélectionnés par la Juridiction de probité et de responsabilité publique, selon les critères définis à l'article [99](#controle-prealable-probite) ;
 
-- nomination par la session plénière annuelle de l'Autorité de contrôle, à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), sur la liste restreinte des candidates et candidats recevables.
+- nomination par la session plénière annuelle de l'Autorité de contrôle, sur la liste restreinte des candidates et candidats recevables, selon les règles de majorité et de tours de scrutin prévues à l'article [62](#procedure-designation-ministres).
 
 Le mandat du Défenseur des droits est de six ans, non renouvelable. Il est révocable par la Juridiction de probité et de responsabilité publique, sur saisine de la session plénière ou dans les autres conditions prévues au Titre [IX](#juridiction-probite). Il bénéficie des garanties d'inamovibilité pendant la durée de son mandat.
 

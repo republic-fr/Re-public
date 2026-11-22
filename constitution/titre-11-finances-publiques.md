@@ -124,7 +124,7 @@ Le service technique de l'Autorité de contrôle de l'exécution des lois établ
 
 ### Article 138 — Blocage de l'adoption du budget {#blocage-adoption-budget}
 
-Si la convention ordinaire annuelle ne parvient pas à adopter le budget à la majorité qualifiée requise, le budget antérieur est reconduit à titre provisoire, dans les strictes limites nécessaires à la continuité des services publics, sans nouveaux programmes ni augmentations. Cette reconduction ne peut excéder trois mois.
+Si la convention ordinaire annuelle ne parvient pas à adopter le budget à la majorité requise, le budget antérieur est reconduit à titre provisoire, dans les strictes limites nécessaires à la continuité des services publics, sans nouveaux programmes ni augmentations. Cette reconduction ne peut excéder trois mois.
 
 À l'issue de ce délai, une nouvelle session de la convention ordinaire annuelle, composée de citoyens renouvelés par tirage au sort, est convoquée par l'Autorité générale des conventions citoyennes. Si ce second examen échoue à son tour, la convention de secours est saisie de plein droit.
 
