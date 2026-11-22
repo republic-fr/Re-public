@@ -334,8 +334,8 @@ noeuds:
     nom: Convention de désignation
     detail: 50 citoyens, renouvelés par moitié chaque année
     info: >-
-      Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après trois tours sans majorité, la désignation est reprise après un renouvellement partiel de la convention, et un intérim assure la continuité. Elle désigne aussi les représentants
-      aux relations extérieures. Si l’Autorité de contrôle constate qu’un ministre n’exécute pas les lois, elle peut l’avertir, puis, six mois plus tard et aux deux tiers, mettre fin à son mandat (articles [53](#convention-designation-ministres), [54](#procedure-designation-ministres) et [56](#duree-mandat-ministeriel)).
+      Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres. Après deux tours sans majorité, un troisième tour oppose les deux premiers, toujours à la majorité absolue ; à défaut, la désignation est reprise après un renouvellement partiel de la convention, et un intérim assure la continuité. Elle désigne aussi les représentants
+      aux relations extérieures. Si un rapport de l’Autorité de contrôle constate qu’un ministre n’exécute pas les lois, la convention peut lui adresser un avertissement public, avec des objectifs. Si, six mois au moins plus tard, un nouveau rapport constate qu’ils ne sont pas atteints, elle peut mettre fin à son mandat aux deux tiers (articles [53](#convention-designation-ministres), [54](#procedure-designation-ministres) et [56](#duree-mandat-ministeriel)).
   - id: ministres
     ligne: 4
     colonne: 2
