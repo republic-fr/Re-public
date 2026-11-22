@@ -19,6 +19,108 @@
     if (url) location.replace(url);
   }).catch(function () {});
 
+  // Schémas fonctionnels : liens dessinés entre les éléments, explications au survol ou au toucher.
+  var NS = 'http://www.w3.org/2000/svg';
+  var mobile = window.matchMedia('(max-width: 899px)');
+  function boxOf(canvas, cr, id) {
+    var el = canvas.querySelector('[data-node="' + id + '"]');
+    var r = el.getBoundingClientRect();
+    return { l: r.left - cr.left, t: r.top - cr.top, r: r.right - cr.left, b: r.bottom - cr.top, cx: (r.left + r.right) / 2 - cr.left, cy: (r.top + r.bottom) / 2 - cr.top };
+  }
+  function drawSchema(fig) {
+    var canvas = fig.querySelector('.dg__canvas');
+    var svg = canvas.querySelector('.dg__links');
+    while (svg.firstChild) svg.removeChild(svg.firstChild);
+    if (mobile.matches) return;
+    var links = JSON.parse(canvas.getAttribute('data-links') || '[]');
+    var cr = canvas.getBoundingClientRect();
+    var gap = parseFloat(getComputedStyle(canvas).rowGap) || 60;
+    var mid = 'dg-arrow-' + fig.id;
+    var defs = document.createElementNS(NS, 'defs');
+    defs.innerHTML = '<marker id="' + mid + '" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse"><path d="M0,0 L10,5 L0,10 z" fill="currentColor"/></marker>';
+    svg.appendChild(defs);
+    var side = { droite: 0, gauche: 0 };
+    var lanes = {};
+    links.forEach(function (l) {
+      var a = boxOf(canvas, cr, l.from), b = boxOf(canvas, cr, l.to), p, lx, ly;
+      if (l.via) {
+        var off = 16 + 10 * side[l.via]++;
+        if (l.via === 'droite') { var x = Math.max(a.r, b.r) + off; p = [[a.r, a.cy], [x, a.cy], [x, b.cy], [b.r, b.cy]]; lx = x; }
+        else { var x2 = Math.min(a.l, b.l) - off; p = [[a.l, a.cy], [x2, a.cy], [x2, b.cy], [b.l, b.cy]]; lx = x2; }
+        ly = (a.cy + b.cy) / 2;
+      } else if (Math.abs(a.cy - b.cy) < 4) {
+        p = b.l >= a.r ? [[a.r, a.cy], [b.l, b.cy]] : [[a.l, a.cy], [b.r, b.cy]];
+        lx = (p[0][0] + p[1][0]) / 2; ly = a.cy;
+      } else if (Math.abs(a.cx - b.cx) < 4) {
+        p = b.t > a.b ? [[a.cx, a.b], [b.cx, b.t]] : [[a.cx, a.t], [b.cx, b.b]];
+        lx = a.cx; ly = (p[0][1] + p[1][1]) / 2;
+      } else {
+        var down = b.t > a.b;
+        var y = down ? a.b + gap / 2 : a.t - gap / 2;
+        var key = Math.round(y), lane = lanes[key] || (lanes[key] = { list: [] });
+        var k = lane.list.indexOf(l.from);
+        if (k < 0) { lane.list.push(l.from); k = lane.list.length - 1; }
+        y += (k % 2 ? 1 : -1) * Math.ceil(k / 2) * 8;
+        p = [[a.cx, down ? a.b : a.t], [a.cx, y], [b.cx, y], [b.cx, down ? b.t : b.b]];
+        lx = (a.cx + b.cx) / 2; ly = y;
+      }
+      var path = document.createElementNS(NS, 'path');
+      path.setAttribute('d', 'M' + p.map(function (q) { return q[0].toFixed(1) + ',' + q[1].toFixed(1); }).join(' L'));
+      path.setAttribute('marker-end', 'url(#' + mid + ')');
+      path.setAttribute('class', l.dashed ? 'is-dashed' : '');
+      path.setAttribute('data-from', l.from); path.setAttribute('data-to', l.to);
+      svg.appendChild(path);
+      if (l.label) {
+        var g = document.createElementNS(NS, 'g'); g.setAttribute('class', 'dg-label');
+        g.setAttribute('data-from', l.from); g.setAttribute('data-to', l.to);
+        var t = document.createElementNS(NS, 'text'); t.textContent = l.label;
+        t.setAttribute('x', lx); t.setAttribute('y', ly); t.setAttribute('text-anchor', 'middle'); t.setAttribute('dominant-baseline', 'central');
+        g.appendChild(t); svg.appendChild(g);
+        var bb = t.getBBox(), rect = document.createElementNS(NS, 'rect');
+        rect.setAttribute('x', bb.x - 4); rect.setAttribute('y', bb.y - 2); rect.setAttribute('width', bb.width + 8); rect.setAttribute('height', bb.height + 4);
+        g.insertBefore(rect, t);
+        // Étiquette sans la place nécessaire entre deux éléments voisins : masquée (elle reste dans la version texte).
+        if (p.length === 2 && Math.abs(p[0][1] - p[1][1]) < 1 && Math.abs(p[1][0] - p[0][0]) < bb.width + 12) g.style.display = 'none';
+      }
+    });
+    var on = fig.querySelector('.dg-node[aria-pressed="true"]');
+    if (on) highlight(fig, on.getAttribute('data-node'));
+  }
+  function highlight(fig, id) {
+    fig.querySelectorAll('.dg__links [data-from]').forEach(function (el) {
+      var hit = el.getAttribute('data-from') === id || el.getAttribute('data-to') === id;
+      el.classList.toggle('is-on', hit && el.tagName === 'path');
+      el.classList.toggle('is-dim', !hit);
+    });
+  }
+  document.querySelectorAll('[data-dg]').forEach(function (fig) {
+    var panel = fig.querySelector('.dg__panel');
+    var body = fig.querySelector('.dg__body');
+    var inner = panel.querySelector('.dg__panel-in');
+    function activate(btn, moved) {
+      var id = btn.getAttribute('data-node');
+      var tpl = fig.querySelector('template[data-node="' + id + '"]');
+      fig.querySelectorAll('.dg-node').forEach(function (n) { n.setAttribute('aria-pressed', n === btn ? 'true' : 'false'); });
+      inner.innerHTML = '';
+      inner.appendChild(tpl.content.cloneNode(true));
+      if (mobile.matches && moved) btn.after(panel);
+      highlight(fig, id);
+    }
+    fig.querySelectorAll('.dg-node').forEach(function (btn) {
+      btn.addEventListener('mouseenter', function () { if (!mobile.matches) activate(btn); });
+      btn.addEventListener('focus', function () { activate(btn); });
+      btn.addEventListener('click', function () { activate(btn, true); });
+    });
+    var redraw = function () {
+      if (!mobile.matches && panel.parentNode !== body) body.appendChild(panel);
+      drawSchema(fig);
+    };
+    if (window.ResizeObserver) new ResizeObserver(redraw).observe(fig.querySelector('.dg__canvas'));
+    else window.addEventListener('resize', redraw);
+    if (document.fonts && document.fonts.ready) document.fonts.ready.then(redraw);
+    redraw();
+  });
+
   // Menu mobile
   var toggle = document.querySelector('.menu-toggle'), nav = document.getElementById('nav');
   if (toggle && nav) toggle.addEventListener('click', function () {
