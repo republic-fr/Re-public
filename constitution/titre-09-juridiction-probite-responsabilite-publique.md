@@ -34,7 +34,7 @@ La pluralité effective du vivier est contrôlée par l'Autorité de programmati
 
 ### Article 97 — Durée du mandat {#juridiction-probite-duree-mandat}
 
-Le mandat des membres de la Juridiction est de neuf ans, non renouvelable. La Juridiction se renouvelle par tiers tous les trois ans afin d'assurer la continuité jurisprudentielle.
+Le mandat des membres de la Juridiction est de neuf ans, non renouvelable. La Juridiction se renouvelle par tiers tous les trois ans afin d'assurer la continuité jurisprudentielle. En cas de vacance, un nouveau membre est tiré au sort dans le vivier, dans le même domaine de spécialisation, pour la durée du mandat restant à courir.
 
 ### Article 98 — Statut et indépendance {#juridiction-probite-statut}
 
@@ -58,7 +58,7 @@ Avant toute désignation à une fonction soumise à contrôle, la Juridiction v�
 
 - l'intégrité pénale, selon une grille de compatibilité fixée par la loi organique ;
 
-- l'intégrité constitutionnelle, appréciée exclusivement au regard d'actes : la commission de violences, l'appel public à la violence, ou une condamnation définitive pour atteinte aux institutions constitutionnelles ou aux droits intangibles garantis à l'article [9](#droits-intangibles).
+- l'intégrité constitutionnelle, appréciée exclusivement au regard d'actes ayant donné lieu à une condamnation définitive : violences, appel public à la violence, atteinte aux institutions constitutionnelles ou aux droits intangibles garantis à l'article [9](#droits-intangibles).
 
 Les opinions exprimées par une candidate ou un candidat ne peuvent en aucun cas fonder une décision d'irrecevabilité.
 
@@ -74,7 +74,7 @@ La Juridiction juge les fautes graves commises dans l'exercice des fonctions pub
 
 - la non-exécution délibérée d'une loi ;
 
-- la dénaturation de l'intention d'une loi dans son application ;
+- la dénaturation de l'intention d'une loi, c'est-à-dire son application d'une manière manifestement contraire aux objectifs qui ressortent de son texte et du compte rendu publié par la convention ;
 
 - la dissimulation d'informations déterminantes ;
 
@@ -116,7 +116,7 @@ La Juridiction est compétente à l'égard :
 
 Cette liste détermine les fonctions soumises au contrôle de la Juridiction au sens de la présente Constitution.
 
-Les membres des conventions citoyennes ne relèvent pas de la compétence de la Juridiction, sauf en cas de faute pénale caractérisée.
+À l'exception des membres de l'Autorité de programmation civique, qui exercent un pouvoir propre et durable, les membres des conventions citoyennes ne relèvent pas de la compétence de la Juridiction, sauf en cas de faute pénale caractérisée.
 
 ## Chapitre III — Saisine, procédure et sanctions
 

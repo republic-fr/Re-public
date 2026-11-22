@@ -6,7 +6,7 @@ Tout texte adopté par une convention citoyenne fait l'objet d'un contrôle scie
 
 ### Article 52 — Conseil scientifique ad hoc {#conseil-scientifique-ad-hoc}
 
-Le contrôle scientifique est assuré par un Conseil scientifique ad hoc, constitué pour chaque texte examiné en fonction des disciplines concernées. Il est dissous après remise de son avis.
+Le contrôle scientifique est assuré par un Conseil scientifique ad hoc, constitué pour chaque texte en fonction des disciplines concernées, dès que la convention en arrête le projet. Il est dissous après remise de son avis sur le texte adopté.
 
 ### Article 53 — Vivier scientifique et désignation {#vivier-scientifique-designation}
 

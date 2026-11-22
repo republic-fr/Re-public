@@ -10,7 +10,9 @@ L'Autorité générale des conventions citoyennes est une autorité constitution
 
 L'Autorité générale des conventions citoyennes est dirigée par une directrice générale ou un directeur général.
 
-Elle, ou il, est nommé par une convention de désignation, selon la procédure prévue à l'article [62](#procedure-designation-ministres), après appel à candidatures public et contrôle préalable de probité par la Juridiction de probité et de responsabilité publique.
+Elle, ou il, est nommé par la convention de désignation, selon la procédure prévue à l'article [62](#procedure-designation-ministres), après appel à candidatures public et contrôle préalable de probité par la Juridiction de probité et de responsabilité publique.
+
+L'appel à candidatures est alors organisé par l'Autorité de contrôle de l'exécution des lois, et non par l'Autorité générale. Aucun agent de l'Autorité générale ne participe à cette désignation.
 
 Son mandat est de six ans, non renouvelable. Il est révocable par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre [IX](#juridiction-probite).
 
@@ -118,7 +120,7 @@ Elle ouvre les conventions thématiques en application du programme fixé par la
 - pour l'autorisation d'une opération militaire, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
 - lorsqu'une échéance juridique certaine l'exige.
 
-Hors pétition et hors autorisation militaire, le nombre de conventions thématiques ouvertes hors programme ne peut excéder chaque année un plafond fixé par la loi organique. Toute décision d'ouverture ou de refus est susceptible de recours devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
+Hors pétition, hors autorisation militaire, hors transposition d'un acte de l'Union européenne et hors échéance juridique certaine, le nombre de conventions thématiques ouvertes hors programme ne peut excéder chaque année un plafond fixé par la loi organique. Toute décision d'ouverture ou de refus est susceptible de recours devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
 
 Les situations de crise relèvent de la convention de secours, dans les conditions prévues au Titre [XII](#crises).
 

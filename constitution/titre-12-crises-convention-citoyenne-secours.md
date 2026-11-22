@@ -22,6 +22,8 @@ Même en temps de crise, sont absolument interdites toutes mesures ayant pour ef
 
 - de suspendre les garanties juridictionnelles essentielles ;
 
+- de priver une personne de sa liberté hors du cadre judiciaire ordinaire ;
+
 - de supprimer le contrôle citoyen des décisions de crise ;
 
 - de porter atteinte aux droits intangibles garantis à l'article [9](#droits-intangibles) ;
@@ -78,7 +80,7 @@ d) Audit annuel. La Juridiction de probité et de responsabilité publique publi
 
 e) Convention thématique de contrôle. Tous les cinq ans, une convention thématique dédiée examine l'usage cumulé de ces mesures. Elle peut proposer toute modification du régime, y compris sa restriction ou sa suppression, dans les conditions de la révision constitutionnelle.
 
-f) Clause de réexamen. Le présent alinéa et les deux alinéas qui le précèdent font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse, ils deviennent caducs.
+f) Clause de réexamen. Le présent alinéa et les deux alinéas qui le précèdent font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse selon la procédure de révision prévue au Titre [XVI](#revision), convention constituante et référendum compris, ils deviennent caducs.
 
 ### Article 147 — Cadre interdit {#conservatoires-cadre-interdit}
 
@@ -86,7 +88,7 @@ Ne peuvent être prises qu'avec l'autorisation expresse de la convention de seco
 
 - toute restriction des libertés publiques de circulation, de réunion, d'expression, de manifestation ou de presse au-delà de ce qui est strictement nécessaire à la sécurité immédiate ;
 
-- toute mesure privative de liberté individuelle hors cadre judiciaire ordinaire ;
+- toute assignation à résidence ou autre restriction individuelle de la liberté d'aller et venir, prononcée sous le contrôle du juge judiciaire ;
 
 - tout engagement sur le territoire national des forces placées sous l'autorité du ministre de la Défense, au-delà de leurs missions ordinaires prévues par la loi, et tout emploi de moyens militaires par la gendarmerie en dehors de ses missions de police ;
 
@@ -147,12 +149,14 @@ En l'absence de mesure conservatoire, la convention de secours peut également �
 Elle est en outre saisie dans les seuls cas suivants :
 
 - par l'Autorité de programmation civique, pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [25](#reexamen-cas-suspension) ;
-- par tout ministre, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
+- par au moins un tiers des ministres, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
 - de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [66](#interim-ministeriel) ;
 - par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [72](#relations-exterieures-saisine-secours) ;
 - par le ministre de la Défense, qui l'informe de toute opération défensive, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
 - par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [88](#controle-renseignement-armees) ;
 - de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
+
+Les saisines pour le réexamen d'un texte suspendu, pour un blocage du collège des ministres, pour une vacance ministérielle et pour l'échec du budget ne constituent pas une crise au sens de l'article [142](#notion-crise). La convention n'y statue que sur l'objet de la saisine et ne peut prendre aucune des mesures prévues à l'article [147](#conservatoires-cadre-interdit).
 
 ### Article 153 — Délai de siège {#secours-delai-siege}
 
@@ -196,4 +200,4 @@ Par exception, en cas de conflit armé ou de catastrophe d'une ampleur rendant i
 
 ### Article 158 — Désactivation {#secours-desactivation}
 
-La convention de secours peut se désactiver elle-même par un vote à la majorité qualifiée, constatant la fin des conditions de crise. Elle est également désactivée sur saisine du Conseil constitutionnel qui constate, par décision motivée, que les conditions de crise ont pris fin.
+La convention de secours peut se désactiver elle-même par un vote à la majorité qualifiée, constatant la fin des conditions de crise. Elle est également désactivée lorsque le Conseil constitutionnel constate, par décision motivée, que les conditions de crise ont pris fin. Le Conseil peut être saisi à cette fin par l'Autorité de programmation civique, par la Défenseure ou le Défenseur des droits, par le cinquième des membres de la convention de secours, ou par une pétition réunissant un pour cent du corps civique.

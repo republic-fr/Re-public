@@ -66,7 +66,7 @@ Pour les responsables publics, la Juridiction de probité et de responsabilité 
 
 Pour les membres des conventions citoyennes, la convention peut, à la majorité qualifiée, exclure l'un de ses membres pour faute grave avérée, par décision motivée. Cette décision est susceptible de recours devant la Juridiction de probité et de responsabilité publique.
 
-Constitue une atteinte à la souveraineté populaire, qualification d'ordre constitutionnel, toute corruption, tentative de corruption, pression, menace, représaille, intimidation, collecte ou exploitation d'informations personnelles, révélation de l'identité d'un membre dont l'identité est protégée, ou campagne de désinformation organisée, dirigée contre un membre d'une convention citoyenne, d'un jury d'experts, du Conseil scientifique ad hoc, de la Juridiction de probité ou du Conseil constitutionnel, ou contre leurs proches, en lien avec leurs fonctions.
+Constitue une atteinte à la souveraineté populaire, qualification d'ordre constitutionnel, toute corruption, tentative de corruption, pression, menace, représaille, intimidation, collecte ou exploitation d'informations personnelles, révélation de l'identité d'un membre dont l'identité est protégée, ou campagne de désinformation recourant aux procédés frauduleux définis à l'article [177](#atteinte-souverainete-populaire), dirigée contre un membre d'une convention citoyenne, d'un jury d'experts, du Conseil scientifique ad hoc, de la Juridiction de probité ou du Conseil constitutionnel, ou contre leurs proches, en lien avec leurs fonctions.
 
 Ces infractions font l'objet d'un régime pénal aggravé, d'un délai de prescription allongé et d'une compétence universelle des juridictions françaises lorsqu'elles sont commises depuis l'étranger ou par des personnes ou entités étrangères. Les peines ne peuvent être inférieures à celles prévues pour la corruption de personnes dépositaires de l'autorité publique. La responsabilité des personnes morales peut emporter dissolution.
 
@@ -166,13 +166,17 @@ Constituent une atteinte à la souveraineté populaire les manipulations informa
 
 - les campagnes de désinformation coordonnées ;
 
-- la création et la diffusion de contenus mensongers dans un but d'influence ;
+- la fabrication de faux documents ou de faits matériellement faux, diffusés en connaissance de cause dans un but d'influence ;
 
 - l'utilisation de faux comptes ou de moyens automatisés pour amplifier artificiellement des contenus ;
 
 - le ciblage publicitaire exploitant des données personnelles à des fins politiques en dehors des cadres légaux ;
 
-- l'usage d'intelligence artificielle pour produire des contenus trompeurs imitant des personnes réelles.
+- l'usage d'intelligence artificielle pour produire des contenus trompeurs imitant des personnes réelles ;
+
+- le financement dissimulé ou étranger d'une campagne d'influence.
+
+La critique d'une convention, d'une loi ou d'une autorité, même vive, organisée ou coordonnée, ne constitue jamais une manipulation informationnelle lorsqu'elle n'emploie aucun de ces procédés.
 
 ### Article 178 — Mesures préventives {#mesures-preventives}
 
@@ -214,7 +218,7 @@ Il est institué par la présente Constitution une Autorité de régulation ind�
 
 - de prononcer les sanctions administratives prévues à l'article [179](#manipulation-sanctions) et par la loi dans les matières relevant de ses compétences, et de saisir le juge des manquements touchant au contenu des informations.
 
-L'Autorité est indépendante du pouvoir exécutif, des conventions citoyennes, des partis et groupements politiques et des intérêts privés. Sa composition, les modalités de désignation de ses membres, ses pouvoirs et ses règles de fonctionnement sont fixés par la loi organique, dans le respect des principes de la présente Constitution. L'intégrité de ses membres est contrôlée par la Juridiction de probité et de responsabilité publique. Ils sont révocables dans les conditions prévues au Titre [IX](#juridiction-probite).
+L'Autorité est indépendante du pouvoir exécutif, des conventions citoyennes, des partis et groupements politiques et des intérêts privés. Elle est composée de neuf membres : trois magistrates ou magistrats et trois personnes qualifiées en matière de médias, de numérique ou de financement politique, tirés au sort dans des viviers publics constitués selon des critères objectifs fixés par la loi organique, et trois citoyennes ou citoyens tirés au sort. Le mandat des membres tirés dans les viviers est de six ans, non renouvelable, avec un renouvellement par tiers tous les deux ans ; celui des citoyens est de deux ans. Aucun membre ne peut avoir exercé de responsabilité dans un parti, un groupement politique ou un média dans les cinq années précédentes. Ses pouvoirs et ses règles de fonctionnement sont fixés par la loi organique, dans le respect des principes de la présente Constitution. L'intégrité de ses membres est contrôlée par la Juridiction de probité et de responsabilité publique. Ils sont révocables dans les conditions prévues au Titre [IX](#juridiction-probite).
 
 ## Chapitre VI — Pluralisme des médias
 

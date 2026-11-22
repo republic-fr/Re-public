@@ -236,7 +236,7 @@ noeuds:
     nom: Conseil constitutionnel
     detail: Contrôle automatique, en un mois
     info: >-
-      Chaque loi lui est soumise avant d’entrer en vigueur. Il vérifie le respect de la Constitution, des droits et des procédures, et peut suspendre le texte. Les deux contrôles se déroulent en parallèle, en un mois chacun, prolongeable une fois
+      Chaque loi lui est soumise avant d’entrer en vigueur. Il vérifie le respect de la Constitution, des droits et des procédures, et peut suspendre le texte. Les deux contrôles se déroulent en parallèle, en un mois chacun, prolongeable jusqu’à trois mois au plus
       (articles [42](#controle-prealable-automatique-lois) et [46](#cc-etendue-controle)).
   - id: suspension
     ligne: 6
@@ -334,7 +334,7 @@ noeuds:
     nom: Convention de désignation
     detail: 50 citoyens, renouvelés par moitié chaque année
     info: >-
-      Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après deux tours sans résultat, un troisième tour départage les deux premiers. Elle désigne aussi les représentants
+      Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après trois tours sans majorité, la désignation est reprise après un renouvellement partiel de la convention, et un intérim assure la continuité. Elle désigne aussi les représentants
       aux relations extérieures (articles [61](#convention-designation-ministres) et [62](#procedure-designation-ministres)).
   - id: ministres
     ligne: 4

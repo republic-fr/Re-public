@@ -34,7 +34,7 @@ La pluralité effective du vivier est contrôlée par l'Autorité de programmati
 
 ### Article 40 — Durée du mandat {#cc-duree-mandat}
 
-Le mandat des membres du Conseil constitutionnel est de neuf ans, non renouvelable. Le renouvellement s'effectue par tiers tous les trois ans, afin d'assurer la continuité de la jurisprudence et la diversité des perspectives.
+Le mandat des membres du Conseil constitutionnel est de neuf ans, non renouvelable. Le renouvellement s'effectue par tiers tous les trois ans, afin d'assurer la continuité de la jurisprudence et la diversité des perspectives. En cas de vacance, un nouveau membre est tiré au sort dans le vivier, dans le même domaine de spécialisation, pour la durée du mandat restant à courir.
 
 ### Article 41 — Statut et indépendance {#cc-statut-independance}
 
@@ -50,7 +50,7 @@ Leur rémunération, leur protection et leurs conditions d'exercice sont fixées
 
 Toute loi adoptée par une convention citoyenne est soumise de plein droit au Conseil constitutionnel avant son entrée en vigueur.
 
-Le contrôle constitutionnel et le contrôle scientifique prévu au Titre [VI](#controle-scientifique) sont menés en parallèle. Chacun est achevé dans un délai d'un mois à compter de l'adoption du texte, qui peut être prolongé une fois d'un mois par décision motivée. À défaut de décision dans ce délai, le contrôle est réputé favorable.
+Le contrôle constitutionnel et le contrôle scientifique prévu au Titre [VI](#controle-scientifique) sont menés en parallèle. Chacun est achevé dans un délai d'un mois à compter de l'adoption du texte, qui peut être prolongé une fois d'un mois par décision motivée, puis une seconde fois d'un mois en cas d'afflux exceptionnel de saisines constaté par décision publique. Les contrôles préalables sont traités en priorité sur toute autre affaire. À l'expiration de ces délais, le texte entre en vigueur ; il reste soumis au contrôle a posteriori.
 
 Avant de prononcer une suspension, le Conseil auditionne publiquement une rapporteuse ou un rapporteur désigné par la convention citoyenne ayant adopté le texte, ainsi que toute autorité qu'il juge utile d'entendre.
 
