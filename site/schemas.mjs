@@ -43,7 +43,10 @@ function parseLink(s, ids, where) {
 
 /** Lit un bloc YAML et vérifie sa structure. */
 export function parseSchema(src, where) {
-  const d = yaml.load(src);
+  let d;
+  try { d = yaml.load(src); } catch (e) {
+    throw new Error(`${where} : schéma illisible (${e.reason}, ligne ${e.mark ? e.mark.line + 1 : '?'} du bloc). Astuce : une valeur contenant « : » doit être entre guillemets.`);
+  }
   if (!d || !d.id || !Array.isArray(d.noeuds)) throw new Error(`${where} : un schéma doit avoir un « id » et des « noeuds ».`);
   const ids = new Set();
   for (const n of d.noeuds) {
