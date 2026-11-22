@@ -24,7 +24,7 @@ Son principe est le gouvernement du peuple, par le peuple et pour le peuple.
 
 ### Article 3 — Souveraineté et modes d'exercice {#souverainete-modes-exercice}
 
-La souveraineté appartient au peuple.
+La souveraineté appartient au peuple, formé du corps civique défini à l'article [13](#eligibilite-participation).
 
 Elle s'exerce, comme mode normal, par des conventions citoyennes tirées au sort selon des procédures assurant la représentativité sociale, territoriale et démographique de la République, et, dans les cas prévus par la présente Constitution, par voie de suffrage universel direct.
 
