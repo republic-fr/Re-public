@@ -2,11 +2,9 @@
 
 ## Chapitre I — Principes généraux
 
-### Article 142 — Notion de crise {#notion-crise}
+### Article 142 — Notion de crise et régime applicable {#notion-crise #architecture-regime-crise}
 
 Constitue une crise, au sens du présent titre, toute situation grave et immédiate qui menace la vie ou la santé des personnes, la continuité des services publics essentiels, l'intégrité du territoire, la sécurité nationale, l'environnement, l'ordre démocratique ou le fonctionnement des institutions constitutionnelles.
-
-### Article 143 — Architecture du régime de crise {#architecture-regime-crise}
 
 En cas de crise, deux mécanismes distincts sont activés simultanément :
 
@@ -66,13 +64,13 @@ En cas de menace imminente avérée pour la sécurité nationale ou la vie des p
 
 2° la fermeture temporaire de points de passage frontaliers.
 
-Ces mesures sont exécutées par les seules forces placées sous l'autorité du ministre de l'Intérieur, dans le cadre de leurs missions de police. Elles sont coordonnées par la présidente ou le président du collège des ministres et soumises au contrôle juridictionnel prévu à l'article [149](#crise-controle-juridictionnel). Elles cessent de plein droit à l'entrée en fonction de la convention de secours, qui peut les prolonger, les modifier ou les abroger.
+Ces mesures sont exécutées par les seules forces placées sous l'autorité du ministre de l'Intérieur, dans le cadre de leurs missions de police. Elles sont coordonnées par le membre qui préside le collège des ministres et soumises au contrôle juridictionnel prévu à l'article [149](#crise-controle-juridictionnel). Elles cessent de plein droit à l'entrée en fonction de la convention de secours, qui peut les prolonger, les modifier ou les abroger.
 
 Les mesures prévues aux 1° et 2° font l'objet des garanties suivantes :
 
 a) Compétence juridictionnelle. La Juridiction de probité et de responsabilité publique est compétente pour connaître des fautes commises par les agents et autorités d'exécution dans leur mise en œuvre. Elle peut être saisie par tout citoyen, par la convention de secours ou par la convention thématique de contrôle prévue au e).
 
-b) Sanction de non-confirmation. Toute mesure non confirmée par la convention de secours dans les délais prévus à l'article [153](#secours-delai-siege) est réputée illégale. Elle ouvre droit à réparation pour les personnes lésées et engage la responsabilité personnelle des autorités l'ayant ordonnée, dans les conditions fixées par la loi organique.
+b) Sanction de non-confirmation. Toute mesure non confirmée par la convention de secours dans les délais prévus à l'article [152](#secours-saisine) est réputée illégale. Elle ouvre droit à réparation pour les personnes lésées et engage la responsabilité personnelle des autorités l'ayant ordonnée, dans les conditions fixées par la loi organique.
 
 c) Plafond annuel. Le recours à ces mesures est limité à trois épisodes par année civile. Au-delà, il requiert l'autorisation préalable de la convention de secours statuant à la majorité qualifiée, sauf état de guerre déclaré par convention thématique.
 
@@ -116,7 +114,7 @@ Chaque mesure conservatoire doit satisfaire, pour pouvoir être prise ou mainten
 
 - respect des droits intangibles : elle ne peut en aucun cas y porter atteinte.
 
-### Article 149 — Contrôle juridictionnel {#crise-controle-juridictionnel}
+### Article 149 — Contrôle juridictionnel et recours citoyen {#crise-controle-juridictionnel #crise-recours-citoyen}
 
 Chaque mesure conservatoire est validée individuellement par une chambre spécialisée d'une juridiction indépendante, siégeant en formation d'urgence vingt-quatre heures sur vingt-quatre pendant les périodes de crise. La composition, les règles de fonctionnement et les délais de cette formation sont fixés par la loi organique, dans le respect de l'indépendance juridictionnelle et du droit au recours.
 
@@ -125,8 +123,6 @@ Les mesures immédiatement nécessaires à la sauvegarde des personnes peuvent �
 Les autres mesures conservatoires font l'objet d'une validation préalable par le juge, qui statue dans les délais les plus brefs.
 
 Les décisions du juge sont motivées et publiques.
-
-### Article 150 — Recours citoyen {#crise-recours-citoyen}
 
 Toute personne affectée par une mesure conservatoire peut saisir le même juge, à tout moment, pour demander la levée, la modification ou la restriction de cette mesure dans son application concrète. Le juge statue dans les délais les plus brefs. Ce droit s'ajoute à tous les recours ordinaires.
 
@@ -138,7 +134,7 @@ La convention citoyenne de secours est composée de cent cinquante citoyens tir�
 
 La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Ses moyens de communication sont indépendants des réseaux ordinaires. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Les membres empêchés de siéger sont remplacés sans délai par des suppléants. Le quorum et les majorités sont toujours calculés sur l'effectif complet de la convention, qui ne délibère jamais avec moins de la moitié de ses membres. Seule est valable une réunion convoquée selon ces protocoles et dont la liste des présents est publiée. Si plusieurs réunions se réclament de la convention, le Conseil constitutionnel désigne la réunion légitime ; s'il est empêché, la réunion qui compte le plus de membres régulièrement désignés l'emporte. Toute autre réunion est nulle de plein droit, dans les conditions de l'article [7](#tyrannie-majorite-resistance).
 
-### Article 152 — Saisine {#secours-saisine}
+### Article 152 — Saisine et délai de siège {#secours-saisine #secours-delai-siege}
 
 La convention de secours peut s'auto-saisir dès qu'une mesure conservatoire a été validée par le juge. L'administration d'exécution et le juge ont l'obligation constitutionnelle de l'informer sans délai de toute mesure conservatoire en cours ou demandée.
 
@@ -157,8 +153,6 @@ Elle est en outre saisie dans les seuls cas suivants :
 - de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
 
 Les saisines pour le réexamen d'un texte suspendu, pour un blocage du collège des ministres, pour une vacance ministérielle et pour l'échec du budget ne constituent pas une crise au sens de l'article [142](#notion-crise). La convention n'y statue que sur l'objet de la saisine et ne peut prendre aucune des mesures prévues à l'article [147](#conservatoires-cadre-interdit).
-
-### Article 153 — Délai de siège {#secours-delai-siege}
 
 La convention de secours siège au plus tard soixante-douze heures après sa saisine.
 
@@ -182,15 +176,13 @@ La convention de secours :
 
 - peut, à la majorité qualifiée, suspendre certaines conventions ordinaires pour priorité opérationnelle, par décision motivée.
 
-### Article 155 — Contrôles maintenus {#secours-controles-maintenus}
+### Article 155 — Contrôles et continuité maintenus {#secours-controles-maintenus #secours-continuite-conventions}
 
 Les mesures exceptionnelles autorisées par la convention de secours sont soumises aux contrôles constitutionnels et scientifiques applicables aux lois ordinaires, selon des modalités adaptées à l'urgence et précisées par la loi organique. Le Conseil constitutionnel, l'Autorité de contrôle de l'exécution des lois, la Juridiction de probité et de responsabilité publique et les juridictions compétentes demeurent pleinement compétents pendant la crise.
 
-### Article 156 — Continuité des conventions ordinaires {#secours-continuite-conventions}
-
 Les conventions ordinaires en cours poursuivent leurs travaux pendant la crise, sauf décision motivée de suspension prise par la convention de secours à la majorité qualifiée. La continuité institutionnelle est le principe ; la suspension, l'exception motivée.
 
-### Article 157 — Durée et réexamen périodique {#secours-duree-reexamen}
+### Article 157 — Durée, réexamen et désactivation {#secours-duree-reexamen #secours-desactivation}
 
 La convention de secours dure tant que dure la crise. Tous les trente jours, elle doit voter à la majorité qualifiée le maintien de l'état de crise et des mesures exceptionnelles en vigueur. À défaut de confirmation, les mesures exceptionnelles deviennent caduques.
 
@@ -198,6 +190,4 @@ La durée totale de l'état de crise ne peut excéder six mois. Au-delà de cett
 
 Par exception, en cas de conflit armé ou de catastrophe d'une ampleur rendant impossible le retour au régime ordinaire dans le délai de six mois, la convention de secours peut, à la majorité des trois quarts de ses membres, proroger l'état de crise pour une période supplémentaire de trois mois, renouvelable dans les mêmes conditions. Le Conseil constitutionnel est saisi de plein droit à chaque prorogation et peut constater, par décision motivée, la fin des conditions justifiant l'exception.
 
-### Article 158 — Désactivation {#secours-desactivation}
-
-La convention de secours peut se désactiver elle-même par un vote à la majorité qualifiée, constatant la fin des conditions de crise. Elle est également désactivée lorsque le Conseil constitutionnel constate, par décision motivée, que les conditions de crise ont pris fin. Le Conseil peut être saisi à cette fin par l'Autorité de programmation civique, par la Défenseure ou le Défenseur des droits, par le cinquième des membres de la convention de secours, ou par une pétition réunissant un pour cent du corps civique.
+La convention de secours peut se désactiver elle-même par un vote à la majorité qualifiée, constatant la fin des conditions de crise. Elle est également désactivée lorsque le Conseil constitutionnel constate, par décision motivée, que les conditions de crise ont pris fin. Le Conseil peut être saisi à cette fin par l'Autorité de programmation civique, par le Défenseur des droits, par le cinquième des membres de la convention de secours, ou par une pétition réunissant un pour cent du corps civique.
