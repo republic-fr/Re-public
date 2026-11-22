@@ -81,8 +81,8 @@ const renderBody = (text) => md.render(renderRefs(text, refs.byId, refUrl));
 
 const NAV = [
   ['Texte', '/texte/'],
-  ['Pourquoi', '/pourquoi/'],
   ['Fonctionnement', '/fonctionnement/'],
+  ['Pourquoi', '/pourquoi/'],
   ['Comment', '/comment/'],
   ['Commenter', '/commenter/'],
   ['FAQ', '/faq/'],

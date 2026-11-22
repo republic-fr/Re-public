@@ -234,9 +234,9 @@ noeuds:
     colonne: 3
     type: autorite
     nom: Conseil constitutionnel
-    detail: Contrôle automatique
+    detail: Contrôle automatique, en un mois
     info: >-
-      Chaque loi lui est soumise avant d’entrer en vigueur. Il vérifie le respect de la Constitution, des droits et des procédures, et peut suspendre le texte
+      Chaque loi lui est soumise avant d’entrer en vigueur. Il vérifie le respect de la Constitution, des droits et des procédures, et peut suspendre le texte. Les deux contrôles se déroulent en parallèle, en un mois chacun, prolongeable une fois
       (articles [42](#controle-prealable-automatique-lois) et [46](#cc-etendue-controle)).
   - id: suspension
     ligne: 6

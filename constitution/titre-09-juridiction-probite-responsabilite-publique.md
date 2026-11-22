@@ -8,7 +8,7 @@ La Juridiction de probité et de responsabilité publique est une juridiction co
 
 ### Article 96 — Composition {#juridiction-probite-composition}
 
-La Juridiction est composée de quinze membres, exclusivement magistrats ou juristes de formation juridictionnelle équivalente, ayant une expertise particulière du droit pénal, du droit disciplinaire, du droit administratif ou du contrôle de la probité publique. Le nombre de membres peut être précisé par la loi organique sans pouvoir être inférieur à neuf.
+La Juridiction est composée de quinze membres, exclusivement magistrats ou juristes de formation juridictionnelle équivalente, ayant une expertise particulière du droit pénal, du droit disciplinaire, du droit administratif ou du contrôle de la probité publique.
 
 Les membres sont désignés par tirage au sort stratifié dans un vivier public permanent d'accréditation constitué selon des critères objectifs vérifiables fixés par la loi organique.
 
@@ -106,7 +106,13 @@ La Juridiction est compétente à l'égard :
 
 - des membres de l'Autorité de programmation civique et des responsables de l'Autorité générale des conventions citoyennes ;
 
+- des membres du Conseil supérieur de la magistrature, et des magistrates et magistrats dans les conditions prévues à l'article [121](#repartition-probite-judiciaire) ;
+- de la Défenseure ou du Défenseur des droits ;
+- des membres de l'Autorité de régulation indépendante de la vie démocratique ;
+- des officiers généraux des forces armées ;
 - des exécutifs territoriaux, sur saisine des conventions territoriales compétentes.
+
+Cette liste détermine les fonctions soumises au contrôle de la Juridiction au sens de la présente Constitution.
 
 Les membres des conventions citoyennes ne relèvent pas de la compétence de la Juridiction, sauf en cas de faute pénale caractérisée.
 

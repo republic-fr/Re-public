@@ -2,7 +2,7 @@
 
 ### Article 51 — Principe {#controle-scientifique-principe}
 
-Tout texte adopté par une convention citoyenne fait l'objet d'un contrôle scientifique préalable à son entrée en vigueur, dans le cadre strictement défini par la présente Constitution.
+Tout texte adopté par une convention citoyenne fait l'objet d'un contrôle scientifique préalable à son entrée en vigueur, dans le cadre strictement défini par la présente Constitution et dans les délais prévus à l'article [42](#controle-prealable-automatique-lois).
 
 ### Article 52 — Conseil scientifique ad hoc {#conseil-scientifique-ad-hoc}
 

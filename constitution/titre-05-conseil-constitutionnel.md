@@ -48,7 +48,9 @@ Leur rémunération, leur protection et leurs conditions d'exercice sont fixées
 
 ### Article 42 — Contrôle préalable automatique des lois {#controle-prealable-automatique-lois}
 
-Toute loi adoptée par une convention citoyenne est soumise de plein droit au Conseil constitutionnel avant son entrée en vigueur. Le Conseil statue dans un délai fixé par la loi organique.
+Toute loi adoptée par une convention citoyenne est soumise de plein droit au Conseil constitutionnel avant son entrée en vigueur.
+
+Le contrôle constitutionnel et le contrôle scientifique prévu au Titre [VI](#controle-scientifique) sont menés en parallèle. Chacun est achevé dans un délai d'un mois à compter de l'adoption du texte, qui peut être prolongé une fois d'un mois par décision motivée. À défaut de décision dans ce délai, le contrôle est réputé favorable.
 
 Avant de prononcer une suspension, le Conseil auditionne publiquement une rapporteuse ou un rapporteur désigné par la convention citoyenne ayant adopté le texte, ainsi que toute autorité qu'il juge utile d'entendre.
 
@@ -56,7 +58,7 @@ Avant de prononcer une suspension, le Conseil auditionne publiquement une rappor
 
 Avant toute ratification, le Conseil constitutionnel peut être saisi par l'Autorité de programmation civique, par toute convention ayant compétence pour ratifier, par une autorité constitutionnelle ou par une pétition citoyenne atteignant le seuil fixé par la loi organique, afin de déclarer si un traité comporte une clause contraire à la Constitution.
 
-Si le Conseil déclare qu'un traité comporte une clause contraire à la Constitution, la ratification ne peut intervenir qu'après révision constitutionnelle ou renégociation du traité.
+Si le Conseil déclare qu'un traité comporte une clause contraire à la Constitution, la ratification ne peut intervenir qu'après révision de la Constitution, dans les conditions prévues à l'article [191](#traites-controle-conformite).
 
 ## Chapitre III — Contrôle a posteriori
 

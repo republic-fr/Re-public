@@ -140,7 +140,17 @@ La convention de secours peut s'auto-saisir dès qu'une mesure conservatoire a �
 
 À défaut d'auto-saisine dans les vingt-quatre heures, l'Autorité générale des conventions citoyennes la convoque de plein droit.
 
-En l'absence de mesure conservatoire, la convention de secours peut également être saisie par la demande concordante d'au moins deux autorités constitutionnelles distinctes, aux fins d'examiner une crise politique, institutionnelle ou systémique. Elle peut également être saisie par tout représentant aux relations extérieures en cas d'urgence internationale, dans les conditions prévues au Titre [VII](#execution). Elle est saisie par l'Autorité de programmation civique pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [25](#reexamen-cas-suspension).
+En l'absence de mesure conservatoire, la convention de secours peut également être saisie par la demande concordante d'au moins deux autorités constitutionnelles distinctes, aux fins d'examiner une crise politique, institutionnelle ou systémique.
+
+Elle est en outre saisie dans les seuls cas suivants :
+
+- par l'Autorité de programmation civique, pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [25](#reexamen-cas-suspension) ;
+- par tout ministre, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
+- de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [66](#interim-ministeriel) ;
+- par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [72](#relations-exterieures-saisine-secours) ;
+- par le ministre de la Défense, qui l'informe de toute opération défensive, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
+- par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [88](#controle-renseignement-armees) ;
+- de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
 
 ### Article 153 — Délai de siège {#secours-delai-siege}
 
