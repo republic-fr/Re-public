@@ -8,7 +8,7 @@ L'autorité judiciaire est indépendante. Aucune autorité publique ne peut donn
 
 La juridiction administrative, composée des tribunaux administratifs, des cours administratives d'appel et du Conseil d'État, juge les litiges entre les personnes et l'administration et contrôle la légalité des actes d'exécution. Elle est indépendante dans les mêmes conditions que l'autorité judiciaire. Le Conseil d'État exerce exclusivement des fonctions juridictionnelles.
 
-La Cour des comptes est une juridiction financière indépendante. Elle juge les comptes des comptables publics, se prononce sur la régularité, la sincérité et l'efficacité de la gestion publique, et exerce les pouvoirs juridictionnels que lui confère la loi. Ses magistrats sont inamovibles. Leur statut, les conditions de leur nomination et leur discipline sont fixés par la loi organique et garantis par le Conseil supérieur de la magistrature, dans sa formation compétente à l'égard de la juridiction administrative. Sa coopération avec l'Autorité de contrôle de l'exécution des lois est régie par l'article [84](#juridiction-financiere-service-technique).
+La Cour des comptes est une juridiction financière indépendante. Elle juge les comptes des comptables publics, se prononce sur la régularité, la sincérité et l'efficacité de la gestion publique, et exerce les pouvoirs juridictionnels que lui confère la loi. Ses magistrats sont inamovibles. Leur statut, les conditions de leur nomination et leur discipline sont fixés par la loi organique et garantis par le Conseil supérieur de la magistrature, dans sa formation compétente à l'égard de la juridiction administrative. Sa coopération avec l'Autorité de contrôle de l'exécution des lois est régie par l'article [84](#juridiction-financiere-service-technique). Les autres dispositions du présent titre ne s'appliquent à ses magistrats que lorsqu'elles le prévoient expressément.
 
 Dans le présent titre, les dispositions relatives aux magistrats s'appliquent aux membres de la juridiction administrative, sauf disposition contraire.
 
@@ -90,7 +90,7 @@ Chaque formation propose les nominations aux plus hauts postes de son corps :
 
 - pour la juridiction administrative, au Conseil d'État et aux présidences des cours administratives d'appel et des tribunaux administratifs.
 
-Les autres magistrats sont nommés sur son avis conforme. Aucune nomination, au siège comme au parquet, ne peut intervenir sans l'accord conforme du Conseil supérieur de la magistrature.
+Les autres magistrats sont nommés sur son avis conforme. Aucune nomination, y compris au parquet, ne peut intervenir sans l'accord conforme du Conseil supérieur de la magistrature.
 
 ### Article 117 — Discipline et saisine par les justiciables {#csm-discipline #csm-saisine-justiciables}
 
@@ -120,7 +120,7 @@ Le Conseil supérieur de la magistrature remet chaque année à l'Autorité de c
 
 La session plénière de l'Autorité de contrôle examine ce rapport. Elle peut interpeller les membres du Conseil, demander des éclaircissements, formuler des recommandations publiques, saisir la Juridiction de probité et de responsabilité publique d'une faute grave constatée chez un membre du Conseil ou chez un magistrat, et demander à l'Autorité de programmation civique l'ouverture d'une convention thématique corrective. Elle examine les plaintes collectives des justiciables sur le fonctionnement général de la justice qui ne relèvent pas des saisines individuelles de l'article [117](#csm-discipline).
 
-Tous les cinq ans, le Conseil remet à la convention de programmation un rapport stratégique sur l'état de la justice, les évolutions de la magistrature, les enjeux structurels et les besoins de réforme. La convention de programmation en tient compte dans ses orientations et peut demander l'ouverture de conventions thématiques sur le statut des magistrats ou l'organisation judiciaire.
+Tous les cinq ans, le Conseil remet à la convention de programmation un rapport stratégique sur l'état de la justice, les évolutions de la magistrature, les enjeux structurels et les besoins de réforme. La convention de programmation intègre ces éléments dans ses orientations et peut demander l'ouverture de conventions thématiques sur le statut des magistrats ou l'organisation judiciaire.
 
 ### Article 125 — Organisation judiciaire {#organisation-judiciaire}
 

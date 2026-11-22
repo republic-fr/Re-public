@@ -22,7 +22,7 @@ Les décisions de fond et l'orientation générale de l'Autorité relèvent excl
 
 ### Article 81 — Composition {#session-pleniere-composition}
 
-La session plénière annuelle compte cent cinquante citoyens tirés au sort. Ses membres sont entièrement renouvelés chaque année, sans continuité de personnes. Elle siège pendant une durée fixée par la loi organique, qui ne peut être inférieure à quatre semaines. Les règles communes aux conventions citoyennes du Titre [III](#conventions), notamment la représentativité et le statut du conventionnel, lui sont applicables.
+La session plénière annuelle compte cent cinquante citoyens tirés au sort selon les critères de représentativité de l'article [12](#composition-representativite). Ses membres sont entièrement renouvelés chaque année, sans continuité de personnes. Elle siège pendant une durée fixée par la loi organique, qui ne peut être inférieure à quatre semaines. Ses membres sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
 ### Article 82 — Compétences {#session-pleniere-competences #session-pleniere-saisine}
 
@@ -92,7 +92,7 @@ L'Autorité n'exerce que des pouvoirs de demande et de saisine. La sanction rel�
 
 La Commission permanente de contrôle du renseignement et des forces armées compte douze membres, tirés au sort de manière stratifiée dans un vivier public d'accréditation, selon les règles suivantes :
 
-- le vivier comprend des magistrats du siège et du parquet, des membres du Conseil d'État, des avocats spécialisés en libertés publiques et en droit pénal, des universitaires en droit, en sciences politiques, en relations internationales ou en études stratégiques, et d'anciens auditeurs de la session nationale de l'Institut des hautes études de défense nationale ou de ses équivalents ;
+- le vivier comprend des magistrats du siège et du parquet, des conseillers d'État, des avocats spécialisés en libertés publiques et en droit pénal, des universitaires en droit, en sciences politiques, en relations internationales ou en études stratégiques, et d'anciens auditeurs de la session nationale de l'Institut des hautes études de défense nationale ou de ses équivalents ;
 
 - aucun corps ne peut représenter plus d'un tiers des membres ;
 

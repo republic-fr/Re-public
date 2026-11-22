@@ -56,11 +56,11 @@ La convention ordinaire annuelle adopte chaque année :
 
 - le budget de la sécurité sociale, en recettes et en dépenses ;
 
-- les lois fiscales annuelles, notamment les barèmes, les taux, les mesures d'ajustement et les mesures fiscales nouvelles d'ampleur limitée ;
+- les lois fiscales annuelles, notamment les barèmes, les taux, les mesures d'ajustement et les mesures fiscales nouvelles d'ampleur limitée, dans le respect des orientations fiscales pluriannuelles ;
 
 - les autorisations d'emprunt.
 
-Elle vérifie la conformité du budget aux orientations fixées par la convention de programmation. Elle peut y déroger à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), par décision motivée, notamment en cas de circonstances nouvelles significatives.
+Elle vérifie la conformité du budget aux priorités pluriannuelles fixées par la convention de programmation. Elle peut déroger à ces priorités à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), par décision motivée, notamment en cas de circonstances nouvelles significatives.
 
 Les réformes fiscales majeures, notamment la création, la suppression ou la refonte d'un impôt significatif, relèvent d'une convention thématique dédiée, ouverte par l'Autorité de programmation civique sur demande motivée de la convention de programmation ou de la convention ordinaire annuelle. En cas de contestation sur la nature d'une mesure fiscale, toute autorité constitutionnelle peut saisir le Conseil constitutionnel, qui détermine la convention compétente.
 
