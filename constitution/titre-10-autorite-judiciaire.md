@@ -1,10 +1,14 @@
-# Titre X — De l'autorité judiciaire {#autorite-judiciaire}
+# Titre X — De l'autorité judiciaire et de la juridiction administrative {#autorite-judiciaire}
 
 ## Chapitre I — Principes généraux
 
 ### Article 107 — Indépendance de la justice {#independance-justice}
 
 L'autorité judiciaire est indépendante. Aucune autorité publique ne peut donner d'instruction aux juridictions dans l'exercice de leurs fonctions juridictionnelles, ni intervenir dans les affaires en cours.
+
+La juridiction administrative, composée des tribunaux administratifs, des cours administratives d'appel et du Conseil d'État, juge les litiges entre les personnes et l'administration et contrôle la légalité des actes d'exécution. Elle est indépendante dans les mêmes conditions que l'autorité judiciaire. Le Conseil d'État exerce exclusivement des fonctions juridictionnelles.
+
+Dans le présent titre, les dispositions relatives aux magistrates et magistrats s'appliquent aux membres de la juridiction administrative, sauf disposition contraire.
 
 L'indépendance de la justice est une composante de l'identité constitutionnelle de la République, au sens de l'article [196](#identite-constitutionnelle-republique). Elle figure parmi les dispositions intangibles de l'article [9](#droits-intangibles).
 
@@ -28,21 +32,22 @@ Le Conseil supérieur de la magistrature est une institution constitutionnelle i
 
 ### Article 111 — Formations {#csm-formations}
 
-Le Conseil supérieur de la magistrature comprend deux formations :
+Le Conseil supérieur de la magistrature comprend trois formations :
 
 - une formation compétente à l'égard des magistrates et magistrats du siège ;
 
-- une formation compétente à l'égard des magistrates et magistrats du parquet.
+- une formation compétente à l'égard des magistrates et magistrats du parquet ;
+- une formation compétente à l'égard des membres de la juridiction administrative.
 
-Une formation plénière, composée selon des modalités fixées par la loi organique, traite des questions communes aux deux corps et des avis sur les projets de réforme de l'organisation judiciaire ou du statut des magistrates et magistrats.
+Une formation plénière, composée selon des modalités fixées par la loi organique, traite des questions communes aux trois corps et des avis sur les projets de réforme de l'organisation judiciaire ou du statut des magistrates et magistrats.
 
 ### Article 112 — Composition {#csm-composition}
 
 Chaque formation comprend douze membres :
 
-- sept magistrates ou magistrats du corps concerné (siège ou parquet) ;
+- sept magistrates ou magistrats du corps concerné (siège, parquet ou juridiction administrative) ;
 
-- une magistrate ou un magistrat de l'autre corps, assurant la liaison entre les deux formations ;
+- une magistrate ou un magistrat d'un autre corps, assurant la liaison entre les formations ;
 
 - une avocate ou un avocat ;
 
@@ -78,11 +83,11 @@ Les membres sont révocables en cours de mandat par la Juridiction de probité e
 
 ### Article 115 — Présidence {#csm-presidence}
 
-La formation compétente à l'égard des magistrates et magistrats du siège est présidée par la première présidente ou le premier président de la Cour de cassation. La formation compétente à l'égard des magistrates et magistrats du parquet est présidée par la procureure générale ou le procureur général près la Cour de cassation.
+La formation compétente à l'égard des magistrates et magistrats du siège est présidée par la première présidente ou le premier président de la Cour de cassation. La formation compétente à l'égard des magistrates et magistrats du parquet est présidée par la procureure générale ou le procureur général près la Cour de cassation. La formation compétente à l'égard des membres de la juridiction administrative est présidée par la présidente ou le président du Conseil d'État, désigné dans les conditions prévues à l'alinéa suivant.
 
-La première présidente ou le premier président de la Cour de cassation et la procureure générale ou le procureur général près cette même Cour sont désignés par la formation plénière du Conseil supérieur de la magistrature, à la majorité qualifiée, parmi les magistrates et magistrats de la Cour de cassation ayant l'expérience la plus étendue, après contrôle préalable d'intégrité par la Juridiction de probité et de responsabilité publique.
+La première présidente ou le premier président de la Cour de cassation, la procureure générale ou le procureur général près cette même Cour et la présidente ou le président du Conseil d'État sont désignés par la formation plénière du Conseil supérieur de la magistrature, à la majorité qualifiée, parmi les membres de la juridiction concernée ayant l'expérience la plus étendue, après contrôle préalable d'intégrité par la Juridiction de probité et de responsabilité publique.
 
-La formation plénière est présidée alternativement par la première présidente ou le premier président de la Cour de cassation et la procureure générale ou le procureur général près cette Cour, selon des modalités fixées par la loi organique.
+La formation plénière est présidée à tour de rôle par les présidentes ou présidents des trois formations, selon des modalités fixées par la loi organique.
 
 ## Chapitre III — Compétences du Conseil supérieur de la magistrature
 
@@ -92,11 +97,13 @@ La formation compétente à l'égard des magistrates et magistrats du siège pro
 
 La formation compétente à l'égard des magistrates et magistrats du parquet propose les nominations aux plus hauts postes du parquet, notamment au parquet général près la Cour de cassation et aux fonctions de procureure générale ou procureur général et de procureure ou procureur de la République. Les autres magistrates et magistrats du parquet sont nommés sur son avis conforme.
 
+La formation compétente à l'égard de la juridiction administrative propose les nominations au Conseil d'État et aux présidences des cours administratives d'appel et des tribunaux administratifs. Les autres membres de la juridiction administrative sont nommés sur son avis conforme.
+
 Aucune nomination ne peut intervenir sans l'accord conforme du Conseil supérieur de la magistrature. Ce principe s'applique également aux magistrats du parquet.
 
 ### Article 117 — Discipline {#csm-discipline}
 
-Le Conseil supérieur de la magistrature exerce le pouvoir disciplinaire sur les magistrats. La formation compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. La formation compétente à l'égard des magistrats du parquet statue comme conseil de discipline des magistrats du parquet.
+Le Conseil supérieur de la magistrature exerce le pouvoir disciplinaire sur les magistrats et sur les membres de la juridiction administrative, chaque formation statuant à l'égard du corps qui la concerne. La formation compétente à l'égard des magistrats du siège statue comme conseil de discipline des magistrats du siège. La formation compétente à l'égard des magistrats du parquet statue comme conseil de discipline des magistrats du parquet.
 
 La procédure disciplinaire est contradictoire, les décisions sont motivées et publiques, sauf exception strictement justifiée par la protection de tiers.
 

@@ -78,7 +78,9 @@ Le Conseil peut également être saisi sans filtre d'irrecevabilité par :
 
 ### Article 45 — Contrôle des actes d'exécution {#controle-actes-execution}
 
-Les actes d'exécution (décrets, arrêtés, circulaires et autres actes pris pour l'application de la loi) peuvent être contestés devant le Conseil constitutionnel sur saisine, dans les mêmes conditions que pour les lois. Le Conseil vérifie que l'acte respecte la loi qu'il applique ainsi que la Constitution.
+La légalité des actes d'exécution (décrets, arrêtés, circulaires et autres actes pris pour l'application de la loi) est contrôlée par la juridiction administrative, dans les conditions prévues à l'article [107](#independance-justice).
+
+Lorsqu'une contestation devant la juridiction administrative soulève une question sérieuse de conformité d'un acte d'exécution à la Constitution, cette juridiction la transmet au Conseil constitutionnel. Le Conseil constitutionnel peut également être saisi directement d'un acte d'exécution par les autorités et conventions mentionnées au second alinéa de l'article [44](#cc-saisine-posteriori). Il ne se prononce que sur la conformité de l'acte à la Constitution.
 
 ## Chapitre IV — Étendue et effets du contrôle
 

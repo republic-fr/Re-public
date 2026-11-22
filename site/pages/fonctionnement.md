@@ -406,7 +406,7 @@ liens:
 
 <h2 id="justice"><span class="kicker">04</span>La justice</h2>
 
-Les juges sont indépendants : aucune autorité ne peut leur donner d’instruction. Le parquet ne dépend plus d’un ministre, et les nominations comme la discipline relèvent d’un Conseil supérieur de la magistrature dont aucun membre n’est choisi par un responsable politique.
+Les juges sont indépendants : aucune autorité ne peut leur donner d’instruction. Les litiges avec l’administration ont leur propre juge, enfin indépendant du gouvernement. Le parquet ne dépend plus d’un ministre, et les nominations comme la discipline relèvent d’un Conseil supérieur de la magistrature dont aucun membre n’est choisi par un responsable politique.
 
 ```schema
 id: justice
@@ -436,19 +436,29 @@ noeuds:
     colonne: 2
     type: autorite
     nom: Tribunaux et cours
-    detail: Juges indépendants et inamovibles
+    detail: Justice civile et pénale
     info: >-
       Aucune autorité ne peut intervenir dans une affaire en cours. Les magistrats sont inamovibles et doivent signaler toute pression
       (articles [107](#independance-justice) et [109](#statut-magistrats)).
   - id: constitutionnel
-    ligne: 2
+    ligne: 3
     colonne: 3
     type: autorite
     nom: Conseil constitutionnel
-    detail: Recours contre une loi
+    detail: Conformité à la Constitution
     info: >-
-      Toute personne qui y a intérêt peut contester une loi en vigueur ou un acte d’exécution. Ses membres sont tirés au sort parmi des juristes
-      (articles [39](#cc-composition) et [44](#cc-saisine-posteriori)).
+      Toute personne qui y a intérêt peut contester une loi en vigueur. Pour les actes de l’administration, il est saisi par le juge administratif
+      quand une question de constitutionnalité est sérieuse. Ses membres sont tirés au sort parmi des juristes
+      (articles [39](#cc-composition), [44](#cc-saisine-posteriori) et [45](#controle-actes-execution)).
+  - id: administratif
+    ligne: 2
+    colonne: 3
+    type: autorite
+    nom: Juridiction administrative
+    detail: Tribunaux administratifs, Conseil d’État
+    info: >-
+      Elle juge les litiges avec l’administration et la légalité des décrets. Ses juges sont indépendants, nommés et sanctionnés par le Conseil
+      supérieur de la magistrature ; le Conseil d’État ne conseille plus le gouvernement (articles [45](#controle-actes-execution) et [107](#independance-justice)).
   - id: parquet
     ligne: 3
     colonne: 1
@@ -463,7 +473,7 @@ noeuds:
     colonne: 2
     type: autorite
     nom: Conseil supérieur de la magistrature
-    detail: Nominations, discipline, déontologie
+    detail: Trois formations (siège, parquet, juridiction administrative)
     info: >-
       Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats et peut être saisi par tout justiciable
       (articles [116](#csm-nominations) à [120](#csm-saisine-justiciables)).
@@ -502,7 +512,9 @@ noeuds:
 liens:
   - personne -> defenseur | réclamation
   - personne -> tribunaux | saisit un juge
-  - personne -> constitutionnel | conteste une loi
+  - personne -> administratif | litige avec l’administration
+  - administratif -> constitutionnel | question sérieuse
+  - personne -> constitutionnel | | droite
   - parquet -> tribunaux | poursuit
   - csm -> tribunaux | nomme, sanctionne
   - csm -> parquet | nomme, sanctionne
