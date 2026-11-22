@@ -476,7 +476,7 @@ noeuds:
     detail: Trois formations (siège, parquet, juridiction administrative)
     info: >-
       Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats, dans une formation où les magistrats sont minoritaires, et peut être saisi par tout justiciable
-      (articles [116](#csm-nominations) à [120](#csm-saisine-justiciables)).
+      (articles [116](#csm-nominations) et [117](#csm-discipline)).
   - id: pairs
     ligne: 5
     colonne: 1
