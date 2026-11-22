@@ -8,7 +8,7 @@ description: Le fonctionnement de la République délibérative en sept schémas
 <p class="lead">Sept schémas pour comprendre qui décide, qui exécute et qui contrôle. Survolez ou touchez chaque élément pour lire son rôle et les articles qui le fondent.</p>
 
 <ol class="dg-index">
-<li><a href="#cycle">Le cycle de cinq ans</a></li>
+<li><a href="#cycle">Mise en place et cycle de cinq ans</a></li>
 <li><a href="#loi">La fabrique de la loi</a></li>
 <li><a href="#ministeres">Les ministères</a></li>
 <li><a href="#justice">La justice</a></li>
@@ -17,70 +17,89 @@ description: Le fonctionnement de la République délibérative en sept schémas
 <li><a href="#territoires">Les territoires</a></li>
 </ol>
 
-<h2 id="cycle"><span class="kicker">01</span>Le cycle de cinq ans</h2>
+<h2 id="cycle"><span class="kicker">01</span>La mise en place, puis le cycle de cinq ans</h2>
 
-Tout part de la convention constituante, qui adopte la Constitution. Ensuite, la vie publique suit un cycle de cinq ans : une convention fixe le cap, des conventions forment les lois, l’administration les applique et une autorité citoyenne contrôle le tout chaque année.
+Deux conventions fondent le système, une seule fois : la convention constituante, qui écrit la Constitution, et la convention des droits fondamentaux, qui écrit la Déclaration des droits. Le peuple les ratifie par référendum. Ensuite, la vie publique suit un cycle de cinq ans : une convention fixe le cap, des conventions forment les lois, l’administration les applique et une autorité citoyenne contrôle le tout chaque année.
 
 ```schema
 id: cycle
 colonnes: 3
-intro: Le cycle se répète tous les cinq ans. Les citoyens tirés au sort changent à chaque convention ; ce sont les institutions qui assurent la continuité.
+intro: La mise en place n’a lieu qu’une fois ; la convention constituante n’est réunie de nouveau que pour réviser la Constitution. Le cycle, lui, se répète tous les cinq ans. Les citoyens tirés au sort changent à chaque convention ; ce sont les institutions qui assurent la continuité.
 noeuds:
   - id: constituante
     ligne: 1
-    colonne: 2
+    colonne: 1
     type: citoyens
     nom: Convention constituante
-    detail: 300 citoyens tirés au sort
+    detail: Une fois, puis à chaque révision
     info: >-
-      Elle délibère sur la Constitution article par article, pendant trois à six mois. Elle est réunie pour adopter la Constitution, puis pour chaque révision
-      (article [210](#constituante-composition-mandat)).
+      300 citoyens tirés au sort délibèrent sur la Constitution article par article, pendant trois à six mois. Elle n’est réunie de nouveau
+      que pour réviser la Constitution (articles [208](#revision-initiative) et [210](#constituante-composition-mandat)).
+  - id: droits
+    ligne: 1
+    colonne: 3
+    type: citoyens
+    nom: Convention des droits fondamentaux
+    detail: Écrit la Déclaration des droits
+    info: >-
+      Des citoyens tirés au sort rédigent la Déclaration des droits fondamentaux annexée à la Constitution, en partant de la Déclaration de 1789,
+      du Préambule de 1946 et de la Charte de l’environnement, sans pouvoir réduire les droits déjà reconnus (article [8](#declaration-droits-fondamentaux)).
   - id: referendum
     ligne: 2
     colonne: 2
     type: electeurs
     nom: Référendum
-    detail: Ratifie la Constitution
+    detail: Ratifie
     info: >-
       Le texte est adopté si la majorité des votants l’approuve et si les « oui » représentent au moins un tiers des inscrits
       (article [215](#referendum-revision-majorite)).
-  - id: programmation
+  - id: petitions
     ligne: 3
+    colonne: 1
+    type: electeurs
+    nom: Pétitions
+    detail: Ouvertes à tous, à tout moment
+    info: >-
+      Toutes les pétitions qui atteignent le seuil légal sont recensées par l’Autorité de programmation civique et transmises à la prochaine convention
+      de programmation. À cinq cent mille signatures, l’Autorité doit en plus examiner, sans attendre, l’ouverture d’une convention thématique dédiée
+      (article [36](#seuils-effets-petitions)).
+  - id: apc
+    ligne: 3
+    colonne: 2
+    type: citoyens
+    nom: Autorité de programmation civique
+    detail: 50 citoyens, renouvelés par moitié tous les six mois
+    info: >-
+      Elle recense les pétitions et les demandes des autorités, les transmet à la convention de programmation, puis ouvre les conventions thématiques
+      prévues au programme. Elle peut aussi en ouvrir hors programme dans des cas limités : pétition, demande d’une autorité de contrôle, acte européen,
+      échéance juridique (articles [34](#apc-missions) à [36](#seuils-effets-petitions)).
+  - id: agcc
+    ligne: 3
+    colonne: 3
+    type: autorite
+    nom: Autorité générale des conventions citoyennes
+    detail: Organise toutes les conventions
+    info: >-
+      Elle organise le tirage au sort et vérifie la représentativité, convoque et protège les conventionnels, tient les viviers d’experts et le registre public
+      des influences. Elle n’intervient jamais sur le contenu des délibérations (articles [30](#agcc-missions) et [31](#agcc-interdictions)).
+  - id: programmation
+    ligne: 4
     colonne: 2
     type: citoyens
     nom: Convention de programmation
     detail: Tous les cinq ans
     info: >-
-      150 citoyens fixent les priorités de la période, le programme des lois à préparer et les grandes orientations budgétaires et fiscales.
-      Elle examine toutes les demandes reçues et motive publiquement ses choix (articles [19](#convention-programmation) et [20](#programmation-saisines)).
-  - id: apc
-    ligne: 4
-    colonne: 1
-    type: citoyens
-    nom: Autorité de programmation civique
-    detail: 50 citoyens, renouvelés par moitié tous les six mois
-    info: >-
-      Elle met en œuvre le programme en ouvrant les conventions thématiques, répertorie les demandes et veille au pluralisme des experts.
-      Elle peut ouvrir une convention hors programme dans des cas limités : pétition, demande d’une autorité de contrôle, acte européen, échéance juridique
-      (articles [32](#apc-nature-composition) à [35](#apc-interdictions)).
-  - id: petitions
-    ligne: 3
-    colonne: 3
-    type: electeurs
-    nom: Pétitions
-    detail: Ouvertes à tous
-    info: >-
-      Toute pétition qui atteint le seuil légal est transmise à la convention de programmation. À cinq cent mille signatures,
-      l’Autorité de programmation civique doit examiner l’ouverture d’une convention dédiée (article [36](#seuils-effets-petitions)).
+      150 citoyens choisissent les conventions thématiques à mener pendant cinq ans et fixent les grandes priorités budgétaires et fiscales.
+      Ils examinent toutes les demandes reçues et motivent publiquement leurs choix. Ils n’écrivent pas les lois (articles [19](#convention-programmation) et [20](#programmation-saisines)).
   - id: thematiques
     ligne: 5
     colonne: 1
     type: citoyens
     nom: Conventions thématiques
-    detail: Une par loi, 150 citoyens, quelques mois
+    detail: Un sujet chacune, une ou plusieurs lois
     info: >-
-      Chacune forme une loi sur un objet précis, après formation, auditions et contre-expertise. Elle est dissoute à la fin
-      et laisse trois rapporteurs qui gardent sa mémoire (articles [21](#thematique-formation-objet) à [24](#adoption-loi)).
+      Chacune traite un sujet fixé à son ouverture et peut adopter une série de lois sur ce sujet, après formation, auditions et contre-expertise.
+      Elle est dissoute à la fin et laisse trois rapporteurs qui gardent sa mémoire (articles [21](#thematique-formation-objet) à [24](#adoption-loi)).
   - id: annuelle
     ligne: 5
     colonne: 3
@@ -107,18 +126,22 @@ noeuds:
     detail: Session plénière citoyenne chaque année
     info: >-
       Un service technique enquête toute l’année ; une session de 150 citoyens examine chaque année son rapport. Elle peut interpeller tout responsable,
-      saisir la Juridiction de probité et demander des conventions correctives (articles [79](#acel-nature) à [82](#session-pleniere-competences)).
+      saisir la Juridiction de probité et demander l’ouverture de conventions correctives à l’Autorité de programmation civique
+      (articles [79](#acel-nature) à [82](#session-pleniere-competences)).
 liens:
-  - constituante -> referendum | texte adopté
-  - referendum -> programmation | Constitution en vigueur
-  - programmation -> apc | programme
-  - petitions -> apc | demandes
-  - programmation -> annuelle | orientations budgétaires
+  - constituante -> referendum | Constitution
+  - droits -> referendum | Déclaration
+  - referendum -> apc | en vigueur
+  - petitions -> apc | pétitions
+  - apc -> programmation | transmet les demandes
+  - agcc --> programmation | tirage au sort
   - apc -> thematiques | ouvre
+  - programmation -> thematiques | choisit
+  - programmation -> annuelle | priorités budgétaires
   - thematiques -> administration | lois
   - annuelle -> administration | budget
   - administration -> controle | contrôlée
-  - controle -> programmation | | gauche
+  - controle -> apc | | droite
 ```
 
 <h2 id="loi"><span class="kicker">02</span>La fabrique de la loi</h2>
@@ -144,8 +167,10 @@ noeuds:
     colonne: 2
     type: citoyens
     nom: Convention de programmation
-    detail: Programme sur cinq ans
-    info: La plupart des lois viennent du programme fixé tous les cinq ans (article [19](#convention-programmation)).
+    detail: Choisit les conventions à mener
+    info: >-
+      Tous les cinq ans, elle décide quelles conventions thématiques seront ouvertes et fixe les grandes priorités budgétaires. Elle n’écrit pas
+      les lois : ce sont les conventions thématiques qui les forment (article [19](#convention-programmation)).
   - id: demandes
     ligne: 1
     colonne: 3
