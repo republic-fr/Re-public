@@ -58,11 +58,9 @@ La République coopère pleinement avec la Cour pénale internationale et contri
 
 ## Chapitre IV — Principe de participation
 
-### Article 193 — Participation à l'Union européenne {#participation-union-europeenne}
+### Article 193 — Participation à l'Union européenne et primauté de son droit {#participation-union-europeenne #primaute-droit-union}
 
 La République française participe à l'Union européenne, constituée d'États qui ont choisi librement d'exercer en commun certaines de leurs compétences, sous réserve du respect des droits intangibles visés à l'article [9](#droits-intangibles), de la souveraineté populaire délibérative et des principes fondamentaux de la présente Constitution.
-
-### Article 194 — Primauté du droit de l'Union {#primaute-droit-union}
 
 Le droit de l'Union européenne a, dans son champ d'application, une autorité supérieure à celle des lois, dans les conditions fixées par les traités.
 
@@ -94,7 +92,7 @@ L'identité constitutionnelle de la République comprend :
 
 ## Chapitre V — Transferts de compétences et procédures
 
-### Article 197 — Répartition par niveau de portée {#transferts-repartition-portee}
+### Article 197 — Transferts de compétences et procédure applicable {#transferts-repartition-portee #transferts-procedure-applicable}
 
 Les transferts de compétences à l'Union européenne relèvent, selon leur portée, de procédures distinctes :
 
@@ -106,13 +104,11 @@ Les transferts de compétences à l'Union européenne relèvent, selon leur port
 
 Les actes législatifs européens ordinaires, pris dans le cadre de compétences déjà transférées, sont soumis aux dispositions de l'article [200](#transmission-actes-europeens).
 
-### Article 198 — Détermination de la procédure applicable {#transferts-procedure-applicable}
-
 Le Conseil constitutionnel est saisi de plein droit pour tout projet d'acte européen appelant ratification par la République. Il détermine :
 
 - la conformité de l'acte à la Constitution, notamment aux droits intangibles et à l'identité constitutionnelle ;
 
-- la procédure applicable selon la répartition prévue à l'article [197](#transferts-repartition-portee).
+- la procédure applicable selon la répartition prévue au premier alinéa.
 
 En cas de doute ou de contestation, le Conseil constitutionnel privilégie la procédure la plus exigeante. Sa décision est motivée et publique.
 
@@ -126,13 +122,11 @@ Les règles de campagne référendaire et de majorité sont celles prévues aux 
 
 ## Chapitre VI — Participation citoyenne au processus législatif européen
 
-### Article 200 — Transmission des actes européens {#transmission-actes-europeens}
+### Article 200 — Actes européens et subsidiarité {#transmission-actes-europeens #controle-principe-subsidiarite}
 
 Les projets d'actes législatifs européens et les autres projets ou propositions d'actes de l'Union européenne sont transmis, dès leur diffusion par les institutions européennes, à l'Autorité de contrôle de l'exécution des lois, qui les rend publics.
 
 L'Autorité de contrôle peut, de sa propre initiative ou sur saisine, porter à la connaissance de l'Autorité de programmation civique les projets qui, par leur importance, justifient l'ouverture d'une convention thématique. L'Autorité de programmation civique statue sur l'opportunité de l'ouverture selon les conditions prévues au Titre [IV](#autorites-deliberatives).
-
-### Article 201 — Contrôle du principe de subsidiarité {#controle-principe-subsidiarite}
 
 Le contrôle du respect du principe de subsidiarité par les actes législatifs européens est exercé par l'Autorité de contrôle de l'exécution des lois, par l'intermédiaire de son service technique.
 
@@ -140,13 +134,9 @@ L'Autorité de contrôle peut émettre des avis motivés adressés aux instituti
 
 ## Chapitre VII — Adhésion, révision et sortie
 
-### Article 202 — Adhésion d'un nouvel État {#adhesion-nouvel-etat}
+### Article 202 — Adhésion d'un nouvel État {#adhesion-nouvel-etat #modalites-referendum-adhesion}
 
-Toute adhésion d'un nouvel État à l'Union européenne fait l'objet d'une convention thématique dédiée, suivie d'un référendum de ratification dans les conditions prévues à l'article [203](#modalites-referendum-adhesion).
-
-### Article 203 — Modalités du référendum d'adhésion {#modalites-referendum-adhesion}
-
-Le référendum relatif à l'adhésion d'un nouvel État à l'Union européenne obéit aux règles de majorité et de campagne prévues au Titre [XVI](#revision) pour le référendum constitutionnel, sous réserve des adaptations fixées par la loi organique.
+Toute adhésion d'un nouvel État à l'Union européenne fait l'objet d'une convention thématique dédiée, suivie d'un référendum de ratification. Ce référendum obéit aux règles de majorité et de campagne prévues au Titre [XVI](#revision) pour le référendum constitutionnel, sous réserve des adaptations fixées par la loi organique.
 
 ### Article 204 — Révision des traités européens {#revision-traites-europeens}
 
@@ -156,7 +146,7 @@ Toute révision des traités européens est soumise à la procédure définie à
 - les révisions simplifiées importantes relèvent d'une convention thématique, dans les conditions prévues à l'article [199](#referendum-transferts-intermediaires) ;
 - les révisions substantielles, qui modifient les compétences de l'Union ou touchent aux droits fondamentaux, relèvent d'une convention constituante suivie d'un référendum.
 
-Le Conseil constitutionnel détermine la procédure applicable dans les conditions prévues à l'article [198](#transferts-procedure-applicable).
+Le Conseil constitutionnel détermine la procédure applicable dans les conditions prévues à l'article [197](#transferts-repartition-portee).
 
 ### Article 205 — Sortie de l'Union européenne {#sortie-union-europeenne}
 
@@ -164,11 +154,11 @@ La sortie de la République française de l'Union européenne requiert une conve
 
 La convention constituante de sortie délibère sur les modalités de la sortie, l'articulation avec les obligations en cours et la préservation des droits acquis. Ses travaux sont publics et contradictoires.
 
-## Chapitre VIII — Droits des citoyennes et citoyens européens et coopérations thématiques
+## Chapitre VIII — Droits des citoyens européens et coopérations thématiques
 
-### Article 206 — Droits des citoyennes et citoyens européens résidant en France {#droits-citoyens-europeens}
+### Article 206 — Droits des citoyens européens résidant en France {#droits-citoyens-europeens}
 
-Les citoyennes et citoyens des autres États membres de l'Union européenne résidant en France participent aux conventions citoyennes territoriales dans les conditions prévues par les traités, y compris lorsqu'ils ne remplissent pas encore la condition de durée de résidence prévue à l'article [13](#eligibilite-participation).
+Les citoyens des autres États membres de l'Union européenne résidant en France participent aux conventions citoyennes territoriales dans les conditions prévues par les traités, y compris lorsqu'ils ne remplissent pas encore la condition de durée de résidence prévue à l'article [13](#eligibilite-participation).
 
 ### Article 207 — Coopérations européennes thématiques {#cooperations-europeennes-thematiques}
 

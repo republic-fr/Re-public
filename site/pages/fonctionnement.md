@@ -542,7 +542,7 @@ noeuds:
     detail: Projets d’actes, traités
     info: >-
       Le droit de l’Union prime sur la loi, sauf atteinte à l’identité constitutionnelle de la République : droits intangibles, souveraineté des conventions,
-      indépendance de la justice (articles [194](#primaute-droit-union) et [196](#identite-constitutionnelle-republique)).
+      indépendance de la justice (articles [193](#participation-union-europeenne) et [196](#identite-constitutionnelle-republique)).
   - id: controle
     ligne: 2
     colonne: 1
@@ -551,7 +551,7 @@ noeuds:
     detail: Publie et surveille les projets
     info: >-
       Elle reçoit et publie tous les projets d’actes européens, contrôle la subsidiarité, peut saisir la Cour de justice de l’Union et signaler
-      les projets importants (articles [200](#transmission-actes-europeens) et [201](#controle-principe-subsidiarite)).
+      les projets importants (article [200](#transmission-actes-europeens)).
   - id: representants
     ligne: 2
     colonne: 3
@@ -583,7 +583,7 @@ noeuds:
     detail: Vérifie et choisit la procédure
     info: >-
       Saisi de plein droit, il vérifie la conformité à la Constitution et classe le transfert : mineur, intermédiaire ou majeur
-      (articles [197](#transferts-repartition-portee) et [198](#transferts-procedure-applicable)).
+      (article [197](#transferts-repartition-portee)).
   - id: annuelle
     ligne: 5
     colonne: 1

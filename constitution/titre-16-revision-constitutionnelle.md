@@ -24,13 +24,13 @@ Avant l'ouverture de la convention constituante, le Conseil constitutionnel stat
 
 - l'absence de représentation d'une demande identique ou substantiellement similaire dans le délai fixé par la loi organique, qui ne peut être inférieur à cinq ans après rejet ;
 
-- le respect du principe d'unité matérielle posé à l'article [214](#referendum-revision-unite-materielle).
+- le respect du principe d'unité matérielle posé à l'article [213](#referendum-revision-principe).
 
 Le Conseil constitutionnel statue par décision motivée et publique. Les auteurs de la demande peuvent, dans le mois, en demander le réexamen par le Conseil en formation plénière, sur un élément nouveau ou pour erreur matérielle.
 
 ## Chapitre II — La convention constituante
 
-### Article 210 — Composition et mandat {#constituante-composition-mandat}
+### Article 210 — Composition, mandat et travaux {#constituante-composition-mandat #constituante-travaux}
 
 La convention constituante est composée de trois cents citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite). Ils sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
@@ -38,9 +38,7 @@ Le mandat des membres de la convention constituante est exclusivement dédié à
 
 La durée de la convention constituante est fixée par la loi organique. Elle ne peut être inférieure à trois mois ni excéder six mois, sauf prorogation motivée par la convention elle-même, à la majorité qualifiée.
 
-### Article 211 — Travaux {#constituante-travaux}
-
-La convention constituante auditionne des expertes et experts en droit constitutionnel, des historiennes et historiens, des représentantes et représentants d'associations, des autorités constitutionnelles concernées et toute personne dont l'audition lui paraît utile, dans le respect des principes de pluralisme et de probité délibérative posés au Titre [XIV](#probite-deliberative).
+La convention constituante auditionne des experts en droit constitutionnel, des historiens, des représentants d'associations, des autorités constitutionnelles concernées et toute personne dont l'audition lui paraît utile, dans le respect des principes de pluralisme et de probité délibérative posés au Titre [XIV](#probite-deliberative).
 
 Elle délibère sur chaque article proposé. Elle peut élargir ou restreindre le projet initial, dans les limites de son mandat et sous réserve du principe d'unité matérielle.
 
@@ -62,13 +60,11 @@ Si le Conseil constitutionnel constate d'autres atteintes, il suspend et renvoie
 
 ## Chapitre III — Le référendum de ratification
 
-### Article 213 — Principe et portée {#referendum-revision-principe}
+### Article 213 — Principe, portée et unité matérielle {#referendum-revision-principe #referendum-revision-unite-materielle}
 
 Le texte adopté par la convention constituante et contrôlé par le Conseil constitutionnel est soumis au référendum pour ratification par le corps civique. Tout référendum prévu par la présente Constitution a lieu sur bulletin papier. Il est organisé par l'administration d'exécution sous le contrôle du Conseil constitutionnel, qui veille à sa régularité, juge les réclamations et proclame les résultats.
 
 Le référendum porte exclusivement sur le texte préalablement délibéré et adopté par la convention constituante. Le vote populaire ne peut se substituer à la phase de délibération constituante.
-
-### Article 214 — Unité matérielle {#referendum-revision-unite-materielle}
 
 Chaque révision soumise au référendum doit porter sur un objet unique ou sur un ensemble d'articles formant une cohérence matérielle. Les révisions portant sur des objets distincts sont soumises séparément au corps civique.
 
