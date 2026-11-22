@@ -26,7 +26,7 @@ const RE_REF = /\[([0-9]{1,3}|[IVX]+)\]\(#([^)\s]*)\)/g;
 const RE_BARE_ARTICLE = /\barticles?\s+\d{1,3}\b/gi;
 const RE_BARE_TITRE = /\bTitres?\s+[IVX]+\b/g;
 // Renvoi à un autre texte (« l'article 17 de la Déclaration de 1789 ») : pas d'identifiant.
-const EXTERNAL = /^\s+(?:de la (?:Déclaration|Convention|Charte|Constitution du)|du (?:traité|Traité|Préambule|Statut|protocole)|des traités)/;
+const EXTERNAL = /^\s+(?:de la (?:Déclaration|Convention|Charte|Constitution du|Constitution de)|du (?:traité|Traité|Préambule|Statut|protocole)|des traités)/;
 
 /** Fichiers où les renvois sont vérifiés. */
 export function sourceFiles() {
