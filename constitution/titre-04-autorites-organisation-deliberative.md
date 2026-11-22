@@ -128,7 +128,7 @@ Les pétitions citoyennes relatives à l'agenda législatif sont accueillies sel
 
 - toute pétition atteignant un seuil fixé par la loi organique est répertoriée publiquement par l'Autorité de programmation civique et transmise à la prochaine convention de programmation, qui l'examine dans le cadre de ses travaux ;
 
-- toute pétition atteignant un seuil de cinq cent mille signatures de membres du corps civique oblige l'Autorité de programmation civique à examiner, dans un délai fixé par la loi organique, l'opportunité d'ouvrir une convention thématique dédiée sur l'objet de la pétition.
+- toute pétition atteignant un seuil de signatures égal à un pour cent du corps civique oblige l'Autorité de programmation civique à examiner, dans un délai fixé par la loi organique, l'opportunité d'ouvrir une convention thématique dédiée sur l'objet de la pétition.
 
 L'examen d'opportunité prévu au second alinéa donne lieu à une décision motivée et publique. L'Autorité de programmation civique peut décider soit l'ouverture d'une convention thématique, soit la transmission à la prochaine convention de programmation, soit, par décision motivée, de ne pas donner suite. Sa décision est susceptible de recours devant le Conseil constitutionnel dans les conditions fixées par la loi organique.
 

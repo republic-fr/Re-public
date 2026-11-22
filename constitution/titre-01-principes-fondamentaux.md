@@ -12,7 +12,7 @@ La République garantit l'égal accès de toutes et de tous, sans distinction de
 
 La langue de la République est le français.
 
-Les langues régionales et minoritaires appartiennent au patrimoine culturel de la France et sont protégées par la loi.
+Les langues régionales et minoritaires appartiennent au patrimoine culturel de la France et sont protégées par la loi. Leur enseignement est garanti, et leur usage est reconnu dans la vie publique locale, dans les conditions fixées par la loi.
 
 L'emblème national est le drapeau tricolore, bleu, blanc, rouge.
 

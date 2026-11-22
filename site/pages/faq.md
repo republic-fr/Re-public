@@ -38,7 +38,7 @@ Le texte y consacre un titre entier (Titre [XIV](#probite-deliberative)). Toute 
 
 ### Les experts et le « contrôle scientifique » vont gouverner à la place du peuple.
 
-Non. Le contrôle scientifique ne porte que sur un contresens scientifique manifeste qui menace la santé, l’intégrité des personnes ou l’environnement, et seulement s’il existe un consensus scientifique (article [55](#controle-scientifique-champ)). Il ne peut que suspendre un texte, jamais le réécrire, et ne juge pas son opportunité politique (article [56](#controle-scientifique-suspension)). Le dernier mot revient à une convention citoyenne (article [25](#reexamen-cas-suspension)).
+Non. Le contrôle scientifique ne porte que sur un contresens scientifique manifeste qui menace la santé, l’intégrité des personnes ou l’environnement, et seulement s’il existe un consensus scientifique (article [55](#controle-scientifique-champ)). Il ne peut que suspendre un texte, jamais le réécrire, et ne juge pas son opportunité politique (article [56](#controle-scientifique-suspension)). Sur les effets économiques et sociaux d’une loi, il rend seulement un avis public, sans pouvoir la suspendre : la convention décide en connaissance de cause (article [55](#controle-scientifique-champ)). Le dernier mot revient à une convention citoyenne (article [25](#reexamen-cas-suspension)).
 
 ### Le pouvoir ne passe-t-il pas simplement aux experts et à l’administration, dans une oligarchie masquée ?
 

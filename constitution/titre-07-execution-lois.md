@@ -39,7 +39,9 @@ La présidente ou le président du collège représente la République au Consei
 
 ### Article 61 — Convention de désignation {#convention-designation-ministres}
 
-Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente ; ses membres sont tirés au sort pour un mandat de deux ans, renouvelé intégralement à son terme sans continuité de personnes.
+Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente. Elle est composée de cinquante membres tirés au sort pour un mandat de deux ans et renouvelés par moitié chaque année. Elle se réunit au moins une fois par trimestre, et sans délai en cas de vacance.
+
+Les directrices et directeurs d'administration sont nommés par les ministres, sous le contrôle de la Juridiction de probité et de responsabilité publique ; ils ne relèvent pas de la convention de désignation.
 
 La convention de désignation est également saisie de toute vacance ministérielle et de tout renouvellement de mandat.
 
@@ -153,7 +155,7 @@ Toute opération militaire autorisée fait l'objet d'un réexamen périodique ob
 
 ### Article 78 — Emploi de l'arme nucléaire {#emploi-arme-nucleaire}
 
-En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise conjointement par la ou le ministre de la Défense et la ou le chef d'état-major des armées. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
+En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise par au moins deux des trois autorités suivantes : la présidente ou le président du collège des ministres, la ou le ministre de la Défense et la ou le chef d'état-major des armées. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
 
 En cas d'empêchement de l'une des deux autorités, une chaîne de suppléance fixée par la loi organique garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
 
@@ -161,4 +163,4 @@ Dans tous les autres cas, l'emploi de l'arme nucléaire est subordonné à l'app
 
 Tout emploi de l'arme nucléaire fait l'objet d'un compte-rendu intégral à la convention de secours dans les vingt-quatre heures, et d'une saisine de plein droit du Conseil constitutionnel et de la Juridiction de probité et de responsabilité publique.
 
-La doctrine d'emploi est adoptée par convention thématique dédiée, révisée à intervalle régulier.
+La doctrine d'emploi est adoptée par convention thématique dédiée, après l'avis d'une expertise de défense indépendante, et révisée à intervalle régulier.

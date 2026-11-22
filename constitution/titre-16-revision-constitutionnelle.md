@@ -6,7 +6,7 @@
 
 La révision de la Constitution peut être initiée :
 
-- par une pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à deux millions de signatures de membres du corps civique ;
+- par une pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à quatre pour cent du corps civique ;
 
 - par la convention de programmation, à la majorité qualifiée ;
 
