@@ -55,7 +55,7 @@ Chaque formation comprend douze membres :
 
 - une personnalité qualifiée issue de la société civile.
 
-Lorsqu'elle statue en matière disciplinaire, la formation comprend douze membres : cinq magistrates ou magistrats du corps concerné, tirés au sort parmi les sept, l'avocate ou l'avocat, les deux universitaires, la personnalité qualifiée et trois citoyennes ou citoyens tirés au sort pour un an. Les magistrates et magistrats y sont ainsi en minorité.
+Lorsqu'elle statue en matière disciplinaire, la formation comprend douze membres : cinq magistrates ou magistrats du corps concerné, tirés au sort parmi les sept, l'avocate ou l'avocat, les deux universitaires, la personnalité qualifiée et trois citoyennes ou citoyens tirés au sort pour chaque affaire. Les magistrates et magistrats y sont ainsi en minorité.
 
 ### Article 113 — Désignation des membres {#csm-designation-membres}
 

@@ -159,13 +159,17 @@ Aucune déclaration de guerre, aucune intervention armée offensive ni aucune op
 
 Les opérations strictement défensives en cas d'agression directe peuvent être engagées immédiatement par la ou le ministre de la Défense, sous obligation d'informer sans délai la convention de secours, et sous contrôle du juge pour les mesures individuelles affectant les libertés.
 
+Peuvent également être engagées sans autorisation préalable, pour quinze jours au plus, les seules opérations suivantes : l'évacuation de ressortissants, la libération d'otages, la protection de forces françaises régulièrement déployées et l'assistance à un État allié agressé, dans les termes d'un traité ratifié. La ou le ministre de la Défense en informe immédiatement la convention de secours et la Commission permanente de contrôle du renseignement et des forces armées, au besoin sous le sceau du secret. La convention de secours confirme l'opération ou la fait cesser dans les soixante-douze heures de sa réunion. Au-delà de quinze jours, la poursuite de l'opération requiert l'autorisation d'une convention thématique. Présenter une opération sous l'une de ces qualifications pour échapper à l'autorisation constitue une faute grave au sens de l'article [101](#jugement-fautes-graves).
+
 Toute opération militaire autorisée fait l'objet d'un réexamen périodique obligatoire par la convention de secours, selon une fréquence fixée par la loi organique, qui ne peut excéder quatre mois.
+
+Lorsqu'un engagement militaire doit durer, une convention thématique peut l'autoriser pour un an au plus, renouvelable dans les mêmes formes, à la majorité absolue de ses membres. Elle se réunit alors au moins tous les quatre mois pour en assurer le réexamen, à la place de la convention de secours. Ce régime de défense ne constitue pas une crise au sens de l'article [142](#notion-crise) et ne fait pas obstacle à la révision constitutionnelle, sauf atteinte à l'intégrité du territoire.
 
 ### Article 78 — Emploi de l'arme nucléaire {#emploi-arme-nucleaire}
 
-En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise par au moins deux des trois autorités suivantes : la présidente ou le président du collège des ministres, la ou le ministre de la Défense et la ou le chef d'état-major des armées. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
+En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise conjointement par la présidente ou le président du collège des ministres et par la ou le ministre de la Défense. La ou le chef d'état-major des armées vérifie l'authenticité de l'ordre et en assure l'exécution ; elle ou il ne participe pas à la décision. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
 
-En cas d'empêchement de l'une de ces trois autorités, une chaîne de suppléance fixée par la loi organique garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
+En cas d'empêchement de l'une de ces deux autorités, une chaîne de suppléance fixée par la loi organique, composée exclusivement d'autorités civiles, garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
 
 Dans tous les autres cas, l'emploi de l'arme nucléaire est subordonné à l'approbation préalable de la convention de secours statuant à la majorité qualifiée.
 
