@@ -82,7 +82,7 @@ Chaque convention reçoit :
 
 - des expertises pluralistes, y compris minoritaires ;
 
-- des auditions publiques ;
+- des auditions publiques, enregistrées et archivées avec les débats publics, de façon consultable par tous ;
 
 - une assistance rédactionnelle neutre ;
 
@@ -179,6 +179,8 @@ Elle ne peut être inférieure à une durée minimale ni supérieure à une dur�
 ### Article 24 — Adoption de la loi {#adoption-loi}
 
 La convention thématique adopte le texte de loi à la majorité absolue de ses membres, dans les conditions prévues à l'article [17](#majorite-qualifiee).
+
+Avec chaque loi, la convention publie un compte rendu des citoyens, rédigé en langage clair : les questions examinées, les options écartées et leurs motifs, les arguments de la majorité et ceux de la minorité, et le résultat des votes.
 
 L'adoption vaut loi, sous réserve des contrôles scientifiques et constitutionnels prévus par la présente Constitution. La loi entre en vigueur à la date qu'elle fixe ou, à défaut, le lendemain de sa publication officielle. Les modalités de publication sont fixées par la loi organique.
 

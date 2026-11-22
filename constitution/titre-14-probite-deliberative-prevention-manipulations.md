@@ -232,6 +232,8 @@ Un audiovisuel public pluraliste et indépendant est garanti. Sa gouvernance est
 
 Les médias d'information, notamment ceux qui bénéficient d'aides publiques, sont soumis à des obligations de transparence sur leur gouvernance, leur financement, leur actionnariat et leurs orientations éditoriales, dans les conditions fixées par la loi.
 
+Lorsqu'un média attribue à une convention citoyenne une décision qu'elle n'a pas prise ou des faits inexacts, les rapporteurs de cette convention disposent d'un droit de réponse. Ce droit porte sur les seuls faits, à l'exclusion des opinions et des critiques.
+
 ## Chapitre VII — Des partis et groupements politiques
 
 ### Article 184 — Financement des partis et groupements politiques {#financement-partis}
