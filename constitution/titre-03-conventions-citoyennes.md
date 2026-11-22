@@ -134,7 +134,7 @@ Elle motive publiquement ses choix de priorisation : les sujets retenus et les s
 
 Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme défini par la convention de programmation ou, par exception, dans les conditions prévues à l'article [35](#apc-interdictions).
 
-Chacune examine un objet législatif déterminé. Elles sont composées de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
+Chacune examine un sujet déterminé, sur lequel elle peut adopter une ou plusieurs lois. Elles sont composées de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
 
 Les conventions thématiques sont éphémères et dissoutes à l'issue de leur mission, sous réserve des dispositions ci-après.
 
@@ -193,6 +193,7 @@ La convention ordinaire annuelle siège une fois par an, lors de l'examen du bud
 - la ratification des traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
 
 - le réexamen des textes suspendus par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, dans les conditions prévues à l'article [25](#reexamen-cas-suspension) ;
+- l'organisation judiciaire ordinaire, dans les conditions prévues à l'article [125](#organisation-judiciaire) ;
 - l'examen des décrets évoqués, dans les conditions prévues à l'article [59](#subordination-loi).
 
 ## Chapitre V — La convention de secours

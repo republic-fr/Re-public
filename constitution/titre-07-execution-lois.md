@@ -115,9 +115,9 @@ En cas d'urgence internationale, tout représentant peut saisir directement la c
 
 ### Article 73 — Ratification des traités majeurs {#ratification-traites-majeurs}
 
-Les traités engageant les finances de la République, sa souveraineté, les compétences des autorités constitutionnelles, les droits fondamentaux ou comportant cession, échange ou adjonction de territoire sont ratifiés par la convention ordinaire annuelle.
+Les traités engageant les finances de la République, sa souveraineté, les compétences des autorités constitutionnelles ou les droits fondamentaux sont ratifiés par la convention ordinaire annuelle. Les traités comportant cession, échange ou adjonction de territoire sont ratifiés par une convention thématique dédiée.
 
-La convention de programmation peut, par décision motivée, renvoyer à une convention thématique dédiée la ratification d'un traité majeur dont l'importance particulière le justifie, notamment en cas de cession de territoire.
+La convention de programmation peut, par décision motivée, renvoyer à une convention thématique dédiée la ratification d'un autre traité majeur dont l'importance particulière le justifie.
 
 Une session supplémentaire de la convention ordinaire annuelle peut être réunie sur saisine de l'Autorité de programmation civique lorsqu'un traité majeur requiert ratification avant la session ordinaire suivante.
 
@@ -149,7 +149,7 @@ Aucune déclaration de guerre, aucune intervention armée offensive ni aucune op
 
 Les opérations strictement défensives en cas d'agression directe peuvent être engagées immédiatement par la ou le ministre de la Défense, sous obligation d'informer sans délai la convention de secours, et sous contrôle du juge pour les mesures individuelles affectant les libertés.
 
-Toute opération militaire autorisée fait l'objet d'un réexamen périodique obligatoire par la convention compétente, selon une fréquence fixée par la loi organique, qui ne peut excéder quatre mois.
+Toute opération militaire autorisée fait l'objet d'un réexamen périodique obligatoire par la convention de secours, selon une fréquence fixée par la loi organique, qui ne peut excéder quatre mois.
 
 ### Article 78 — Emploi de l'arme nucléaire {#emploi-arme-nucleaire}
 

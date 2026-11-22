@@ -148,8 +148,8 @@ Le référendum relatif à l'adhésion d'un nouvel État à l'Union européenne 
 
 Toute révision des traités européens est soumise à la procédure définie à l'article [197](#transferts-repartition-portee), selon sa portée :
 
-- les révisions simples, qui ne modifient pas substantiellement les compétences de l'Union et n'ont pas d'incidence constitutionnelle, relèvent d'une convention thématique ;
-
+- les révisions techniques relèvent de la convention ordinaire annuelle ;
+- les révisions simplifiées importantes relèvent d'une convention thématique, dans les conditions prévues à l'article [199](#referendum-transferts-intermediaires) ;
 - les révisions substantielles, qui modifient les compétences de l'Union ou touchent aux droits fondamentaux, relèvent d'une convention constituante suivie d'un référendum.
 
 Le Conseil constitutionnel détermine la procédure applicable dans les conditions prévues à l'article [198](#transferts-procedure-applicable).

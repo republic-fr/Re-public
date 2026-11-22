@@ -80,7 +80,7 @@ L'Autorité générale des conventions citoyennes constitue et tient à jour un 
 
 Ce vivier est distinct du vivier du Conseil scientifique ad hoc prévu à l'article [53](#vivier-scientifique-designation) et du vivier du jury technique ministériel prévu à l'article [63](#jury-technique-ministres). Les conditions d'accréditation, fondées sur des critères objectifs de compétence, d'expérience, de diversité disciplinaire et méthodologique et d'absence de conflits d'intérêts, sont fixées par la loi organique.
 
-Tout refus d'accréditation est motivé et peut faire l'objet d'un recours devant le Conseil constitutionnel.
+Tout refus d'accréditation est motivé et peut faire l'objet d'un recours devant l'Autorité de programmation civique, dont la décision peut être portée devant le Conseil constitutionnel.
 
 Tout vivier public d'accréditation constitué en application de la présente Constitution est ouvert selon les principes suivants :
 
@@ -90,7 +90,7 @@ Tout vivier public d'accréditation constitué en application de la présente Co
 
 - objectifs publics de diversité sociale, territoriale, méthodologique et d'école, dont le respect fait l'objet d'un rapport annuel publié par l'Autorité générale des conventions citoyennes et d'un audit quinquennal ;
 
-- motivation publique de tout refus d'accréditation, susceptible de recours devant le Conseil constitutionnel.
+- motivation publique de tout refus d'accréditation, susceptible de recours devant l'Autorité de programmation civique, puis devant le Conseil constitutionnel.
 
 Ces principes sont applicables aux viviers prévus aux articles [39](#cc-composition), [53](#vivier-scientifique-designation), [63](#jury-technique-ministres), [90](#defenseur-droits-designation), [93](#defenseur-droits-college), [96](#juridiction-probite-composition), [113](#csm-designation-membres) et [170](#vivier-public-experts).
 
@@ -136,11 +136,11 @@ Le dossier préparé par le jury d'experts et la première liste d'auditions pro
 
 Dans un délai public fixé par la loi organique, les citoyennes et citoyens, les organisations représentatives et les futurs membres de la convention peuvent proposer des auditions supplémentaires, des expertes ou experts additionnels et des notes complémentaires.
 
-L'Autorité générale des conventions citoyennes statue publiquement et de façon motivée sur ces propositions. Elle établit la liste définitive des auditions en veillant au pluralisme minimal obligatoire par familles d'acteurs du domaine concerné, conformément à l'article [175](#pluralite-minimale-auditions).
+L'Autorité générale des conventions citoyennes instruit ces propositions. L'Autorité de programmation civique statue publiquement et de façon motivée et établit la liste définitive des auditions en veillant au pluralisme minimal obligatoire par familles d'acteurs du domaine concerné, conformément à l'article [175](#pluralite-minimale-auditions).
 
 ### Article 175 — Pluralité minimale des auditions {#pluralite-minimale-auditions}
 
-Pour chaque convention, l'Autorité générale des conventions citoyennes dresse la liste des organisations reconnues comme représentatives du domaine traité, notamment les associations agréées, les syndicats représentatifs, les ordres professionnels et les collectifs citoyens inscrits dans un registre public.
+Pour chaque convention, l'Autorité de programmation civique arrête, sur proposition de l'Autorité générale des conventions citoyennes, la liste des organisations reconnues comme représentatives du domaine traité, notamment les associations agréées, les syndicats représentatifs, les ordres professionnels et les collectifs citoyens inscrits dans un registre public.
 
 La convention doit entendre, au titre de la pluralité obligatoire, au moins une représentante ou un représentant de chacune des grandes familles d'organisations du domaine, notamment le patronat, les syndicats, les associations d'usagers, les associations de protection des droits et les expertes et experts académiques de différentes écoles.
 
