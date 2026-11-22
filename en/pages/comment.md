@@ -60,7 +60,7 @@ The project asks no one to become a professional politician. Conventions are **t
 <tr><td>Thematic conventions, which make the laws</td><td class="num">150</td><td>about 3 months, then dissolved</td></tr>
 <tr><td>Annual ordinary convention, which votes the budget</td><td class="num">150</td><td>about 1 month a year</td></tr>
 <tr><td>Agenda-setting convention</td><td class="num">150</td><td>about 3 months, every 5 years</td></tr>
-<tr><td>Appointments convention</td><td class="num">drawn for 2 years</td><td>a few sessions a year</td></tr>
+<tr><td>Appointments convention</td><td class="num">50, for 2 years</td><td>a few sessions a year</td></tr>
 <tr><td>Emergency convention</td><td class="num">150</td><td>on standby, sits only in a crisis</td></tr>
 <tr><td>Territorial conventions</td><td class="num">≈ 30 each</td><td>about 1 month a year</td></tr>
 </tbody>

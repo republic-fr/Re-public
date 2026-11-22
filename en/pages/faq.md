@@ -38,7 +38,7 @@ The text devotes an entire title to this (Title [XIV](#probite-deliberative)). A
 
 ### Who guarantees that the draw is not rigged?
 
-The draw is public and verifiable. The algorithm is published, and the draw starts from a public source of randomness, known only at the moment of the draw: no one can choose the result in advance. The Law Implementation Oversight Authority re-runs the calculation for every draw, and any draw can be challenged before the Constitutional Council (Article [13](#eligibilite-participation)).
+The draw is public and verifiable. The algorithm is published, and the draw starts from a public source of randomness, known only at the moment of the draw: no one can choose the result in advance. The Law Implementation Oversight Authority re-runs the calculation for every draw, and any draw can be challenged before the Constitutional Council within fifteen days (Article [13](#eligibilite-participation)).
 
 ### Experts and ‘scientific review’ will govern instead of the people.
 

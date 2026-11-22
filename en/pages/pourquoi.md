@@ -72,7 +72,7 @@ A petition that reaches the threshold set by organic law is forwarded to the age
 
 ### You can challenge a law or an abuse
 
-- Any citizen directly affected by a law in force may challenge it before the Constitutional Council (Article [40](#cc-saisine-posteriori)).
+- Any person, association or company affected by a law in force can challenge it before the Constitutional Council; in the course of a trial, anyone can also ask the judge to refer the question (Article [40](#cc-saisine-posteriori)).
 - Anyone may refer a matter to the Defender of Rights when dealing with a public authority (Article [73](#defenseur-droits-saisine)), and report a malfunction to the Law Implementation Oversight Authority (Article [65](#session-pleniere-competences)).
 - Anyone may refer to the Court of Public Integrity new facts that call into question the integrity of a public office-holder (Article [83](#juridiction-probite-saisine)).
 

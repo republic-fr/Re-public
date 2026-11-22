@@ -68,6 +68,10 @@ Les schémas de `site/pages/fonctionnement.md` s'écrivent dans des blocs ```` `
 
 Pendant la refonte du texte (issue #19), le texte d'avant est figé dans `site/refonte/avant.json`. Chaque article réécrit garde, comme identifiant ou comme alias, les identifiants des articles qu'il remplace. `npm run refonte` compare alors chaque nouvel article aux anciens qu'il absorbe et signale tout nombre, délai, majorité, institution ou mot de garantie (« ne peut », « interdit », « de plein droit »…) qui a disparu ; la vérification échoue si un ancien article n'a plus de destination. La page `/texte/refonte/` du site montre la comparaison « avant / après ».
 
+## Version anglaise
+
+La traduction anglaise est dans `en/constitution/` et `en/pages/`, avec les mêmes noms de fichiers que le français ; le site anglais est publié sous `/en/`. Chaque article anglais reprend le numéro et les identifiants de l'article français ; les renvois s'écrivent de la même façon. Le glossaire `en/GLOSSAIRE.md` fixe la terminologie. `en/sources.json` garde l'empreinte du français au moment de la traduction : quand un article ou une page française change, `npm run traduction` le signale et le site anglais affiche un avertissement sur l'article concerné jusqu'à ce qu'il soit retraduit (puis `node site/traduction.mjs --figer`). Le texte français fait foi.
+
 ## Le site web
 
 Le site est généré à partir des fichiers de `constitution/` : toute modification du texte fusionnée dans `main` met le site à jour.
