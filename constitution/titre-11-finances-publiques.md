@@ -64,7 +64,7 @@ La convention ordinaire annuelle adopte chaque année :
 
 - les autorisations d'emprunt ;
 
-- les traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
+- les traités majeurs relevant de l'article [188](#traites-ratification) ;
 
 - les lois suspendues, dans les conditions prévues à l'article [25](#reexamen-cas-suspension).
 

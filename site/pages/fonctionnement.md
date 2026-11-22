@@ -326,7 +326,7 @@ noeuds:
     detail: Contrôle d’intégrité préalable
     info: >-
       Elle vérifie le patrimoine, les intérêts et le casier des candidats, et dresse la liste des candidats recevables
-      (articles [64](#ministres-controle-probite) et [99](#controle-prealable-probite)).
+      (articles [62](#procedure-designation-ministres) et [99](#controle-prealable-probite)).
   - id: designation
     ligne: 3
     colonne: 2
@@ -560,7 +560,7 @@ noeuds:
     detail: Négocient sur mandat écrit
     info: >-
       Ils négocient au nom de la France sur la base d’un mandat écrit et public des ministres, et rendent compte de chaque entretien
-      (articles [68](#representants-relations-exterieures) à [71](#negociations-preparatoires)).
+      (articles [68](#representants-relations-exterieures), [70](#representants-transparence-abstention) et [187](#traites-negociation-conclusion)).
   - id: apc
     ligne: 3
     colonne: 1
@@ -574,7 +574,7 @@ noeuds:
     type: administration
     nom: Ministres
     detail: Donnent le mandat, valident
-    info: Le ministre compétent valide la version négociée avant ratification. Le ministre qui préside le collège siège au Conseil européen, sur mandat écrit du collège (articles [60](#structure-collegiale) et [71](#negociations-preparatoires)).
+    info: Le ministre compétent valide la version négociée avant ratification. Le ministre qui préside le collège siège au Conseil européen, sur mandat écrit du collège (articles [60](#structure-collegiale) et [187](#traites-negociation-conclusion)).
   - id: constitutionnel
     ligne: 4
     colonne: 2
