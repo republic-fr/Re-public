@@ -16,6 +16,8 @@ La loi fixe les règles et les principes essentiels. Relèvent notamment de la l
 
 L'administration d'exécution prend, par décret, les mesures d'application de la loi. Tout acte d'exécution est strictement subordonné à la lettre, à l'objet et à l'intention de la loi. Il ne peut ni altérer l'économie générale d'une loi, ni en réduire la portée, ni en différer indûment l'application.
 
+Les décrets nécessaires à l'application d'une loi sont pris dans le délai qu'elle fixe ou, à défaut, dans les six mois suivant son entrée en vigueur. Passé ce délai, l'Autorité de contrôle de l'exécution des lois est saisie de plein droit : elle peut demander au juge d'ordonner la publication du décret, et le ministre compétent s'explique publiquement devant sa session plénière.
+
 Dans les deux mois suivant sa publication, un décret peut être soumis à une convention citoyenne :
 
 - par décision motivée et publique de l'Autorité de programmation civique, prise d'office ou à la demande des rapporteurs de la convention ayant adopté la loi ou de la session plénière de l'Autorité de contrôle de l'exécution des lois ;
