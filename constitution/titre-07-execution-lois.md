@@ -6,7 +6,7 @@
 
 L'exécutif de la République est une haute administration d'exécution, strictement subordonnée à la loi adoptée par les conventions citoyennes. Il n'existe pas de pouvoir exécutif politiquement autonome.
 
-Il n'existe ni président de la République, ni chef de l'État, ni Premier ministre, ni aucune autorité de synthèse placée au-dessus de l'administration d'exécution. La représentation extérieure de la République est assurée dans les conditions fixées au chapitre III du présent titre.
+Il n'existe ni président de la République, ni chef de l'État, ni Premier ministre, ni aucune autorité de synthèse placée au-dessus de l'administration d'exécution. La présidence du collège des ministres prévue à l'article [60](#structure-collegiale) ne confère aucune autorité sur les autres ministres. La représentation extérieure de la République est assurée dans les conditions fixées à l'article [60](#structure-collegiale) et au chapitre III du présent titre.
 
 Avant toute prise de fonction, les ministres, les représentants aux relations extérieures, les magistrates et magistrats, les officiers généraux des forces armées, les membres des autorités constitutionnelles et les directrices et directeurs généraux des administrations d'exécution prêtent, en séance publique, serment de défendre la Constitution, de respecter les droits intangibles visés à l'article [9](#droits-intangibles) et de s'opposer à toute tentative de renversement de l'ordre constitutionnel. La formule et les modalités sont fixées par la loi organique. La violation du serment constitue une faute grave au sens de l'article [101](#jugement-fautes-graves).
 
@@ -28,6 +28,12 @@ Le décret évoqué est examiné par la convention ordinaire annuelle suivante, 
 L'administration d'exécution est collégiale. Elle est composée de ministres responsables de domaines de compétence distincts. Le nombre de ministères, leur périmètre et leurs règles de coordination sont fixés par la loi organique, sans que la concentration de compétences excessives puisse être opérée entre peu de mains.
 
 Les désaccords entre ministres sont réglés par délibération collective. En cas de blocage persistant affectant la mise en œuvre d'une loi ou la continuité d'un service public, la convention de secours peut être saisie dans les conditions prévues au Titre [XII](#crises).
+
+Le collège des ministres est présidé à tour de rôle par l'un de ses membres, pour une durée d'un an, dans un ordre fixé par la loi organique. Nul ne peut exercer la présidence deux années de suite. En cas de vacance, la présidence revient au ministre suivant dans l'ordre de rotation.
+
+La présidente ou le président du collège conserve son ministère. Elle ou il fixe l'ordre du jour du collège et en anime les délibérations, sans voix prépondérante ni pouvoir de décision propre. En cas de crise, elle ou il coordonne les mesures conservatoires prises par les ministres, dans les conditions prévues au Titre [XII](#crises), jusqu'à ce que la convention de secours statue.
+
+La présidente ou le président du collège représente la République au Conseil européen et dans les réunions de chefs d'État ou de gouvernement, sur la base d'un mandat écrit et public du collège. Les obligations de transparence et d'abstention prévues à l'article [70](#representants-transparence-abstention) lui sont applicables.
 
 ## Chapitre II — Désignation, mandat et intérim des ministres
 

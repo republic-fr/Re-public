@@ -343,7 +343,7 @@ noeuds:
     nom: Ministres
     detail: Collégiaux, mandat de trois ans
     info: >-
-      Chaque ministre dirige un domaine. Les désaccords se règlent collectivement. Le mandat dure trois ans, renouvelable une fois
+      Chaque ministre dirige un domaine. Les désaccords se règlent collectivement. Le collège est présidé à tour de rôle, pour un an, par l’un des ministres : il anime les délibérations, coordonne en cas de crise et représente la France au Conseil européen, sans pouvoir propre (article [60](#structure-collegiale)). Le mandat dure trois ans, renouvelable une fois
       (articles [60](#structure-collegiale) et [65](#duree-mandat-ministeriel)).
   - id: decrets
     ligne: 5
@@ -561,7 +561,7 @@ noeuds:
     type: administration
     nom: Ministres
     detail: Donnent le mandat, valident
-    info: Le ministre compétent valide la version négociée avant ratification (article [71](#negociations-preparatoires)).
+    info: Le ministre compétent valide la version négociée avant ratification. Le ministre qui préside le collège siège au Conseil européen, sur mandat écrit du collège (articles [60](#structure-collegiale) et [71](#negociations-preparatoires)).
   - id: constitutionnel
     ligne: 4
     colonne: 2
@@ -639,8 +639,8 @@ noeuds:
     nom: Mesures conservatoires
     detail: L’administration agit sans délai
     info: >-
-      Secours, évacuation, protection des infrastructures, continuité des services : des mesures nécessaires, proportionnées et réversibles
-      (articles [146](#conservatoires-cadre-autorise) et [148](#conservatoires-validite)).
+      Secours, évacuation, protection des infrastructures, continuité des services : des mesures nécessaires, proportionnées et réversibles, coordonnées par le ministre qui préside le collège
+      (articles [60](#structure-collegiale), [146](#conservatoires-cadre-autorise) et [148](#conservatoires-validite)).
   - id: interdits
     ligne: 2
     colonne: 3

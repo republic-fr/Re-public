@@ -56,7 +56,7 @@ Les partis restent libres et ne peuvent être dissous pour leurs idées (article
 
 ### Sans président, qui décide en cas de crise ?
 
-Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles [151](#secours-composition-veille) à [153](#secours-delai-siege)). En attendant, l’administration prend les mesures de protection immédiate, sous le contrôle d’un juge (articles [146](#conservatoires-cadre-autorise) à [149](#crise-controle-juridictionnel)). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles [144](#crise-interdictions-absolues) et [157](#secours-duree-reexamen)).
+Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles [151](#secours-composition-veille) à [153](#secours-delai-siege)). En attendant, l’administration prend les mesures de protection immédiate, coordonnées par le ministre qui préside le collège des ministres cette année-là, sous le contrôle d’un juge (article [60](#structure-collegiale)) et articles [146](#conservatoires-cadre-autorise) à [149](#crise-controle-juridictionnel)). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles [144](#crise-interdictions-absolues) et [157](#secours-duree-reexamen)).
 
 ### Le régime de crise ne rend-il pas la France vulnérable face à une cyberattaque, une pandémie ou une guerre ?
 
@@ -68,7 +68,7 @@ Le contrôle scientifique est étroit : il ne joue qu’en cas de contresens man
 
 ### Sans chef de l’État, qui parle pour la France au Conseil européen ou au G7 ?
 
-La représentation extérieure est confiée à des représentants spécialisés, qui négocient sur la base de mandats écrits et publics des ministres compétents (articles [68](#representants-relations-exterieures) à [71](#negociations-preparatoires)). En cas d’urgence internationale, la convention de secours peut ratifier un traité, sous réserve de confirmation (article [74](#ratification-urgence)).
+Le ministre qui préside le collège des ministres, à tour de rôle pour un an, siège au Conseil européen et dans les sommets, sur la base d’un mandat écrit et public du collège, sans pouvoir propre (article [60](#structure-collegiale)). C’est le modèle suisse : sept ministres égaux, une présidence tournante, et la même personne pour représenter le pays. Les négociations courantes sont confiées à des représentants spécialisés, qui négocient sur la base de mandats écrits et publics des ministres compétents (articles [68](#representants-relations-exterieures) à [71](#negociations-preparatoires)). En cas d’urgence internationale, la convention de secours peut ratifier un traité, sous réserve de confirmation (article [74](#ratification-urgence)).
 
 ### Avec des mandats courts et des conventions éphémères, comment mener une politique sur vingt ou trente ans ?
 

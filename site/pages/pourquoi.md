@@ -78,7 +78,7 @@ Une pétition qui atteint le seuil fixé par la loi organique est transmise à l
 
 ### Vous pouvez candidater
 
-Il n’y a plus de président de la République ni de Premier ministre (article [58](#nature-administration-execution)). Les ministres sont choisis par une convention de désignation tirée au sort, après un appel à candidatures ouvert à toute citoyenne et tout citoyen, un contrôle de compétence et un contrôle de probité (article [62](#procedure-designation-ministres)).
+Il n’y a plus de président de la République ni de Premier ministre (article [58](#nature-administration-execution)). Les ministres forment un collège, présidé à tour de rôle pour un an par l’un d’eux, sans pouvoir propre (article [60](#structure-collegiale)). Les ministres sont choisis par une convention de désignation tirée au sort, après un appel à candidatures ouvert à toute citoyenne et tout citoyen, un contrôle de compétence et un contrôle de probité (article [62](#procedure-designation-ministres)).
 
 ### Vos droits ne peuvent pas reculer
 
