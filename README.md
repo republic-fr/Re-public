@@ -2,7 +2,7 @@
 
 Avant-projet de **Constitution de la République délibérative française** : une République où la loi est formée par des conventions citoyennes tirées au sort.
 
-> Projet de travail, non stabilisé. Version de référence : v25 (novembre 2026).
+> Projet de travail, non stabilisé. Version de référence : v26 (novembre 2026), refonte de la v25 en 179 articles ; la table de concordance du site donne la correspondance des numéros.
 
 ## Organisation du dépôt
 

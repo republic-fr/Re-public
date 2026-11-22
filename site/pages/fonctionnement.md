@@ -34,7 +34,7 @@ noeuds:
     detail: Une fois, puis à chaque révision
     info: >-
       300 citoyens tirés au sort délibèrent sur la Constitution article par article, pendant trois à six mois. Elle n’est réunie de nouveau
-      que pour réviser la Constitution (articles [208](#revision-initiative) et [210](#constituante-composition-mandat)).
+      que pour réviser la Constitution (articles [163](#revision-initiative) et [165](#constituante-composition-mandat)).
   - id: droits
     ligne: 1
     colonne: 3
@@ -52,7 +52,7 @@ noeuds:
     detail: Ratifie
     info: >-
       Le texte est adopté si la majorité des votants l’approuve et si les « oui » représentent au moins un tiers du corps civique
-      (article [215](#referendum-revision-majorite)).
+      (article [168](#referendum-revision-majorite)).
   - id: petitions
     ligne: 3
     colonne: 1
@@ -62,7 +62,7 @@ noeuds:
     info: >-
       Toutes les pétitions qui atteignent le seuil légal sont recensées par l’Autorité de programmation civique et transmises à la prochaine convention
       de programmation. À un pour cent du corps civique, soit environ 550 000 signatures, l’Autorité doit en plus examiner, sans attendre, l’ouverture d’une convention thématique dédiée
-      (article [36](#seuils-effets-petitions)).
+      (article [33](#seuils-effets-petitions)).
   - id: apc
     ligne: 3
     colonne: 2
@@ -72,7 +72,7 @@ noeuds:
     info: >-
       Elle recense les pétitions et les demandes des autorités, les transmet à la convention de programmation, puis ouvre les conventions thématiques
       prévues au programme. Elle peut aussi en ouvrir hors programme dans des cas limités : pétition, demande d’une autorité de contrôle, acte européen,
-      échéance juridique (articles [34](#apc-missions) à [36](#seuils-effets-petitions)).
+      échéance juridique (articles [31](#apc-missions) à [33](#seuils-effets-petitions)).
   - id: agcc
     ligne: 3
     colonne: 3
@@ -81,7 +81,7 @@ noeuds:
     detail: Organise toutes les conventions
     info: >-
       Elle organise le tirage au sort et vérifie la représentativité, convoque et protège les conventionnels, tient les viviers d’experts et le registre public
-      des influences. Elle n’intervient jamais sur le contenu des délibérations (articles [30](#agcc-missions) et [31](#agcc-interdictions)).
+      des influences. Elle n’intervient jamais sur le contenu des délibérations (articles [27](#agcc-missions) et [28](#agcc-interdictions)).
   - id: programmation
     ligne: 4
     colonne: 2
@@ -99,7 +99,7 @@ noeuds:
     detail: Un sujet chacune, une ou plusieurs lois
     info: >-
       Chacune traite un sujet fixé à son ouverture et peut adopter une série de lois sur ce sujet, après formation, auditions et contre-expertise.
-      Elle est dissoute à la fin et laisse trois rapporteurs qui gardent sa mémoire (articles [21](#thematique-formation-objet) à [24](#adoption-loi)).
+      Elle est dissoute à la fin et laisse trois rapporteurs qui gardent sa mémoire (articles [20](#thematique-formation-objet) à [22](#adoption-loi)).
   - id: annuelle
     ligne: 5
     colonne: 3
@@ -108,7 +108,7 @@ noeuds:
     detail: Une session par an, au moment du budget
     info: >-
       Elle adopte le budget et les lois fiscales, ratifie les traités majeurs, réexamine les lois suspendues et examine les décrets contestés
-      (article [26](#convention-ordinaire-objet)).
+      (article [24](#convention-ordinaire-objet)).
   - id: administration
     ligne: 6
     colonne: 2
@@ -117,7 +117,7 @@ noeuds:
     detail: Ministres et services
     info: >-
       Elle applique les lois et le budget, sans pouvoir politique propre. Il n’y a ni président ni Premier ministre
-      (article [58](#nature-administration-execution)).
+      (article [50](#nature-administration-execution)).
   - id: controle
     ligne: 7
     colonne: 2
@@ -127,7 +127,7 @@ noeuds:
     info: >-
       Un service technique enquête toute l’année ; une session de 150 citoyens examine chaque année son rapport. Elle peut interpeller tout responsable,
       saisir la Juridiction de probité et demander l’ouverture de conventions correctives à l’Autorité de programmation civique
-      (articles [79](#acel-nature) à [82](#session-pleniere-competences)).
+      (articles [63](#acel-nature) à [65](#session-pleniere-competences)).
 liens:
   - constituante -> referendum | Constitution
   - droits -> referendum | Déclaration
@@ -161,7 +161,7 @@ noeuds:
     detail: 1 % du corps civique
     info: >-
       À un pour cent du corps civique (environ 550 000 signatures), l’Autorité de programmation civique doit examiner l’ouverture d’une convention, par une décision motivée et contestable
-      (article [36](#seuils-effets-petitions)).
+      (article [33](#seuils-effets-petitions)).
   - id: programme
     ligne: 1
     colonne: 2
@@ -179,14 +179,14 @@ noeuds:
     detail: Autorité de contrôle, acte européen, échéance…
     info: >-
       L’Autorité de programmation civique peut aussi ouvrir une convention hors programme dans une liste fermée de cas, dans la limite d’un plafond annuel
-      (article [35](#apc-interdictions)).
+      (article [32](#apc-interdictions)).
   - id: apc
     ligne: 2
     colonne: 2
     type: citoyens
     nom: Autorité de programmation civique
     detail: Ouvre la convention et fixe sa durée
-    info: Elle ouvre la convention thématique et fixe sa durée selon la complexité du sujet (article [22](#thematique-cycle-deliberatif)).
+    info: Elle ouvre la convention thématique et fixe sa durée selon la complexité du sujet (article [21](#thematique-cycle-deliberatif)).
   - id: jury
     ligne: 3
     colonne: 1
@@ -195,7 +195,7 @@ noeuds:
     detail: Tiré au sort, prépare le dossier
     info: >-
       Des experts tirés au sort dans un vivier pluraliste préparent un dossier contradictoire et proposent des auditions. Ils n’ont aucun pouvoir d’orientation
-      (article [171](#jury-experts-independants)).
+      (article [133](#jury-experts-independants)).
   - id: convention
     ligne: 3
     colonne: 2
@@ -204,7 +204,7 @@ noeuds:
     detail: 150 citoyens, quelques mois
     info: >-
       Formation, auditions publiques, délibération protégée, aide à la rédaction : la convention écrit la loi et l’adopte à la majorité absolue de ses membres
-      (articles [17](#majorite-qualifiee), [22](#thematique-cycle-deliberatif) et [24](#adoption-loi)).
+      (articles [17](#majorite-qualifiee), [21](#thematique-cycle-deliberatif) et [22](#adoption-loi)).
   - id: contre
     ligne: 3
     colonne: 3
@@ -213,7 +213,7 @@ noeuds:
     detail: Chacun peut proposer des auditions
     info: >-
       Le dossier est publié. Citoyens et organisations peuvent proposer d’autres experts ; toutes les grandes familles d’acteurs doivent être entendues
-      (articles [174](#contre-expertise-publique) et [175](#pluralite-minimale-auditions)).
+      (articles [134](#contre-expertise-publique) et [135](#pluralite-minimale-auditions)).
   - id: adopte
     ligne: 4
     colonne: 2
@@ -228,7 +228,7 @@ noeuds:
     detail: Contresens manifeste seulement
     info: >-
       Un conseil de scientifiques tirés au sort ne peut suspendre un texte qu’en cas de contresens scientifique manifeste, faisant consensus, qui menace la santé,
-      l’intégrité des personnes ou l’environnement. Il ne juge jamais l’opportunité politique (articles [55](#controle-scientifique-champ) et [56](#controle-scientifique-suspension)).
+      l’intégrité des personnes ou l’environnement. Il ne juge jamais l’opportunité politique (articles [48](#controle-scientifique-champ) et [49](#controle-scientifique-suspension)).
   - id: constitutionnel
     ligne: 5
     colonne: 3
@@ -237,14 +237,14 @@ noeuds:
     detail: Contrôle automatique, en un mois
     info: >-
       Chaque loi lui est soumise avant d’entrer en vigueur. Il vérifie le respect de la Constitution, des droits et des procédures, et peut suspendre le texte. Les deux contrôles se déroulent en parallèle, en un mois chacun, prolongeable jusqu’à trois mois au plus
-      (articles [42](#controle-prealable-automatique-lois) et [46](#cc-etendue-controle)).
+      (articles [39](#controle-prealable-automatique-lois) et [42](#cc-etendue-controle)).
   - id: suspension
     ligne: 6
     colonne: 1
     type: etape
     nom: Suspension
     detail: Chaque grief est dit « de forme » ou « de fond »
-    info: La décision précise les griefs et les articles en cause (article [25](#reexamen-cas-suspension)).
+    info: La décision précise les griefs et les articles en cause (article [23](#reexamen-cas-suspension)).
   - id: vigueur
     ligne: 6
     colonne: 3
@@ -253,7 +253,7 @@ noeuds:
     detail: L’administration l’applique
     info: >-
       La loi s’applique à la date qu’elle fixe. Une fois en vigueur, elle peut encore être contestée par toute personne qui y a intérêt
-      (articles [24](#adoption-loi) et [44](#cc-saisine-posteriori)).
+      (articles [22](#adoption-loi) et [40](#cc-saisine-posteriori)).
   - id: rapporteurs
     ligne: 7
     colonne: 1
@@ -262,7 +262,7 @@ noeuds:
     detail: Grief de forme
     info: >-
       Les trois rapporteurs de la convention peuvent, en un mois, retirer ou rectifier les dispositions visées, sans rien ajouter. Le texte rectifié
-      repasse devant le Conseil constitutionnel (article [25](#reexamen-cas-suspension)).
+      repasse devant le Conseil constitutionnel (article [23](#reexamen-cas-suspension)).
   - id: reexamen
     ligne: 7
     colonne: 2
@@ -272,7 +272,7 @@ noeuds:
     info: >-
       Elle réexamine le texte en séance plénière, après avoir entendu les deux parties. Elle peut le corriger, l’abandonner ou le confirmer aux deux tiers.
       La confirmation est impossible pour les droits absolus, la procédure et l’organisation des institutions. En cas d’échéance juridique, la convention de secours statue
-      (article [25](#reexamen-cas-suspension)).
+      (article [23](#reexamen-cas-suspension)).
 liens:
   - petition -> apc | pétition
   - programme -> apc | programme
@@ -308,7 +308,7 @@ noeuds:
     detail: Public, ouvert à tous
     info: >-
       L’Autorité générale des conventions citoyennes organise un appel public, ouvert à toute citoyenne et tout citoyen
-      (article [62](#procedure-designation-ministres)).
+      (article [54](#procedure-designation-ministres)).
   - id: jury
     ligne: 2
     colonne: 1
@@ -317,7 +317,7 @@ noeuds:
     detail: Vérifie les compétences
     info: >-
       Des experts en administration tirés au sort vérifient l’expérience et la capacité de direction, jamais les opinions politiques
-      (article [63](#jury-technique-ministres)).
+      (article [55](#jury-technique-ministres)).
   - id: probite
     ligne: 2
     colonne: 3
@@ -326,7 +326,7 @@ noeuds:
     detail: Contrôle d’intégrité préalable
     info: >-
       Elle vérifie le patrimoine, les intérêts et le casier des candidats, et dresse la liste des candidats recevables
-      (articles [62](#procedure-designation-ministres) et [99](#controle-prealable-probite)).
+      (articles [54](#procedure-designation-ministres) et [80](#controle-prealable-probite)).
   - id: designation
     ligne: 3
     colonne: 2
@@ -335,7 +335,7 @@ noeuds:
     detail: 50 citoyens, renouvelés par moitié chaque année
     info: >-
       Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après trois tours sans majorité, la désignation est reprise après un renouvellement partiel de la convention, et un intérim assure la continuité. Elle désigne aussi les représentants
-      aux relations extérieures. Si l’Autorité de contrôle constate qu’un ministre n’exécute pas les lois, elle peut l’avertir, puis, six mois plus tard et aux deux tiers, mettre fin à son mandat (articles [61](#convention-designation-ministres), [62](#procedure-designation-ministres) et [65](#duree-mandat-ministeriel)).
+      aux relations extérieures. Si l’Autorité de contrôle constate qu’un ministre n’exécute pas les lois, elle peut l’avertir, puis, six mois plus tard et aux deux tiers, mettre fin à son mandat (articles [53](#convention-designation-ministres), [54](#procedure-designation-ministres) et [56](#duree-mandat-ministeriel)).
   - id: ministres
     ligne: 4
     colonne: 2
@@ -343,8 +343,8 @@ noeuds:
     nom: Ministres
     detail: Collégiaux, mandat de trois ans
     info: >-
-      Chaque ministre dirige un domaine. Les désaccords se règlent collectivement. Le collège est présidé à tour de rôle, pour un an, par l’un des ministres : il anime les délibérations, coordonne en cas de crise et représente la France au Conseil européen, sans pouvoir propre (article [60](#structure-collegiale)). Le mandat dure trois ans, renouvelable une fois
-      (articles [60](#structure-collegiale) et [65](#duree-mandat-ministeriel)).
+      Chaque ministre dirige un domaine. Les désaccords se règlent collectivement. Le collège est présidé à tour de rôle, pour un an, par l’un des ministres : il anime les délibérations, coordonne en cas de crise et représente la France au Conseil européen, sans pouvoir propre (article [52](#structure-collegiale)). Le mandat dure trois ans, renouvelable une fois
+      (articles [52](#structure-collegiale) et [56](#duree-mandat-ministeriel)).
   - id: decrets
     ligne: 5
     colonne: 1
@@ -353,7 +353,7 @@ noeuds:
     detail: Strictement soumis à la loi
     info: >-
       La loi fixe les principes ; les ministres prennent les décrets qui l’appliquent, sans pouvoir en changer le sens
-      (article [59](#subordination-loi)).
+      (article [51](#subordination-loi)).
   - id: controle
     ligne: 5
     colonne: 3
@@ -362,7 +362,7 @@ noeuds:
     detail: Enquête et interpelle en continu
     info: >-
       Son service technique enquête sur l’application des lois et peut saisir le juge pour faire exécuter une loi ou annuler un acte illégal
-      (article [86](#service-technique-pouvoirs)).
+      (article [68](#service-technique-pouvoirs)).
   - id: evocation
     ligne: 6
     colonne: 1
@@ -371,7 +371,7 @@ noeuds:
     detail: Dans les deux mois
     info: >-
       Un décret contesté peut être soumis aux citoyens : par l’Autorité de programmation civique, d’office ou à la demande des rapporteurs
-      ou de l’Autorité de contrôle, ou de plein droit sur pétition (article [59](#subordination-loi)).
+      ou de l’Autorité de contrôle, ou de plein droit sur pétition (article [51](#subordination-loi)).
   - id: sanction
     ligne: 6
     colonne: 3
@@ -380,7 +380,7 @@ noeuds:
     detail: Juge les fautes graves
     info: >-
       Non-exécution d’une loi, abus de pouvoir, corruption : elle peut avertir, révoquer et déclarer inéligible
-      (articles [101](#jugement-fautes-graves) et [105](#juridiction-probite-sanctions)).
+      (articles [81](#jugement-fautes-graves) et [85](#juridiction-probite-sanctions)).
   - id: convention
     ligne: 7
     colonne: 1
@@ -389,7 +389,7 @@ noeuds:
     detail: Approuve, modifie ou annule
     info: >-
       La convention annuelle suivante, ou la convention thématique du domaine si elle siège, tranche. Le décret s’applique en attendant
-      (article [59](#subordination-loi)).
+      (article [51](#subordination-loi)).
 liens:
   - appel -> jury | candidatures
   - appel -> probite | en parallèle
@@ -421,7 +421,7 @@ noeuds:
     detail: Justiciable, usager, citoyen
     info: >-
       Chacun a droit à un juge indépendant, à un procès équitable, à la défense et à un recours effectif
-      (article [108](#garanties-essentielles)).
+      (article [87](#garanties-essentielles)).
   - id: defenseur
     ligne: 2
     colonne: 1
@@ -430,7 +430,7 @@ noeuds:
     detail: Face aux administrations
     info: >-
       Il traite les réclamations contre les services publics et les discriminations, peut enquêter, faire une médiation et saisir le juge
-      (articles [89](#defenseur-droits-nature-mission) à [92](#defenseur-droits-pouvoirs)).
+      (articles [71](#defenseur-droits-nature-mission) à [74](#defenseur-droits-pouvoirs)).
   - id: tribunaux
     ligne: 2
     colonne: 2
@@ -439,7 +439,7 @@ noeuds:
     detail: Justice civile et pénale
     info: >-
       Aucune autorité ne peut intervenir dans une affaire en cours. Les magistrats sont inamovibles et doivent signaler toute pression
-      (articles [107](#independance-justice) et [109](#statut-magistrats)).
+      (articles [86](#independance-justice) et [88](#statut-magistrats)).
   - id: constitutionnel
     ligne: 3
     colonne: 3
@@ -449,7 +449,7 @@ noeuds:
     info: >-
       Toute personne, association ou entreprise qui y a intérêt peut contester une loi en vigueur ; au cours d’un procès, toute partie peut aussi demander au juge de lui transmettre la question.
       Pour les actes de l’administration, il est saisi par le juge administratif quand une question de constitutionnalité est sérieuse. Ses membres sont tirés au sort parmi des juristes
-      (articles [39](#cc-composition), [44](#cc-saisine-posteriori) et [45](#controle-actes-execution)).
+      (articles [36](#cc-composition), [40](#cc-saisine-posteriori) et [41](#controle-actes-execution)).
   - id: administratif
     ligne: 2
     colonne: 3
@@ -458,7 +458,7 @@ noeuds:
     detail: Tribunaux administratifs, Conseil d’État
     info: >-
       Elle juge les litiges avec l’administration et la légalité des décrets. Ses juges sont indépendants, nommés et sanctionnés par le Conseil
-      supérieur de la magistrature ; le Conseil d’État ne conseille plus le gouvernement (articles [45](#controle-actes-execution) et [107](#independance-justice)).
+      supérieur de la magistrature ; le Conseil d’État ne conseille plus le gouvernement (articles [41](#controle-actes-execution) et [86](#independance-justice)).
   - id: parquet
     ligne: 3
     colonne: 1
@@ -467,7 +467,7 @@ noeuds:
     detail: Indépendant de tout ministre
     info: >-
       Aucune instruction ne peut être donnée aux procureurs. La politique pénale est fixée par la loi, votée en convention
-      (article [106](#independance-parquet)).
+      (article [89](#independance-parquet)).
   - id: csm
     ligne: 4
     colonne: 2
@@ -476,21 +476,21 @@ noeuds:
     detail: Trois formations (siège, parquet, juridiction administrative)
     info: >-
       Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats, dans une formation où les magistrats sont minoritaires, et peut être saisi par tout justiciable
-      (articles [116](#csm-nominations) et [117](#csm-discipline)).
+      (articles [94](#csm-nominations) et [95](#csm-discipline)).
   - id: pairs
     ligne: 5
     colonne: 1
     type: etape
     nom: Élus par leurs pairs
     detail: 8 sur 12, minoritaires en discipline
-    info: Les magistrats membres sont élus par les magistrats (articles [112](#csm-composition) et [113](#csm-designation-membres)).
+    info: Les magistrats membres sont élus par les magistrats (articles [91](#csm-composition) et [92](#csm-designation-membres)).
   - id: tirage
     ligne: 5
     colonne: 3
     type: etape
     nom: Tirés au sort
     detail: Avocat, universitaires, personnalité
-    info: Les autres membres sont tirés au sort dans des viviers ouverts (article [113](#csm-designation-membres)).
+    info: Les autres membres sont tirés au sort dans des viviers ouverts (article [92](#csm-designation-membres)).
   - id: probite
     ligne: 6
     colonne: 1
@@ -499,7 +499,7 @@ noeuds:
     detail: Fautes graves, y compris des magistrats
     info: >-
       Elle juge les fautes graves des magistrats, comme la corruption ou l’abus de pouvoir. La discipline ordinaire reste au Conseil supérieur
-      (article [121](#repartition-probite-judiciaire)).
+      (article [97](#repartition-probite-judiciaire)).
   - id: controle
     ligne: 6
     colonne: 3
@@ -508,7 +508,7 @@ noeuds:
     detail: 150 citoyens, chaque année
     info: >-
       Elle examine le rapport annuel du Conseil supérieur, peut l’interpeller et traite les plaintes collectives sur le fonctionnement de la justice
-      (article [122](#csm-controle-annuel)).
+      (article [98](#csm-controle-annuel)).
 liens:
   - personne -> defenseur | réclamation
   - personne -> tribunaux | saisit un juge
@@ -542,7 +542,7 @@ noeuds:
     detail: Projets d’actes, traités
     info: >-
       Le droit de l’Union prime sur la loi, sauf atteinte à l’identité constitutionnelle de la République : droits intangibles, souveraineté des conventions,
-      indépendance de la justice (articles [193](#participation-union-europeenne) et [196](#identite-constitutionnelle-republique)).
+      indépendance de la justice (articles [152](#participation-union-europeenne) et [154](#identite-constitutionnelle-republique)).
   - id: controle
     ligne: 2
     colonne: 1
@@ -551,7 +551,7 @@ noeuds:
     detail: Publie et surveille les projets
     info: >-
       Elle reçoit et publie tous les projets d’actes européens, contrôle la subsidiarité, peut saisir la Cour de justice de l’Union et signaler
-      les projets importants (article [200](#transmission-actes-europeens)).
+      les projets importants (article [157](#transmission-actes-europeens)).
   - id: representants
     ligne: 2
     colonne: 3
@@ -560,21 +560,21 @@ noeuds:
     detail: Négocient sur mandat écrit
     info: >-
       Ils négocient au nom de la France sur la base d’un mandat écrit et public des ministres, et rendent compte de chaque entretien
-      (articles [68](#representants-relations-exterieures), [70](#representants-transparence-abstention) et [187](#traites-negociation-conclusion)).
+      (articles [58](#representants-relations-exterieures), [59](#representants-transparence-abstention) et [146](#traites-negociation-conclusion)).
   - id: apc
     ligne: 3
     colonne: 1
     type: citoyens
     nom: Autorité de programmation civique
     detail: Peut ouvrir une convention
-    info: Pour un projet européen important, elle peut ouvrir une convention thématique hors programme (article [35](#apc-interdictions)).
+    info: Pour un projet européen important, elle peut ouvrir une convention thématique hors programme (article [32](#apc-interdictions)).
   - id: ministres
     ligne: 1
     colonne: 3
     type: administration
     nom: Ministres
     detail: Donnent le mandat, valident
-    info: Le ministre compétent valide la version négociée avant ratification. Le ministre qui préside le collège siège au Conseil européen, sur mandat écrit du collège (articles [60](#structure-collegiale) et [187](#traites-negociation-conclusion)).
+    info: Le ministre compétent valide la version négociée avant ratification. Le ministre qui préside le collège siège au Conseil européen, sur mandat écrit du collège (articles [52](#structure-collegiale) et [146](#traites-negociation-conclusion)).
   - id: constitutionnel
     ligne: 4
     colonne: 2
@@ -583,14 +583,14 @@ noeuds:
     detail: Vérifie et choisit la procédure
     info: >-
       Saisi de plein droit, il vérifie la conformité à la Constitution et classe le transfert : mineur, intermédiaire ou majeur
-      (article [197](#transferts-repartition-portee)).
+      (article [155](#transferts-repartition-portee)).
   - id: annuelle
     ligne: 5
     colonne: 1
     type: citoyens
     nom: Convention ordinaire annuelle
     detail: Transferts mineurs
-    info: Ajustements techniques et coopérations existantes (article [197](#transferts-repartition-portee)).
+    info: Ajustements techniques et coopérations existantes (article [155](#transferts-repartition-portee)).
   - id: thematique
     ligne: 5
     colonne: 2
@@ -599,14 +599,14 @@ noeuds:
     detail: Transferts intermédiaires
     info: >-
       Révisions simplifiées importantes, coopérations renforcées, mécanismes financiers. Un référendum est possible
-      (articles [197](#transferts-repartition-portee) et [199](#referendum-transferts-intermediaires)).
+      (articles [155](#transferts-repartition-portee) et [156](#referendum-transferts-intermediaires)).
   - id: constituante
     ligne: 5
     colonne: 3
     type: citoyens
     nom: Convention constituante
     detail: Transferts majeurs
-    info: Nouveaux traités et transferts substantiels, puis référendum obligatoire. Il en va de même pour une sortie de l’Union (articles [197](#transferts-repartition-portee) et [205](#sortie-union-europeenne)).
+    info: Nouveaux traités et transferts substantiels, puis référendum obligatoire. Il en va de même pour une sortie de l’Union (articles [155](#transferts-repartition-portee) et [160](#sortie-union-europeenne)).
   - id: referendum
     ligne: 6
     colonne: 2
@@ -615,7 +615,7 @@ noeuds:
     detail: Obligatoire ou à la demande
     info: >-
       Obligatoire pour les transferts majeurs. Pour un transfert intermédiaire, il peut être décidé par la convention aux deux tiers ou demandé
-      par deux pour cent du corps civique, environ 1,1 million de signatures (article [199](#referendum-transferts-intermediaires)).
+      par deux pour cent du corps civique, environ 1,1 million de signatures (article [156](#referendum-transferts-intermediaires)).
 liens:
   - ue -> controle | projets d’actes
   - ue -> representants | négociations
@@ -644,7 +644,7 @@ noeuds:
     type: etape
     nom: Crise
     detail: Menace grave et immédiate
-    info: Pandémie, catastrophe, attaque, cyberattaque, menace contre les institutions (article [142](#notion-crise)).
+    info: Pandémie, catastrophe, attaque, cyberattaque, menace contre les institutions (article [112](#notion-crise)).
   - id: conservatoires
     ligne: 2
     colonne: 1
@@ -653,7 +653,7 @@ noeuds:
     detail: L’administration agit sans délai
     info: >-
       Secours, évacuation, protection des infrastructures, continuité des services, et pendant 72 heures au plus fermeture de frontières ou restriction de circulation par les forces de police : des mesures nécessaires, proportionnées et réversibles, coordonnées par le ministre qui préside le collège
-      (articles [60](#structure-collegiale), [146](#conservatoires-cadre-autorise) et [148](#conservatoires-validite)).
+      (articles [52](#structure-collegiale), [115](#conservatoires-cadre-autorise) et [117](#conservatoires-validite)).
   - id: interdits
     ligne: 2
     colonne: 3
@@ -662,7 +662,7 @@ noeuds:
     detail: Même en crise
     info: >-
       Interdits : transférer le pouvoir à l’administration ou à l’armée, suspendre les garanties judiciaires, porter atteinte aux droits intangibles
-      (articles [144](#crise-interdictions-absolues) et [145](#exclusion-regime-militaire-exception)).
+      (articles [113](#crise-interdictions-absolues) et [114](#exclusion-regime-militaire-exception)).
   - id: juge
     ligne: 3
     colonne: 1
@@ -671,7 +671,7 @@ noeuds:
     detail: Saisi en 6 h, décide en 12 h
     info: >-
       Chaque mesure est validée par un juge siégeant jour et nuit. S’il refuse, la mesure tombe
-      (article [149](#crise-controle-juridictionnel)).
+      (article [118](#crise-controle-juridictionnel)).
   - id: secours
     ligne: 3
     colonne: 2
@@ -680,14 +680,14 @@ noeuds:
     detail: 150 citoyens en veille, siège sous 72 h
     info: >-
       Ses membres sont tirés au sort et formés à l’avance. Elle se saisit dès qu’une mesure est validée ; à défaut, elle est convoquée de plein droit
-      sous 24 heures. Elle peut siéger à distance ou dans un siège de repli (articles [151](#secours-composition-veille) et [152](#secours-saisine)).
+      sous 24 heures. Elle peut siéger à distance ou dans un siège de repli (articles [119](#secours-composition-veille) et [120](#secours-saisine)).
   - id: recours
     ligne: 4
     colonne: 1
     type: electeurs
     nom: Recours citoyen
     detail: À tout moment
-    info: Toute personne touchée par une mesure peut demander au juge de la lever ou de la limiter (article [149](#crise-controle-juridictionnel)).
+    info: Toute personne touchée par une mesure peut demander au juge de la lever ou de la limiter (article [118](#crise-controle-juridictionnel)).
   - id: exceptionnelles
     ligne: 4
     colonne: 2
@@ -696,7 +696,7 @@ noeuds:
     detail: Autorisées aux deux tiers
     info: >-
       Restriction de libertés, engagement de l’armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours. Aucune force armée ou de police, hors leur garde ordinaire, ne peut entrer dans les institutions ni s’en approcher sans leur accord ou le sien
-      (articles [147](#conservatoires-cadre-interdit) et [154](#secours-competences)).
+      (articles [116](#conservatoires-cadre-interdit) et [121](#secours-competences)).
   - id: controles
     ligne: 4
     colonne: 3
@@ -705,7 +705,7 @@ noeuds:
     detail: Juges et autorités restent compétents
     info: >-
       Le Conseil constitutionnel, l’Autorité de contrôle, la Juridiction de probité et les tribunaux continuent de fonctionner pendant la crise
-      (article [155](#secours-controles-maintenus)).
+      (article [122](#secours-controles-maintenus)).
   - id: duree
     ligne: 5
     colonne: 2
@@ -714,14 +714,14 @@ noeuds:
     detail: Six mois au plus
     info: >-
       Sans nouveau vote, les mesures tombent. Au-delà de six mois, elles passent à une convention thématique, sauf conflit armé ou catastrophe majeure :
-      prorogation de trois mois aux trois quarts (article [157](#secours-duree-reexamen)).
+      prorogation de trois mois aux trois quarts (article [123](#secours-duree-reexamen)).
   - id: fin
     ligne: 6
     colonne: 2
     type: etape
     nom: Fin de la crise
     detail: Constatée par la convention ou le Conseil constitutionnel
-    info: La convention se désactive elle-même, ou le Conseil constitutionnel constate que la crise est terminée (article [157](#secours-duree-reexamen)).
+    info: La convention se désactive elle-même, ou le Conseil constitutionnel constate que la crise est terminée (article [123](#secours-duree-reexamen)).
 liens:
   - crise -> conservatoires | agit
   - crise -> secours | saisie sous 24 h
@@ -749,7 +749,7 @@ noeuds:
     type: electeurs
     nom: Habitants
     detail: Tirés au sort sur le territoire
-    info: Les conventions territoriales suivent les mêmes règles que les conventions nationales (article [159](#principe-conventionnel-territorial)).
+    info: Les conventions territoriales suivent les mêmes règles que les conventions nationales (article [124](#principe-conventionnel-territorial)).
   - id: convention
     ligne: 2
     colonne: 2
@@ -758,7 +758,7 @@ noeuds:
     detail: Délibère et vote les règles locales
     info: >-
       Dans ses domaines de compétence, elle dispose d’un pouvoir normatif propre et peut fixer les taux des impôts locaux dans les limites de la loi
-      (articles [140](#architecture-fiscale-territoriale) et [163](#territoires-repartition-competences)).
+      (articles [111](#architecture-fiscale-territoriale) et [127](#territoires-repartition-competences)).
   - id: mutualisation
     ligne: 2
     colonne: 3
@@ -767,7 +767,7 @@ noeuds:
     detail: Convention intercommunale
     info: >-
       Quand une commune est trop petite pour un tirage représentatif, la convention est commune à plusieurs communes
-      (article [161](#existence-juridique-communes)).
+      (article [126](#existence-juridique-communes)).
   - id: executif
     ligne: 3
     colonne: 1
@@ -776,7 +776,7 @@ noeuds:
     detail: Choisie sur projet, révocable
     info: >-
       La convention la désigne parmi des candidats qualifiés, sur un projet présenté publiquement, contrôle son action et ses budgets, et peut la révoquer
-      (article [160](#designation-controle-executif-local)).
+      (article [125](#designation-controle-executif-local)).
   - id: communes
     ligne: 3
     colonne: 3
@@ -785,7 +785,7 @@ noeuds:
     detail: État civil, services du quotidien
     info: >-
       Les communes gardent leur existence, leurs compétences de proximité et leur administration, sous le contrôle de la convention
-      (article [161](#existence-juridique-communes)).
+      (article [126](#existence-juridique-communes)).
   - id: loi
     ligne: 4
     colonne: 2
@@ -794,7 +794,7 @@ noeuds:
     detail: Compétences et péréquation
     info: >-
       La loi organique répartit les compétences selon l’autonomie locale et la subsidiarité ; la loi organise la solidarité financière entre territoires.
-      Le Conseil constitutionnel veille au respect de cette répartition (articles [140](#architecture-fiscale-territoriale), [163](#territoires-repartition-competences) et [46](#cc-etendue-controle)).
+      Le Conseil constitutionnel veille au respect de cette répartition (articles [111](#architecture-fiscale-territoriale), [127](#territoires-repartition-competences) et [42](#cc-etendue-controle)).
   - id: outremer
     ligne: 5
     colonne: 2
@@ -803,7 +803,7 @@ noeuds:
     detail: Statuts particuliers
     info: >-
       Aucun changement de statut ni de territoire sans le consentement des populations, recueilli par une convention territoriale
-      (article [165](#collectivites-outre-mer)).
+      (article [128](#collectivites-outre-mer)).
 liens:
   - habitants -> convention | tirage au sort
   - mutualisation -> convention | regroupement

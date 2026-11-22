@@ -2,7 +2,7 @@
 
 ## Chapitre I — Initiative de la révision
 
-### Article 208 — Initiative citoyenne et institutionnelle {#revision-initiative}
+### Article 163 — Initiative citoyenne et institutionnelle {#revision-initiative}
 
 La révision de la Constitution peut être initiée :
 
@@ -12,11 +12,11 @@ La révision de la Constitution peut être initiée :
 
 - par une convention ordinaire annuelle, à la majorité des trois quarts de ses membres ;
 
-- par la convention de secours, dans les conditions prévues à l'article [219](#revision-interdite-crise), en cas de nécessité exceptionnelle dûment motivée.
+- par la convention de secours, dans les conditions prévues à l'article [172](#revision-interdite-crise), en cas de nécessité exceptionnelle dûment motivée.
 
 L'initiative précise l'objet de la révision projetée.
 
-### Article 209 — Contrôle de recevabilité {#revision-recevabilite}
+### Article 164 — Contrôle de recevabilité {#revision-recevabilite}
 
 Avant l'ouverture de la convention constituante, le Conseil constitutionnel statue, à l'initiative de l'Autorité générale des conventions citoyennes, sur la recevabilité de la révision projetée. Il vérifie :
 
@@ -24,13 +24,13 @@ Avant l'ouverture de la convention constituante, le Conseil constitutionnel stat
 
 - l'absence de représentation d'une demande identique ou substantiellement similaire dans le délai fixé par la loi organique, qui ne peut être inférieur à cinq ans après rejet ;
 
-- le respect du principe d'unité matérielle posé à l'article [213](#referendum-revision-principe).
+- le respect du principe d'unité matérielle posé à l'article [167](#referendum-revision-principe).
 
 Le Conseil constitutionnel statue par décision motivée et publique. Les auteurs de la demande peuvent, dans le mois, en demander le réexamen par le Conseil en formation plénière, sur un élément nouveau ou pour erreur matérielle.
 
 ## Chapitre II — La convention constituante
 
-### Article 210 — Composition, mandat et travaux {#constituante-composition-mandat #constituante-travaux}
+### Article 165 — Composition, mandat et travaux {#constituante-composition-mandat #constituante-travaux}
 
 La convention constituante est composée de trois cents citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite). Ils sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
@@ -44,7 +44,7 @@ Elle délibère sur chaque article proposé. Elle peut élargir ou restreindre l
 
 Elle adopte le texte final à la majorité qualifiée définie à l'article [17](#majorite-qualifiee).
 
-### Article 212 — Contrôle constitutionnel préalable {#constituante-controle-constitutionnel}
+### Article 166 — Contrôle constitutionnel préalable {#constituante-controle-constitutionnel}
 
 Avant soumission au référendum, le texte adopté par la convention constituante est contrôlé par le Conseil constitutionnel, qui vérifie :
 
@@ -60,7 +60,7 @@ Si le Conseil constitutionnel constate d'autres atteintes, il suspend et renvoie
 
 ## Chapitre III — Le référendum de ratification
 
-### Article 213 — Principe, portée et unité matérielle {#referendum-revision-principe #referendum-revision-unite-materielle}
+### Article 167 — Principe, portée et unité matérielle {#referendum-revision-principe #referendum-revision-unite-materielle}
 
 Le texte adopté par la convention constituante et contrôlé par le Conseil constitutionnel est soumis au référendum pour ratification par le corps civique. Tout référendum prévu par la présente Constitution a lieu sur bulletin papier. Il est organisé par l'administration d'exécution sous le contrôle du Conseil constitutionnel, qui veille à sa régularité, juge les réclamations et proclame les résultats.
 
@@ -68,9 +68,9 @@ Le référendum porte exclusivement sur le texte préalablement délibéré et a
 
 Chaque révision soumise au référendum doit porter sur un objet unique ou sur un ensemble d'articles formant une cohérence matérielle. Les révisions portant sur des objets distincts sont soumises séparément au corps civique.
 
-Le Conseil constitutionnel contrôle le respect du principe d'unité matérielle lors du contrôle de recevabilité prévu à l'article [209](#revision-recevabilite) et lors du contrôle préalable au référendum prévu à l'article [212](#constituante-controle-constitutionnel).
+Le Conseil constitutionnel contrôle le respect du principe d'unité matérielle lors du contrôle de recevabilité prévu à l'article [164](#revision-recevabilite) et lors du contrôle préalable au référendum prévu à l'article [166](#constituante-controle-constitutionnel).
 
-### Article 215 — Majorité requise {#referendum-revision-majorite}
+### Article 168 — Majorité requise {#referendum-revision-majorite}
 
 La révision constitutionnelle est adoptée lorsque deux conditions sont simultanément réunies :
 
@@ -80,7 +80,7 @@ La révision constitutionnelle est adoptée lorsque deux conditions sont simulta
 
 À défaut de l'une de ces conditions, le texte est rejeté.
 
-### Article 216 — Campagne référendaire {#referendum-revision-campagne}
+### Article 169 — Campagne référendaire {#referendum-revision-campagne}
 
 La campagne référendaire est encadrée par la loi organique, dans le respect des principes suivants :
 
@@ -88,27 +88,27 @@ La campagne référendaire est encadrée par la loi organique, dans le respect d
 
 - plafonnement et transparence intégrale des dépenses de campagne ;
 
-- contrôle du pluralisme et de la probité informationnelle par l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique) ;
+- contrôle du pluralisme et de la probité informationnelle par l'Autorité de régulation indépendante prévue à l'article [140](#autorite-regulation-vie-democratique) ;
 
 - application renforcée des dispositions du Titre [XIV](#probite-deliberative) contre la manipulation informationnelle pendant la campagne.
 
-### Article 217 — Effet du rejet {#referendum-revision-rejet}
+### Article 170 — Effet du rejet {#referendum-revision-rejet}
 
 Lorsque le texte est rejeté par référendum, la convention constituante est dissoute. Une demande de révision portant sur un objet identique ou substantiellement similaire ne peut être représentée avant l'expiration du délai fixé par la loi organique, qui ne peut être inférieur à cinq ans.
 
 ## Chapitre IV — Dispositions intangibles et limites à la révision
 
-### Article 218 — Renvoi aux dispositions intangibles {#renvoi-dispositions-intangibles}
+### Article 171 — Renvoi aux dispositions intangibles {#renvoi-dispositions-intangibles}
 
 Les dispositions intangibles énumérées à l'article [9](#droits-intangibles) ne peuvent faire l'objet d'aucune révision, ni par voie de modification directe, ni par voie de contournement procédural, ni par aucune autre voie.
 
-Toute révision qui aurait pour effet ou pour objet de supprimer, de restreindre ou de porter atteinte à une disposition intangible est constitutionnellement interdite. Le Conseil constitutionnel la déclare irrecevable lors du contrôle prévu à l'article [209](#revision-recevabilite), ou non conforme lors du contrôle prévu à l'article [212](#constituante-controle-constitutionnel).
+Toute révision qui aurait pour effet ou pour objet de supprimer, de restreindre ou de porter atteinte à une disposition intangible est constitutionnellement interdite. Le Conseil constitutionnel la déclare irrecevable lors du contrôle prévu à l'article [164](#revision-recevabilite), ou non conforme lors du contrôle prévu à l'article [166](#constituante-controle-constitutionnel).
 
-### Article 219 — Interdiction de révision en période de crise ou d'atteinte aux institutions {#revision-interdite-crise}
+### Article 172 — Interdiction de révision en période de crise ou d'atteinte aux institutions {#revision-interdite-crise}
 
 Aucune révision constitutionnelle ne peut être engagée ou poursuivie pendant :
 
-- une crise au sens de l'article [142](#notion-crise), tant que la convention de secours n'a pas constaté la fin de la crise ;
+- une crise au sens de l'article [112](#notion-crise), tant que la convention de secours n'a pas constaté la fin de la crise ;
 
 - une atteinte à l'intégrité du territoire ;
 
@@ -118,6 +118,6 @@ Aucune révision constitutionnelle ne peut être engagée ou poursuivie pendant 
 
 En cas de nécessité exceptionnelle dûment motivée, la convention de secours peut autoriser l'engagement ou la poursuite d'une révision, à la majorité des trois quarts de ses membres. Cette autorisation est publique et motivée.
 
-### Article 220 — Procédure unique {#revision-procedure-unique}
+### Article 173 — Procédure unique {#revision-procedure-unique}
 
 Toute révision constitutionnelle, quelle que soit sa nature ou son ampleur, suit la procédure prévue au présent titre. Aucune procédure allégée n'est admise. Les corrections de pure forme, telles que les erreurs matérielles ou les renvois entre articles, sont regroupées et soumises avec la révision suivante. Ni l'interprétation juridictionnelle ni la loi organique ne peuvent modifier le texte constitutionnel.

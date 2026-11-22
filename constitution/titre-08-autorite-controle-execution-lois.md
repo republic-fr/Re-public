@@ -2,7 +2,7 @@
 
 ## Chapitre I — Nature et organisation
 
-### Article 79 — Nature et structure {#acel-nature #acel-structure}
+### Article 63 — Nature et structure {#acel-nature #acel-structure}
 
 L'Autorité de contrôle de l'exécution des lois est une autorité constitutionnelle indépendante. Elle veille à la mise en œuvre fidèle, complète et diligente des lois, des actes d'exécution et de l'ensemble des politiques publiques. Par ses rapports publics, elle contribue à l'information des citoyens.
 
@@ -20,11 +20,11 @@ Les décisions de fond et l'orientation générale de l'Autorité relèvent excl
 
 ## Chapitre II — La session plénière annuelle
 
-### Article 81 — Composition {#session-pleniere-composition}
+### Article 64 — Composition {#session-pleniere-composition}
 
 La session plénière annuelle compte cent cinquante citoyens tirés au sort selon les critères de représentativité de l'article [12](#composition-representativite). Ses membres sont entièrement renouvelés chaque année, sans continuité de personnes. Elle siège pendant une durée fixée par la loi organique, qui ne peut être inférieure à quatre semaines. Ses membres sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
-### Article 82 — Compétences {#session-pleniere-competences #session-pleniere-saisine}
+### Article 65 — Compétences {#session-pleniere-competences #session-pleniere-saisine}
 
 La session plénière annuelle :
 
@@ -42,7 +42,7 @@ La session plénière annuelle :
 
 - fixe le programme de contrôle du service technique pour l'année à venir ;
 
-- nomme le Procureur général des comptes publics, examine son rapport et peut désavouer les actions du service technique, dans les conditions de l'article [85](#procureur-general-comptes-publics) ;
+- nomme le Procureur général des comptes publics, examine son rapport et peut désavouer les actions du service technique, dans les conditions de l'article [67](#procureur-general-comptes-publics) ;
 
 - examine les rapports annuels du Défenseur des droits et de la Commission permanente ; elle peut, dans les limites compatibles avec le secret, formuler des recommandations publiques, demander à la Commission des enquêtes complémentaires ou saisir la Juridiction de probité et de responsabilité publique des fautes graves portées à sa connaissance ;
 
@@ -54,13 +54,13 @@ Toute personne, toute collectivité territoriale, toute convention et toute auto
 
 ## Chapitre III — Le service technique permanent
 
-### Article 84 — Cour des comptes et service technique {#juridiction-financiere-service-technique}
+### Article 66 — Cour des comptes et service technique {#juridiction-financiere-service-technique}
 
-La Cour des comptes, juridiction financière dont le statut est fixé à l'article [107](#independance-justice), transmet d'office à la session plénière annuelle tous les rapports et constats susceptibles de révéler une faute grave ou un dysfonctionnement structurel. Elle répond aux demandes d'expertise de la session plénière et du service technique. Elle peut saisir l'Autorité et la Juridiction de probité et de responsabilité publique selon les règles qui leur sont propres.
+La Cour des comptes, juridiction financière dont le statut est fixé à l'article [86](#independance-justice), transmet d'office à la session plénière annuelle tous les rapports et constats susceptibles de révéler une faute grave ou un dysfonctionnement structurel. Elle répond aux demandes d'expertise de la session plénière et du service technique. Elle peut saisir l'Autorité et la Juridiction de probité et de responsabilité publique selon les règles qui leur sont propres.
 
 Le service technique permanent de l'Autorité, distinct de la Cour, comprend les corps d'inspection et d'audit non juridictionnels. Ses moyens sont fixés par la loi.
 
-### Article 85 — Procureur général des comptes publics {#procureur-general-comptes-publics #service-technique-reddition-comptes}
+### Article 67 — Procureur général des comptes publics {#procureur-general-comptes-publics #service-technique-reddition-comptes}
 
 Le service technique est dirigé par le Procureur général des comptes publics, nommé par la session plénière annuelle sur une liste restreinte établie après le contrôle préalable de probité de la Juridiction de probité et de responsabilité publique. Son mandat est de neuf ans, non renouvelable.
 
@@ -68,13 +68,13 @@ Il remet à chaque session plénière un rapport détaillé des enquêtes condui
 
 Il est révocable par la Juridiction de probité et de responsabilité publique, sur saisine de la session plénière ou dans les autres conditions du Titre [IX](#juridiction-probite).
 
-### Article 86 — Pouvoirs permanents {#service-technique-pouvoirs}
+### Article 68 — Pouvoirs permanents {#service-technique-pouvoirs}
 
 Le service technique exerce en continu, dans le respect du programme fixé par la session plénière, les pouvoirs suivants :
 
 - enquêter sur l'application des lois et sur le fonctionnement des administrations ;
 
-- exiger la communication de tout document utile, sous réserve des secrets définis à l'article [88](#controle-renseignement-armees) ;
+- exiger la communication de tout document utile, sous réserve des secrets définis à l'article [70](#secrets) ;
 
 - entendre tout responsable public ;
 
@@ -88,7 +88,7 @@ Le service technique exerce en continu, dans le respect du programme fixé par l
 
 L'Autorité n'exerce que des pouvoirs de demande et de saisine. La sanction relève exclusivement du juge et de la Juridiction de probité et de responsabilité publique.
 
-### Article 88 — Commission permanente de contrôle du renseignement et des forces armées et secrets {#controle-renseignement-armees}
+### Article 69 — Commission permanente de contrôle du renseignement et des forces armées {#controle-renseignement-armees}
 
 La Commission permanente de contrôle du renseignement et des forces armées compte douze membres, tirés au sort de manière stratifiée dans un vivier public d'accréditation, selon les règles suivantes :
 
@@ -102,7 +102,7 @@ La Commission permanente de contrôle du renseignement et des forces armées com
 
 - les conditions d'accréditation, fixées par la loi organique, garantissent le pluralisme disciplinaire, méthodologique et d'école, ainsi que la diversité des parcours professionnels et des sensibilités en matière de libertés publiques et de sécurité nationale.
 
-Le mandat des membres est de six ans, non renouvelable. La Commission se renouvelle par moitié tous les trois ans. La Juridiction de probité et de responsabilité publique contrôle l'intégrité des membres avant leur désignation et périodiquement en cours de mandat, selon les critères de l'article [99](#controle-prealable-probite). La Commission siège au moins une fois par mois. Ses membres sont soumis à un régime renforcé de probité, de sécurité et de secret fixé par la loi organique.
+Le mandat des membres est de six ans, non renouvelable. La Commission se renouvelle par moitié tous les trois ans. La Juridiction de probité et de responsabilité publique contrôle l'intégrité des membres avant leur désignation et périodiquement en cours de mandat, selon les critères de l'article [80](#controle-prealable-probite). La Commission siège au moins une fois par mois. Ses membres sont soumis à un régime renforcé de probité, de sécurité et de secret fixé par la loi organique.
 
 Dans des conditions qui préservent les secrets strictement nécessaires, la Commission dispose :
 
@@ -112,11 +112,13 @@ Dans des conditions qui préservent les secrets strictement nécessaires, la Com
 
 - du droit de saisir le Conseil constitutionnel, la Juridiction de probité et l'autorité judiciaire ;
 
-- d'une information en temps réel sur tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires, et sur tout déploiement d'unités d'intervention des forces de sécurité intérieure aux abords des lieux mentionnés à l'article [145](#exclusion-regime-militaire-exception) ;
+- d'une information en temps réel sur tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires, et sur tout déploiement d'unités d'intervention des forces de sécurité intérieure aux abords des lieux mentionnés à l'article [114](#exclusion-regime-militaire-exception) ;
 
 - du droit de saisir immédiatement et de plein droit la convention de secours et le Conseil constitutionnel en cas de suspicion d'atteinte à l'ordre constitutionnel.
 
-Toute atteinte à son droit d'accès constitue une faute grave au sens de l'article [101](#jugement-fautes-graves). Elle rend compte chaque année à la session plénière, selon des modalités qui protègent les secrets légitimes et rendent publiques les constatations structurelles. Les opinions dissidentes sont systématiquement publiées dans ses rapports, dans des conditions compatibles avec le secret.
+Toute atteinte à son droit d'accès constitue une faute grave au sens de l'article [81](#jugement-fautes-graves). Elle rend compte chaque année à la session plénière, selon des modalités qui protègent les secrets légitimes et rendent publiques les constatations structurelles. Les opinions dissidentes sont systématiquement publiées dans ses rapports, dans des conditions compatibles avec le secret.
+
+### Article 70 — Secrets {#secrets}
 
 Seuls peuvent être protégés par le secret, au sens de la présente Constitution : les plans et opérations militaires en cours ; les sources, méthodes et agents des services de renseignement ; les positions de repli et éléments confidentiels d'une négociation internationale en cours ; les informations dont la divulgation mettrait en danger une personne protégée. Aucune autre information ne peut être classifiée.
 
@@ -126,13 +128,13 @@ Le secret n'est opposable ni à la Commission, ni aux juridictions, ni au Consei
 
 ## Chapitre IV — Le Défenseur des droits
 
-### Article 89 — Mission et indépendance {#defenseur-droits-nature-mission}
+### Article 71 — Mission et indépendance {#defenseur-droits-nature-mission}
 
 Le Défenseur des droits veille au respect des droits et libertés des personnes par les administrations de l'État, les collectivités territoriales, les établissements publics et les organismes chargés d'une mission de service public. Il combat les discriminations, y compris dans le secteur privé, dans les domaines définis par la loi. Il veille à la protection des droits de l'enfant.
 
 Placé au sein de l'Autorité de contrôle, il dispose d'une indépendance fonctionnelle complète. Il ne reçoit aucune instruction, y compris du Procureur général des comptes publics, dans le choix et l'instruction de ses dossiers.
 
-### Article 90 — Désignation et mandat {#defenseur-droits-designation}
+### Article 72 — Désignation et mandat {#defenseur-droits-designation}
 
 Le Défenseur des droits est nommé selon la procédure suivante :
 
@@ -140,13 +142,13 @@ Le Défenseur des droits est nommé selon la procédure suivante :
 
 - une présélection par un jury technique ad hoc, tiré au sort dans un vivier public d'experts en droits humains et en administration constitué par l'Autorité générale des conventions citoyennes ;
 
-- un contrôle d'intégrité des personnes présélectionnées par la Juridiction de probité et de responsabilité publique, selon les critères de l'article [99](#controle-prealable-probite) ;
+- un contrôle d'intégrité des personnes présélectionnées par la Juridiction de probité et de responsabilité publique, selon les critères de l'article [80](#controle-prealable-probite) ;
 
 - la nomination par la session plénière annuelle, parmi les personnes candidates recevables, à la majorité absolue de ses membres, en trois tours au plus. À défaut, un nouvel appel à candidatures est ouvert.
 
 Son mandat est de six ans, non renouvelable. Il est inamovible pendant son mandat. Il est révocable par la Juridiction de probité et de responsabilité publique, sur saisine de la session plénière ou dans les autres conditions du Titre [IX](#juridiction-probite).
 
-### Article 91 — Saisine {#defenseur-droits-saisine}
+### Article 73 — Saisine {#defenseur-droits-saisine}
 
 Le Défenseur des droits peut être saisi :
 
@@ -158,11 +160,11 @@ Le Défenseur des droits peut être saisi :
 
 Il peut aussi se saisir d'office d'un manquement grave ou structurel aux droits et libertés.
 
-### Article 92 — Pouvoirs {#defenseur-droits-pouvoirs}
+### Article 74 — Pouvoirs {#defenseur-droits-pouvoirs}
 
 Pour accomplir ses missions, le Défenseur des droits peut :
 
-- mener des enquêtes, accéder à tout document utile sous réserve des secrets définis à l'article [88](#controle-renseignement-armees), procéder à des auditions et visiter les établissements publics et privés exerçant une mission de service public, y compris les lieux privatifs de liberté ;
+- mener des enquêtes, accéder à tout document utile sous réserve des secrets définis à l'article [70](#secrets), procéder à des auditions et visiter les établissements publics et privés exerçant une mission de service public, y compris les lieux privatifs de liberté ;
 
 - assurer la médiation entre les personnes et les administrations ;
 
@@ -178,13 +180,13 @@ Pour accomplir ses missions, le Défenseur des droits peut :
 
 Les administrations et organismes concernés sont tenus de lui répondre dans les délais fixés par la loi organique.
 
-### Article 93 — Collège consultatif {#defenseur-droits-college}
+### Article 75 — Collège consultatif {#defenseur-droits-college}
 
 Le Défenseur des droits est assisté d'un collège consultatif de cinq à sept personnalités qualifiées, dont au moins un magistrat, un avocat, un universitaire, un représentant d'associations de défense des droits humains et un médiateur en exercice ou honoraire. Ils sont tirés au sort, de manière stratifiée, dans des viviers publics constitués par l'Autorité générale des conventions citoyennes sur proposition des instances professionnelles compétentes, pour un mandat de trois ans, non renouvelable immédiatement. Les règles de récusation, de rémunération uniforme et de publication des opinions dissidentes du Conseil scientifique ad hoc leur sont applicables.
 
 Le collège émet des avis consultatifs sur les dossiers d'importance structurelle et sur les rapports du Défenseur des droits. Il n'a aucun pouvoir de décision propre.
 
-### Article 94 — Reddition de comptes {#defenseur-droits-reddition-comptes}
+### Article 76 — Reddition de comptes {#defenseur-droits-reddition-comptes}
 
 Le Défenseur des droits remet à chaque session plénière annuelle un rapport détaillé de son activité : saisines reçues, enquêtes conduites, médiations engagées, recommandations formulées et leurs suites, saisines du juge et de la Juridiction de probité. Il publie en outre des rapports thématiques sur les enjeux structurels qu'il identifie.
 

@@ -40,11 +40,11 @@ Six fonctions sont exercées par des autorités distinctes :
 
 - exécuter la loi, ce qui comprend le commandement des forces armées ;
 
-- contrôler l'exécution de la loi et l'emploi des fonds publics, avec le concours de la Cour des comptes, juridiction financière, dans les conditions prévues à l'article [84](#juridiction-financiere-service-technique) ;
+- contrôler l'exécution de la loi et l'emploi des fonds publics, avec le concours de la Cour des comptes, juridiction financière, dans les conditions prévues à l'article [66](#juridiction-financiere-service-technique) ;
 
 - juger.
 
-L'engagement des forces armées est décidé par une convention citoyenne. Seules les opérations strictement défensives en cas d'agression directe et les opérations urgentes limitativement énumérées à l'article [77](#autorisation-operations-militaires) peuvent être engagées par l'autorité d'exécution, dans les conditions prévues à cet article.
+L'engagement des forces armées est décidé par une convention citoyenne. Seules les opérations strictement défensives en cas d'agression directe et les opérations urgentes limitativement énumérées à l'article [61](#autorisation-operations-militaires) peuvent être engagées par l'autorité d'exécution, dans les conditions prévues à cet article.
 
 En cas de crise, la convention de secours peut exercer temporairement plusieurs de ces fonctions, dans les conditions fixées au Titre [XII](#crises), à l'exclusion de la fonction de juger et du contrôle de constitutionnalité.
 
