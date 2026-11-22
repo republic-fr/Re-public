@@ -10,13 +10,13 @@ Ce contrôle est assuré par un Conseil scientifique ad hoc, constitué pour cha
 
 Un vivier public permanent d'experts est constitué selon des critères objectifs vérifiables fixés par la loi organique. Y sont inscrits de plein droit les titulaires d'un doctorat ou d'un titre universitaire équivalent dans une discipline scientifique reconnue, ainsi que les chercheurs en exercice dans un établissement public de recherche, une université ou un institut reconnu, dont l'activité de recherche est attestée par des publications.
 
-Toute autre personne peut demander son inscription en justifiant de ses qualifications par des publications scientifiques évaluées par les pairs ou par des contributions vérifiables dans la discipline. La demande est examinée selon des critères objectifs fixés par la loi organique.
+Toute autre personne remplissant les critères d'inscription peut demander son inscription en justifiant de ses qualifications par des publications scientifiques évaluées par les pairs ou par des contributions vérifiables dans la discipline. La demande est examinée selon des critères objectifs fixés par la loi organique.
 
 Le vivier est stratifié par disciplines et sous-disciplines selon une nomenclature fixée par la loi organique. Une personne peut figurer dans plusieurs sous-disciplines selon ses qualifications. Les listes sont tenues à jour par les universités, les établissements publics de recherche, les sociétés savantes et les académies pour leurs membres, sous le contrôle de l'Autorité générale des conventions citoyennes.
 
 La loi organique fixe les conditions d'accréditation, notamment la qualité scientifique, la diversité disciplinaire et méthodologique et l'absence de conflits d'intérêts. Les principes communs aux viviers, notamment le recours contre un refus d'inscription et le contrôle de la pluralité, sont fixés à l'article [170](#vivier-public-experts).
 
-Pour chaque texte, les membres du Conseil scientifique ad hoc sont tirés au sort dans le vivier, de manière stratifiée, pour garantir le pluralisme disciplinaire, méthodologique et d'école. La convention qui examine le texte peut récuser tout membre désigné pour conflit d'intérêt manifeste.
+Pour chaque texte, les membres du Conseil scientifique ad hoc sont tirés au sort dans le vivier, de manière stratifiée, pour garantir le pluralisme disciplinaire, méthodologique et d'école. La convention qui examine le texte peut récuser tout membre désigné pour conflit d'intérêt manifeste. L'Autorité de programmation civique contrôle la pluralité du vivier mobilisé pour chaque Conseil.
 
 ### Article 54 — Garanties d'indépendance {#controle-scientifique-independance}
 

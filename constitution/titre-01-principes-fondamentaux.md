@@ -54,7 +54,7 @@ Les partis et groupements politiques se forment et agissent librement. Ils conco
 
 Ils n'ont aucun rôle propre dans la formation de la loi, la désignation des responsables publics ou l'organisation des conventions citoyennes, qui reposent sur le tirage au sort civique.
 
-Un parti ou groupement politique ne peut être dissous en raison des idées ou opinions qu'il défend publiquement. Seul le juge judiciaire peut prononcer une dissolution, par décision motivée et contradictoire, pour des faits matériels graves portant atteinte à l'ordre constitutionnel ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique.
+Un parti ou groupement politique ne peut être dissous en raison des idées ou opinions qu'il défend publiquement. La dissolution ne peut être prononcée que par le juge judiciaire, par décision motivée et contradictoire, et que pour des faits matériels graves portant atteinte à l'ordre constitutionnel ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique.
 
 Le Titre [XIV](#probite-deliberative) fixe les conditions de la dissolution ainsi que les règles de financement des partis, de transparence de leurs ressources et de participation aux campagnes référendaires.
 
