@@ -60,6 +60,10 @@ dans les conditions prévues à l'article [77](#autorisation-operations-militair
 - **Anciens liens** : `site/concordance/v25.json` fige la numérotation de la v25. Les anciens liens (`/texte/titre-03/#article-19`) redirigent vers la place actuelle de l'article, et la page « Table de concordance » du site liste les changements de numéro.
 - Les commentaires du site sont rattachés à l'identifiant, pas au numéro.
 
+## Schémas de la page « Fonctionnement »
+
+Les schémas de `site/pages/fonctionnement.md` s'écrivent dans des blocs ```` ```schema ```` au format YAML : des nœuds placés sur une grille (`ligne`, `colonne`), avec un `type` (`citoyens`, `electeurs`, `autorite`, `administration`, `etape`), un `nom`, un `detail` court et une `info` affichée au survol. Les liens s'écrivent `a -> b | étiquette` (pointillé : `-->`, contournement : `| droite` ou `| gauche`). Les renvois aux articles suivent la syntaxe ci-dessus et sont vérifiés. Le mode d'emploi complet est en tête de `site/schemas.mjs`.
+
 ## Le site web
 
 Le site est généré à partir des fichiers de `constitution/` : toute modification du texte fusionnée dans `main` met le site à jour.

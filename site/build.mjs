@@ -4,6 +4,7 @@ import fs from 'node:fs';
 import path from 'node:path';
 import MarkdownIt from 'markdown-it';
 import { check, renderRefs, stripIds, headIds, ROMAN } from './refs.mjs';
+import { extractSchemas, injectSchemas } from './schemas.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const SRC = path.join(ROOT, 'constitution');
@@ -81,6 +82,7 @@ const renderBody = (text) => md.render(renderRefs(text, refs.byId, refUrl));
 const NAV = [
   ['Texte', '/texte/'],
   ['Pourquoi', '/pourquoi/'],
+  ['Fonctionnement', '/fonctionnement/'],
   ['Comment', '/comment/'],
   ['Commenter', '/commenter/'],
   ['FAQ', '/faq/'],
@@ -259,6 +261,7 @@ function home() {
 </section>
 <section class="wrap home-more">
   <a class="home-more__card" href="/pourquoi/"><span class="rp-tag rp-tag--solid">Pourquoi</span><span class="home-more__t">Le diagnostic, et ce que la Constitution change pour vous.</span></a>
+  <a class="home-more__card" href="/fonctionnement/"><span class="rp-tag rp-tag--solid">Fonctionnement</span><span class="home-more__t">Le système en schémas : la loi, les ministères, la justice, les crises.</span></a>
   <a class="home-more__card" href="/comment/"><span class="rp-tag rp-tag--solid">Comment</span><span class="home-more__t">Les étapes pour y parvenir, le coût, la place des citoyens.</span></a>
   <a class="home-more__card" href="/commenter/"><span class="rp-tag rp-tag--solid">Commenter</span><span class="home-more__t">Proposer une modification ou discuter un article.</span></a>
 </section>`;
@@ -327,7 +330,9 @@ function contentPage(file, href) {
 </form>${mailBtn ? `<p class="note">Vous préférez écrire directement ?</p>${mailBtn}` : ''}` : '';
   const contactLine = form || mailBtn || `<p><a class="rp-btn rp-btn--primary" href="https://github.com/${config.repo}/issues">Écrire sur GitHub</a></p>`;
   raw = raw.replaceAll('{{contactLine}}', contactLine).replaceAll('{{repo}}', config.repo);
-  const html = renderBody(raw);
+  const { text, schemas } = extractSchemas(raw, `site/pages/${file}`);
+  const inline = (t) => md.renderInline(renderRefs(t, refs.byId, refUrl));
+  const html = injectSchemas(renderBody(text), schemas, inline);
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">${esc(fm.tag || fm.title)}</span>${fm.subtag ? `<span class="rp-tag">${esc(fm.subtag)}</span>` : ''}</div><h1 class="rp-title">${esc(fm.title)}</h1></div>
 <div class="wrap prose${fm.faq === 'true' ? ' faq' : ''}">${html}</div>`;
   const extra = {};
@@ -357,7 +362,7 @@ const oldTitre = (r) => `/texte/titre-${String(ROMAN.indexOf(r) + 1).padStart(2,
 const redirects = Object.entries(v25.titres).map(([r, id]) => [oldTitre(r), urlTitre(titreById.get(now(id).primary))]);
 fs.writeFileSync(path.join(OUT, '_redirects'), redirects.map(([a, b]) => `${a} ${b} 301\n${a.slice(0, -1)} ${b} 301`).join('\n') + '\n');
 fs.writeFileSync(path.join(OUT, 'v25.json'), JSON.stringify(Object.fromEntries(Object.entries(v25.articles).map(([n, id]) => [n, urlArticleId(now(id).primary)]))));
-for (const [file, href] of [['pourquoi.md', '/pourquoi/'], ['comment.md', '/comment/'], ['commenter.md', '/commenter/'], ['faq.md', '/faq/'], ['contact.md', '/contact/']]) {
+for (const [file, href] of [['pourquoi.md', '/pourquoi/'], ['fonctionnement.md', '/fonctionnement/'], ['comment.md', '/comment/'], ['commenter.md', '/commenter/'], ['faq.md', '/faq/'], ['contact.md', '/contact/']]) {
   write(href.replaceAll('/', ''), contentPage(file, href));
 }
 
@@ -369,7 +374,7 @@ fs.writeFileSync(path.join(OUT, 'search.json'), JSON.stringify(searchIndex));
 // Fichiers utilitaires
 fs.writeFileSync(path.join(OUT, '404.html'), layout({ title: 'Page introuvable', noindex: true, path: '/404', body: `<div class="wrap page-head"><h1 class="rp-display">404</h1><p>Cette page n’existe pas. <a href="/texte/">Revenir au texte</a>.</p></div>` }));
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${config.siteUrl}/sitemap.xml\n`);
-const urls = ['/', '/texte/', ...all.map(urlTitre), '/texte/concordance/', '/pourquoi/', '/comment/', '/commenter/', '/faq/', '/contact/'];
+const urls = ['/', '/texte/', ...all.map(urlTitre), '/texte/concordance/', '/pourquoi/', '/fonctionnement/', '/comment/', '/commenter/', '/faq/', '/contact/'];
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${config.siteUrl}${u}</loc></url>`).join('')}</urlset>\n`);
 
 console.log(`Site généré : ${all.length} pages de texte, ${articleIndex.size} articles → dist/`);

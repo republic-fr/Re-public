@@ -8,7 +8,10 @@
     "serve": "node site/build.mjs && npx --yes serve dist -l 4173"
   },
   "dependencies": {
+    "js-yaml": "4.1.0",
     "markdown-it": "14.1.0"
   },
-  "engines": { "node": ">=20" }
+  "engines": {
+    "node": ">=20"
+  }
 }

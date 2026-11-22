@@ -90,6 +90,14 @@ Le projet a été chiffré poste par poste. Hors coûts indirects, il coûterait
 
 ## <span class="kicker">05</span>Le projet
 
+### Cette Constitution ne porte aucune valeur, aucune avancée en matière de droits.
+
+C’est un choix assumé. Ce texte propose un système politique : qui décide, comment, et sous quels contrôles. Il ne tranche pas à l’avance les grands choix de société, qui reviennent aux citoyens eux-mêmes.
+
+Les valeurs et les droits seront écrits par une convention des droits fondamentaux : cent cinquante citoyens tirés au sort rédigeront la Déclaration des droits annexée à la Constitution, en partant de la Déclaration de 1789, du Préambule de 1946 et de la Charte de l’environnement (article [8](#declaration-droits-fondamentaux)). L’avant-projet lui-même sera ensuite modifié par la convention constituante, puis soumis à référendum (Titre [XVI](#revision)).
+
+Le texte fixe seulement un socle que personne ne pourra remettre en cause : la dignité, l’interdiction de la torture et de la peine de mort, l’égalité, la liberté de conscience, les droits de la défense (article [9](#droits-intangibles)). Pour le reste, ce que nous proposons n’est pas un programme partisan : c’est une méthode pour que ces choix soient faits par les citoyens.
+
 ### Est-ce que ça existe déjà quelque part ?
 
 Pas à l’échelle d’un pays entier, mais le tirage au sort démocratique a fait ses preuves. En Irlande, des assemblées composées en majorité ou en totalité de citoyens tirés au sort ont préparé les référendums de 2015 et 2018 sur le mariage pour tous et l’avortement. En Belgique germanophone, un conseil citoyen permanent tiré au sort organise depuis 2019 des assemblées dont le parlement doit examiner les recommandations. En France, la Convention citoyenne pour le climat (2019-2020) et celle sur la fin de vie (2022-2023) ont montré la qualité de ces délibérations. Ce projet va plus loin : il rend les conventions décisionnaires.

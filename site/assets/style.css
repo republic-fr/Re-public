@@ -93,11 +93,12 @@ a:hover { text-decoration-thickness: 2px; }
 .titre-grid__n { font: 400 56px/0.85 var(--font-sans); letter-spacing: -0.03em; }
 .titre-grid__name { font-size: 19px; line-height: 1.2; font-weight: 500; }
 .titre-grid__meta { font-size: 13px; color: var(--ink-muted); }
-.home-more { display: grid; grid-template-columns: repeat(3, 1fr); gap: var(--space-4); margin-top: var(--space-6); }
+.home-more { display: grid; grid-template-columns: repeat(4, 1fr); gap: var(--space-4); margin-top: var(--space-6); }
 .home-more__card { display: grid; gap: var(--space-3); align-content: start; text-decoration: none; border-top: 1px solid var(--rule); padding-top: var(--space-3); }
 .home-more__card .rp-tag { justify-self: start; }
 .home-more__t { font-size: 22px; line-height: 1.2; font-weight: 500; letter-spacing: -0.01em; }
 .home-more__card:hover .home-more__t { text-decoration: underline; text-underline-offset: 4px; }
+@media (max-width: 1000px) { .home-more { grid-template-columns: repeat(2, 1fr); } }
 @media (max-width: 720px) { .home-more { grid-template-columns: 1fr; } }
 
 /* Recherche */
@@ -251,3 +252,54 @@ sup { font-size: 0.6em; line-height: 0; vertical-align: super; }
 .contact-form button { justify-self: start; }
 .faq h3 { margin-top: var(--space-5); }
 .contact-form__status { margin: 0; font-size: 15px; }
+
+/* Schémas fonctionnels (page Fonctionnement) */
+.prose > .dg { margin: var(--space-4) 0 var(--space-6); max-width: none; }
+.dg__body { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: var(--space-5); align-items: start; }
+.dg__canvas { position: relative; display: grid; grid-template-columns: repeat(var(--cols), minmax(0, 1fr)); column-gap: 48px; row-gap: 60px; padding: 4px 40px; }
+.dg__links { position: absolute; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; color: var(--ink); }
+.dg__links path { fill: none; stroke: currentColor; stroke-width: 1.25; }
+.dg__links marker path { fill: currentColor; stroke: none; }
+.dg__links path.is-dashed { stroke-dasharray: 5 4; }
+.dg__links .dg-label text { font: 500 12px/1 var(--font-sans); fill: var(--ink); }
+.dg__links .dg-label rect { fill: var(--surface); }
+.dg__links .is-dim { opacity: 0.3; }
+.dg__links path.is-on { stroke-width: 2.5; }
+.dg-node { position: relative; z-index: 1; display: flex; flex-direction: column; gap: 4px; min-height: 64px; padding: 12px 14px; text-align: left; font: inherit; color: var(--ink); background: var(--surface); border: 1px solid var(--ink); border-radius: 0; cursor: pointer; }
+.dg-node__name { font: 500 15px/1.2 var(--font-sans); }
+.dg-node__detail { font-size: 13px; line-height: 1.3; color: var(--ink-muted); }
+.dg-node--citoyens { background: var(--inverse); color: var(--on-inverse); border-color: var(--inverse); }
+.dg-node--citoyens .dg-node__detail { color: inherit; opacity: 0.75; }
+.dg-node--electeurs { border: 4px double var(--ink); padding: 9px 11px; }
+.dg-node--administration { border-style: dashed; }
+.dg-node--etape { background: var(--surface-alt); border-color: var(--surface-alt); }
+.dg-node:hover, .dg-node[aria-pressed="true"] { outline: 2px solid var(--ink); outline-offset: 3px; }
+.dg-node__out { display: none; }
+.dg__panel { position: sticky; top: 88px; border-top: 1px solid var(--rule); padding-top: var(--space-3); }
+.dg__panel h3 { font: 500 22px/1.15 var(--font-sans); margin: 0 0 var(--space-2); }
+.dg__panel p { font-size: 16px; line-height: 1.5; margin: 0 0 var(--space-2); }
+.dg__kicker { font: 500 12px/1.3 var(--font-sans) !important; letter-spacing: 0.04em; text-transform: uppercase; color: var(--ink-muted); }
+.dg__legend { display: flex; flex-wrap: wrap; gap: var(--space-2) var(--space-4); list-style: none !important; padding: 0 !important; margin: var(--space-4) 0 var(--space-2) !important; font-size: 14px; color: var(--ink-muted); }
+.dg__legend li { display: flex; align-items: center; gap: var(--space-2); margin: 0; font-size: 14px; }
+.dg-swatch { border: 1px solid var(--ink); display: inline-block; width: 22px; height: 14px; min-height: 0; padding: 0 !important; border-width: 1px; }
+.dg-swatch.dg-node--electeurs { border-width: 4px; }
+.dg__text { font-size: 16px; max-width: 68ch; }
+.dg__text summary { cursor: pointer; text-decoration: underline; text-underline-offset: 4px; font-size: 14px; }
+.dg__text dt { font-weight: 500; margin-top: var(--space-3); }
+.dg__text dd { margin: var(--space-1) 0 0; }
+.dg__next { color: var(--ink-muted); }
+@media (max-width: 899px) {
+  .dg__body { grid-template-columns: 1fr; gap: var(--space-3); }
+  .dg__canvas { grid-template-columns: 1fr; row-gap: var(--space-3); padding: 0; }
+  .dg__canvas > .dg-node { grid-row: auto !important; grid-column: 1 !important; }
+  .dg__links { display: none; }
+  .dg-node__out { display: block; list-style: none !important; margin: var(--space-2) 0 0 !important; padding: var(--space-2) 0 0; border-top: 1px solid currentColor; font-size: 13px; line-height: 1.35; opacity: 0.85; }
+  .dg-node__out li { margin: 0 !important; font-size: 13px !important; }
+  .dg__panel { position: static; order: -1; }
+  .dg__canvas > .dg__panel { order: 0; padding: var(--space-3); border: 1px solid var(--rule); }
+}
+.dg-index { display: flex; flex-wrap: wrap; gap: var(--space-2); list-style: none !important; padding: 0 !important; counter-reset: dgi; }
+.dg-index li { counter-increment: dgi; margin: 0; }
+.dg-index a { display: inline-flex; align-items: center; gap: var(--space-2); height: 36px; padding: 0 var(--space-3); border: 1px solid var(--ink); text-decoration: none; font-size: 15px; }
+.dg-index a::before { content: counter(dgi, decimal-leading-zero); color: var(--ink-muted); font-size: 13px; }
+.dg-index a:hover { background: var(--inverse); color: var(--on-inverse); }
