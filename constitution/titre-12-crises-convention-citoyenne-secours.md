@@ -38,7 +38,7 @@ Aucune situation de crise ne peut entraîner le transfert de pouvoirs civils à 
 
 Les forces armées peuvent être mobilisées en appui des autorités civiles dans les conditions prévues par la loi et à l'article [147](#conservatoires-cadre-interdit), sous le contrôle du juge et dans le respect des droits fondamentaux. Cette mobilisation ne confère à l'autorité militaire aucun pouvoir propre de police, d'administration ou de contrainte en dehors du cadre strict fixé par la loi.
 
-Aucune force armée, gendarmerie comprise, ne peut être déployée aux abords des lieux où siègent les conventions citoyennes, les juridictions et les autorités constitutionnelles, ni des locaux des médias, sans l'autorisation de la convention de secours. Toute violation de cette interdiction constitue une atteinte à l'ordre constitutionnel.
+Aucune force armée ou de sécurité intérieure, gendarmerie et police comprises, ne peut pénétrer dans les lieux où siègent les conventions citoyennes, les juridictions et les autorités constitutionnelles, ni dans les locaux des médias, ni être déployée à leurs abords, sans l'autorisation de l'institution concernée ou de la convention de secours. Font exception la garde ordinaire placée sous l'autorité de l'institution et les actes ordonnés par un juge. Toute violation de cette interdiction constitue une atteinte à l'ordre constitutionnel.
 
 ## Chapitre II — Les mesures conservatoires
 
@@ -80,7 +80,7 @@ d) Audit annuel. La Juridiction de probité et de responsabilité publique publi
 
 e) Convention thématique de contrôle. Tous les cinq ans, une convention thématique dédiée examine l'usage cumulé de ces mesures. Elle peut proposer toute modification du régime, y compris sa restriction ou sa suppression, dans les conditions de la révision constitutionnelle.
 
-f) Clause de réexamen. Le présent alinéa et les deux alinéas qui le précèdent font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse selon la procédure de révision prévue au Titre [XVI](#revision), convention constituante et référendum compris, ils deviennent caducs.
+f) Clause de réexamen. Les dispositions relatives aux mesures prévues aux 1° et 2°, y compris les présentes garanties, font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse selon la procédure de révision prévue au Titre [XVI](#revision), convention constituante et référendum compris, ils deviennent caducs.
 
 ### Article 147 — Cadre interdit {#conservatoires-cadre-interdit}
 
@@ -136,7 +136,7 @@ Toute personne affectée par une mesure conservatoire peut saisir le même juge,
 
 La convention citoyenne de secours est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite). Elle est en veille permanente : ses membres sont désignés à l'avance, formés et placés sous astreinte pour une durée fixée par la loi organique, sans qu'aucune continuité de personnes ne soit assurée d'une période d'astreinte à la suivante. Ils sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
-La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Ses moyens de communication sont indépendants des réseaux ordinaires. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Lorsque des membres sont empêchés de siéger par la force, le quorum et les majorités sont calculés sur les seuls membres qui ne sont pas empêchés.
+La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Ses moyens de communication sont indépendants des réseaux ordinaires. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Les membres empêchés de siéger sont remplacés sans délai par des suppléants. Le quorum et les majorités sont toujours calculés sur l'effectif complet de la convention, qui ne délibère jamais avec moins de la moitié de ses membres. Seule est valable une réunion convoquée selon ces protocoles et dont la liste des présents est publiée. Si plusieurs réunions se réclament de la convention, le Conseil constitutionnel désigne la réunion légitime ; s'il est empêché, la réunion qui compte le plus de membres régulièrement désignés l'emporte. Toute autre réunion est nulle de plein droit, dans les conditions de l'article [7](#tyrannie-majorite-resistance).
 
 ### Article 152 — Saisine {#secours-saisine}
 
@@ -152,7 +152,7 @@ Elle est en outre saisie dans les seuls cas suivants :
 - par au moins un tiers des ministres, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
 - de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [66](#interim-ministeriel) ;
 - par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [72](#relations-exterieures-saisine-secours) ;
-- par le ministre de la Défense, qui l'informe de toute opération défensive, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
+- par le ministre de la Défense, qui l'informe de toute opération défensive ou urgente, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
 - par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [88](#controle-renseignement-armees) ;
 - de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
 
@@ -176,7 +176,7 @@ La convention de secours :
 
 - autorise l'emploi de la force nucléaire dans les conditions prévues à l'article [78](#emploi-arme-nucleaire) ;
 
-- autorise les interventions militaires offensives ou durables lorsque l'urgence ne permet pas la convocation d'une convention thématique dédiée ;
+- autorise les opérations militaires lorsque l'urgence ne permet pas la convocation d'une convention thématique dédiée, et confirme ou fait cesser les opérations urgentes prévues à l'article [77](#autorisation-operations-militaires) ;
 
 - peut demander la révocation de tout membre de l'administration d'exécution ayant agi hors cadre, selon les modalités du Titre [IX](#juridiction-probite) ;
 

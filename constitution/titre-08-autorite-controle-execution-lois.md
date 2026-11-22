@@ -42,7 +42,7 @@ La session plénière annuelle :
 
 - peut demander à l'Autorité de programmation civique l'ouverture de conventions thématiques correctives ;
 
-- peut saisir la convention de programmation pour des réorientations stratégiques ;
+- peut saisir la prochaine convention de programmation de propositions de réorientations stratégiques ;
 
 - fixe le programme de contrôle du service technique pour l'année à venir ;
 
@@ -66,7 +66,7 @@ Toute personne, toute collectivité territoriale, toute convention et toute auto
 
 La Cour des comptes est une juridiction financière indépendante. Elle juge les comptes des comptables publics, se prononce sur la régularité, la sincérité et l'efficacité de la gestion publique, et exerce les pouvoirs juridictionnels que lui confère la loi.
 
-Les magistrates et magistrats de la Cour sont inamovibles. Leur statut, les conditions de leur nomination et leur discipline sont fixés par la loi organique et garantis par le Conseil supérieur de la magistrature.
+Les magistrates et magistrats de la Cour sont inamovibles. Leur statut, les conditions de leur nomination et leur discipline sont fixés par la loi organique et garantis par le Conseil supérieur de la magistrature, dans sa formation compétente à l'égard de la juridiction administrative.
 
 La Cour des comptes coopère avec l'Autorité de contrôle de l'exécution des lois selon les modalités suivantes :
 
@@ -90,7 +90,7 @@ Le service technique exerce en continu, dans le respect du programme fixé par l
 
 - enquêter sur l'application des lois et sur le fonctionnement des administrations ;
 
-- exiger la communication de tout document utile, sous réserve des secrets strictement protégés par la Constitution ;
+- exiger la communication de tout document utile, sous réserve des secrets définis à l'article [88](#controle-renseignement-armees) ;
 
 - auditionner tout responsable public ;
 
@@ -140,12 +140,18 @@ Elle exerce, dans des conditions préservant les secrets strictement nécessaire
 
 - saisine du Conseil constitutionnel, de la Juridiction de probité et de l'autorité judiciaire ;
 
-- information en temps réel de tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires ;
+- information en temps réel de tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires, et de tout déploiement d'unités d'intervention des forces de sécurité intérieure aux abords des lieux mentionnés à l'article [145](#exclusion-regime-militaire-exception) ;
 - saisine immédiate et de plein droit de la convention de secours et du Conseil constitutionnel en cas de suspicion d'atteinte à l'ordre constitutionnel.
 
 Elle rend compte chaque année à la session plénière de l'Autorité de contrôle, selon des modalités garantissant la protection des secrets légitimes et la publicité des constatations structurelles.
 
 Les atteintes à son droit d'accès constituent une faute grave au sens de l'article [101](#jugement-fautes-graves).
+
+Seuls peuvent être protégés par le secret, au sens de la présente Constitution : les plans et opérations militaires en cours ; les sources, méthodes et agents des services de renseignement ; les positions de repli et éléments confidentiels d'une négociation internationale en cours ; les informations dont la divulgation mettrait en danger une personne protégée. Aucune autre information ne peut être classifiée.
+
+Tout secret a une durée limitée. Il prend fin à la conclusion ou à l'abandon de la négociation et, dans les autres cas, au plus tard vingt-cinq ans après la classification. Seule la Commission peut prolonger cette durée, par décision motivée et pour une durée déterminée.
+
+Le secret n'est opposable ni à la Commission, ni aux juridictions, ni au Conseil constitutionnel, ni à la Juridiction de probité et de responsabilité publique, qui en assurent la protection. La déclassification est décidée par la Commission ou par le juge saisi, jamais par l'autorité qui a classifié l'information. Aucun secret ne peut couvrir une infraction ou une atteinte aux droits garantis par la présente Constitution.
 
 ## Chapitre IV — Le Défenseur des droits
 
@@ -165,7 +171,7 @@ La Défenseure ou le Défenseur des droits est nommé selon la procédure suivan
 
 - contrôle d'intégrité des candidates et candidats pré-sélectionnés par la Juridiction de probité et de responsabilité publique, selon les critères définis à l'article [99](#controle-prealable-probite) ;
 
-- nomination par la session plénière annuelle de l'Autorité de contrôle, sur la liste restreinte des candidates et candidats recevables, selon les règles de majorité et de tours de scrutin prévues à l'article [62](#procedure-designation-ministres).
+- nomination par la session plénière annuelle de l'Autorité de contrôle, sur la liste restreinte des candidates et candidats recevables, à la majorité absolue de ses membres, en trois tours au plus. À défaut, un nouvel appel à candidatures est ouvert.
 
 Le mandat du Défenseur des droits est de six ans, non renouvelable. Il est révocable par la Juridiction de probité et de responsabilité publique, sur saisine de la session plénière ou dans les autres conditions prévues au Titre [IX](#juridiction-probite). Il bénéficie des garanties d'inamovibilité pendant la durée de son mandat.
 
@@ -185,7 +191,7 @@ La Défenseure ou le Défenseur des droits peut être saisi :
 
 La Défenseure ou le Défenseur des droits exerce, dans l'accomplissement de ses missions, les pouvoirs suivants :
 
-- mener des enquêtes, accéder à tout document utile sous réserve des secrets strictement protégés par la Constitution, procéder à des auditions et visiter les établissements publics et privés exerçant une mission de service public, y compris les lieux privatifs de liberté ;
+- mener des enquêtes, accéder à tout document utile sous réserve des secrets définis à l'article [88](#controle-renseignement-armees), procéder à des auditions et visiter les établissements publics et privés exerçant une mission de service public, y compris les lieux privatifs de liberté ;
 
 - assurer la médiation entre les personnes et les administrations ;
 
@@ -215,4 +221,4 @@ La Défenseure ou le Défenseur des droits remet à chaque session plénière an
 
 Il publie en outre des rapports thématiques sur les enjeux structurels qu'il identifie dans l'exercice de sa mission.
 
-La session plénière annuelle examine ces rapports, peut formuler des recommandations publiques, demander à l'Autorité de programmation civique l'ouverture de conventions thématiques correctives, ou saisir la convention de programmation pour des réorientations stratégiques.
+La session plénière annuelle examine ces rapports, peut formuler des recommandations publiques, demander à l'Autorité de programmation civique l'ouverture de conventions thématiques correctives, ou saisir la prochaine convention de programmation de propositions de réorientations stratégiques.

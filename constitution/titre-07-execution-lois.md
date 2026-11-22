@@ -73,11 +73,15 @@ Le contrôle préalable de probité et d'intégrité des candidates et candidats
 
 Le mandat ministériel est de trois ans, renouvelable une fois. Les ministres sont révocables en cours de mandat par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre [IX](#juridiction-probite).
 
+Lorsqu'un rapport de l'Autorité de contrôle de l'exécution des lois constate une défaillance persistante dans l'exécution des lois ou du budget relevant d'un ministère, la convention de désignation peut adresser à la ou au ministre un avertissement public assorti d'objectifs précis. Si, six mois au moins après l'avertissement, un nouveau rapport de l'Autorité constate que ces objectifs ne sont pas atteints, la convention peut, après audition publique de la ou du ministre, mettre fin à son mandat à la majorité des deux tiers de ses membres.
+
+Ces décisions se fondent exclusivement sur les constats de l'Autorité de contrôle, jamais sur un désaccord avec les choix faits par la ou le ministre dans le cadre de la loi. Aucun avertissement ne peut être adressé dans les six mois qui suivent la désignation. La décision de mettre fin au mandat est susceptible de recours devant le Conseil constitutionnel, qui vérifie le respect de ces conditions.
+
 ### Article 66 — Intérim ministériel {#interim-ministeriel}
 
-En cas de vacance d'un ministère, l'intérim est assuré par la ou le ministre délégué du ministère concerné. À défaut, il est assuré par la haute fonctionnaire ou le haut fonctionnaire du plus haut grade en fonction dans le ministère.
+En cas de vacance d'un ministère, le collège des ministres en confie l'intérim à l'un de ses membres. Aucun ministre ne peut assurer plus d'un intérim à la fois. Si le collège ne peut désigner d'intérimaire, la convention de secours est saisie de plein droit.
 
-L'intérim est limité aux affaires strictement courantes, à l'exclusion de toute décision politique, réglementaire ou budgétaire nouvelle. Sa durée maximale est de quatre-vingt-dix jours. La convention de désignation est tenue de pourvoir au poste dans ce délai. À défaut, la convention de secours est saisie de plein droit.
+L'intérim est limité aux affaires strictement courantes, à l'exclusion de toute décision politique, réglementaire ou budgétaire nouvelle. Le collège peut toutefois autoriser les décrets nécessaires à l'application d'une loi dans le délai prévu à l'article [59](#subordination-loi). Sa durée maximale est de quatre-vingt-dix jours. La convention de désignation est tenue de pourvoir au poste dans ce délai. À défaut, la convention de secours est saisie de plein droit.
 
 ### Article 67 — Recours citoyen sur faits nouveaux {#ministres-recours-faits-nouveaux}
 
@@ -91,6 +95,8 @@ La représentation extérieure de la République est assurée par une pluralité
 
 Les représentants exercent une fonction de rapporteurs auprès des ministres compétents, sans pouvoir de décision propre.
 
+Au Conseil de sécurité des Nations unies, la République vote selon une doctrine adoptée par convention thématique. Les votes sont émis par le représentant compétent sur instruction écrite du ministre chargé des relations extérieures. L'usage du droit de veto est décidé par le collège des ministres, qui en publie les motifs.
+
 ### Article 69 — Mandat et incompatibilités {#representants-mandat-incompatibilites}
 
 Le mandat d'un représentant aux relations extérieures est de deux ans, non renouvelable immédiatement.
@@ -101,13 +107,13 @@ Les représentants sont révocables en cours de mandat par la Juridiction de pro
 
 ### Article 70 — Obligations de transparence et d'abstention {#representants-transparence-abstention}
 
-Les représentants rendent compte intégralement de leurs entretiens aux ministres concernés et aux organes de contrôle. L'ensemble des comptes rendus est versé au dossier public dans les conditions fixées par la loi organique, sous réserve des secrets strictement protégés par la Constitution.
+Les représentants rendent compte intégralement de leurs entretiens aux ministres concernés et aux organes de contrôle. L'ensemble des comptes rendus est versé au dossier public dans les conditions fixées par la loi organique, sous réserve des secrets définis à l'article [88](#controle-renseignement-armees).
 
 Il est absolument interdit aux représentants de prendre position publiquement en leur nom propre. Ils ne s'expriment qu'au nom des ministres compétents, sur la base d'instructions écrites et publiques.
 
 ### Article 71 — Négociations préparatoires {#negociations-preparatoires}
 
-Les représentants peuvent engager la République dans des négociations préparatoires, sans pouvoir de ratification finale, sur la base d'un mandat écrit et public émanant des ministres concernés.
+Les représentants peuvent engager la République dans des négociations préparatoires, sans pouvoir de ratification finale, sur la base d'un mandat écrit émanant des ministres concernés. Le mandat est public dans ses objectifs et ses lignes rouges. Les positions de repli sont confidentielles ; elles sont communiquées à la Commission permanente de contrôle du renseignement et des forces armées et publiées après la conclusion ou l'abandon de la négociation.
 
 La chaîne de conclusion d'un traité est la suivante : un représentant négocie le texte ; la ou le ministre compétent valide la version négociée ; le traité est ratifié selon les règles de l'article [73](#ratification-traites-majeurs).
 
@@ -153,13 +159,17 @@ Aucune déclaration de guerre, aucune intervention armée offensive ni aucune op
 
 Les opérations strictement défensives en cas d'agression directe peuvent être engagées immédiatement par la ou le ministre de la Défense, sous obligation d'informer sans délai la convention de secours, et sous contrôle du juge pour les mesures individuelles affectant les libertés.
 
+Peuvent également être engagées sans autorisation préalable, pour quinze jours au plus, les seules opérations suivantes : l'évacuation de ressortissants, la libération d'otages, la protection de forces françaises régulièrement déployées et l'assistance à un État allié agressé, dans les termes d'un traité ratifié. La ou le ministre de la Défense en informe immédiatement la convention de secours et la Commission permanente de contrôle du renseignement et des forces armées, au besoin sous le sceau du secret. La convention de secours confirme l'opération ou la fait cesser dans les soixante-douze heures de sa réunion. Au-delà de quinze jours, la poursuite de l'opération requiert l'autorisation d'une convention thématique. Présenter une opération sous l'une de ces qualifications pour échapper à l'autorisation constitue une faute grave au sens de l'article [101](#jugement-fautes-graves).
+
 Toute opération militaire autorisée fait l'objet d'un réexamen périodique obligatoire par la convention de secours, selon une fréquence fixée par la loi organique, qui ne peut excéder quatre mois.
+
+Lorsqu'un engagement militaire doit durer, une convention thématique peut l'autoriser pour un an au plus, renouvelable dans les mêmes formes, à la majorité absolue de ses membres. Elle se réunit alors au moins tous les quatre mois pour en assurer le réexamen, à la place de la convention de secours. Ce régime de défense ne constitue pas une crise au sens de l'article [142](#notion-crise) et ne fait pas obstacle à la révision constitutionnelle, sauf atteinte à l'intégrité du territoire.
 
 ### Article 78 — Emploi de l'arme nucléaire {#emploi-arme-nucleaire}
 
-En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise par au moins deux des trois autorités suivantes : la présidente ou le président du collège des ministres, la ou le ministre de la Défense et la ou le chef d'état-major des armées. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
+En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise conjointement par la présidente ou le président du collège des ministres et par la ou le ministre de la Défense. La ou le chef d'état-major des armées vérifie l'authenticité de l'ordre et en assure l'exécution ; elle ou il ne participe pas à la décision. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
 
-En cas d'empêchement de l'une de ces trois autorités, une chaîne de suppléance fixée par la loi organique garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
+En cas d'empêchement de l'une de ces deux autorités, une chaîne de suppléance fixée par la loi organique, composée exclusivement d'autorités civiles, garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
 
 Dans tous les autres cas, l'emploi de l'arme nucléaire est subordonné à l'approbation préalable de la convention de secours statuant à la majorité qualifiée.
 

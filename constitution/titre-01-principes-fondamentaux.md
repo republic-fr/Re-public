@@ -44,7 +44,7 @@ Les fonctions suivantes sont exercées par des autorités distinctes :
 
 — juger.
 
-L'engagement des forces armées est décidé par une convention citoyenne. Seules les opérations strictement défensives en cas d'agression directe peuvent être engagées par l'autorité d'exécution, dans les conditions prévues à l'article [77](#autorisation-operations-militaires).
+L'engagement des forces armées est décidé par une convention citoyenne. Seules les opérations strictement défensives en cas d'agression directe et les opérations urgentes limitativement énumérées à l'article [77](#autorisation-operations-militaires) peuvent être engagées par l'autorité d'exécution, dans les conditions prévues à cet article.
 
 La Cour des comptes, juridiction financière, concourt au contrôle de l'emploi des fonds publics, dans les conditions prévues à l'article [84](#juridiction-financiere-service-technique).
 

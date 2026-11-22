@@ -146,7 +146,7 @@ Toute personne peut par ailleurs saisir la Juridiction en cas de révélation de
 
 La procédure devant la Juridiction est contradictoire. Le responsable mis en cause peut se défendre, présenter des pièces et être assisté d'un conseil.
 
-Les séances sont publiques, sauf exception strictement motivée par la protection de tiers ou par un secret constitutionnellement protégé. Les décisions sont motivées, publiques et accompagnées des opinions dissidentes.
+Les séances sont publiques, sauf exception strictement motivée par la protection de tiers ou par un secret défini à l'article [88](#controle-renseignement-armees). Les décisions sont motivées, publiques et accompagnées des opinions dissidentes.
 
 La Juridiction statue dans un délai raisonnable fixé par la loi organique.
 

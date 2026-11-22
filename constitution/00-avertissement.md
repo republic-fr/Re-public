@@ -20,7 +20,7 @@ Sont traités dans la présente version :
 
 - Titre [IX](#juridiction-probite) — De la Juridiction de probité et de responsabilité publique
 
-- Titre [X](#autorite-judiciaire) — De l'autorité judiciaire
+- Titre [X](#autorite-judiciaire) — De l'autorité judiciaire et de la juridiction administrative
 
 - Titre [XI](#finances-publiques) — Des finances publiques
 
@@ -33,5 +33,7 @@ Sont traités dans la présente version :
 - Titre [XV](#traites-union-europeenne) — Des traités internationaux et des relations avec l'Union européenne
 
 - Titre [XVI](#revision) — De la révision constitutionnelle
+
+- Titre [XVII](#transition) — Dispositions transitoires
 
 La Déclaration des droits fondamentaux, annexée au Titre [II](#droits), fera l'objet d'un document séparé, conformément à l'article [8](#declaration-droits-fondamentaux).

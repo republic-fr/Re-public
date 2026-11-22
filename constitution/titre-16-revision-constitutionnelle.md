@@ -10,7 +10,7 @@ La révision de la Constitution peut être initiée :
 
 - par la convention de programmation, à la majorité qualifiée ;
 
-- par une convention ordinaire annuelle, à la majorité des trois quarts de ses membres présents ;
+- par une convention ordinaire annuelle, à la majorité des trois quarts de ses membres ;
 
 - par la convention de secours, dans les conditions prévues à l'article [219](#revision-interdite-crise), en cas de nécessité exceptionnelle dûment motivée.
 

@@ -335,7 +335,7 @@ noeuds:
     detail: 50 citoyens, renouvelés par moitié chaque année
     info: >-
       Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après trois tours sans majorité, la désignation est reprise après un renouvellement partiel de la convention, et un intérim assure la continuité. Elle désigne aussi les représentants
-      aux relations extérieures (articles [61](#convention-designation-ministres) et [62](#procedure-designation-ministres)).
+      aux relations extérieures. Si l’Autorité de contrôle constate qu’un ministre n’exécute pas les lois, elle peut l’avertir, puis, six mois plus tard et aux deux tiers, mettre fin à son mandat (articles [61](#convention-designation-ministres), [62](#procedure-designation-ministres) et [65](#duree-mandat-ministeriel)).
   - id: ministres
     ligne: 4
     colonne: 2
@@ -447,8 +447,8 @@ noeuds:
     nom: Conseil constitutionnel
     detail: Conformité à la Constitution
     info: >-
-      Toute personne qui y a intérêt peut contester une loi en vigueur. Pour les actes de l’administration, il est saisi par le juge administratif
-      quand une question de constitutionnalité est sérieuse. Ses membres sont tirés au sort parmi des juristes
+      Toute personne, association ou entreprise qui y a intérêt peut contester une loi en vigueur ; au cours d’un procès, toute partie peut aussi demander au juge de lui transmettre la question.
+      Pour les actes de l’administration, il est saisi par le juge administratif quand une question de constitutionnalité est sérieuse. Ses membres sont tirés au sort parmi des juristes
       (articles [39](#cc-composition), [44](#cc-saisine-posteriori) et [45](#controle-actes-execution)).
   - id: administratif
     ligne: 2
@@ -475,14 +475,14 @@ noeuds:
     nom: Conseil supérieur de la magistrature
     detail: Trois formations (siège, parquet, juridiction administrative)
     info: >-
-      Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats et peut être saisi par tout justiciable
+      Aucune nomination de magistrat ne peut se faire sans son accord. Il juge la discipline des magistrats, dans une formation où les magistrats sont minoritaires, et peut être saisi par tout justiciable
       (articles [116](#csm-nominations) à [120](#csm-saisine-justiciables)).
   - id: pairs
     ligne: 5
     colonne: 1
     type: etape
     nom: Élus par leurs pairs
-    detail: 8 magistrats sur 12
+    detail: 8 sur 12, minoritaires en discipline
     info: Les magistrats membres sont élus par les magistrats (articles [112](#csm-composition) et [113](#csm-designation-membres)).
   - id: tirage
     ligne: 5
@@ -514,6 +514,7 @@ liens:
   - personne -> tribunaux | saisit un juge
   - personne -> administratif | litige avec l’administration
   - administratif -> constitutionnel | question sérieuse
+  - tribunaux -> constitutionnel
   - personne -> constitutionnel | | droite
   - parquet -> tribunaux | poursuit
   - csm -> tribunaux | nomme, sanctionne
@@ -694,7 +695,7 @@ noeuds:
     nom: Mesures exceptionnelles
     detail: Autorisées aux deux tiers
     info: >-
-      Restriction de libertés, engagement de l’armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours. Aucune force armée ne peut approcher des institutions sans son accord
+      Restriction de libertés, engagement de l’armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours. Aucune force armée ou de police, hors leur garde ordinaire, ne peut entrer dans les institutions ni s’en approcher sans leur accord ou le sien
       (articles [147](#conservatoires-cadre-interdit) et [154](#secours-competences)).
   - id: controles
     ligne: 4
@@ -712,7 +713,7 @@ noeuds:
     nom: Vote tous les 30 jours
     detail: Six mois au plus
     info: >-
-      Sans nouveau vote, les mesures tombent. Au-delà de six mois, elles passent à une convention ordinaire, sauf conflit armé ou catastrophe majeure :
+      Sans nouveau vote, les mesures tombent. Au-delà de six mois, elles passent à une convention thématique, sauf conflit armé ou catastrophe majeure :
       prorogation de trois mois aux trois quarts (article [157](#secours-duree-reexamen)).
   - id: fin
     ligne: 6

@@ -134,7 +134,7 @@ Si la convention ordinaire annuelle ne parvient pas à adopter le budget à la m
 
 Lorsque l'exécution budgétaire fait apparaître un déficit ou un niveau d'endettement excédant les règles fixées par la convention de programmation, l'Autorité de contrôle de l'exécution des lois le constate dans son rapport annuel.
 
-La convention ordinaire annuelle suivante doit motiver publiquement le maintien ou la correction. Elle peut saisir la convention de programmation en cours pour une révision des règles quinquennales.
+La convention ordinaire annuelle suivante doit motiver publiquement le maintien ou la correction. Elle peut déroger à ces règles dans les conditions prévues à l'article [131](#budget-convention-ordinaire).
 
 ## Chapitre VII — Fiscalité et finances territoriales
 

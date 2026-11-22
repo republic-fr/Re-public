@@ -15,7 +15,9 @@ Pendant la campagne du référendum de ratification, une Autorité générale de
 Sous réserve de l'adoption de la présente Constitution, l'Autorité de préfiguration :
 
 - constitue les viviers prévus par la présente Constitution à partir des listes professionnelles existantes ;
-- tire au sort les membres de la convention de secours, de l'Autorité de programmation civique, de la convention de désignation, du Conseil constitutionnel, de la Juridiction de probité et de responsabilité publique et du Conseil supérieur de la magistrature ;
+- tire au sort les membres de la convention de secours, de l'Autorité de programmation civique, de la convention de désignation, du Conseil constitutionnel, de la Juridiction de probité et de responsabilité publique, de la Commission permanente de contrôle du renseignement et des forces armées, de l'Autorité de régulation indépendante de la vie démocratique et les membres non magistrats du Conseil supérieur de la magistrature ;
+
+- organise l'élection des membres magistrats du Conseil supérieur de la magistrature ;
 - organise l'appel à candidatures aux fonctions ministérielles, l'examen des candidatures par le jury technique et le contrôle de leur intégrité.
 
 Les personnes ainsi tirées au sort ne siègent que si la présente Constitution est adoptée.
@@ -28,7 +30,7 @@ La convention de secours est en fonction dès l'entrée en vigueur de la présen
 
 Dans le mois qui suit l'entrée en vigueur, l'Autorité de programmation civique, le Conseil constitutionnel, la Juridiction de probité et de responsabilité publique et le Conseil supérieur de la magistrature sont installés, et la convention de désignation désigne les ministres.
 
-Dans les trois mois qui suivent l'entrée en vigueur, la session plénière de l'Autorité de contrôle de l'exécution des lois et la première convention de programmation sont installées.
+Dans les trois mois qui suivent l'entrée en vigueur, la session plénière de l'Autorité de contrôle de l'exécution des lois, la Commission permanente de contrôle du renseignement et des forces armées, l'Autorité de régulation indépendante de la vie démocratique et la première convention de programmation sont installées.
 
 Lorsqu'une de ces étapes n'est pas accomplie dans le délai prévu, la convention de secours est saisie de plein droit.
 

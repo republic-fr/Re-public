@@ -20,7 +20,7 @@ La tenue à jour des listes est assurée par les universités, les établissemen
 
 Les conditions d'accréditation, notamment la qualité scientifique, la diversité disciplinaire et méthodologique et l'absence de conflits d'intérêts, sont fixées par la loi organique.
 
-Pour chaque texte, les membres du Conseil scientifique ad hoc sont désignés par tirage au sort stratifié dans le vivier, de manière à garantir le pluralisme disciplinaire, méthodologique et d'école. La convention citoyenne ayant adopté le texte peut récuser, pour conflit d'intérêt manifeste, tout membre désigné.
+Pour chaque texte, les membres du Conseil scientifique ad hoc sont désignés par tirage au sort stratifié dans le vivier, de manière à garantir le pluralisme disciplinaire, méthodologique et d'école. La convention citoyenne qui examine le texte peut récuser, pour conflit d'intérêt manifeste, tout membre désigné.
 
 La pluralité effective du vivier mobilisé pour chaque Conseil scientifique ad hoc est contrôlée par l'Autorité de programmation civique selon les indicateurs de pluralité prévus à l'article [34](#apc-missions).
 

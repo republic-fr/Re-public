@@ -55,6 +55,8 @@ Chaque formation comprend douze membres :
 
 - une personnalité qualifiée issue de la société civile.
 
+Lorsqu'elle statue en matière disciplinaire, la formation comprend douze membres : cinq magistrates ou magistrats du corps concerné, tirés au sort parmi les sept, l'avocate ou l'avocat, les deux universitaires, la personnalité qualifiée et trois citoyennes ou citoyens tirés au sort pour chaque affaire. Les magistrates et magistrats y sont ainsi en minorité.
+
 ### Article 113 — Désignation des membres {#csm-designation-membres}
 
 Les magistrates et magistrats membres du Conseil supérieur de la magistrature sont élus par leurs pairs, dans les conditions fixées par la loi organique, en veillant à la représentation des différents niveaux de juridiction et des différents types de fonctions.
@@ -107,7 +109,7 @@ Le Conseil supérieur de la magistrature exerce le pouvoir disciplinaire sur les
 
 La procédure disciplinaire est contradictoire, les décisions sont motivées et publiques, sauf exception strictement justifiée par la protection de tiers.
 
-Les décisions disciplinaires sont susceptibles d'un recours juridictionnel devant une formation dédiée du Conseil supérieur de la magistrature, composée de membres n'ayant pas siégé en première instance.
+Les décisions disciplinaires sont susceptibles d'un recours juridictionnel devant une formation dédiée du Conseil supérieur de la magistrature, composée de membres n'ayant pas siégé en première instance, selon la composition prévue en matière disciplinaire à l'article [112](#csm-composition).
 
 ### Article 118 — Déontologie {#csm-deontologie}
 
@@ -175,4 +177,4 @@ En cas de contestation sur la nature d'une mesure d'organisation judiciaire, le 
 
 ### Article 126 — Loi organique {#loi-organique-judiciaire}
 
-Une loi organique détermine les modalités d'application du présent titre, notamment la composition détaillée, les règles d'organisation et de fonctionnement du Conseil supérieur de la magistrature, la procédure disciplinaire, les conditions de saisine par les justiciables et la procédure de désignation du premier président de la Cour de cassation et du procureur général près cette Cour.
+Une loi organique détermine les modalités d'application du présent titre, notamment la composition détaillée, les règles d'organisation et de fonctionnement du Conseil supérieur de la magistrature, la procédure disciplinaire, les conditions de saisine par les justiciables et la procédure de désignation de la première présidente ou du premier président de la Cour de cassation, de la procureure générale ou du procureur général près cette Cour et de la présidente ou du président du Conseil d'État.

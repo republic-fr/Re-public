@@ -22,7 +22,7 @@ L'Autorité générale des conventions citoyennes :
 
 - organise le tirage au sort, dans les conditions de publicité et de vérification prévues à l'article [13](#eligibilite-participation), et vérifie la représentativité ;
 
-- assure la convocation des membres des conventions et leur protection sociale et matérielle ;
+- assure la convocation des membres des conventions, sous réserve de l'article [14](#statut-conventionnel), et leur protection sociale et matérielle ;
 
 - tient à jour les viviers publics d'expertise prévus par la présente Constitution ;
 
@@ -118,9 +118,11 @@ Elle ouvre les conventions thématiques en application du programme fixé par la
 - sur proposition motivée du Conseil supérieur de la magistrature, pour le statut des magistrates et magistrats ou l'organisation judiciaire ;
 - pour un projet d'acte de l'Union européenne ou pour la transposition d'un tel acte ;
 - pour l'autorisation d'une opération militaire, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
-- lorsqu'une échéance juridique certaine l'exige.
+- lorsqu'une échéance juridique certaine l'exige ;
 
-Hors pétition, hors autorisation militaire, hors transposition d'un acte de l'Union européenne et hors échéance juridique certaine, le nombre de conventions thématiques ouvertes hors programme ne peut excéder chaque année un plafond fixé par la loi organique. Toute décision d'ouverture ou de refus est susceptible de recours devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
+- lorsque la présente Constitution prévoit une convention thématique dédiée.
+
+Hors pétition, hors autorisation militaire, hors convention thématique prévue par la présente Constitution, hors transposition d'un acte de l'Union européenne et hors échéance juridique certaine, le nombre de conventions thématiques ouvertes hors programme ne peut excéder chaque année un plafond fixé par la loi organique. Toute décision d'ouverture ou de refus est susceptible de recours devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
 
 Les situations de crise relèvent de la convention de secours, dans les conditions prévues au Titre [XII](#crises).
 
