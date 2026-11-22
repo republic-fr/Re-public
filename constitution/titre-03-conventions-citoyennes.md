@@ -46,7 +46,7 @@ Tout membre du corps civique résidant en France est éligible au tirage au sort
 
 Tout tirage au sort prévu par la présente Constitution est public et vérifiable. L'algorithme utilisé est publié. Le tirage part d'une source de hasard publique, connue seulement au moment du tirage. L'Autorité de contrôle de l'exécution des lois refait le calcul pour chaque tirage et en publie le résultat. Tout tirage peut être contesté devant le Conseil constitutionnel.
 
-La participation à une convention citoyenne tirée au sort constitue un devoir civique. Le refus de siéger n'est admis que pour motif grave, notamment médical, familial ou de force majeure, dans les conditions et selon la procédure fixées par la loi organique. La loi organique détermine les conséquences des refus non motivés.
+La participation à une convention citoyenne tirée au sort constitue un devoir civique. Le refus de siéger n'est admis que pour motif grave, notamment médical, familial ou de force majeure, dans les conditions et selon la procédure fixées par la loi organique. La loi organique détermine les conséquences des refus non motivés. Toute personne qui refuse de siéger est remplacée par une personne tirée au sort dans la même catégorie de représentativité. Les taux de refus sont publiés par catégorie et audités chaque année par l'Autorité de contrôle de l'exécution des lois.
 
 Chaque convention comprend des suppléants, tirés au sort dans les mêmes conditions que ses membres. Un membre ne peut se retirer en cours de mandat que pour motif grave. Une pression, une menace ou un risque pour ses proches constitue un motif grave ; il est examiné de manière confidentielle par la Défenseure ou le Défenseur des droits, et la menace est transmise à l'autorité judiciaire. Le membre qui se retire est remplacé par un suppléant.
 
@@ -125,6 +125,8 @@ Les lois organiques nécessaires à la première mise en place des institutions,
 ### Article 19 — Objet et fréquence de la convention de programmation {#convention-programmation}
 
 Une convention de programmation est convoquée tous les cinq ans. Elle est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
+
+Elle commence ses travaux par un bilan public de la période écoulée : l'application des lois, le fonctionnement des institutions et la participation des citoyens, sur la base notamment des rapports de l'Autorité de contrôle de l'exécution des lois. Elle peut en tirer une proposition de révision de la Constitution, dans les conditions prévues à l'article [208](#revision-initiative).
 
 Elle fixe notamment :
 
