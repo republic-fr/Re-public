@@ -694,7 +694,7 @@ noeuds:
     nom: Mesures exceptionnelles
     detail: Autorisées aux deux tiers
     info: >-
-      Restriction de libertés, engagement de l’armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours. Aucune force armée ne peut approcher des institutions sans son accord
+      Restriction de libertés, engagement de l’armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours. Aucune force armée ou de police, hors leur garde ordinaire, ne peut entrer dans les institutions ni s’en approcher sans leur accord ou le sien
       (articles [147](#conservatoires-cadre-interdit) et [154](#secours-competences)).
   - id: controles
     ligne: 4
