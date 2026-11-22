@@ -50,7 +50,7 @@ La République reconnaît la juridiction de la Cour pénale internationale dans 
 
 La République coopère pleinement avec la Cour pénale internationale et contribue à la poursuite des crimes internationaux les plus graves dans les conditions fixées par la loi.
 
-## Section II — De l**'**Union européenne
+## Section II — De l'Union européenne
 
 ## Chapitre IV — Principe de participation
 

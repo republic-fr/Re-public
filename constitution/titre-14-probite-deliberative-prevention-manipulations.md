@@ -72,7 +72,7 @@ Ces infractions font l'objet d'un régime pénal aggravé, d'un délai de prescr
 
 Pour les représentants d'intérêts et les personnes exerçant une influence non déclarée, la loi adoptée en convention définit les infractions et les sanctions pénales applicables.
 
-## Chapitre III — Pluralisme de l**'**expertise
+## Chapitre III — Pluralisme de l'expertise
 
 ### Article 170 — Vivier public d'experts {#vivier-public-experts}
 
