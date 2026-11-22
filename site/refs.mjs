@@ -25,6 +25,8 @@ const RE_TITRE_HEAD = /^#\s+Titre\s+([IVX]+)\s+—\s+(.+?)\s*\{((?:#[^\s}]+\s*)+
 const RE_REF = /\[([0-9]{1,3}|[IVX]+)\]\(#([^)\s]*)\)/g;
 const RE_BARE_ARTICLE = /\barticles?\s+\d{1,3}\b/gi;
 const RE_BARE_TITRE = /\bTitres?\s+[IVX]+\b/g;
+// Renvoi à un autre texte (« l'article 17 de la Déclaration de 1789 ») : pas d'identifiant.
+const EXTERNAL = /^\s+(?:de la (?:Déclaration|Convention|Charte|Constitution du)|du (?:traité|Traité|Préambule|Statut|protocole)|des traités)/;
 
 /** Fichiers où les renvois sont vérifiés. */
 export function sourceFiles() {
@@ -115,7 +117,7 @@ export function check({ fix = false } = {}) {
       if (next !== l) changed = true;
       // Renvois écrits en clair, sans identifiant.
       const bare = next.replace(RE_REF, '');
-      for (const m of bare.matchAll(RE_BARE_ARTICLE)) errors.push(`${file}:${line} : « ${m[0]} » est écrit sans identifiant. Écrivez « ${m[0].replace(/\d+$/, (n) => `[${n}](#identifiant)`)} ».`);
+      for (const m of bare.matchAll(RE_BARE_ARTICLE)) if (!EXTERNAL.test(bare.slice(m.index + m[0].length, m.index + m[0].length + 40))) errors.push(`${file}:${line} : « ${m[0]} » est écrit sans identifiant. Écrivez « ${m[0].replace(/\d+$/, (n) => `[${n}](#identifiant)`)} ».`);
       for (const m of bare.matchAll(RE_BARE_TITRE)) errors.push(`${file}:${line} : « ${m[0]} » est écrit sans identifiant. Écrivez « ${m[0].replace(/[IVX]+$/, (r) => `[${r}](#identifiant)`)} ».`);
       // Plages « articles A à B » : B doit suivre A.
       for (const m of next.matchAll(/\[(\d+)\]\(#([^)]+)\)\s+à\s+\[(\d+)\]\(#([^)]+)\)/g)) {
