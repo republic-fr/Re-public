@@ -90,7 +90,11 @@ Tout vivier public d'accréditation constitué en application de la présente Co
 
 - objectifs publics de diversité sociale, territoriale, méthodologique et d'école, dont le respect fait l'objet d'un rapport annuel publié par l'Autorité générale des conventions citoyennes et d'un audit quinquennal ;
 
-- motivation publique de tout refus d'accréditation, susceptible de recours devant l'Autorité de programmation civique, puis devant le Conseil constitutionnel.
+- motivation publique de tout refus d'accréditation, susceptible de recours devant l'Autorité de programmation civique, puis devant le Conseil constitutionnel ;
+
+- tenue à jour des listes à titre purement administratif, sans aucun pouvoir de proposition, de sélection, de hiérarchisation ou d'exclusion ;
+
+- contrôle de la pluralité effective du vivier par l'Autorité de programmation civique, selon les indicateurs prévus à l'article [34](#apc-missions).
 
 Ces principes sont applicables aux viviers prévus aux articles [39](#cc-composition), [53](#vivier-scientifique-designation), [63](#jury-technique-ministres), [88](#controle-renseignement-armees), [90](#defenseur-droits-designation), [93](#defenseur-droits-college), [96](#juridiction-probite-composition), [113](#csm-designation-membres), [170](#vivier-public-experts) et [180](#autorite-regulation-vie-democratique).
 

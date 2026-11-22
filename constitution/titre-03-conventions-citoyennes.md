@@ -162,7 +162,7 @@ Avec chaque loi, elle publie un compte rendu des citoyens, rédigé en langage c
 
 Sous réserve des contrôles scientifique et constitutionnel, la loi entre en vigueur à la date qu'elle fixe ou, à défaut, le lendemain de sa publication officielle. Les modalités de publication sont fixées par la loi organique.
 
-### Article 25 — Réexamen d'un texte suspendu {#reexamen-cas-suspension}
+### Article 25 — Réexamen d'un texte suspendu {#reexamen-cas-suspension #cc-saisine-convention-secours}
 
 Lorsque le Conseil constitutionnel ou le Conseil scientifique ad hoc suspend un texte, sa décision qualifie chaque grief de grief de forme ou de grief de fond. Toute convention qui adopte un texte désigne à cette fin trois rapporteurs, dans les conditions de l'article [21](#thematique-formation-objet).
 
