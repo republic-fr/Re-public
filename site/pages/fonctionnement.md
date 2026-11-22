@@ -90,7 +90,7 @@ noeuds:
     detail: Tous les cinq ans
     info: >-
       150 citoyens choisissent les conventions thématiques à mener pendant cinq ans et fixent les grandes priorités budgétaires et fiscales.
-      Ils examinent toutes les demandes reçues et motivent publiquement leurs choix. Ils n’écrivent pas les lois (articles [19](#convention-programmation) et [20](#programmation-saisines)).
+      Ils examinent toutes les demandes reçues et motivent publiquement leurs choix. Ils n’écrivent pas les lois (article [19](#convention-programmation)).
   - id: thematiques
     ligne: 5
     colonne: 1
@@ -186,7 +186,7 @@ noeuds:
     type: citoyens
     nom: Autorité de programmation civique
     detail: Ouvre la convention et fixe sa durée
-    info: Elle ouvre la convention thématique et fixe sa durée selon la complexité du sujet (article [23](#thematique-duree)).
+    info: Elle ouvre la convention thématique et fixe sa durée selon la complexité du sujet (article [22](#thematique-cycle-deliberatif)).
   - id: jury
     ligne: 3
     colonne: 1
