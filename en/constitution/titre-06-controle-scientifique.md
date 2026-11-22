@@ -16,7 +16,7 @@ The pool is stratified by disciplines and sub-disciplines according to a nomencl
 
 The organic law shall lay down the conditions of accreditation, in particular scientific quality, disciplinary and methodological diversity and the absence of conflicts of interest. The principles common to the pools, in particular appeal against a refusal of entry and review of plurality, are laid down in Article [132](#vivier-public-experts).
 
-For each text, the members of the ad hoc Scientific Council are drawn by lot from the pool, on a stratified basis, to guarantee disciplinary, methodological and school pluralism. The convention examining the text may challenge any appointed member for manifest conflict of interest. The Civic Agenda Authority reviews the plurality of the pool drawn upon for each Council.
+For each text, the members of the ad hoc Scientific Council are drawn by lot from the pool, on a stratified basis, to guarantee disciplinary, methodological and school-of-thought pluralism. The convention examining the text may challenge any appointed member for manifest conflict of interest. The Civic Agenda Authority reviews the plurality of the pool drawn upon for each Council.
 
 ### Article 47 — Safeguards of independence {#controle-scientifique-independance}
 

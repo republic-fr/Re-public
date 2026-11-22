@@ -1,8 +1,8 @@
 # Title VIII — The Law Implementation Oversight Authority {#controle-execution}
 
-## Chapter I — Nature and Organisation
+## Chapter I — Nature and organisation
 
-### Article 63 — Nature and Structure {#acel-nature #acel-structure}
+### Article 63 — Nature and structure {#acel-nature #acel-structure}
 
 The Law Implementation Oversight Authority is an independent constitutional authority. It ensures the faithful, complete and diligent implementation of laws, of implementing acts and of all public policies. Through its public reports, it contributes to informing citizens.
 
@@ -18,7 +18,7 @@ It comprises:
 
 Decisions of substance and the general direction of the Authority fall exclusively to the plenary session, under whose general supervision the other components act. The Defender of Rights and the Standing Commission nevertheless have complete functional independence in the choice and investigation of their cases.
 
-## Chapter II — The Annual Plenary Session
+## Chapter II — The annual plenary session
 
 ### Article 64 — Composition {#session-pleniere-composition}
 
@@ -32,7 +32,7 @@ The annual plenary session:
 
 - deliberates on the major dysfunctions identified and publicly sets out its criticisms and recommendations;
 
-- may call to account any public administration, any constitutional authority and any public official, who are required to respond;
+- may call to account any public administration, any constitutional authority and any public office-holder, who are required to respond;
 
 - refers the serious misconduct identified to the Court of Public Integrity and Accountability;
 
@@ -52,9 +52,9 @@ The plenary session rules by an absolute majority of its members, unless otherwi
 
 Any person, any local authority, any convention and any constitutional authority may submit reasoned alerts to the Authority. The technical service handles them on a continuous basis; they feed into the annual report submitted to the plenary session.
 
-## Chapter III — The Permanent Technical Service
+## Chapter III — The permanent technical service
 
-### Article 66 — Court of Audit and Technical Service {#juridiction-financiere-service-technique}
+### Article 66 — Court of Audit and technical service {#juridiction-financiere-service-technique}
 
 The Court of Audit, a financial court whose status is laid down in Article [86](#independance-justice), shall forward on its own initiative to the annual plenary session all reports and findings liable to reveal serious misconduct or a structural dysfunction. It responds to requests for expertise from the plenary session and the technical service. It may refer matters to the Authority and to the Court of Public Integrity and Accountability according to the rules specific to each.
 
@@ -68,7 +68,7 @@ They shall submit to each plenary session a detailed report on the investigation
 
 They may be removed by the Court of Public Integrity and Accountability, upon referral by the plenary session or under the other conditions of Title [IX](#juridiction-probite).
 
-### Article 68 — Standing Powers {#service-technique-pouvoirs}
+### Article 68 — Standing powers {#service-technique-pouvoirs}
 
 The technical service exercises the following powers on a continuous basis, in accordance with the programme set by the plenary session:
 
@@ -76,13 +76,13 @@ The technical service exercises the following powers on a continuous basis, in a
 
 - to require the disclosure of any relevant document, subject to the secrets defined in Article [70](#secrets);
 
-- to hear any public official;
+- to hear any public office-holder;
 
 - to ask the administration concerned to bring itself into compliance with the law;
 
 - to refer matters to the competent courts, in particular the administrative courts, so that they order the implementation of a law that has been disregarded or annul an unlawful act;
 
-- to refer matters to the Court of Public Integrity and Accountability in the event of serious misconduct attributable to a public official;
+- to refer matters to the Court of Public Integrity and Accountability in the event of serious misconduct attributable to a public office-holder;
 
 - to refer matters to the Constitutional Council in the event of serious doubt as to the conformity of an implementing act with the Constitution.
 
@@ -92,15 +92,15 @@ The Authority exercises only powers of request and referral. Sanctions fall excl
 
 The Standing Commission for the Oversight of Intelligence and the Armed Forces has twelve members, drawn by lot in a stratified manner from a public accreditation pool, according to the following rules:
 
-- the pool comprises judges and prosecutors, members of the Council of State, lawyers specialising in civil liberties and criminal law, academics in law, political science, international relations or strategic studies, and former participants in the national session of the Institute for Advanced National Defence Studies or its equivalents;
+- the pool comprises judges and prosecutors, Councillors of State, lawyers specialising in civil liberties and criminal law, academics in law, political science, international relations or strategic studies, and former participants in the national session of the Institute for Advanced National Defence Studies or its equivalents;
 
 - no professional body may account for more than one third of the members;
 
-- judges and prosecutors who, in the ten years preceding their appointment, served in courts specialising in terrorism, intelligence or national security may not exceed one quarter of the members;
+- members of the judiciary who, in the ten years preceding their appointment, served in courts specialising in terrorism, intelligence or national security may not exceed one quarter of the members;
 
 - persons who, in the preceding ten years, held positions within the intelligence services, the military staffs or the ministerial offices of Defence and the Interior are excluded;
 
-- the accreditation conditions, set by organic law, guarantee disciplinary, methodological and intellectual pluralism, as well as diversity of professional backgrounds and of outlooks on civil liberties and national security.
+- the accreditation conditions, set by organic law, guarantee disciplinary, methodological and school-of-thought pluralism, as well as diversity of professional backgrounds and of outlooks on civil liberties and national security.
 
 The members' term of office is six years, non-renewable. Half of the Commission is renewed every three years. The Court of Public Integrity and Accountability checks the integrity of the members before their appointment and periodically during their term of office, according to the criteria of Article [80](#controle-prealable-probite). The Commission sits at least once a month. Its members are subject to an enhanced regime of integrity, security and secrecy set by organic law.
 
@@ -128,13 +128,13 @@ Secrecy may not be invoked against the Commission, the courts, the Constitutiona
 
 ## Chapter IV — The Defender of Rights
 
-### Article 71 — Mission and Independence {#defenseur-droits-nature-mission}
+### Article 71 — Mission and independence {#defenseur-droits-nature-mission}
 
 The Defender of Rights ensures respect for the rights and freedoms of persons by State administrations, local authorities, public establishments and bodies entrusted with a public service mission. The Defender combats discrimination, including in the private sector, in the areas defined by law. The Defender ensures the protection of the rights of the child.
 
 Placed within the Oversight Authority, the Defender has complete functional independence. The Defender receives no instructions, including from the Prosecutor General for Public Accounts, in the choice and investigation of their cases.
 
-### Article 72 — Appointment and Term of Office {#defenseur-droits-designation}
+### Article 72 — Appointment and term of office {#defenseur-droits-designation}
 
 The Defender of Rights is appointed according to the following procedure:
 
@@ -170,19 +170,19 @@ To carry out their missions, the Defender of Rights may:
 
 - address reasoned public recommendations to the administrations and bodies concerned;
 
-- apply to the courts for interim relief or on the merits in the event of a serious infringement of rights and freedoms;
+- bring urgent applications or proceedings on the merits before the courts in the event of a serious infringement of rights and freedoms;
 
 - intervene before the courts, in particular by submitting observations or expertise;
 
-- refer matters to the Court of Public Integrity and Accountability in the event of serious misconduct attributable to a public official;
+- refer matters to the Court of Public Integrity and Accountability in the event of serious misconduct attributable to a public office-holder;
 
 - propose legislative or regulatory reforms or changes to administrative practices.
 
 The administrations and bodies concerned shall respond to the Defender within the time limits set by organic law.
 
-### Article 75 — Advisory College {#defenseur-droits-college}
+### Article 75 — Advisory college {#defenseur-droits-college}
 
-The Defender of Rights is assisted by an advisory college of five to seven qualified persons, including at least one judge or prosecutor, one lawyer, one academic, one representative of human rights associations and one serving or retired mediator. They are drawn by lot, in a stratified manner, from public pools established by the General Authority for Citizens' Conventions on the proposal of the competent professional bodies, for a term of office of three years, not immediately renewable. The rules of the ad hoc Scientific Council on recusal, uniform remuneration and publication of dissenting opinions apply to them.
+The Defender of Rights is assisted by an advisory college of five to seven qualified persons, including at least one member of the judiciary, one lawyer, one academic, one representative of human rights associations and one serving or retired mediator. They are drawn by lot, in a stratified manner, from public pools established by the General Authority for Citizens' Conventions on the proposal of the competent professional bodies, for a term of office of three years, not immediately renewable. The rules of the ad hoc Scientific Council on recusal, uniform remuneration and publication of dissenting opinions apply to them.
 
 The college issues advisory opinions on cases of structural importance and on the reports of the Defender of Rights. It has no decision-making power of its own.
 

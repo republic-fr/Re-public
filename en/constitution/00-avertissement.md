@@ -8,7 +8,7 @@ This version covers:
 
 - Title [III](#conventions) — Citizens' conventions
 
-- Title [IV](#autorites-deliberatives) — Deliberative organisation authorities
+- Title [IV](#autorites-deliberatives) — Authorities organising deliberation
 
 - Title [V](#conseil-constitutionnel) — The Constitutional Council
 

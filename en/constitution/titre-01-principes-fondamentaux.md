@@ -66,7 +66,7 @@ Every public authority is bound by the letter and the purpose of the law adopted
 
 The Republic guarantees every person protection against the tyranny of the majority. No law, act of implementation, crisis measure or constitutional amendment may infringe the rights declared inviolable by this Constitution.
 
-Every person, whether a citizen, a public official or a member of the armed forces, has the right and the duty to refuse to assist any undertaking whose object or effect is to overthrow the constitutional order, to infringe inviolable rights or to abolish citizen oversight of the institutions.
+Every person, whether a citizen, a public servant or a member of the armed forces, has the right and the duty to refuse to assist any undertaking whose object or effect is to overthrow the constitutional order, to infringe inviolable rights or to abolish citizen oversight of the institutions.
 
 No one may be prosecuted or punished for having refused to carry out an order manifestly contrary to the Constitution. Having carried out such an order exempts no one from responsibility.
 

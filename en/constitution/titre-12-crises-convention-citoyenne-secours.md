@@ -1,8 +1,8 @@
 # Title XII — Crises and the emergency convention {#crises}
 
-## Chapter I — General Principles
+## Chapter I — General principles
 
-### Article 112 — Definition of a Crisis and Applicable Regime {#notion-crise #architecture-regime-crise}
+### Article 112 — Definition of a crisis and applicable regime {#notion-crise #architecture-regime-crise}
 
 A crisis, within the meaning of this Title, is any serious and immediate situation that threatens the life or health of persons, the continuity of essential public services, the integrity of the territory, national security, the environment, the democratic order or the functioning of the constitutional institutions.
 
@@ -12,7 +12,7 @@ In the event of a crisis, two distinct mechanisms are activated simultaneously:
 
 - exceptional measures, which may be authorised only by the emergency convention.
 
-### Article 113 — Absolute Prohibitions {#crise-interdictions-absolues}
+### Article 113 — Absolute prohibitions {#crise-interdictions-absolues}
 
 Even in times of crisis, any measure is absolutely prohibited whose effect or purpose is:
 
@@ -30,17 +30,17 @@ Even in times of crisis, any measure is absolutely prohibited whose effect or pu
 
 - to combine with judicial power or with the review of the constitutional validity of the law.
 
-### Article 114 — Exclusion of a Military Regime of Exception {#exclusion-regime-militaire-exception}
+### Article 114 — Exclusion of a military regime of exception {#exclusion-regime-militaire-exception}
 
 No crisis situation may entail the transfer of civil powers to the military authority. The civil authority remains, in all circumstances, superior to the military authority.
 
 The armed forces may be mobilised in support of the civil authorities under the conditions provided for by law and in Article [116](#conservatoires-cadre-interdit), under the supervision of the courts and in compliance with fundamental rights. This mobilisation confers on the military authority no power of its own of policing, administration or coercion outside the strict framework laid down by law.
 
-No armed force or internal security force, including the gendarmerie and the police, may enter the places where the citizens' conventions, the courts and the constitutional authorities sit, or the premises of the media, or be deployed in their vicinity, without the authorisation of the institution concerned or of the emergency convention. Exceptions are the ordinary guard placed under the authority of the institution and acts ordered by a judge. Any breach of this prohibition constitutes an attack on the constitutional order.
+No armed force or internal security force, including the gendarmerie and the police, may enter the places where the citizens' conventions, the courts and the constitutional authorities sit, or the premises of the media, or be deployed in their vicinity, without the authorisation of the institution concerned or of the emergency convention. Exceptions are the ordinary guard placed under the authority of the institution and acts ordered by a court. Any breach of this prohibition constitutes an attack on the constitutional order.
 
-## Chapter II — Protective Measures
+## Chapter II — Protective measures
 
-### Article 115 — Authorised Framework {#conservatoires-cadre-autorise}
+### Article 115 — Authorised framework {#conservatoires-cadre-autorise}
 
 The executive administration may take, without delay and under the supervision of the courts, strictly operational, necessary, proportionate and reversible measures, falling in particular within the following areas:
 
@@ -80,13 +80,13 @@ e) Thematic oversight convention. Every five years, a dedicated thematic convent
 
 f) Review clause. The provisions relating to the measures provided for in 1° and 2°, including these safeguards, are subject to a mandatory review by a constituent convention fifteen years after the entry into force of this Constitution. Failing express reconfirmation under the amendment procedure provided for in Title [XVI](#revision), including the constituent convention and the referendum, they lapse.
 
-### Article 116 — Prohibited Framework {#conservatoires-cadre-interdit}
+### Article 116 — Prohibited framework {#conservatoires-cadre-interdit}
 
 The following may be taken only with the express authorisation of the emergency convention:
 
 - any restriction of the public freedoms of movement, assembly, expression, demonstration or the press beyond what is strictly necessary for immediate security;
 
-- any house arrest or other individual restriction of the freedom to come and go, ordered under the supervision of the judicial courts;
+- any house arrest or other individual restriction of the freedom to come and go, ordered under the supervision of the ordinary courts;
 
 - any deployment on national territory of the forces placed under the authority of the Minister of Defence, beyond their ordinary missions provided for by law, and any use of military means by the gendarmerie outside its policing missions;
 
@@ -100,7 +100,7 @@ The following may be taken only with the express authorisation of the emergency 
 
 The restrictions on movement and the border closures provided for in Article [115](#conservatoires-cadre-autorise) may be taken without this authorisation, solely under the conditions of that Article.
 
-### Article 117 — Validity Criteria {#conservatoires-validite}
+### Article 117 — Validity criteria {#conservatoires-validite}
 
 Each protective measure shall meet the following criteria in order to be taken or maintained:
 
@@ -114,29 +114,29 @@ Each protective measure shall meet the following criteria in order to be taken o
 
 - respect for inviolable rights: it may in no case infringe them.
 
-### Article 118 — Judicial Review and Citizen Remedy {#crise-controle-juridictionnel #crise-recours-citoyen}
+### Article 118 — Judicial review and citizen remedy {#crise-controle-juridictionnel #crise-recours-citoyen}
 
 Each protective measure is validated individually by a specialised chamber of an independent court, sitting in an emergency formation twenty-four hours a day during periods of crisis. The composition, rules of operation and time limits of this formation are laid down by organic law, in compliance with judicial independence and the right to a remedy.
 
-Measures immediately necessary to safeguard persons may be applied without prior validation, provided that the matter is referred to the judge within six hours and that the judge rules within twelve hours. In the event of refusal, the measure lapses and its effects are, as far as possible, undone.
+Measures immediately necessary to safeguard persons may be applied without prior validation, provided that the matter is referred to the court within six hours and that the court rules within twelve hours. In the event of refusal, the measure lapses and its effects are, as far as possible, undone.
 
-Other protective measures are subject to prior validation by the judge, who rules as swiftly as possible.
+Other protective measures are subject to prior validation by the court, which rules as swiftly as possible.
 
-The judge's decisions are reasoned and public.
+The court's decisions are reasoned and public.
 
-Any person affected by a protective measure may apply to the same judge, at any time, to request the lifting, modification or restriction of that measure in its concrete application. The judge rules as swiftly as possible. This right is in addition to all ordinary remedies.
+Any person affected by a protective measure may apply to the same court, at any time, to request the lifting, modification or restriction of that measure in its concrete application. The court rules as swiftly as possible. This right is in addition to all ordinary remedies.
 
-## Chapter III — The Emergency Convention
+## Chapter III — The emergency convention
 
-### Article 119 — Composition and Permanent Standby {#secours-composition-veille}
+### Article 119 — Composition and permanent standby {#secours-composition-veille}
 
 The emergency convention is composed of one hundred and fifty citizens drawn by lot according to the representativeness criteria defined in Article [12](#composition-representativite). It is on permanent standby: its members are designated in advance, trained and placed on call for a period laid down by organic law, without any continuity of persons being ensured from one on-call period to the next. They are protected by the status of convention members defined in Article [14](#statut-conventionnel).
 
 The emergency convention has pre-designated secondary seats, distributed across the territory and maintained in operational readiness. If the main seat is unavailable or a physical meeting is impossible, it sits in a secondary seat or by secure means of communication, according to protocols approved by the Constitutional Council. Its means of communication are independent of ordinary networks. A validly constituted convention is binding on the public authorities wherever it meets. Members prevented from sitting are replaced without delay by substitutes. The quorum and majorities are always calculated on the full membership of the convention, which never deliberates with fewer than half of its members. Only a meeting convened according to these protocols and whose attendance list is published is valid. If several meetings claim to be the convention, the Constitutional Council designates the legitimate meeting; if the Council is prevented from doing so, the meeting with the most regularly designated members prevails. Any other meeting is automatically null and void, under the conditions of Article [7](#tyrannie-majorite-resistance).
 
-### Article 120 — Referral and Time Limit for Sitting {#secours-saisine #secours-delai-siege}
+### Article 120 — Referral and time limit for sitting {#secours-saisine #secours-delai-siege}
 
-The emergency convention may take up a matter on its own initiative as soon as a protective measure has been validated by the judge. The executive administration and the judge are under a constitutional obligation to inform it without delay of any protective measure in force or requested.
+The emergency convention may take up a matter on its own initiative as soon as a protective measure has been validated by the court. The executive administration and the court are under a constitutional obligation to inform it without delay of any protective measure in force or requested.
 
 Failing self-referral within twenty-four hours, the General Authority for Citizens' Conventions automatically convenes it.
 
@@ -176,13 +176,13 @@ The emergency convention:
 
 - may, by qualified majority, suspend certain ordinary conventions on grounds of operational priority, by reasoned decision.
 
-### Article 122 — Oversight and Continuity Maintained {#secours-controles-maintenus #secours-continuite-conventions}
+### Article 122 — Oversight and continuity maintained {#secours-controles-maintenus #secours-continuite-conventions}
 
 The exceptional measures authorised by the emergency convention are subject to the constitutional and scientific review applicable to ordinary laws, according to procedures adapted to the urgency and specified by organic law. The Constitutional Council, the Law Implementation Oversight Authority, the Court of Public Integrity and Accountability and the competent courts retain full jurisdiction during the crisis.
 
 Ordinary conventions in progress continue their work during the crisis, except where the emergency convention takes a reasoned decision of suspension by qualified majority. Institutional continuity is the principle; suspension, the reasoned exception.
 
-### Article 123 — Duration, Re-examination and Deactivation {#secours-duree-reexamen #secours-desactivation}
+### Article 123 — Duration, re-examination and deactivation {#secours-duree-reexamen #secours-desactivation}
 
 The emergency convention lasts as long as the crisis lasts. Every thirty days, it shall vote by qualified majority on maintaining the state of crisis and the exceptional measures in force. Failing confirmation, the exceptional measures lapse.
 

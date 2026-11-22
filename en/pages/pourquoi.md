@@ -20,7 +20,7 @@ Nearly seventy years of the Fifth Republic, after thirteen successive Constituti
 
 ### The digital revolution
 
-The internet, social media and artificial intelligence have upended the way public opinion is formed. Reducing the people's voice to voting alone, without guaranteeing the conditions for reliable information and informed deliberation, hands sovereignty over to informational chaos.
+The internet, social media and artificial intelligence have upended the way public opinion is formed. Reducing the people’s voice to voting alone, without guaranteeing the conditions for reliable information and informed deliberation, hands sovereignty over to informational chaos.
 
 ### The prospect of collapse
 
@@ -30,7 +30,7 @@ Climate, biodiversity, resource depletion: representative democracies struggle t
 
 As in the last century, forces that challenge the rule of law, fundamental freedoms and checks and balances are coming to power through ordinary elections. A democracy must be able to protect itself against its own drift.
 
-## <span class="kicker">03</span>A precedent: the Citizens' Convention for Climate
+## <span class="kicker">03</span>A precedent: the Citizens’ Convention for Climate
 
 <div class="figures">
 <div class="figure"><b>150</b><span>citizens drawn by lot, with gender parity, reflecting the diversity of ages, social backgrounds, qualifications and regions.</span></div>
@@ -40,7 +40,7 @@ As in the last century, forces that challenge the rule of law, fundamental freed
 
 **What it showed.** Ordinary citizens, properly equipped and protected, are able to deliberate seriously on complex issues. Deliberation, shielded from partisan and media noise, makes compromise possible.
 
-**What it revealed.** A purely advisory body is not enough: the promise to pass its proposals on "unfiltered" was not kept. The most far-reaching proposals were watered down, delayed or dropped.
+**What it revealed.** A purely advisory body is not enough: the promise to pass its proposals on ‘unfiltered’ was not kept. The most far-reaching proposals were watered down, delayed or dropped.
 
 **Conclusion.** The experiment deserves to be taken all the way, by making conventions drawn by lot constitutional and giving them decision-making power.
 
@@ -59,7 +59,7 @@ Four principles underpin the text:
 
 ### You may be called upon to make the law
 
-Any adult of French nationality, or any foreign national who has lived in France for at least five years, may be drawn by lot to sit in a citizens' convention (Article [13](#eligibilite-participation)). It is a civic duty, from which one is excused only on serious grounds. In return, the Constitution guarantees you (Article [14](#statut-conventionnel)):
+Any adult of French nationality, or any foreign national who has lived in France for at least five years, may be drawn by lot to sit in a citizens’ convention (Article [13](#eligibilite-participation)). It is a civic duty, from which one is excused only on serious grounds. In return, the Constitution guarantees you (Article [14](#statut-conventionnel)):
 
 - full continuation of your income and social security rights, plus a participation allowance;
 - protection of your job for the entire duration of the convention;
@@ -68,13 +68,13 @@ Any adult of French nationality, or any foreign national who has lived in France
 
 ### You can put an issue on the agenda
 
-A petition that reaches the threshold set by organic law is forwarded to the agenda-setting convention. At one per cent of the civic body, around 550,000 signatures, the Civic Agenda Authority shall consider opening a dedicated convention and give public reasons for its decision (Article [33](#seuils-effets-petitions)). A petition can also initiate an amendment of the Constitution, from a threshold that may not be lower than four per cent of the civic body, around 2.2 million signatures (Article [163](#revision-initiative)).
+A petition that reaches the threshold set by organic law is forwarded to the agenda-setting convention. At one per cent of the civic body, around 550,000 signatures, the Civic Agenda Authority must consider opening a dedicated convention and give public reasons for its decision (Article [33](#seuils-effets-petitions)). A petition can also initiate an amendment of the Constitution, from a threshold that may not be lower than four per cent of the civic body, around 2.2 million signatures (Article [163](#revision-initiative)).
 
 ### You can challenge a law or an abuse
 
 - Any citizen directly affected by a law in force may challenge it before the Constitutional Council (Article [40](#cc-saisine-posteriori)).
 - Anyone may refer a matter to the Defender of Rights when dealing with a public authority (Article [73](#defenseur-droits-saisine)), and report a malfunction to the Law Implementation Oversight Authority (Article [65](#session-pleniere-competences)).
-- Anyone may refer to the Court of Public Integrity new facts that call into question the integrity of a public official (Article [83](#juridiction-probite-saisine)).
+- Anyone may refer to the Court of Public Integrity new facts that call into question the integrity of a public office-holder (Article [83](#juridiction-probite-saisine)).
 
 ### You can apply
 
@@ -82,12 +82,12 @@ There is no longer a President of the Republic or a Prime Minister (Article [50]
 
 ### Your rights cannot be rolled back
 
-Dignity, the prohibition of torture and of the death penalty, equality, freedom of conscience, the rights of the defence, the independence of the judiciary: these rights are inviolable, including in times of crisis and including against a constitutional amendment (Articles [9](#droits-intangibles) and [171](#renvoi-dispositions-intangibles)).
+Dignity, the prohibition of torture and of the death penalty, equality, freedom of conscience, the rights of the defence, the independence of justice: these rights are inviolable, including in times of crisis and including against a constitutional amendment (Articles [9](#droits-intangibles) and [171](#renvoi-dispositions-intangibles)).
 
 ### You vote on the Constitution
 
-Every amendment of the Constitution, prepared by a constituent convention drawn by lot, is put to a referendum. It is adopted only if a majority of those voting approve it and the "yes" votes represent at least one third of the civic body (Article [168](#referendum-revision-majorite)).
+Every amendment of the Constitution, prepared by a constituent convention drawn by lot, is put to a referendum. It is adopted only if a majority of those voting approve it and the ‘yes’ votes represent at least one third of the civic body (Article [168](#referendum-revision-majorite)).
 
 ### Close to home, too
 
-Local authorities are run by territorial citizens' conventions drawn by lot, which appoint and oversee the local executive (Articles [124](#principe-conventionnel-territorial) and [125](#designation-controle-executif-local)).
+Local authorities are run by territorial citizens’ conventions drawn by lot, which appoint and oversee the local executive (Articles [124](#principe-conventionnel-territorial) and [125](#designation-controle-executif-local)).

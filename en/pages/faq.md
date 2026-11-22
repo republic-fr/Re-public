@@ -12,7 +12,7 @@ faq: true
 
 ### Citizens drawn by lot are not competent to make the law.
 
-Competence is not assumed: it is organised. Every convention receives training, a balanced briefing file presenting opposing views, pluralist expertise, public hearings, drafting assistance and the time it needs (Articles [15](#conditions-materielles-deliberation) and [21](#thematique-cycle-deliberatif)). This is what the Citizens' Convention for Climate showed: 150 ordinary people, well equipped, produced 149 precise proposals. Elected representatives are not experts in everything either: they rely on support staff and hearings. The text gives these resources directly to citizens.
+Competence is not assumed: it is organised. Every convention receives training, a briefing file presenting opposing views, pluralist expertise, public hearings, drafting assistance and the time it needs (Articles [15](#conditions-materielles-deliberation) and [21](#thematique-cycle-deliberatif)). This is what the Citizens’ Convention for Climate showed: 150 ordinary people, well equipped, produced 149 precise proposals. Elected representatives are not experts in everything either: they rely on support staff and hearings. The text gives these resources directly to citizens.
 
 ### Without elections, where does legitimacy come from?
 
@@ -24,11 +24,11 @@ This is the principle behind opinion polls: a well-constructed sample reflects t
 
 ### Who is accountable, if no one is re-elected?
 
-Conventions are temporary and there is no re-election: no one has a career to protect or a clientele to satisfy. Those who hold lasting power, ministers and public officials, are continuously overseen by the Law Implementation Oversight Authority (Title [VIII](#controle-execution)) and can be removed by the Court of Public Integrity (Title [IX](#juridiction-probite)). A minister who fails to implement the laws can also be warned, then replaced (Article [56](#duree-mandat-ministeriel)).
+Conventions are temporary and there is no re-election: no one has a career to protect or a clientele to satisfy. Those who hold lasting power, ministers and public office-holders, are continuously overseen by the Law Implementation Oversight Authority (Title [VIII](#controle-execution)) and can be removed by the Court of Public Integrity (Title [IX](#juridiction-probite)). A minister who fails to implement the laws can also be warned, then replaced (Article [56](#duree-mandat-ministeriel)).
 
-### The project denounces "government by judges", but does it not strengthen it?
+### The project denounces ‘government by judges’, but does it not strengthen it?
 
-The members of the Constitutional Council and of the Court of Public Integrity, and the non-judge members of the High Council of the Judiciary (CSM), are drawn by lot: no political power chooses them (Articles [36](#cc-composition), [78](#juridiction-probite-composition) and [92](#csm-designation-membres)). Their terms are single and non-renewable, and their decisions are reasoned, public and accompanied by dissenting opinions (Article [44](#cc-autorite-decisions)). The Constitutional Council never rewrites a law: it suspends it and sends it back to a citizens' convention, which may correct or confirm it. Only violations of absolute rights, such as the prohibition of torture, and of the rules that organise the institutions cannot be confirmed (Article [23](#reexamen-cas-suspension)). And the people keep the last word on the Constitution itself, through the constituent convention and the referendum (Title [XVI](#revision)).
+The members of the Constitutional Council and of the Court of Public Integrity, and the non-judicial members of the High Council of the Judiciary (CSM), are drawn by lot: no political power chooses them (Articles [36](#cc-composition), [78](#juridiction-probite-composition) and [92](#csm-designation-membres)). Their terms are single and non-renewable, and their decisions are reasoned, public and accompanied by dissenting opinions (Article [44](#cc-autorite-decisions)). The Constitutional Council never rewrites a law: it suspends it and sends it back to a citizens’ convention, which may correct or confirm it. Only violations of absolute rights, such as the prohibition of torture, and of the rules that organise the institutions cannot be confirmed (Article [23](#reexamen-cas-suspension)). And the people keep the last word on the Constitution itself, through the constituent convention and the referendum (Title [XVI](#revision)).
 
 ## <span class="kicker">02</span>Risks
 
@@ -40,9 +40,9 @@ The text devotes an entire title to this (Title [XIV](#probite-deliberative)). A
 
 The draw is public and verifiable. The algorithm is published, and the draw starts from a public source of randomness, known only at the moment of the draw: no one can choose the result in advance. The Law Implementation Oversight Authority re-runs the calculation for every draw, and any draw can be challenged before the Constitutional Council (Article [13](#eligibilite-participation)).
 
-### Experts and "scientific review" will govern instead of the people.
+### Experts and ‘scientific review’ will govern instead of the people.
 
-No. Scientific review covers only a manifest scientific error that threatens health, personal integrity or the environment, and only where there is a scientific consensus (Article [48](#controle-scientifique-champ)). It can only suspend a text, never rewrite it, and does not judge its political merits (Article [49](#controle-scientifique-suspension)). On the economic and social effects of a law, it only gives a public opinion, without being able to suspend it: the convention decides with full knowledge of the facts (Article [48](#controle-scientifique-champ)). The last word belongs to a citizens' convention (Article [23](#reexamen-cas-suspension)).
+No. Scientific review covers only a manifest scientific error that threatens health, personal integrity or the environment, and only where there is a scientific consensus (Article [48](#controle-scientifique-champ)). It can only suspend a text, never rewrite it, and does not judge its political merits (Article [49](#controle-scientifique-suspension)). On the economic and social effects of a law, it only gives a public opinion, without being able to suspend it: the convention decides with full knowledge of the facts (Article [48](#controle-scientifique-champ)). The last word belongs to a citizens’ convention (Article [23](#reexamen-cas-suspension)).
 
 ### Does power not simply pass to experts and the administration, in a disguised oligarchy?
 
@@ -76,7 +76,7 @@ Most modern coups began with emergency powers. The text closes that door. During
 
 ### Will layer upon layer of review not paralyse decision-making?
 
-Scientific review is narrow: it applies only in the case of a manifest error threatening health or the environment (Article [48](#controle-scientifique-champ)). Scientific and constitutional review take place at the same time, within one month each, extendable to three months at most; once that period has passed, the law comes into force and can still be challenged before the Council (Article [39](#controle-prealable-automatique-lois)). A challenge to a law already in force does not suspend it: the Constitutional Council itself determines the effects of its decision over time (Article [43](#effet-controle-prealable)). Laws, the budget and appointments are adopted by an absolute majority of the convention's members: a minority cannot block everything. Two thirds are required only for exceptional decisions, such as crisis measures (Article [17](#majorite-qualifiee)). Referendums are reserved for amendments of the Constitution and major European decisions. Emergencies fall to the emergency convention, which sits within 72 hours (Article [120](#secours-saisine)).
+Scientific review is narrow: it applies only in the case of a manifest scientific error threatening health or the environment (Article [48](#controle-scientifique-champ)). Scientific and constitutional review take place at the same time, within one month each, extendable to three months at most; once that period has passed, the law comes into force and can still be challenged before the Council (Article [39](#controle-prealable-automatique-lois)). A challenge to a law already in force does not suspend it: the Constitutional Council itself determines the effects of its decision over time (Article [43](#effet-controle-prealable)). Laws, the budget and appointments are adopted by an absolute majority of the convention’s members: a minority cannot block everything. Two thirds are required only for exceptional decisions, such as crisis measures (Article [17](#majorite-qualifiee)). Referendums are reserved for amendments of the Constitution and major European decisions. Emergencies fall to the emergency convention, which sits within 72 hours (Article [120](#secours-saisine)).
 
 ### Without a head of state, who speaks for France at the European Council or the G7?
 
@@ -88,7 +88,7 @@ Continuity does not rest on convention members, but on several lasting elements:
 
 ## <span class="kicker">04</span>Everyday life
 
-### I don't want to be drawn by lot.
+### I don’t want to be drawn by lot.
 
 Sitting is a civic duty, like serving on a jury in a criminal court. You can be excused on serious grounds, in particular medical or family reasons (Article [13](#eligibilite-participation)). During the convention, your income and your job are guaranteed, and your expenses and childcare are covered (Article [14](#statut-conventionnel)). At national level, around a thousand people sit each year.
 
@@ -110,13 +110,13 @@ The project has been costed item by item. Excluding indirect costs, it would cos
 
 That is a deliberate choice. This text proposes a political system: who decides, how, and subject to what checks. It does not settle in advance the major choices facing society, which belong to citizens themselves.
 
-Values and rights will be written by a fundamental rights convention: a hundred and fifty citizens drawn by lot will draft the Declaration of Rights annexed to the Constitution, starting from the 1789 Declaration, the 1946 Preamble and the Environmental Charter (Article [8](#declaration-droits-fondamentaux)). The draft itself will then be amended by the constituent convention, and put to a referendum (Title [XVI](#revision)).
+Values and rights will be written by a fundamental rights convention: a hundred and fifty citizens drawn by lot will draft the Declaration of Rights annexed to the Constitution, starting from the 1789 Declaration, the 1946 Preamble and the Charter for the Environment (Article [8](#declaration-droits-fondamentaux)). The draft itself will then be amended by the constituent convention, and put to a referendum (Title [XVI](#revision)).
 
 The text only lays down a foundation that no one will be able to call into question: dignity, the prohibition of torture and of the death penalty, equality, freedom of conscience, the rights of the defence (Article [9](#droits-intangibles)). For the rest, what we propose is not a party programme: it is a method for ensuring that these choices are made by citizens.
 
 ### Does this already exist anywhere?
 
-Not on the scale of an entire country, but democratic sortition has proved itself. In Ireland, assemblies made up mostly or entirely of citizens drawn by lot prepared the 2015 and 2018 referendums on same-sex marriage and abortion. In German-speaking Belgium, a permanent citizens' council drawn by lot has, since 2019, organised assemblies whose recommendations the parliament shall consider. In France, the Citizens' Convention for Climate (2019–2020) and the one on end of life (2022–2023) showed the quality of these deliberations. This project goes further: it gives the conventions decision-making power.
+Not on the scale of an entire country, but democratic sortition has proved itself. In Ireland, assemblies made up mostly or entirely of citizens drawn by lot prepared the 2015 and 2018 referendums on same-sex marriage and abortion. In German-speaking Belgium, a permanent citizens’ council drawn by lot has, since 2019, organised assemblies whose recommendations the parliament must consider. In France, the Citizens’ Convention for Climate (2019–2020) and the one on end of life (2022–2023) showed the quality of these deliberations. This project goes further: it gives the conventions decision-making power.
 
 ### How do we get from the Fifth Republic to this system?
 

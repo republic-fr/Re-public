@@ -31,7 +31,7 @@ The following are guaranteed:
 - the presumption of innocence;
 - the rights of the defence;
 - the prohibition of arbitrary detention;
-- the independence of the judiciary and the right to an effective judicial remedy.
+- the independence of justice and the right to an effective judicial remedy.
 
 The law may regulate the exercise of a guaranteed right, to the extent necessary and proportionate to an objective of general interest or to the protection of the rights of others. It may neither abolish it nor impair its substance. No guaranteed right may be suspended, even in time of crisis.
 

@@ -1,10 +1,10 @@
 # Title XV — International treaties and relations with the European Union {#traites-union-europeenne}
 
-## Section I — International Treaties
+## Section I — International treaties
 
-## Chapter I — Negotiation, Conclusion and Ratification
+## Chapter I — Negotiation, conclusion and ratification
 
-### Article 146 — Negotiation and Conclusion {#traites-negociation-conclusion #negociations-preparatoires}
+### Article 146 — Negotiation and conclusion {#traites-negociation-conclusion #negociations-preparatoires}
 
 Treaties shall be negotiated by the external relations representatives provided for in Article [58](#representants-relations-exterieures), without power of ratification, on the basis of a written mandate laid down, according to the subject matter, by the executive administration or by the competent conventions. Where the mandate originates from the ministers, its objectives and red lines shall be public. Fallback positions shall be confidential; they shall be communicated to the Standing Commission for the Oversight of Intelligence and the Armed Forces and published after the conclusion or abandonment of the negotiation.
 
@@ -26,27 +26,27 @@ In the event of an international emergency, the emergency convention may ratify 
 
 Treaties shall take effect only after ratification or approval.
 
-### Article 148 — Legal Force of Treaties {#valeur-juridique-traites}
+### Article 148 — Legal force of treaties {#valeur-juridique-traites}
 
 Treaties duly ratified or approved shall, upon publication, prevail over laws, subject, for each treaty, to its application by the other party.
 
 No treaty may infringe the inviolable rights referred to in Article [9](#droits-intangibles), nor the constitutional identity of the Republic defined in Article [154](#identite-constitutionnelle-republique).
 
-### Article 149 — Association Agreements and the French-Speaking World {#traites-association-francophonie}
+### Article 149 — Association agreements and the French-speaking world {#traites-association-francophonie}
 
 The Republic shall participate in the development of solidarity and cooperation between States and peoples sharing the French language.
 
 The Republic may conclude agreements with States which wish to associate themselves with it in order to develop their civilisations, with respect for the self-determination of peoples and for fundamental rights.
 
-## Chapter II — Constitutional Review of Treaties
+## Chapter II — Constitutional review of treaties
 
-### Article 150 — Prior Review of Conformity {#traites-controle-conformite #controle-prealable-traites}
+### Article 150 — Prior review of conformity {#traites-controle-conformite #controle-prealable-traites}
 
 Before any ratification, a matter may be referred to the Constitutional Council by the Civic Agenda Authority, by any convention competent to ratify, by a constitutional authority or by a citizens' petition reaching the threshold set by organic law, in order to declare whether a treaty contains a clause contrary to the Constitution.
 
 If the Constitutional Council declares that an international commitment contains a clause contrary to the Constitution, ratification may take place only after amendment of the Constitution under the conditions laid down in Title [XVI](#revision).
 
-## Chapter III — International Criminal Justice
+## Chapter III — International criminal justice
 
 ### Article 151 — International Criminal Court {#cour-penale-internationale}
 
@@ -56,17 +56,17 @@ The Republic shall cooperate fully with the International Criminal Court and sha
 
 ## Section II — The European Union
 
-## Chapter IV — Principle of Participation
+## Chapter IV — Principle of participation
 
-### Article 152 — Participation in the European Union and Primacy of EU Law {#participation-union-europeenne #primaute-droit-union}
+### Article 152 — Participation in the European Union and primacy of EU law {#participation-union-europeenne #primaute-droit-union}
 
 The French Republic shall participate in the European Union, constituted by States which have freely chosen to exercise some of their powers in common, subject to respect for the inviolable rights referred to in Article [9](#droits-intangibles), for deliberative popular sovereignty and for the fundamental principles of this Constitution.
 
 European Union law shall, within its scope, prevail over laws, under the conditions laid down by the treaties.
 
-This primacy shall be exercised subject to respect for the constitutional identity of the Republic, which includes in particular the inviolable rights referred to in Article [9](#droits-intangibles), the convention-based structure of sovereignty and the independence of the judiciary.
+This primacy shall be exercised subject to respect for the constitutional identity of the Republic, which includes in particular the inviolable rights referred to in Article [9](#droits-intangibles), the convention-based structure of sovereignty and the independence of justice.
 
-### Article 153 — Conflicts of Norms {#conflits-normatifs}
+### Article 153 — Conflicts of norms {#conflits-normatifs}
 
 In the event of a conflict between a European norm and an inviolable right or a principle forming part of the constitutional identity of the Republic, the Constitutional Council shall rule.
 
@@ -74,7 +74,7 @@ Before ruling, the Constitutional Council shall refer a question to the Court of
 
 Where, after the reply of the Court of Justice, it finds that a European norm infringes the constitutional identity, the Constitutional Council shall declare it inapplicable within the territory of the Republic. Its decision shall be transmitted to the annual ordinary convention, which shall decide what action to take on it with the European Union.
 
-### Article 154 — Constitutional Identity of the Republic {#identite-constitutionnelle-republique}
+### Article 154 — Constitutional identity of the Republic {#identite-constitutionnelle-republique}
 
 The constitutional identity of the Republic comprises:
 
@@ -82,7 +82,7 @@ The constitutional identity of the Republic comprises:
 
 - the convention-based structure of sovereignty and the deliberative character of its exercise;
 
-- the independence of the judiciary and all essential judicial guarantees;
+- the independence of justice and all essential judicial guarantees;
 
 - the separation of powers defined in Article [4](#separation-pouvoirs);
 
@@ -90,9 +90,9 @@ The constitutional identity of the Republic comprises:
 
 - the other principles declared inviolable by this Constitution.
 
-## Chapter V — Transfers of Powers and Procedures
+## Chapter V — Transfers of powers and procedures
 
-### Article 155 — Transfers of Powers and Applicable Procedure {#transferts-repartition-portee #transferts-procedure-applicable}
+### Article 155 — Transfers of powers and applicable procedure {#transferts-repartition-portee #transferts-procedure-applicable}
 
 Transfers of powers to the European Union shall be subject, according to their scope, to distinct procedures:
 
@@ -112,7 +112,7 @@ Any draft European act requiring ratification by the Republic shall be referred 
 
 In case of doubt or dispute, the Constitutional Council shall give preference to the most demanding procedure. Its decision shall be reasoned and public.
 
-### Article 156 — Referendum on Intermediate Transfers {#referendum-transferts-intermediaires}
+### Article 156 — Referendum on intermediate transfers {#referendum-transferts-intermediaires}
 
 Where an intermediate transfer is examined by a thematic convention, the convention may, by the qualified majority defined in Article [17](#majorite-qualifiee), decide to submit the text to a referendum before ratification.
 
@@ -120,9 +120,9 @@ A referendum may also be triggered by a citizens' petition reaching a threshold 
 
 The rules on the referendum campaign and on the majority shall be those laid down in the articles of Title [XVI](#revision) relating to the constitutional referendum, adapted by organic law to the specific features of the European referendum.
 
-## Chapter VI — Citizen Participation in the European Legislative Process
+## Chapter VI — Citizen participation in the European legislative process
 
-### Article 157 — European Acts and Subsidiarity {#transmission-actes-europeens #controle-principe-subsidiarite}
+### Article 157 — European acts and subsidiarity {#transmission-actes-europeens #controle-principe-subsidiarite}
 
 Draft European legislative acts and other drafts or proposals for acts of the European Union shall be transmitted, as soon as they are circulated by the European institutions, to the Law Implementation Oversight Authority, which shall make them public.
 
@@ -132,13 +132,13 @@ Review of compliance with the principle of subsidiarity by European legislative 
 
 The Oversight Authority may issue reasoned opinions addressed to the European institutions. It may bring an action before the Court of Justice of the European Union by decision of its annual plenary session or, in cases of manifest urgency, by reasoned decision of the Prosecutor General for Public Accounts.
 
-## Chapter VII — Accession, Revision and Withdrawal
+## Chapter VII — Accession, revision and withdrawal
 
-### Article 158 — Accession of a New State {#adhesion-nouvel-etat #modalites-referendum-adhesion}
+### Article 158 — Accession of a new State {#adhesion-nouvel-etat #modalites-referendum-adhesion}
 
 Any accession of a new State to the European Union shall be the subject of a dedicated thematic convention, followed by a ratification referendum. This referendum shall be governed by the rules on majority and campaigning laid down in Title [XVI](#revision) for the constitutional referendum, subject to the adaptations set by organic law.
 
-### Article 159 — Revision of the European Treaties {#revision-traites-europeens}
+### Article 159 — Revision of the European treaties {#revision-traites-europeens}
 
 Any revision of the European treaties shall be subject to the procedure defined in Article [155](#transferts-repartition-portee), according to its scope:
 
@@ -154,13 +154,13 @@ The withdrawal of the French Republic from the European Union shall require a de
 
 The withdrawal constituent convention shall deliberate on the arrangements for withdrawal, the relationship with ongoing obligations and the preservation of acquired rights. Its proceedings shall be public and adversarial.
 
-## Chapter VIII — Rights of European Citizens and Thematic Cooperation
+## Chapter VIII — Rights of European citizens and thematic cooperation
 
-### Article 161 — Rights of European Citizens Residing in France {#droits-citoyens-europeens}
+### Article 161 — Rights of European citizens residing in France {#droits-citoyens-europeens}
 
 Citizens of the other Member States of the European Union residing in France shall participate in territorial citizens' conventions under the conditions laid down by the treaties, including where they do not yet meet the residence requirement laid down in Article [13](#eligibilite-participation).
 
-### Article 162 — Thematic European Cooperation {#cooperations-europeennes-thematiques}
+### Article 162 — Thematic European cooperation {#cooperations-europeennes-thematiques}
 
 Thematic European cooperation arrangements, in particular the European Arrest Warrant, the European Public Prosecutor's Office, the Schengen area, the banking union and the other mechanisms of judicial, police, tax or economic cooperation, shall be implemented by the law adopted in convention, in accordance with the principles of this Constitution.
 

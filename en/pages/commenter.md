@@ -9,7 +9,7 @@ description: How to comment on an article of the draft, propose a change or star
 
 ## <span class="kicker">01</span>Comment on an article
 
-Under each article, the **Comment** button opens that article's discussion thread. You can ask a question there, point out an inconsistency or argue for different wording.
+Under each article, the **Comment** button opens that article’s discussion thread. You can ask a question there, point out an inconsistency or argue for different wording.
 
 Comments are hosted on GitHub Discussions: you need a free GitHub account to post. Anyone can read them.
 
@@ -21,9 +21,9 @@ The text is kept on GitHub, one file per title. To propose new wording:
 
 1. open the file for the relevant title in the [project repository](https://github.com/{{repo}}/tree/main/constitution);
 2. click the pencil icon to edit it, directly in your browser;
-3. describe your proposal and submit it: it becomes a "pull request", which the team and other contributors can review and discuss, then merge or not.
+3. describe your proposal and submit it: it becomes a ‘pull request’, which the team and other contributors can review and discuss, then merge or not.
 
-Every change that is merged remains visible in the text's history.
+Every change that is merged remains visible in the text’s history.
 
 ## <span class="kicker">03</span>Start a substantive debate
 

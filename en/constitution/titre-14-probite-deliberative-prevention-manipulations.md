@@ -1,8 +1,8 @@
 # Title XIV — Deliberative integrity and the prevention of manipulation {#probite-deliberative}
 
-## Chapter I — General Principles
+## Chapter I — General principles
 
-### Article 129 — Integrity of Deliberation and Transparency of Influence {#probite-deliberation-citoyenne #obligation-generale-transparence-influences}
+### Article 129 — Integrity of deliberation and transparency of influence {#probite-deliberation-citoyenne #obligation-generale-transparence-influences}
 
 The quality of deliberation is a constitutional condition of the legitimacy of the law. The Republic protects the formation of the general will against manipulation, capture, corruption, disinformation and information asymmetries. The provisions of this Title supplement the guarantees laid down by the other Titles of the Constitution.
 
@@ -10,7 +10,7 @@ Any influence exerted on a citizens' convention, on a constitutional authority o
 
 This obligation covers in particular:
 
-- meetings between public officials and interest representatives;
+- meetings between public office-holders and interest representatives;
 
 - notes, contributions and studies added to the files;
 
@@ -20,9 +20,9 @@ This obligation covers in particular:
 
 - positions publicly defended in connection with matters under deliberation.
 
-## Chapter II — Public Register of Influence
+## Chapter II — Public register of influence
 
-### Article 130 — Public Register {#registre-public-influences}
+### Article 130 — Public register {#registre-public-influences}
 
 A permanent public register of influence is kept by the General Authority for Citizens' Conventions. It records, for each citizens' convention and for each constitutional authority:
 
@@ -40,11 +40,11 @@ A permanent public register of influence is kept by the General Authority for Ci
 
 The register is kept under conditions of accessibility, intelligibility and searchability laid down by organic law. The Law Implementation Oversight Authority reviews the regularity of its keeping.
 
-### Article 131 — Prohibitions and Sanctions {#influences-interdictions-sanctions}
+### Article 131 — Prohibitions and sanctions {#influences-interdictions-sanctions}
 
 The following are prohibited and sanctioned:
 
-- undeclared contacts between interest representatives and public officials or members of conventions;
+- undeclared contacts between interest representatives and public office-holders or members of conventions;
 
 - pressure, threats, advantages or promises directed at a member of a convention or of an authority;
 
@@ -60,7 +60,7 @@ The following are prohibited and sanctioned:
 
 - coordinated harassment targeting persons or institutions because of their participation in democratic life.
 
-For public officials, the matter is referred to the Court of Public Integrity and Accountability under the conditions laid down in Title [IX](#juridiction-probite).
+For public office-holders, the matter is referred to the Court of Public Integrity and Accountability under the conditions laid down in Title [IX](#juridiction-probite).
 
 For members of citizens' conventions, the convention may, by a qualified majority, expel one of its members for proven serious misconduct, by a reasoned decision. This decision may be appealed before the Court of Public Integrity and Accountability.
 
@@ -70,9 +70,9 @@ These offences are subject to an aggravated criminal regime, an extended limitat
 
 For interest representatives and persons exerting undeclared influence, the law adopted in convention defines the offences and the applicable criminal penalties.
 
-## Chapter III — Pluralism of Expertise
+## Chapter III — Pluralism of expertise
 
-### Article 132 — Public Pool of Experts {#vivier-public-experts}
+### Article 132 — Public pool of experts {#vivier-public-experts}
 
 The General Authority for Citizens' Conventions establishes and keeps up to date a public pool of experts by field, for purposes including the preparation of convention files and the selection of hearings.
 
@@ -98,7 +98,7 @@ These principles apply without prejudice to the refusals of accreditation and re
 
 These principles apply to the pools provided for in Articles [36](#cc-composition), [46](#vivier-scientifique-designation), [55](#jury-technique-ministres), [69](#controle-renseignement-armees), [72](#defenseur-droits-designation), [75](#defenseur-droits-college), [78](#juridiction-probite-composition), [92](#csm-designation-membres), [132](#vivier-public-experts) and [140](#autorite-regulation-vie-democratique).
 
-### Article 133 — Independent Expert Panel {#jury-experts-independants #jury-experts-mission #jury-experts-independance}
+### Article 133 — Independent expert panel {#jury-experts-independants #jury-experts-mission #jury-experts-independance}
 
 For each thematic convention and for the agenda-setting convention, an independent expert panel is formed to prepare the file and propose hearings.
 
@@ -130,7 +130,7 @@ The members of the panel enjoy the following guarantees:
 
 - mandatory publication of dissenting opinions, added to the file.
 
-### Article 134 — Public Counter-Expertise {#contre-expertise-publique}
+### Article 134 — Public counter-expertise {#contre-expertise-publique}
 
 The file prepared by the expert panel and the first proposed list of hearings are published as soon as they are delivered.
 
@@ -138,7 +138,7 @@ Within a public time limit laid down by organic law, citizens, representative or
 
 The General Authority for Citizens' Conventions examines these proposals. The Civic Agenda Authority rules publicly, giving reasons, and draws up the final list of hearings, ensuring the mandatory minimum pluralism across the families of actors in the field concerned, in accordance with Article [135](#pluralite-minimale-auditions).
 
-### Article 135 — Minimum Plurality of Hearings {#pluralite-minimale-auditions}
+### Article 135 — Minimum plurality of hearings {#pluralite-minimale-auditions}
 
 For each convention, the Civic Agenda Authority, on a proposal from the General Authority for Citizens' Conventions, draws up the list of organisations recognised as representative of the field concerned, in particular approved associations, representative trade unions, professional bodies and citizens' collectives entered in a public register.
 
@@ -148,7 +148,7 @@ Beyond this minimum plurality, the convention retains the choice of its addition
 
 Any declared party or political group may add to the file of any convention a written contribution on the subject under deliberation. These contributions are published and entered in the public register of influence.
 
-### Article 136 — Declarations of Interests of Experts {#declarations-interets-expertes-experts}
+### Article 136 — Declarations of interests of experts {#declarations-interets-expertes-experts}
 
 Every expert heard by a convention or by a constitutional authority shall declare in advance, publicly, their affiliations, funding, interests and potential conflicts of interest relating to the subject under consideration.
 
@@ -158,9 +158,9 @@ The convention may, by a reasoned decision, recuse any expert whose conflicts of
 
 Any false declaration exposes its author to the criminal penalties laid down by law.
 
-## Chapter IV — Protection against Information Manipulation
+## Chapter IV — Protection against information manipulation
 
-### Article 137 — Offence against Popular Sovereignty {#atteinte-souverainete-populaire}
+### Article 137 — Offence against popular sovereignty {#atteinte-souverainete-populaire}
 
 Organised information manipulation aimed at distorting the conditions in which citizens' opinions are formed constitutes an offence against popular sovereignty, in particular:
 
@@ -178,7 +178,7 @@ Organised information manipulation aimed at distorting the conditions in which c
 
 Criticism of a convention, a law or an authority, even if vigorous, organised or coordinated, never constitutes information manipulation where it uses none of these methods.
 
-### Article 138 — Preventive Measures {#mesures-preventives}
+### Article 138 — Preventive measures {#mesures-preventives}
 
 The law adopted in convention lays down the precise rules on the transparency of political advertising, data targeting, content generated by artificial intelligence and recommendation algorithms.
 
@@ -220,27 +220,27 @@ An Independent Regulatory Authority for Democratic Life is established by this C
 
 The Authority is independent of the executive power, of citizens' conventions, of parties and political groups and of private interests. It is composed of nine members: three members of the judiciary and three persons qualified in the fields of media, digital technology or political funding, drawn by lot from public pools established according to objective criteria laid down by organic law, and three citizens drawn by lot. The term of the members drawn from the pools is six years, non-renewable, with one third renewed every two years; that of the citizens is two years. No member may have held a position of responsibility in a party, a political group or a media outlet in the preceding five years. Its powers and operating rules are laid down by organic law, in accordance with the principles of this Constitution. The integrity of its members is reviewed by the Court of Public Integrity and Accountability. They may be removed under the conditions laid down in Title [IX](#juridiction-probite).
 
-## Chapter VI — Media Pluralism
+## Chapter VI — Media pluralism
 
-### Article 141 — Anti-Concentration {#anti-concentration}
+### Article 141 — Anti-concentration {#anti-concentration}
 
 Excessive concentration of ownership of news media, whether national or transnational, is prohibited. The thresholds, criteria and prevention mechanisms are laid down by organic law.
 
-### Article 142 — Editorial Independence and Public Broadcasting {#independance-editoriale-audiovisuel-public}
+### Article 142 — Editorial independence and public broadcasting {#independance-editoriale-audiovisuel-public}
 
 The editorial independence of journalists is guaranteed. The law adopted in convention specifies the rights of newsrooms, in particular the conscience clause and the right of re-use.
 
 A pluralist and independent public broadcasting service is guaranteed. Its governance is organised so as to ensure its independence from the executive power and from private interests. Its funding, expressly guaranteed by law, may not depend on short-term political decisions.
 
-### Article 143 — Media Transparency {#transparence-medias}
+### Article 143 — Media transparency {#transparence-medias}
 
 News media, in particular those receiving public aid, are subject to obligations of transparency regarding their governance, their funding, their shareholding and their editorial orientations, under the conditions laid down by law.
 
 Where a media outlet attributes to a citizens' convention a decision it has not taken or inaccurate facts, the rapporteurs of that convention have a right of reply. This right covers facts only, to the exclusion of opinions and criticism.
 
-## Chapter VII — Parties and Political Groups
+## Chapter VII — Parties and political groups
 
-### Article 144 — Funding of Parties and Campaigns {#financement-partis #campagnes-referendaires-signatures}
+### Article 144 — Funding of parties and campaigns {#financement-partis #campagnes-referendaires-signatures}
 
 The funding of parties and political groups by foreign States, by foreign legal persons or legal persons under foreign control, or by natural persons who are not members of the civic body, is prohibited.
 
@@ -252,7 +252,7 @@ The funding of these campaigns, and of contributions made to conventions, by the
 
 Equality between parties and political groups in access to public media during referendum campaigns is guaranteed. The arrangements are specified by law.
 
-### Article 145 — Dissolution of Parties and Political Groups {#dissolution-partis}
+### Article 145 — Dissolution of parties and political groups {#dissolution-partis}
 
 In accordance with Article [5](#partis-groupements-politiques), which prohibits any dissolution on account of the ideas or opinions defended, the dissolution of a party or political group may be ordered only by an adversarial, reasoned and public decision of the ordinary courts, and solely in cases where the organisation or the material activities of the party undermine constitutional principles:
 

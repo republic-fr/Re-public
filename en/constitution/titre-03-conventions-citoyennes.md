@@ -110,7 +110,7 @@ Organic laws are adopted, by qualified majority, by the thematic convention comp
 
 The Constitutional Council reviews every organic law before it enters into force. It verifies in particular that the law does not exceed what this Constitution refers to it and that it is consistent with the organic laws in force.
 
-The organic laws necessary for the initial establishment of the institutions, in particular on sortition, the status of convention members and the deliberative organisation authorities, are adopted by the constituent convention that adopts this Constitution and submitted to the same referendum.
+The organic laws necessary for the initial establishment of the institutions, in particular on sortition, the status of convention members and the authorities organising deliberation, are adopted by the constituent convention that adopts this Constitution and submitted to the same referendum.
 
 ## Chapter II — The agenda-setting convention
 

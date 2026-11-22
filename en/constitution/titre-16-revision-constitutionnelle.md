@@ -1,8 +1,8 @@
 # Title XVI — Constitutional amendment {#revision}
 
-## Chapter I — Initiative for Amendment
+## Chapter I — Initiative for amendment
 
-### Article 163 — Citizen and Institutional Initiative {#revision-initiative}
+### Article 163 — Citizen and institutional initiative {#revision-initiative}
 
 An amendment of the Constitution may be initiated:
 
@@ -16,7 +16,7 @@ An amendment of the Constitution may be initiated:
 
 The initiative shall specify the subject of the proposed amendment.
 
-### Article 164 — Admissibility Review {#revision-recevabilite}
+### Article 164 — Admissibility review {#revision-recevabilite}
 
 Before the opening of the constituent convention, the Constitutional Council shall rule, on the initiative of the General Authority for Citizens' Conventions, on the admissibility of the proposed amendment. It shall verify:
 
@@ -28,9 +28,9 @@ Before the opening of the constituent convention, the Constitutional Council sha
 
 The Constitutional Council shall rule by reasoned and public decision. The authors of the request may, within one month, request a re-examination by the Council sitting in plenary formation, on the basis of a new element or for a clerical error.
 
-## Chapter II — The Constituent Convention
+## Chapter II — The constituent convention
 
-### Article 165 — Composition, Mandate and Proceedings {#constituante-composition-mandat #constituante-travaux}
+### Article 165 — Composition, mandate and proceedings {#constituante-composition-mandat #constituante-travaux}
 
 The constituent convention shall be composed of three hundred citizens drawn by lot according to the representativeness criteria defined in Article [12](#composition-representativite). They shall be protected by the status of convention members defined in Article [14](#statut-conventionnel).
 
@@ -44,7 +44,7 @@ It shall deliberate on each proposed article. It may broaden or narrow the initi
 
 It shall adopt the final text by the qualified majority defined in Article [17](#majorite-qualifiee).
 
-### Article 166 — Prior Constitutional Review {#constituante-controle-constitutionnel}
+### Article 166 — Prior constitutional review {#constituante-controle-constitutionnel}
 
 Before being submitted to referendum, the text adopted by the constituent convention shall be reviewed by the Constitutional Council, which shall verify:
 
@@ -58,9 +58,9 @@ If the Constitutional Council finds a non-conformity with the unamendable provis
 
 If the Constitutional Council finds other infringements, it shall suspend the draft and refer it back for re-examination. Its decision shall be reasoned and public.
 
-## Chapter III — The Ratification Referendum
+## Chapter III — The ratification referendum
 
-### Article 167 — Principle, Scope and Unity of Subject Matter {#referendum-revision-principe #referendum-revision-unite-materielle}
+### Article 167 — Principle, scope and unity of subject matter {#referendum-revision-principe #referendum-revision-unite-materielle}
 
 The text adopted by the constituent convention and reviewed by the Constitutional Council shall be submitted to referendum for ratification by the civic body. Every referendum provided for by this Constitution shall be held by paper ballot. It shall be organised by the executive administration under the supervision of the Constitutional Council, which shall ensure that it is properly conducted, rule on complaints and proclaim the results.
 
@@ -70,7 +70,7 @@ Each amendment submitted to referendum shall relate to a single subject or to a 
 
 The Constitutional Council shall review compliance with the principle of unity of subject matter during the admissibility review provided for in Article [164](#revision-recevabilite) and during the review prior to the referendum provided for in Article [166](#constituante-controle-constitutionnel).
 
-### Article 168 — Required Majority {#referendum-revision-majorite}
+### Article 168 — Required majority {#referendum-revision-majorite}
 
 The constitutional amendment shall be adopted when two conditions are met simultaneously:
 
@@ -80,7 +80,7 @@ The constitutional amendment shall be adopted when two conditions are met simult
 
 If either of these conditions is not met, the text shall be rejected.
 
-### Article 169 — Referendum Campaign {#referendum-revision-campagne}
+### Article 169 — Referendum campaign {#referendum-revision-campagne}
 
 The referendum campaign shall be regulated by organic law, in accordance with the following principles:
 
@@ -92,19 +92,19 @@ The referendum campaign shall be regulated by organic law, in accordance with th
 
 - reinforced application of the provisions of Title [XIV](#probite-deliberative) against information manipulation during the campaign.
 
-### Article 170 — Effect of Rejection {#referendum-revision-rejet}
+### Article 170 — Effect of rejection {#referendum-revision-rejet}
 
 Where the text is rejected by referendum, the constituent convention shall be dissolved. A request for amendment relating to an identical or substantially similar subject may not be resubmitted before the expiry of the time limit set by organic law, which may not be less than five years.
 
-## Chapter IV — Unamendable Provisions and Limits on Amendment
+## Chapter IV — Unamendable provisions and limits on amendment
 
-### Article 171 — Reference to the Unamendable Provisions {#renvoi-dispositions-intangibles}
+### Article 171 — Reference to the unamendable provisions {#renvoi-dispositions-intangibles}
 
 The unamendable provisions listed in Article [9](#droits-intangibles) may not be the subject of any amendment, whether by direct modification, by procedural circumvention or by any other means.
 
 Any amendment whose effect or purpose would be to abolish, restrict or infringe an unamendable provision is constitutionally prohibited. The Constitutional Council shall declare it inadmissible during the review provided for in Article [164](#revision-recevabilite), or non-conforming during the review provided for in Article [166](#constituante-controle-constitutionnel).
 
-### Article 172 — Prohibition of Amendment during a Crisis or an Attack on the Institutions {#revision-interdite-crise}
+### Article 172 — Prohibition of amendment during a crisis or an attack on the institutions {#revision-interdite-crise}
 
 No constitutional amendment may be initiated or pursued during:
 
@@ -118,6 +118,6 @@ No constitutional amendment may be initiated or pursued during:
 
 In the event of a duly reasoned exceptional necessity, the emergency convention may authorise the initiation or continuation of an amendment, by a majority of three quarters of its members. This authorisation shall be public and reasoned.
 
-### Article 173 — Single Procedure {#revision-procedure-unique}
+### Article 173 — Single procedure {#revision-procedure-unique}
 
 Every constitutional amendment, whatever its nature or extent, shall follow the procedure laid down in this Title. No simplified procedure is permitted. Purely formal corrections, such as clerical errors or cross-references between articles, shall be grouped together and submitted with the next amendment. Neither judicial interpretation nor organic law may modify the constitutional text.

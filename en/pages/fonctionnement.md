@@ -19,7 +19,7 @@ description: How the Deliberative Republic works in seven interactive diagrams: 
 
 <h2 id="cycle"><span class="kicker">01</span>Setting up, then the five-year cycle</h2>
 
-Two conventions found the system, once only: the constituent convention, which writes the Constitution, and the fundamental rights convention, which writes the Declaration of Rights. The people ratify them by referendum. After that, public life follows a five-year cycle: one convention sets the course, conventions draw up the laws, the administration implements them and a citizens' authority oversees the whole every year.
+Two conventions found the system, once only: the constituent convention, which writes the Constitution, and the fundamental rights convention, which writes the Declaration of Rights. The people ratify them by referendum. After that, public life follows a five-year cycle: one convention sets the course, conventions draw up the laws, the administration implements them and a citizens’ authority oversees the whole every year.
 
 ```schema
 id: cycle
@@ -51,7 +51,7 @@ noeuds:
     nom: Referendum
     detail: Ratifies
     info: >-
-      The text is adopted if a majority of those voting approve it and if the "yes" votes represent at least one third of the civic body
+      The text is adopted if a majority of those voting approve it and if the ‘yes’ votes represent at least one third of the civic body
       (Article [168](#referendum-revision-majorite)).
   - id: petitions
     ligne: 3
@@ -77,7 +77,7 @@ noeuds:
     ligne: 3
     colonne: 3
     type: autorite
-    nom: General Authority for Citizens' Conventions
+    nom: General Authority for Citizens’ Conventions
     detail: Organises all conventions
     info: >-
       It organises sortition and checks representativeness, convenes and protects convention members, and keeps the pools of experts and the public register
@@ -123,9 +123,9 @@ noeuds:
     colonne: 2
     type: autorite
     nom: Law Implementation Oversight Authority
-    detail: Citizens' plenary session every year
+    detail: Citizens’ plenary session every year
     info: >-
-      A technical service investigates all year round; a session of 150 citizens examines its report every year. It may question any official,
+      A technical service investigates all year round; a session of 150 citizens examines its report every year. It may question any office-holder,
       refer matters to the Court of Public Integrity and ask the Civic Agenda Authority to open corrective conventions
       (Articles [63](#acel-nature) to [65](#session-pleniere-competences)).
 liens:
@@ -194,7 +194,7 @@ noeuds:
     nom: Expert panel
     detail: Drawn by lot, prepares the file
     info: >-
-      Experts drawn by lot from a pluralist pool prepare an adversarial file and propose hearings. They have no power to steer
+      Experts drawn by lot from a pluralist pool prepare a briefing file presenting opposing views and propose hearings. They have no power to steer
       (Article [133](#jury-experts-independants)).
   - id: convention
     ligne: 3
@@ -225,9 +225,9 @@ noeuds:
     colonne: 1
     type: autorite
     nom: Scientific review
-    detail: Manifest misinterpretation only
+    detail: Manifest scientific error only
     info: >-
-      A council of scientists drawn by lot may suspend a text only in the event of a manifest scientific misinterpretation, on which there is consensus, that threatens health,
+      A council of scientists drawn by lot may suspend a text only in the event of a manifest scientific error, on which there is consensus, that threatens health,
       the integrity of persons or the environment. It never judges political expediency (Articles [48](#controle-scientifique-champ) and [49](#controle-scientifique-suspension)).
   - id: constitutionnel
     ligne: 5
@@ -243,7 +243,7 @@ noeuds:
     colonne: 1
     type: etape
     nom: Suspension
-    detail: Each objection is classed as "procedural" or "substantive"
+    detail: Each objection is classed as ‘procedural’ or ‘substantive’
     info: The decision specifies the objections and the articles concerned (Article [23](#reexamen-cas-suspension)).
   - id: vigueur
     ligne: 6
@@ -261,7 +261,7 @@ noeuds:
     nom: Rapporteurs
     detail: Procedural objection
     info: >-
-      The convention's three rapporteurs may, within one month, withdraw or correct the provisions concerned, without adding anything. The corrected text
+      The convention’s three rapporteurs may, within one month, withdraw or correct the provisions concerned, without adding anything. The corrected text
       goes back before the Constitutional Council (Article [23](#reexamen-cas-suspension)).
   - id: reexamen
     ligne: 7
@@ -307,7 +307,7 @@ noeuds:
     nom: Call for candidates
     detail: Public, open to all
     info: >-
-      The General Authority for Citizens' Conventions organises a public call, open to every citizen
+      The General Authority for Citizens’ Conventions organises a public call, open to every citizen
       (Article [54](#procedure-designation-ministres)).
   - id: jury
     ligne: 2
@@ -325,7 +325,7 @@ noeuds:
     nom: Court of Public Integrity
     detail: Prior integrity check
     info: >-
-      It checks the candidates' assets, interests and criminal records, and draws up the list of eligible candidates
+      It checks the candidates’ assets, interests and criminal records, and draws up the list of eligible candidates
       (Articles [54](#procedure-designation-ministres) and [80](#controle-prealable-probite)).
   - id: designation
     ligne: 3
@@ -385,7 +385,7 @@ noeuds:
     ligne: 7
     colonne: 1
     type: citoyens
-    nom: Citizens' convention
+    nom: Citizens’ convention
     detail: Approves, amends or annuls
     info: >-
       The next annual convention, or the thematic convention for the field if it is sitting, decides. The decree applies in the meantime
@@ -438,7 +438,7 @@ noeuds:
     nom: Courts and tribunals
     detail: Civil and criminal justice
     info: >-
-      No authority may intervene in a pending case. Judges may not be removed from office and must report any pressure
+      No authority may intervene in a pending case. Members of the judiciary may not be removed from office and must report any pressure
       (Articles [86](#independance-justice) and [88](#statut-magistrats)).
   - id: constitutionnel
     ligne: 3
@@ -447,8 +447,8 @@ noeuds:
     nom: Constitutional Council
     detail: Compliance with the Constitution
     info: >-
-      Any person, association or company with an interest in doing so may challenge a law in force; in the course of a trial, any party may also ask the judge to refer the question to it.
-      For acts of the administration, the matter is referred to it by the administrative judge when a question of constitutionality is serious. Its members are drawn by lot from among lawyers
+      Any person, association or company with an interest in doing so may challenge a law in force; in the course of a trial, any party may also ask the court to refer the question to it.
+      For acts of the administration, the matter is referred to it by the administrative courts when a question of constitutionality is serious. Its members are drawn by lot from among lawyers
       (Articles [36](#cc-composition), [40](#cc-saisine-posteriori) and [41](#controle-actes-execution)).
   - id: administratif
     ligne: 2
@@ -473,9 +473,9 @@ noeuds:
     colonne: 2
     type: autorite
     nom: High Council of the Judiciary
-    detail: Three panels (judges, prosecutors, administrative courts)
+    detail: Three sections (judges, prosecutors, administrative courts)
     info: >-
-      No member of the judiciary may be appointed without its agreement. It rules on the discipline of members of the judiciary, in a panel in which they are in the minority, and any litigant may refer a matter to it
+      No member of the judiciary may be appointed without its agreement. It rules on the discipline of members of the judiciary, in a section in which they are in the minority, and any litigant may refer a matter to it
       (Articles [94](#csm-nominations) and [95](#csm-discipline)).
   - id: pairs
     ligne: 5
@@ -507,7 +507,7 @@ noeuds:
     nom: Oversight plenary session
     detail: 150 citizens, every year
     info: >-
-      It examines the High Council's annual report, may question it and deals with collective complaints about how the justice system works
+      It examines the High Council’s annual report, may question it and deals with collective complaints about how the justice system works
       (Article [98](#csm-controle-annuel)).
 liens:
   - personne -> defenseur | complaint
@@ -542,7 +542,7 @@ noeuds:
     detail: Draft acts, treaties
     info: >-
       Union law takes precedence over statute law, except where it infringes the constitutional identity of the Republic: inviolable rights, sovereignty of the conventions,
-      independence of the judiciary (Articles [152](#participation-union-europeenne) and [154](#identite-constitutionnelle-republique)).
+      independence of justice (Articles [152](#participation-union-europeenne) and [154](#identite-constitutionnelle-republique)).
   - id: controle
     ligne: 2
     colonne: 1
@@ -668,7 +668,7 @@ noeuds:
     colonne: 1
     type: autorite
     nom: Emergency judge
-    detail: Seized within 6 h, decides within 12 h
+    detail: Referred within 6 h, decides within 12 h
     info: >-
       Each measure is approved by a judge sitting day and night. If the judge refuses, the measure lapses
       (Article [118](#crise-controle-juridictionnel)).
@@ -685,7 +685,7 @@ noeuds:
     ligne: 4
     colonne: 1
     type: electeurs
-    nom: Citizen's appeal
+    nom: Citizen appeal
     detail: At any time
     info: Any person affected by a measure may ask the judge to lift or limit it (Article [118](#crise-controle-juridictionnel)).
   - id: exceptionnelles
@@ -724,7 +724,7 @@ noeuds:
     info: The convention stands itself down, or the Constitutional Council finds that the crisis is over (Article [123](#secours-duree-reexamen)).
 liens:
   - crise -> conservatoires | acts
-  - crise -> secours | seized within 24 h
+  - crise -> secours | referred within 24 h
   - conservatoires -> juge | approval
   - conservatoires -> secours | informs
   - recours -> juge | requests lifting
@@ -754,7 +754,7 @@ noeuds:
     ligne: 2
     colonne: 2
     type: citoyens
-    nom: Territorial citizens' convention
+    nom: Territorial citizens’ convention
     detail: Deliberates on and votes local rules
     info: >-
       Within its fields of competence, it has its own rule-making power and may set local tax rates within the limits set by law

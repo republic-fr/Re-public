@@ -109,7 +109,7 @@ It opens thematic conventions in application of the programme set by the agenda-
 - on petition, under the conditions laid down in Article [33](#seuils-effets-petitions);
 - at the request of the plenary session of the Law Implementation Oversight Authority;
 - at the request of the agenda-setting convention or of the annual ordinary convention, in particular for a major tax reform;
-- on a reasoned proposal from the High Council of the Judiciary, concerning the status of members of the judiciary or the organisation of the judiciary;
+- on a reasoned proposal from the High Council of the Judiciary, concerning the status of members of the judiciary or judicial organisation;
 - for a draft act of the European Union or for the transposition of such an act;
 - for the authorisation of a military operation, under the conditions laid down in Article [61](#autorisation-operations-militaires);
 - where a definite legal deadline so requires;

@@ -14,7 +14,7 @@ The members are drawn by lot, on a stratified basis, from a permanent public acc
 
 The following are automatically entered in the pool:
 
-- serving or honorary members of the judiciary who have performed judicial duties on the bench or in the public prosecution service;
+- serving or honorary judges and prosecutors who have performed judicial duties on the bench or in the public prosecution service;
 
 - lawyers admitted to a French bar with proven practice in constitutional or administrative litigation or litigation concerning fundamental freedoms;
 

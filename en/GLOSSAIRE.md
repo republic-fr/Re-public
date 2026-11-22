@@ -34,6 +34,12 @@ Référence unique pour la version anglaise. Anglais britannique (spelling: *pro
 | Déclaration des droits fondamentaux | Declaration of Fundamental Rights |
 | identité constitutionnelle | constitutional identity |
 | tyrannie de la majorité | tyranny of the majority |
+| responsable(s) public(s) | public office-holder(s) |
+| agent public | public servant |
+| suppléants | substitutes |
+| indépendance de la justice | independence of justice |
+| pluralisme (disciplinaire, méthodologique) et d'école | (disciplinary, methodological and) school-of-thought pluralism |
+| Charte de l'environnement (de 2004) | Charter for the Environment (of 2004) |
 
 ## Conventions
 
@@ -47,6 +53,8 @@ Référence unique pour la version anglaise. Anglais britannique (spelling: *pro
 | convention de désignation | appointments convention |
 | convention (citoyenne) de secours | emergency convention |
 | convention citoyenne territoriale | territorial citizens' convention |
+| conventions territoriales | territorial conventions |
+| dossier contradictoire | briefing file presenting opposing views |
 | convention des droits fondamentaux | fundamental rights convention |
 | rapporteurs | rapporteurs |
 | compte rendu des citoyens | citizens' report |
@@ -61,6 +69,7 @@ Référence unique pour la version anglaise. Anglais britannique (spelling: *pro
 |---|---|
 | Autorité générale des conventions citoyennes | General Authority for Citizens' Conventions |
 | Autorité de programmation civique | Civic Agenda Authority |
+| autorités d'organisation délibérative | authorities organising deliberation |
 | Conseil constitutionnel | Constitutional Council |
 | Conseil scientifique ad hoc | ad hoc Scientific Council |
 | administration d'exécution | executive administration |
@@ -81,7 +90,12 @@ Référence unique pour la version anglaise. Anglais britannique (spelling: *pro
 | Conseil d'État | Council of State |
 | Cour de cassation | Court of Cassation |
 | ministère public, parquet | public prosecution service |
+| magistrats (générique) | members of the judiciary |
 | magistrats du siège / du parquet | judges / prosecutors |
+| magistrats du siège et du parquet (visés ensemble) | judges and prosecutors |
+| membres magistrats / non magistrats (du CSM) | judicial members / non-judicial members |
+| formation (du Conseil supérieur de la magistrature) | section |
+| conseillers d'État (grade) | Councillors of State (et non « members of the Council of State ») |
 | Autorité de régulation indépendante de la vie démocratique | Independent Regulatory Authority for Democratic Life |
 | collectivités territoriales | local authorities |
 | CESE | Economic, Social and Environmental Council (CESE) |
@@ -108,3 +122,18 @@ Référence unique pour la version anglaise. Anglais britannique (spelling: *pro
 | dispositions intangibles | unamendable provisions |
 | ratification, traités majeurs | ratification, major treaties |
 | transferts de compétences | transfers of powers |
+| intérêt à agir | standing |
+| juge judiciaire | the ordinary courts |
+| le juge (générique) | the court(s) |
+| juge des référés | the judge hearing urgent applications |
+| saisir le juge en référé | bring urgent applications before the courts |
+| contre-sens scientifique manifeste | manifest scientific error |
+
+## Formes courtes et typographie
+
+| Règle | Application |
+|---|---|
+| Formes courtes, après la première mention dans un même article | the Oversight Authority, the Court of Public Integrity, the High Council, the Commission, the Council |
+| Titres d'articles, de chapitres et de sections | sentence case (« Definition of a crisis and applicable regime »), sauf noms propres d'institutions (Constitutional Council, Court of Audit…) |
+| Guillemets dans les pages du site | ‘…’ (et “…” à l'intérieur), apostrophe typographique ’ |
+| Guillemets dans la Constitution | ‘…’, style existant conservé |

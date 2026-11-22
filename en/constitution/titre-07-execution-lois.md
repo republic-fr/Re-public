@@ -1,14 +1,14 @@
 # Title VII — Implementation of laws {#execution}
 
-## Chapter I — Principles of Implementation
+## Chapter I — Principles of implementation
 
-### Article 50 — Nature of the Executive Administration {#nature-administration-execution}
+### Article 50 — Nature of the executive administration {#nature-administration-execution}
 
 The executive of the Republic is a senior executive administration, strictly subordinate to the law adopted by the citizens' conventions. There is no politically autonomous executive power: no President of the Republic, no Head of State, no Prime Minister, nor any overarching authority placed above the executive administration. The presidency of the college of ministers confers no authority over the other ministers.
 
-Before taking office, ministers, external relations representatives, judges and prosecutors, general officers of the armed forces, members of the constitutional authorities and directors general of the executive administrations shall swear, in public session, an oath to defend the Constitution, to respect the inviolable rights of Article [9](#droits-intangibles) and to oppose any attempt to overthrow the constitutional order. An organic law shall lay down the wording of the oath and the arrangements for taking it. Its violation constitutes serious misconduct within the meaning of Article [81](#jugement-fautes-graves).
+Before taking office, ministers, external relations representatives, members of the judiciary, general officers of the armed forces, members of the constitutional authorities and directors general of the executive administrations shall swear, in public session, an oath to defend the Constitution, to respect the inviolable rights of Article [9](#droits-intangibles) and to oppose any attempt to overthrow the constitutional order. An organic law shall lay down the wording of the oath and the arrangements for taking it. Its violation constitutes serious misconduct within the meaning of Article [81](#jugement-fautes-graves).
 
-### Article 51 — Scope of the Law and Call-in of Decrees {#subordination-loi}
+### Article 51 — Scope of the law and call-in of decrees {#subordination-loi}
 
 The law lays down the rules and essential principles. Matters reserved to the law include in particular rights and freedoms and their guarantees, the obligations imposed on persons, crimes, offences and penalties, criminal procedure, taxation, the principles governing the organisation of public services and of the administration, and the orientations of public policies.
 
@@ -24,7 +24,7 @@ Within two months of its publication, a decree may be referred to a citizens' co
 
 The decree called in is examined by the next annual ordinary convention, or by the competent thematic convention if it is sitting. That convention may approve, amend or annul it. The decree remains applicable until its decision.
 
-### Article 52 — College of Ministers {#structure-collegiale}
+### Article 52 — College of ministers {#structure-collegiale}
 
 The executive administration is collegial. It is composed of ministers responsible for distinct areas of competence. An organic law shall set the number of ministries, their remit and their rules of coordination, without allowing excessive powers to be concentrated in few hands.
 
@@ -36,9 +36,9 @@ The member presiding over the college retains their ministry. They set the agend
 
 The presidency of the college represents the Republic in the European Council and at meetings of Heads of State or Government, on the basis of a written and public mandate from the college. The obligations of transparency and abstention of Article [59](#representants-transparence-abstention) apply to it.
 
-## Chapter II — Appointment, Term of Office and Interim of Ministers
+## Chapter II — Appointment, term of office and interim of ministers
 
-### Article 53 — Appointments Convention {#convention-designation-ministres}
+### Article 53 — Appointments convention {#convention-designation-ministres}
 
 Ministers and external relations representatives are appointed by the appointments convention. This convention is permanent. It has fifty members drawn by lot for two years, half of whom are renewed each year. It meets at least once a quarter, and without delay in the event of a vacancy. Every ministerial vacancy and every renewal of a term of office is referred to it.
 
@@ -46,7 +46,7 @@ By derogation from Article [14](#statut-conventionnel), the identity of its memb
 
 Directors of administrations are appointed by the ministers, under the supervision of the Court of Public Integrity and Accountability; they do not fall within the remit of the appointments convention.
 
-### Article 54 — Appointment Procedure {#procedure-designation-ministres #ministres-controle-probite}
+### Article 54 — Appointment procedure {#procedure-designation-ministres #ministres-controle-probite}
 
 The appointment of a minister follows three stages:
 
@@ -58,13 +58,13 @@ The appointment of a minister follows three stages:
 
 If no one obtains this majority after two rounds of voting, a third round is held between the two persons who came first in the second round; an absolute majority of members is still required. Failing that, the appointment is resumed at a later sitting, after a partial renewal of the convention by sortition, under the conditions set by organic law. The interim provided for in Article [57](#interim-ministeriel) applies in the meantime.
 
-### Article 55 — Ad Hoc Technical Panel {#jury-technique-ministres}
+### Article 55 — Ad hoc technical panel {#jury-technique-ministres}
 
 The ad hoc technical panel verifies, for each candidate, the minimum competences required for the ministry concerned, in particular administrative experience, technical qualifications and leadership ability. It does not assess the political leanings of the candidates, their public positions on controversial subjects, or their adherence to any particular programme.
 
 Its members are drawn by lot, in a stratified manner to guarantee disciplinary pluralism, from a permanent public pool of experts in public administration, established by the General Authority for Citizens' Conventions according to accreditation conditions set by organic law. The rules of the ad hoc Scientific Council on recusal, dissenting opinions, short terms of office, no immediate renewal and uniform remuneration apply to the panel.
 
-### Article 56 — Term of Office and Removal of Ministers {#duree-mandat-ministeriel #ministres-recours-faits-nouveaux}
+### Article 56 — Term of office and removal of ministers {#duree-mandat-ministeriel #ministres-recours-faits-nouveaux}
 
 The ministerial term of office is three years, renewable once.
 
@@ -74,15 +74,15 @@ Where a report of the Law Implementation Oversight Authority finds a persistent 
 
 These decisions shall be based exclusively on the findings of the Oversight Authority, never on disagreement with the choices made by the minister within the framework of the law. No warning may be issued within six months of the appointment. The decision to terminate the term of office may be appealed before the Constitutional Council, which verifies that these conditions have been complied with.
 
-### Article 57 — Ministerial Interim {#interim-ministeriel}
+### Article 57 — Ministerial interim {#interim-ministeriel}
 
 In the event of a vacancy in a ministry, the college of ministers entrusts the interim to one of its members. No minister may hold more than one interim at a time. If the college is unable to designate an interim minister, the matter is automatically referred to the emergency convention.
 
 The interim is limited to strictly day-to-day business, to the exclusion of any new political, regulatory or budgetary decision. The college may, however, authorise the decrees necessary for the application of a law within the time limit provided for in Article [51](#subordination-loi). The interim lasts at most ninety days. The appointments convention shall fill the post within that period. Failing that, the matter is automatically referred to the emergency convention.
 
-## Chapter III — External Representation
+## Chapter III — External representation
 
-### Article 58 — External Relations Representatives {#representants-relations-exterieures #representants-mandat-incompatibilites #relations-exterieures-saisine-secours}
+### Article 58 — External relations representatives {#representants-relations-exterieures #representants-mandat-incompatibilites #relations-exterieures-saisine-secours}
 
 The external representation of the Republic is ensured by several specialised representatives, whose number and remits are set by organic law. They are chosen by the appointments convention according to the procedure of Article [54](#procedure-designation-ministres), for a term of office of two years, not immediately renewable. They act as rapporteurs to the competent ministers, without any decision-making power of their own.
 
@@ -92,7 +92,7 @@ In the United Nations Security Council, the Republic votes according to a doctri
 
 In an international emergency, any representative may refer a matter directly to the emergency convention, under the conditions of Title [XII](#crises).
 
-### Article 59 — Transparency, Abstention and Removal {#representants-transparence-abstention}
+### Article 59 — Transparency, abstention and removal {#representants-transparence-abstention}
 
 Representatives shall give a full account of their meetings to the ministers concerned and to the oversight bodies. The records are placed in the public file under the conditions set by organic law, subject to the secrets defined in Article [70](#secrets).
 
@@ -100,13 +100,13 @@ Representatives are absolutely prohibited from taking a public position in their
 
 They may be removed during their term of office by the Court of Public Integrity and Accountability, under the conditions of Title [IX](#juridiction-probite), in particular for breach of the obligations of transparency or for taking a public position in their own name.
 
-## Chapter IV — Defence and the Armed Forces
+## Chapter IV — Defence and the armed forces
 
-### Article 60 — Commander of the Armed Forces {#chef-armees}
+### Article 60 — Commander of the armed forces {#chef-armees}
 
 The Minister of Defence is the head of the armed forces. The Minister exercises command over them, in strict compliance with the law and under the supervision of the citizens' conventions and the competent courts.
 
-### Article 61 — Authorisation of Military Operations {#autorisation-operations-militaires}
+### Article 61 — Authorisation of military operations {#autorisation-operations-militaires}
 
 No declaration of war, no offensive armed intervention and no military operation abroad may be undertaken without the prior authorisation of a dedicated thematic convention. Where the urgency does not allow a thematic convention to be convened, authorisation falls to the emergency convention.
 
@@ -118,7 +118,7 @@ Every authorised military operation is subject to mandatory periodic review by t
 
 Where a military engagement is to be prolonged, a thematic convention may authorise it for at most one year, renewable in the same form, by an absolute majority of its members. It then meets at least every four months to carry out the review, in place of the emergency convention. This defence regime does not constitute a crisis within the meaning of Article [112](#notion-crise) and does not preclude constitutional amendment, except in the event of an infringement of the integrity of the territory.
 
-### Article 62 — Use of Nuclear Weapons {#emploi-arme-nucleaire}
+### Article 62 — Use of nuclear weapons {#emploi-arme-nucleaire}
 
 In the event of proven or imminent nuclear aggression against the territory of the Republic, the decision to retaliate is taken jointly by the member presiding over the college of ministers and by the Minister of Defence. The Chief of the Defence Staff verifies the authenticity of the order and ensures its execution; they do not take part in the decision. The aggression is attested independently, according to a technical protocol set by organic law and verified by the Constitutional Council.
 

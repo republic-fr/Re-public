@@ -22,7 +22,7 @@ The following are automatically entered in the pool:
 
 - senior councillors (conseillers maîtres) of the Court of Audit and judges of the financial courts, serving or honorary.
 
-The pool is stratified by field of specialisation according to a classification laid down by organic law. A person may be listed in several fields according to their certified qualifications. The lists are kept up to date by the High Council of the Judiciary for judges and prosecutors, by the bar councils for lawyers, by the universities for professors and by their parent bodies for other legal professionals. The common principles governing the pools under Article [132](#vivier-public-experts) apply.
+The pool is stratified by field of specialisation according to a classification laid down by organic law. A person may be listed in several fields according to their certified qualifications. The lists are kept up to date by the High Council of the Judiciary for members of the judiciary, by the bar councils for lawyers, by the universities for professors and by their parent bodies for other legal professionals. The common principles governing the pools under Article [132](#vivier-public-experts) apply.
 
 Entry in the pool requires compliance with the rules of independence, impartiality and integrity laid down by organic law. The High Council of the Judiciary may remove from the pool, by reasoned decision, any person who no longer complies with them. That decision may be appealed before the Court itself, sitting in a panel separate from any panel of which the person concerned might be a member.
 
@@ -124,7 +124,7 @@ Accountability review is opened on referral by:
 
 - any citizens' convention, for the office-holders it has appointed or whose action it oversees;
 
-- any person demonstrating standing to act, subject to the admissibility filter defined in the following paragraph.
+- any person demonstrating standing, subject to the admissibility filter defined in the following paragraph.
 
 The Court dismisses of its own motion, by reasoned decision, manifestly inadmissible referrals, in particular for lack of standing, where the question has already been decided or where the allegation is manifestly unfounded.
 
