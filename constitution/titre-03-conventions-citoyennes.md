@@ -128,7 +128,7 @@ Elle motive publiquement ses choix de priorisation : les sujets retenus et les s
 
 ### Article 21 — Formation et objet {#thematique-formation-objet}
 
-Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme défini par la convention de programmation ou, par exception, dans les conditions prévues à l'article [36](#seuils-effets-petitions).
+Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme défini par la convention de programmation ou, par exception, dans les conditions prévues à l'article [35](#apc-interdictions).
 
 Chacune examine un objet législatif déterminé. Elles sont composées de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
 
@@ -182,13 +182,14 @@ Lorsque le texte suspendu a été adopté par la convention de secours et que ce
 
 ### Article 26 — Objet {#convention-ordinaire-objet}
 
-La convention ordinaire annuelle adopte chaque année :
+La convention ordinaire annuelle siège une fois par an, lors de l'examen du budget, sous réserve des sessions supplémentaires prévues par la présente Constitution. Elle adopte chaque année :
 
 - le budget de l'État et les lois fiscales annuelles, dans le cadre des priorités définies par la convention de programmation et dans les conditions prévues au Titre [XI](#finances-publiques) ;
 
 - la ratification des traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
 
-- le réexamen des textes suspendus par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, dans les conditions prévues à l'article [25](#reexamen-cas-suspension).
+- le réexamen des textes suspendus par le Conseil constitutionnel ou par le Conseil scientifique ad hoc, dans les conditions prévues à l'article [25](#reexamen-cas-suspension) ;
+- l'examen des décrets évoqués, dans les conditions prévues à l'article [59](#subordination-loi).
 
 ## Chapitre V — La convention de secours
 

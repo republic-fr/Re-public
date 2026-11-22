@@ -10,11 +10,18 @@ Il n'existe ni président de la République, ni chef de l'État, ni Premier mini
 
 Avant toute prise de fonction, les ministres, les représentants aux relations extérieures, les magistrates et magistrats, les officiers généraux des forces armées, les membres des autorités constitutionnelles et les directrices et directeurs généraux des administrations d'exécution prêtent, en séance publique, serment de défendre la Constitution, de respecter les droits intangibles visés à l'article [9](#droits-intangibles) et de s'opposer à toute tentative de renversement de l'ordre constitutionnel. La formule et les modalités sont fixées par la loi organique. La violation du serment constitue une faute grave au sens de l'article [101](#jugement-fautes-graves).
 
-### Article 59 — Subordination à la loi {#subordination-loi}
+### Article 59 — Domaine de la loi et évocation des décrets {#subordination-loi}
 
-Tout acte d'exécution est strictement subordonné à la lettre, à l'objet et à l'intention de la loi. Les actes d'exécution ne peuvent ni altérer l'économie générale d'une loi, ni en réduire la portée, ni en différer indûment l'application.
+La loi fixe les règles et les principes essentiels. Relèvent notamment de la loi les droits et libertés et leurs garanties, les obligations imposées aux personnes, les crimes, délits et peines, la procédure pénale, l'impôt, les principes de l'organisation des services publics et de l'administration, et les orientations des politiques publiques.
 
-Lorsqu'une mesure technique d'exécution est nécessaire, elle est strictement limitée à ce qui est indispensable à l'application matérielle de la loi.
+L'administration d'exécution prend, par décret, les mesures d'application de la loi. Tout acte d'exécution est strictement subordonné à la lettre, à l'objet et à l'intention de la loi. Il ne peut ni altérer l'économie générale d'une loi, ni en réduire la portée, ni en différer indûment l'application.
+
+Dans les deux mois suivant sa publication, un décret peut être soumis à une convention citoyenne :
+
+- par décision motivée et publique de l'Autorité de programmation civique, prise d'office ou à la demande des rapporteurs de la convention ayant adopté la loi ou de la session plénière de l'Autorité de contrôle de l'exécution des lois ;
+- de plein droit, sur pétition atteignant un seuil fixé par la loi organique, qui ne peut excéder cent mille signatures.
+
+Le décret évoqué est examiné par la convention ordinaire annuelle suivante, ou par la convention thématique compétente lorsqu'elle siège. Celle-ci peut l'approuver, le modifier ou l'annuler. Le décret demeure applicable jusqu'à sa décision.
 
 ### Article 60 — Structure collégiale {#structure-collegiale}
 

@@ -104,13 +104,23 @@ Les saisines émanant des juridictions prennent la forme de rapports publics col
 
 L'Autorité de programmation civique peut être saisie par tout conventionnel, par tout membre d'un vivier d'expertise, ou par toute personne intéressée d'une contestation portant sur la pluralité d'un vivier, sur le choix des sous-spécialités mobilisées, sur le programme de formation ou sur les formateurs validés. Elle statue dans un délai d'un mois.
 
-### Article 35 — Interdictions {#apc-interdictions}
+### Article 35 — Interdictions et ouvertures hors programme {#apc-interdictions}
 
 L'Autorité de programmation civique ne vote pas la loi et ne décide pas du contenu du programme législatif, qui relève de la convention de programmation.
 
-Elle ne peut ouvrir de convention thématique qu'en application du programme fixé par la convention de programmation, sous la seule exception prévue à l'article [36](#seuils-effets-petitions).
+Elle ouvre les conventions thématiques en application du programme fixé par la convention de programmation. Elle ne peut en ouvrir hors programme, par décision motivée et publique, que dans les cas suivants :
 
-Les situations d'urgence hors programmation relèvent exclusivement de la convention de secours, dans les conditions prévues au Titre [XII](#crises).
+- sur pétition, dans les conditions prévues à l'article [36](#seuils-effets-petitions) ;
+- à la demande de la session plénière de l'Autorité de contrôle de l'exécution des lois ;
+- à la demande de la convention de programmation ou de la convention ordinaire annuelle, notamment pour une réforme fiscale majeure ;
+- sur proposition motivée du Conseil supérieur de la magistrature, pour le statut des magistrates et magistrats ou l'organisation judiciaire ;
+- pour un projet d'acte de l'Union européenne ou pour la transposition d'un tel acte ;
+- pour l'autorisation d'une opération militaire, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
+- lorsqu'une échéance juridique certaine l'exige.
+
+Hors pétition et hors autorisation militaire, le nombre de conventions thématiques ouvertes hors programme ne peut excéder chaque année un plafond fixé par la loi organique. Toute décision d'ouverture ou de refus est susceptible de recours devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
+
+Les situations de crise relèvent de la convention de secours, dans les conditions prévues au Titre [XII](#crises).
 
 ### Article 36 — Seuils et effets des pétitions citoyennes {#seuils-effets-petitions}
 
