@@ -73,7 +73,19 @@ const NAV = [['Text', '/en/text/'], ['How it works', '/en/how-it-works/'], ['Why
 const DESCRIPTION = 'Draft Constitution for a deliberative French Republic: laws made by citizens’ conventions drawn by lot.';
 const wordmark = (size = '') => `<a class="rp-wordmark" href="/en/" aria-label="REpublic, home"${size ? ` style="font-size:${size}"` : ''}><span class="rp-wordmark__re">RE</span><span class="rp-wordmark__public">PUBLIC</span></a>`;
 
-function layout({ title, description = DESCRIPTION, current = '', body, bodyClass = '', path: p = '/en/', noindex = false, ogType = 'website' }) {
+// ---------- Données structurées (schema.org), reliées à la version française ----------
+
+const ORG_ID = `${config.siteUrl}/#org`;
+const SITE_ID = `${config.siteUrl}/en/#website`;
+const LAW_ID = `${config.siteUrl}/en/text/#constitution`;
+const LAW_FR = `${config.siteUrl}/texte/#constitution`;
+const LAW_NAME = 'Constitution of the Deliberative French Republic (draft)';
+const draft = { inLanguage: 'en', creativeWorkStatus: 'Draft', legislationLegalForce: { '@id': 'https://schema.org/NotInForce' }, publisher: { '@id': ORG_ID }, version: VERSION };
+const crumbs = (items) => ({ '@type': 'BreadcrumbList', itemListElement: items.map(([name, p], i) => ({ '@type': 'ListItem', position: i + 1, name, item: config.siteUrl + p })) });
+const webPage = (p, name, extra = {}) => ({ '@type': 'WebPage', '@id': config.siteUrl + p, url: config.siteUrl + p, name, inLanguage: 'en', isPartOf: { '@id': SITE_ID }, translationOfWork: { '@id': config.siteUrl + equivalent(p) }, ...extra });
+
+function layout({ title, description = DESCRIPTION, current = '', body, bodyClass = '', path: p = '/en/', noindex = false, ogType = 'website', jsonld = [] }) {
+  const ld = jsonld.length ? `<script type="application/ld+json">${JSON.stringify({ '@context': 'https://schema.org', '@graph': jsonld }).replace(/</g, '\\u003c')}</script>` : '';
   const url = config.siteUrl + p;
   const full = title ? `${title} — ${config.siteName}` : `${config.siteName} — Draft deliberative Constitution`;
   const nav = NAV.map(([label, href]) => `<a href="${href}"${current === href ? ' aria-current="page"' : ''}>${label}</a>`).join('');
@@ -102,6 +114,7 @@ ${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" hr
 <link rel="stylesheet" href="/assets/style.css">
 <script>window.REPUBLIC=${JSON.stringify({ giscus: config.giscus, repo: config.repo })};</script>
 <script src="/assets/app.js" defer></script>
+${ld}
 </head>
 <body class="rp ${bodyClass}">
 <a class="skip" href="#content">Skip to content</a>
@@ -186,7 +199,16 @@ function titrePage(t, prev, next) {
     ${pager}
   </div>
 </div>`;
-  return layout({ title: label(t), current: '/en/text/', body, bodyClass: 'page-text', path: urlTitre(t), ogType: 'article' });
+  const p = urlTitre(t);
+  const arts = t.sections.flatMap((s) => s.articles);
+  const id = t.roman ? `Title ${t.roman}` : 'Preamble';
+  const law = {
+    '@type': 'Legislation', '@id': `${config.siteUrl}${p}#titre`, name: `${LAW_NAME} — ${label(t)}`, url: config.siteUrl + p,
+    legislationIdentifier: id, isPartOf: { '@id': LAW_ID }, translationOfWork: { '@id': `${config.siteUrl}/texte/${t.slug}/#titre` }, ...draft,
+    hasPart: arts.map((a) => ({ '@type': 'Legislation', name: `Article ${a.num} — ${a.name}`, legislationIdentifier: `Article ${a.num}`, url: `${config.siteUrl}${p}#${a.id}`, translationOfWork: { '@id': `${config.siteUrl}/texte/${t.slug}/#${a.id}` }, ...draft })),
+  };
+  const jsonld = [webPage(p, label(t), { mainEntity: { '@id': law['@id'] }, breadcrumb: crumbs([['Home', '/en/'], ['Text', '/en/text/'], [label(t), p]]) }), law];
+  return layout({ title: label(t), current: '/en/text/', body, bodyClass: 'page-text', path: p, ogType: 'article', jsonld });
 }
 
 const searchBox = `<form class="search" role="search" action="/en/text/" onsubmit="return false">
@@ -203,7 +225,12 @@ function sommaire() {
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">Text</span><span class="rp-tag">${titres.length} titles · ${articleById.size} articles</span></div><h1 class="rp-title">Constitution of the Deliberative Republic</h1>${searchBox}</div>
 <div class="wrap prose"><p class="note">This is an English translation of a French draft. The <a href="/texte/" lang="fr">French text</a> prevails.</p></div>
 <div class="wrap sommaire">${rows}</div>`;
-  return layout({ title: 'The text', current: '/en/text/', body, path: '/en/text/' });
+  const law = {
+    '@type': 'Legislation', '@id': LAW_ID, name: LAW_NAME, url: `${config.siteUrl}/en/text/`, legislationType: 'Constitution', legislationJurisdiction: 'FR',
+    description: DESCRIPTION, translationOfWork: { '@id': LAW_FR }, ...draft, hasPart: all.map((t) => ({ '@id': `${config.siteUrl}${urlTitre(t)}#titre` })),
+  };
+  const jsonld = [webPage('/en/text/', 'The text', { mainEntity: { '@id': LAW_ID }, breadcrumb: crumbs([['Home', '/en/'], ['Text', '/en/text/']]) }), law];
+  return layout({ title: 'The text', current: '/en/text/', body, path: '/en/text/', jsonld });
 }
 
 function home() {
@@ -229,7 +256,13 @@ function home() {
   <a class="home-more__card" href="/en/how/"><span class="rp-tag rp-tag--solid">How</span><span class="home-more__t">The steps to get there, the cost, the role of citizens.</span></a>
   <a class="home-more__card" href="/en/comment/"><span class="rp-tag rp-tag--solid">Comment</span><span class="home-more__t">Suggest a change or discuss an article.</span></a>
 </section>`;
-  return layout({ title: '', body, current: '/en/', bodyClass: 'page-home', path: '/en/' });
+  const jsonld = [
+    { '@type': 'Organization', '@id': ORG_ID, name: config.siteName, url: `${config.siteUrl}/`, logo: `${config.siteUrl}/assets/og.png` },
+    { '@type': 'WebSite', '@id': SITE_ID, url: `${config.siteUrl}/en/`, name: config.siteName, description: DESCRIPTION, inLanguage: 'en', publisher: { '@id': ORG_ID },
+      potentialAction: { '@type': 'SearchAction', target: { '@type': 'EntryPoint', urlTemplate: `${config.siteUrl}/en/text/?q={search_term_string}` }, 'query-input': 'required name=search_term_string' } },
+    webPage('/en/', `${config.siteName} — Rethinking democracy through sortition`, { about: { '@id': LAW_ID } }),
+  ];
+  return layout({ title: '', body, current: '/en/', bodyClass: 'page-home', path: '/en/', jsonld });
 }
 
 // ---------- Pages éditoriales ----------
@@ -258,7 +291,14 @@ function contentPage(file, href, frHref) {
   const note = stale.pages.has(file) ? `<p class="translation-note">The French version of this page has changed since it was translated. <a href="${frHref}" lang="fr">Read the French version</a>.</p>` : '';
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">${esc(fm.tag || fm.title)}</span>${fm.subtag ? `<span class="rp-tag">${esc(fm.subtag)}</span>` : ''}</div><h1 class="rp-title">${esc(fm.title)}</h1></div>
 <div class="wrap prose${fm.faq === 'true' ? ' faq' : ''}">${note}${html}</div>`;
-  return layout({ title: fm.title, description: fm.description || DESCRIPTION, current: href, body, path: href });
+  const extra = {};
+  if (fm.faq === 'true') {
+    const strip = (s) => s.replace(/<[^>]+>/g, '').replace(/\s+/g, ' ').trim();
+    const qa = [...html.matchAll(/<h3>([\s\S]*?)<\/h3>([\s\S]*?)(?=<h[23]>|$)/g)].map((x) => ({ '@type': 'Question', name: strip(x[1]), acceptedAnswer: { '@type': 'Answer', text: strip(x[2]) } }));
+    extra['@type'] = ['WebPage', 'FAQPage']; extra.mainEntity = qa;
+  }
+  const jsonld = [webPage(href, fm.title, { description: fm.description || DESCRIPTION, publisher: { '@id': ORG_ID }, breadcrumb: crumbs([['Home', '/en/'], [fm.title, href]]), ...extra })];
+  return layout({ title: fm.title, description: fm.description || DESCRIPTION, current: href, body, path: href, jsonld });
 }
 
 // ---------- Construction ----------

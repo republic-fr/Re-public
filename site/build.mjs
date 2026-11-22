@@ -289,6 +289,7 @@ function sommaire() {
   const law = {
     '@type': 'Legislation', '@id': LAW_ID, name: LAW_NAME, alternateName: 'Projet de Constitution délibérative', url: `${config.siteUrl}/texte/`,
     legislationType: 'Constitution', legislationJurisdiction: 'FR', description: config.description, ...draft,
+    workTranslation: { '@id': `${config.siteUrl}/en/text/#constitution` },
     hasPart: [preambule, ...titres].map((t) => ({ '@id': `${config.siteUrl}${urlTitre(t)}#titre` })),
   };
   const jsonld = [webPage('/texte/', 'Le texte', { mainEntity: { '@id': LAW_ID }, breadcrumb: crumbs([['Accueil', '/'], ['Texte', '/texte/']]) }), law];
