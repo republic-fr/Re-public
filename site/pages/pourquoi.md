@@ -72,7 +72,7 @@ Une pétition qui atteint le seuil fixé par la loi organique est transmise à l
 
 ### Vous pouvez contester une loi ou un abus
 
-- Toute citoyenne et tout citoyen directement concerné par une loi en vigueur peut la contester devant le Conseil constitutionnel (article [40](#cc-saisine-posteriori)).
+- Toute personne, association ou entreprise concernée par une loi en vigueur peut la contester devant le Conseil constitutionnel ; au cours d’un procès, chacun peut aussi demander au juge de lui transmettre la question (article [40](#cc-saisine-posteriori)).
 - Toute personne peut saisir le Défenseur des droits face à une administration (article [73](#defenseur-droits-saisine)), et signaler un dysfonctionnement à l’Autorité de contrôle de l’exécution des lois (article [65](#session-pleniere-competences)).
 - Toute personne peut saisir la Juridiction de probité de faits nouveaux mettant en cause l’intégrité d’un responsable public (article [83](#juridiction-probite-saisine)).
 
