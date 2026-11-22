@@ -79,9 +79,9 @@ Ces décisions se fondent exclusivement sur les constats de l'Autorité de contr
 
 ### Article 66 — Intérim ministériel {#interim-ministeriel}
 
-En cas de vacance d'un ministère, l'intérim est assuré par la ou le ministre délégué du ministère concerné. À défaut, il est assuré par la haute fonctionnaire ou le haut fonctionnaire du plus haut grade en fonction dans le ministère.
+En cas de vacance d'un ministère, le collège des ministres en confie l'intérim à l'un de ses membres. Aucun ministre ne peut assurer plus d'un intérim à la fois. Si le collège ne peut désigner d'intérimaire, la convention de secours est saisie de plein droit.
 
-L'intérim est limité aux affaires strictement courantes, à l'exclusion de toute décision politique, réglementaire ou budgétaire nouvelle. Sa durée maximale est de quatre-vingt-dix jours. La convention de désignation est tenue de pourvoir au poste dans ce délai. À défaut, la convention de secours est saisie de plein droit.
+L'intérim est limité aux affaires strictement courantes, à l'exclusion de toute décision politique, réglementaire ou budgétaire nouvelle. Le collège peut toutefois autoriser les décrets nécessaires à l'application d'une loi dans le délai prévu à l'article [59](#subordination-loi). Sa durée maximale est de quatre-vingt-dix jours. La convention de désignation est tenue de pourvoir au poste dans ce délai. À défaut, la convention de secours est saisie de plein droit.
 
 ### Article 67 — Recours citoyen sur faits nouveaux {#ministres-recours-faits-nouveaux}
 

@@ -447,8 +447,8 @@ noeuds:
     nom: Conseil constitutionnel
     detail: Conformité à la Constitution
     info: >-
-      Toute personne qui y a intérêt peut contester une loi en vigueur. Pour les actes de l’administration, il est saisi par le juge administratif
-      quand une question de constitutionnalité est sérieuse. Ses membres sont tirés au sort parmi des juristes
+      Toute personne, association ou entreprise qui y a intérêt peut contester une loi en vigueur ; au cours d’un procès, toute partie peut aussi demander au juge de lui transmettre la question.
+      Pour les actes de l’administration, il est saisi par le juge administratif quand une question de constitutionnalité est sérieuse. Ses membres sont tirés au sort parmi des juristes
       (articles [39](#cc-composition), [44](#cc-saisine-posteriori) et [45](#controle-actes-execution)).
   - id: administratif
     ligne: 2
@@ -482,7 +482,7 @@ noeuds:
     colonne: 1
     type: etape
     nom: Élus par leurs pairs
-    detail: 8 magistrats sur 12
+    detail: 8 sur 12, minoritaires en discipline
     info: Les magistrats membres sont élus par les magistrats (articles [112](#csm-composition) et [113](#csm-designation-membres)).
   - id: tirage
     ligne: 5
@@ -514,6 +514,7 @@ liens:
   - personne -> tribunaux | saisit un juge
   - personne -> administratif | litige avec l’administration
   - administratif -> constitutionnel | question sérieuse
+  - tribunaux -> constitutionnel
   - personne -> constitutionnel | | droite
   - parquet -> tribunaux | poursuit
   - csm -> tribunaux | nomme, sanctionne

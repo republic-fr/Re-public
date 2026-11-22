@@ -64,7 +64,7 @@ Si le Conseil déclare qu'un traité comporte une clause contraire à la Constit
 
 ### Article 44 — Saisine a posteriori {#cc-saisine-posteriori}
 
-Une fois la loi en vigueur, elle peut être contestée devant le Conseil constitutionnel par tout citoyen justifiant d'un intérêt à agir. Le Conseil écarte d'office, par décision motivée, les saisines manifestement irrecevables, notamment en cas de défaut d'intérêt à agir, de question déjà tranchée ou de question manifestement infondée.
+Une fois la loi en vigueur, elle peut être contestée devant le Conseil constitutionnel par toute personne, physique ou morale, justifiant d'un intérêt à agir. Le Conseil écarte d'office, par décision motivée, les saisines manifestement irrecevables, notamment en cas de défaut d'intérêt à agir, de question déjà tranchée ou de question manifestement infondée.
 
 Le Conseil peut également être saisi sans filtre d'irrecevabilité par :
 
@@ -77,6 +77,8 @@ Le Conseil peut également être saisi sans filtre d'irrecevabilité par :
 - tout ministre pour toute loi ou acte d'exécution affectant son domaine ;
 
 - tout représentant aux relations extérieures pour tout traité avant ratification définitive.
+
+Toute partie à une instance devant une juridiction peut soutenir qu'une disposition législative applicable au litige porte atteinte à la Constitution. Si la question est sérieuse et n'a pas déjà été tranchée, la juridiction la transmet au Conseil constitutionnel et sursoit à statuer, sauf urgence ou lorsqu'une personne est privée de liberté. Le Conseil statue dans un délai fixé par la loi organique.
 
 ### Article 45 — Contrôle des actes d'exécution {#controle-actes-execution}
 
