@@ -51,7 +51,9 @@ La désignation d'une ou d'un ministre suit trois étapes :
 
 - un double contrôle de recevabilité opéré en parallèle par un jury technique ad hoc et par la Juridiction de probité et de responsabilité publique ;
 
-- des auditions publiques et la désignation par la convention de désignation à la majorité qualifiée prévue à l'article [17](#majorite-qualifiee).
+- des auditions publiques et la désignation par la convention de désignation à la majorité absolue de ses membres.
+
+Si aucun candidat n'obtient cette majorité après deux tours de scrutin, un troisième tour oppose les deux candidats arrivés en tête au second tour. Est désigné celui qui recueille la majorité des suffrages exprimés.
 
 ### Article 63 — Jury technique ad hoc {#jury-technique-ministres}
 

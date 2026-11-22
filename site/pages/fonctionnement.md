@@ -203,8 +203,8 @@ noeuds:
     nom: Convention thématique
     detail: 150 citoyens, quelques mois
     info: >-
-      Formation, auditions publiques, délibération protégée, aide à la rédaction : la convention écrit la loi et l’adopte aux deux tiers
-      (articles [22](#thematique-cycle-deliberatif) et [24](#adoption-loi)).
+      Formation, auditions publiques, délibération protégée, aide à la rédaction : la convention écrit la loi et l’adopte à la majorité absolue de ses membres
+      (articles [17](#majorite-qualifiee), [22](#thematique-cycle-deliberatif) et [24](#adoption-loi)).
   - id: contre
     ligne: 3
     colonne: 3
@@ -280,7 +280,7 @@ liens:
   - apc -> convention | ouvre
   - jury --> convention | dossier
   - contre --> convention | auditions
-  - convention -> adopte | vote aux 2/3
+  - convention -> adopte | vote à la majorité absolue
   - adopte -> scientifique
   - adopte -> constitutionnel
   - scientifique -> suspension | suspend
@@ -334,7 +334,7 @@ noeuds:
     nom: Convention de désignation
     detail: Permanente, membres renouvelés tous les deux ans
     info: >-
-      Elle auditionne publiquement les candidats recevables et désigne les ministres aux deux tiers. Elle désigne aussi les représentants
+      Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après deux tours sans résultat, un troisième tour départage les deux premiers. Elle désigne aussi les représentants
       aux relations extérieures (articles [61](#convention-designation-ministres) et [62](#procedure-designation-ministres)).
   - id: ministres
     ligne: 4
@@ -395,7 +395,7 @@ liens:
   - appel -> probite | en parallèle
   - jury -> designation | compétences
   - probite -> designation | recevables
-  - designation -> ministres | désigne aux 2/3
+  - designation -> ministres | désigne
   - ministres -> decrets | prennent
   - ministres -> controle | contrôlés
   - decrets -> evocation | contestation

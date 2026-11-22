@@ -90,13 +90,15 @@ Les délibérations des conventions sont libres. Les membres ne sont liés par a
 
 Les règles de transparence des influences, de probité et de prévention des manipulations fixées au Titre [XIV](#probite-deliberative) s'appliquent aux conventions citoyennes.
 
-### Article 17 — Majorité qualifiée {#majorite-qualifiee}
+### Article 17 — Majorités et quorum {#majorite-qualifiee}
 
-Sauf disposition contraire de la présente Constitution, pour que la convention citoyenne puisse délibérer valablement, un quorum des deux tiers de ses membres est requis. Les décisions matérielles sont adoptées à la majorité qualifiée des deux tiers des membres présents. Cette majorité s'applique notamment à l'adoption de la loi, du budget, des décisions stratégiques et des mesures exceptionnelles de crise.
+Sauf disposition contraire de la présente Constitution, les décisions des conventions citoyennes sont adoptées à la majorité absolue de leurs membres. Cette majorité s'applique notamment à l'adoption de la loi et du budget, aux décisions de la convention de programmation et aux désignations.
+
+Lorsque la présente Constitution requiert la majorité qualifiée, celle-ci est des deux tiers des membres de la convention. Elle est réservée aux décisions exceptionnelles, notamment la confirmation d'un texte suspendu, les mesures exceptionnelles de crise et les dérogations aux priorités fixées par la convention de programmation.
 
 Les décisions relatives à la procédure interne et à l'organisation des travaux sont prises à la majorité simple des membres présents.
 
-Si le quorum n'est pas atteint, la délibération est ajournée. La convention est reconvoquée dans un délai fixé par la loi organique, qui ne peut excéder sept jours. Lors de la seconde convocation, la convention délibère valablement à la majorité des deux tiers des membres présents, sous réserve d'un quorum résiduel de la moitié des membres de la convention.
+Une convention ne délibère valablement que si la majorité de ses membres est présente. À défaut, la délibération est ajournée et la convention est reconvoquée dans un délai fixé par la loi organique, qui ne peut excéder sept jours.
 
 ### Article 18 — Application aux autres conventions {#application-autres-conventions}
 
@@ -160,7 +162,7 @@ Elle ne peut être inférieure à une durée minimale ni supérieure à une dur�
 
 ### Article 24 — Adoption de la loi {#adoption-loi}
 
-La convention thématique adopte le texte de loi à la majorité qualifiée définie à l'article [17](#majorite-qualifiee).
+La convention thématique adopte le texte de loi à la majorité absolue de ses membres, dans les conditions prévues à l'article [17](#majorite-qualifiee).
 
 L'adoption vaut loi, sous réserve des contrôles scientifiques et constitutionnels prévus par la présente Constitution. La loi entre en vigueur à la date qu'elle fixe ou, à défaut, le lendemain de sa publication officielle. Les modalités de publication sont fixées par la loi organique.
 
