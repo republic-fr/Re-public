@@ -112,7 +112,7 @@ Pas à l’échelle d’un pays entier, mais le tirage au sort démocratique a f
 
 ### Comment passer de la Ve République à ce régime ?
 
-Par la voie démocratique : une convention constituante de trois cents citoyens tirés au sort, puis un référendum. Les étapes sont détaillées sur la page [Comment](/comment/).
+Par la voie démocratique : une loi votée selon les règles actuelles ouvre le processus ; une convention constituante de trois cents citoyens tirés au sort et une convention des droits fondamentaux siègent en parallèle ; un référendum ratifie les deux textes. Tout est préparé pendant la campagne, pour que les nouvelles institutions soient en place dans le mois qui suit la ratification (Titre [XVII](#transition)). Les étapes et les deux voies juridiques possibles sont détaillées sur la page [Comment](/comment/).
 
 ### Le texte est-il définitif ?
 
