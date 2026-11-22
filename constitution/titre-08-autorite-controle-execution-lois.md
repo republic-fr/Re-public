@@ -54,13 +54,9 @@ Toute personne, toute collectivité territoriale, toute convention et toute auto
 
 ## Chapitre III — Le service technique permanent
 
-### Article 84 — Juridiction financière et service technique {#juridiction-financiere-service-technique}
+### Article 84 — Cour des comptes et service technique {#juridiction-financiere-service-technique}
 
-La Cour des comptes est une juridiction financière indépendante. Elle juge les comptes des comptables publics, se prononce sur la régularité, la sincérité et l'efficacité de la gestion publique, et exerce les pouvoirs juridictionnels que lui confère la loi.
-
-Les magistrats de la Cour sont inamovibles. Leur statut, les conditions de leur nomination et leur discipline sont fixés par la loi organique et garantis par le Conseil supérieur de la magistrature, dans sa formation compétente à l'égard de la juridiction administrative.
-
-La Cour des comptes transmet d'office à la session plénière annuelle tous les rapports et constats susceptibles de révéler une faute grave ou un dysfonctionnement structurel. Elle répond aux demandes d'expertise de la session plénière et du service technique. Elle peut saisir l'Autorité et la Juridiction de probité et de responsabilité publique selon les règles qui leur sont propres.
+La Cour des comptes, juridiction financière dont le statut est fixé à l'article [107](#independance-justice), transmet d'office à la session plénière annuelle tous les rapports et constats susceptibles de révéler une faute grave ou un dysfonctionnement structurel. Elle répond aux demandes d'expertise de la session plénière et du service technique. Elle peut saisir l'Autorité et la Juridiction de probité et de responsabilité publique selon les règles qui leur sont propres.
 
 Le service technique permanent de l'Autorité, distinct de la Cour, comprend les corps d'inspection et d'audit non juridictionnels. Ses moyens sont fixés par la loi.
 
