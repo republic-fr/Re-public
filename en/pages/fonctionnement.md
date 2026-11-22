@@ -334,8 +334,8 @@ noeuds:
     nom: Appointments convention
     detail: 50 citizens, half renewed every year
     info: >-
-      It holds public hearings of the eligible candidates and appoints the ministers by an absolute majority of its members; after three rounds without a majority, the appointment is resumed after a partial renewal of the convention, and an interim arrangement ensures continuity. It also appoints the external relations
-      representatives. If the Oversight Authority finds that a minister is not implementing the laws, it may warn them, then, six months later and by a two-thirds majority, end their term of office (Articles [53](#convention-designation-ministres), [54](#procedure-designation-ministres) and [56](#duree-mandat-ministeriel)).
+      It holds public hearings of the eligible candidates and appoints the ministers by an absolute majority of its members. After two rounds without a majority, a third round is held between the two leading candidates, still requiring an absolute majority; failing that, the appointment is resumed after a partial renewal of the convention, and an interim arrangement ensures continuity. It also appoints the external relations
+      representatives. If a report of the Oversight Authority finds that a minister is not implementing the laws, the convention may issue them a public warning, with objectives. If, at least six months later, a new report finds that these objectives have not been met, it may end their term of office by a two-thirds majority (Articles [53](#convention-designation-ministres), [54](#procedure-designation-ministres) and [56](#duree-mandat-ministeriel)).
   - id: ministres
     ligne: 4
     colonne: 2

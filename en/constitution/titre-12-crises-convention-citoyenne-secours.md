@@ -26,7 +26,7 @@ Even in times of crisis, any measure is absolutely prohibited whose effect or pu
 
 - to infringe the inviolable rights guaranteed in Article [9](#droits-intangibles);
 
-- to prolong a state of exception beyond the durations and without the controls provided for in Article [123](#secours-duree-reexamen);
+- to prolong a state of exception beyond the durations or without the controls provided for in Article [123](#secours-duree-reexamen);
 
 - to combine with judicial power or with the review of the constitutional validity of the law.
 

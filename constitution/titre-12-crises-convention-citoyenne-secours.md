@@ -26,7 +26,7 @@ Même en temps de crise, sont absolument interdites toutes mesures ayant pour ef
 
 - de porter atteinte aux droits intangibles garantis à l'article [9](#droits-intangibles) ;
 
-- de prolonger une situation d'exception au-delà des durées et sans les contrôles prévus à l'article [123](#secours-duree-reexamen) ;
+- de prolonger une situation d'exception au-delà des durées ou sans les contrôles prévus à l'article [123](#secours-duree-reexamen) ;
 
 - de cumuler avec le pouvoir juridictionnel ou avec le contrôle de la validité constitutionnelle de la loi.
 
