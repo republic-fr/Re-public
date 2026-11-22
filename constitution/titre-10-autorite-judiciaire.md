@@ -55,6 +55,8 @@ Chaque formation comprend douze membres :
 
 - une personnalité qualifiée issue de la société civile.
 
+Lorsqu'elle statue en matière disciplinaire, la formation comprend douze membres : cinq magistrates ou magistrats du corps concerné, tirés au sort parmi les sept, l'avocate ou l'avocat, les deux universitaires, la personnalité qualifiée et trois citoyennes ou citoyens tirés au sort pour un an. Les magistrates et magistrats y sont ainsi en minorité.
+
 ### Article 113 — Désignation des membres {#csm-designation-membres}
 
 Les magistrates et magistrats membres du Conseil supérieur de la magistrature sont élus par leurs pairs, dans les conditions fixées par la loi organique, en veillant à la représentation des différents niveaux de juridiction et des différents types de fonctions.
@@ -107,7 +109,7 @@ Le Conseil supérieur de la magistrature exerce le pouvoir disciplinaire sur les
 
 La procédure disciplinaire est contradictoire, les décisions sont motivées et publiques, sauf exception strictement justifiée par la protection de tiers.
 
-Les décisions disciplinaires sont susceptibles d'un recours juridictionnel devant une formation dédiée du Conseil supérieur de la magistrature, composée de membres n'ayant pas siégé en première instance.
+Les décisions disciplinaires sont susceptibles d'un recours juridictionnel devant une formation dédiée du Conseil supérieur de la magistrature, composée de membres n'ayant pas siégé en première instance, selon la composition prévue en matière disciplinaire à l'article [112](#csm-composition).
 
 ### Article 118 — Déontologie {#csm-deontologie}
 
