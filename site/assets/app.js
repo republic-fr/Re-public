@@ -2,6 +2,16 @@
 (function () {
   'use strict';
   var cfg = window.REPUBLIC || {};
+  var EN = document.documentElement.lang === 'en';
+  var T = EN ? {
+    close: 'Close', menu: 'Menu', none: 'No article matches.', hide: 'Hide comments', comment: 'Comment',
+    soon: 'Comments will open when the project goes public. Meanwhile, you can suggest a change <a href="https://github.com/' + cfg.repo + '">on GitHub</a>.',
+    sending: 'Sending…', sent: 'Thank you, your message has been sent.', failed: 'Sending failed. Please try again, or write to us directly.', copied: 'Link copied'
+  } : {
+    close: 'Fermer', menu: 'Menu', none: 'Aucun article ne correspond.', hide: 'Masquer les commentaires', comment: 'Commenter',
+    soon: 'Les commentaires ouvriront à la mise en ligne publique du projet. En attendant, vous pouvez proposer une modification <a href="https://github.com/' + cfg.repo + '">sur GitHub</a>.',
+    sending: 'Envoi en cours…', sent: 'Merci, votre message a bien été envoyé.', failed: 'L’envoi a échoué. Réessayez, ou écrivez-nous directement.', copied: 'Lien copié'
+  };
 
   // Grille de tirage : 150 cases, un tirage nouveau à chaque affichage.
   document.querySelectorAll('[data-sortition]').forEach(function (g) {
@@ -126,14 +136,14 @@
   if (toggle && nav) toggle.addEventListener('click', function () {
     var open = nav.classList.toggle('is-open');
     toggle.setAttribute('aria-expanded', String(open));
-    toggle.textContent = open ? 'Fermer' : 'Menu';
+    toggle.textContent = open ? T.close : T.menu;
   });
 
   // Recherche dans le texte
   var index = null, loading = null;
   function load() {
     if (index) return Promise.resolve(index);
-    if (!loading) loading = fetch('/search.json').then(function (r) { return r.json(); }).then(function (d) {
+    if (!loading) loading = fetch(EN ? '/en/search.json' : '/search.json').then(function (r) { return r.json(); }).then(function (d) {
       index = d.map(function (a) { a.k = norm(a.t + ' ' + a.x); a.kt = norm(a.t); return a; });
       return index;
     });
@@ -168,7 +178,7 @@
         }).filter(Boolean).sort(function (x, y) { return y.s - x.s; }).slice(0, 12).map(function (r) { return r.a; });
         list.innerHTML = res.length ? res.map(function (a) {
           return '<li><a href="' + a.u + '"><b>' + a.n + '</b><span><b>' + escapeHtml(a.t) + '</b><small>' + a.g + ' · ' + escapeHtml(excerpt(a.x, words)) + '</small></span></a></li>';
-        }).join('') : '<li class="search__empty">Aucun article ne correspond.</li>';
+        }).join('') : '<li class="search__empty">' + T.none + '</li>';
       });
     }
     input.addEventListener('focus', load);
@@ -218,11 +228,11 @@
       var open = box.hidden;
       box.hidden = !open;
       btn.setAttribute('aria-expanded', String(open));
-      btn.textContent = open ? 'Masquer les commentaires' : 'Commenter';
+      btn.textContent = open ? T.hide : T.comment;
       if (!open || box.dataset.loaded) return;
       box.dataset.loaded = '1';
       if (!ready) {
-        box.innerHTML = '<p class="comments__note">Les commentaires ouvriront à la mise en ligne publique du projet. En attendant, vous pouvez proposer une modification <a href="https://github.com/' + cfg.repo + '">sur GitHub</a>.</p>';
+        box.innerHTML = '<p class="comments__note">' + T.soon + '</p>';
         return;
       }
       var s = document.createElement('script');
@@ -233,7 +243,7 @@
         'data-repo': g.repo, 'data-repo-id': g.repoId, 'data-category': g.category, 'data-category-id': g.categoryId,
         'data-mapping': 'specific', 'data-term': btn.getAttribute('data-term'), 'data-strict': '1',
         'data-reactions-enabled': '1', 'data-emit-metadata': '0', 'data-input-position': 'top',
-        'data-theme': dark ? 'noborder_dark' : 'noborder_light', 'data-lang': 'fr', 'data-loading': 'lazy'
+        'data-theme': dark ? 'noborder_dark' : 'noborder_light', 'data-lang': EN ? 'en' : 'fr', 'data-loading': 'lazy'
       };
       Object.keys(attrs).forEach(function (k) { s.setAttribute(k, attrs[k]); });
       box.appendChild(s);
@@ -254,14 +264,14 @@
       if (!window.fetch) return;
       e.preventDefault();
       var status = f.querySelector('.contact-form__status'), btn = f.querySelector('button');
-      btn.disabled = true; status.textContent = 'Envoi en cours…';
+      btn.disabled = true; status.textContent = T.sending;
       fetch(f.action, { method: 'POST', headers: { Accept: 'application/json' }, body: new FormData(f) })
         .then(function (r) { return r.json(); })
         .then(function (d) {
-          if (d.success) { f.reset(); status.textContent = 'Merci, votre message a bien été envoyé.'; }
-          else { status.textContent = 'L’envoi a échoué. Réessayez, ou écrivez-nous directement.'; }
+          if (d.success) { f.reset(); status.textContent = T.sent; }
+          else { status.textContent = T.failed; }
         })
-        .catch(function () { status.textContent = 'L’envoi a échoué. Réessayez, ou écrivez-nous directement.'; })
+        .catch(function () { status.textContent = T.failed; })
         .then(function () { btn.disabled = false; });
     });
   });
@@ -271,7 +281,7 @@
     a.addEventListener('click', function () {
       var url = location.origin + location.pathname + a.getAttribute('href');
       if (navigator.clipboard) navigator.clipboard.writeText(url).then(function () {
-        var t = a.textContent; a.textContent = 'Lien copié'; setTimeout(function () { a.textContent = t; }, 1600);
+        var t = a.textContent; a.textContent = T.copied; setTimeout(function () { a.textContent = t; }, 1600);
       });
     });
   });

@@ -31,6 +31,15 @@ export const TYPES = {
   etape: 'Étape',
 };
 
+// Textes de l'interface, par langue.
+const UI = {
+  fr: { types: TYPES, hint: 'Survolez ou touchez un élément du schéma', text: 'Lire ce schéma sous forme de texte', next: 'Ensuite :' },
+  en: {
+    types: { citoyens: 'Citizens drawn by lot', electeurs: 'Voters and residents', autorite: 'Authorities and courts', administration: 'Administration', etape: 'Step' },
+    hint: 'Hover over or tap an element of the diagram', text: 'Read this diagram as text', next: 'Next:',
+  },
+};
+
 const esc = (s) => String(s ?? '').replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 function parseLink(s, ids, where) {
@@ -63,7 +72,8 @@ export function parseSchema(src, where) {
  * Produit le HTML d'un schéma.
  * @param inline fonction qui transforme un texte court (renvois, gras) en HTML.
  */
-export function renderSchema(s, inline) {
+export function renderSchema(s, inline, lang = 'fr') {
+  const L = UI[lang] || UI.fr;
   const nodes = [...s.noeuds].sort((a, b) => a.ligne - b.ligne || a.colonne - b.colonne);
   const name = Object.fromEntries(nodes.map((n) => [n.id, n.nom]));
   const rows = Math.max(...nodes.map((n) => n.ligne));
@@ -80,13 +90,13 @@ export function renderSchema(s, inline) {
       + `${out ? `<ul class="dg-node__out" aria-hidden="true">${out}</ul>` : ''}</button>`;
   }).join('');
 
-  const templates = nodes.map((n) => `<template data-node="${esc(n.id)}"><p class="dg__kicker">${esc(TYPES[n.type || 'autorite'])}</p><h3>${esc(n.nom)}</h3>${n.info ? `<p>${inline(n.info)}</p>` : ''}</template>`).join('');
-  const intro = `<p class="dg__kicker">Survolez ou touchez un élément du schéma</p>${s.intro ? `<p>${inline(s.intro)}</p>` : ''}`;
-  const legend = Object.entries(TYPES).filter(([k]) => used.has(k) && k !== 'etape')
+  const templates = nodes.map((n) => `<template data-node="${esc(n.id)}"><p class="dg__kicker">${esc(L.types[n.type || 'autorite'])}</p><h3>${esc(n.nom)}</h3>${n.info ? `<p>${inline(n.info)}</p>` : ''}</template>`).join('');
+  const intro = `<p class="dg__kicker">${esc(L.hint)}</p>${s.intro ? `<p>${inline(s.intro)}</p>` : ''}`;
+  const legend = Object.entries(L.types).filter(([k]) => used.has(k) && k !== 'etape')
     .map(([k, v]) => `<li><i class="dg-swatch dg-node--${k}"></i>${esc(v)}</li>`).join('');
   const text = nodes.map((n) => {
     const out = outs(n.id).map((l) => `${l.label ? `${esc(l.label)} : ` : ''}${esc(name[l.to])}`).join(' ; ');
-    return `<dt>${esc(n.nom)}${n.detail ? ` — ${esc(n.detail)}` : ''}</dt><dd>${n.info ? inline(n.info) : ''}${out ? ` <span class="dg__next">Ensuite : ${out}.</span>` : ''}</dd>`;
+    return `<dt>${esc(n.nom)}${n.detail ? ` — ${esc(n.detail)}` : ''}</dt><dd>${n.info ? inline(n.info) : ''}${out ? ` <span class="dg__next">${esc(L.next)} ${out}.</span>` : ''}</dd>`;
   }).join('');
   const links = JSON.stringify(s.liens.map(({ from, to, label, dashed, via }) => ({ from, to, label, dashed, via })));
 
@@ -97,7 +107,7 @@ export function renderSchema(s, inline) {
 </div>
 ${templates}
 <ul class="dg__legend">${legend}</ul>
-<details class="dg__text"><summary>Lire ce schéma sous forme de texte</summary><dl>${text}</dl></details>
+<details class="dg__text"><summary>${esc(L.text)}</summary><dl>${text}</dl></details>
 </figure>`;
 }
 
@@ -111,6 +121,6 @@ export function extractSchemas(raw, where) {
   return { text, schemas: found };
 }
 
-export function injectSchemas(html, schemas, inline) {
-  return html.replace(/<div data-schema-slot="(\d+)"><\/div>/g, (all, i) => renderSchema(schemas[+i], inline));
+export function injectSchemas(html, schemas, inline, lang = 'fr') {
+  return html.replace(/<div data-schema-slot="(\d+)"><\/div>/g, (all, i) => renderSchema(schemas[+i], inline, lang));
 }

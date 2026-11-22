@@ -6,6 +6,7 @@ import MarkdownIt from 'markdown-it';
 import { check, renderRefs, stripIds, headIds, ROMAN } from './refs.mjs';
 import { extractSchemas, injectSchemas } from './schemas.mjs';
 import { comparer } from './refonte.mjs';
+import { equivalent } from './i18n.mjs';
 
 const ROOT = path.resolve(path.dirname(new URL(import.meta.url).pathname), '..');
 const SRC = path.join(ROOT, 'constitution');
@@ -115,7 +116,9 @@ function layout({ title, description = config.description, current = '', body, b
 <meta property="og:image:height" content="630">
 <meta property="og:image:alt" content="REpublic — Repenser la démocratie par le tirage au sort">
 <meta name="twitter:card" content="summary_large_image">
-${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" href="${url}">`}
+${noindex ? '<meta name="robots" content="noindex">' : `<link rel="canonical" href="${url}">
+<link rel="alternate" hreflang="fr" href="${url}">
+<link rel="alternate" hreflang="en" href="${config.siteUrl}${equivalent(path)}">`}
 ${ld}
 <link rel="icon" href="/assets/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -131,7 +134,7 @@ ${ld}
   <div class="wrap site-header__in">
     ${wordmark('20px')}
     <button class="menu-toggle" aria-expanded="false" aria-controls="nav">Menu</button>
-    <nav id="nav" class="site-nav" aria-label="Navigation principale">${nav}</nav>
+    <nav id="nav" class="site-nav" aria-label="Navigation principale">${nav}<a class="site-nav__lang" href="${equivalent(path)}" hreflang="en" lang="en">EN</a></nav>
   </div>
 </header>
 <main id="contenu">
