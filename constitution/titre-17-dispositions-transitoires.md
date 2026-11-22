@@ -40,7 +40,7 @@ Le Parlement cesse ses fonctions à l'entrée en vigueur de la présente Constit
 
 Le Gouvernement en fonction expédie les affaires courantes jusqu'à la prise de fonction des ministres désignés, sous le contrôle de la convention de secours. Il ne prend aucune mesure réglementaire nouvelle, sauf urgence et sous le contrôle du juge.
 
-La présidente ou le président de la République quitte ses fonctions à la prise de fonction des ministres désignés. Jusqu'à cette date, ses attributions sont limitées à la représentation de la République et à la continuité de l'État.
+Le Président de la République quitte ses fonctions à la prise de fonction des ministres désignés. Jusqu'à cette date, ses attributions sont limitées à la représentation de la République et à la continuité de l'État.
 
 ### Article 225 — Déclaration des droits fondamentaux {#transition-declaration-droits}
 
