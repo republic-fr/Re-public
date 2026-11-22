@@ -50,7 +50,9 @@ La session plénière annuelle :
 
 - nomme ou renouvelle le Procureur général des comptes publics dans les conditions prévues à l'article [85](#procureur-general-comptes-publics) ;
 
-- examine le rapport annuel de la Commission permanente de contrôle du renseignement et des forces armées et peut, dans les limites compatibles avec le secret, formuler des recommandations publiques, demander à la Commission des enquêtes complémentaires ou saisir la Juridiction de probité et de responsabilité publique des fautes graves portées à sa connaissance.
+- examine le rapport annuel de la Commission permanente de contrôle du renseignement et des forces armées et peut, dans les limites compatibles avec le secret, formuler des recommandations publiques, demander à la Commission des enquêtes complémentaires ou saisir la Juridiction de probité et de responsabilité publique des fautes graves portées à sa connaissance ;
+
+- examine les rapports annuels d'activité du Conseil constitutionnel et de la Juridiction de probité et de responsabilité publique ; elle peut entendre leurs membres et formuler des recommandations publiques, sans pouvoir remettre en cause aucune décision juridictionnelle.
 
 La session plénière statue à la majorité absolue de ses membres, sauf disposition contraire de la présente Constitution.
 
