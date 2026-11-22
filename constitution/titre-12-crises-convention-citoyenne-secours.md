@@ -80,7 +80,7 @@ d) Audit annuel. La Juridiction de probité et de responsabilité publique publi
 
 e) Convention thématique de contrôle. Tous les cinq ans, une convention thématique dédiée examine l'usage cumulé de ces mesures. Elle peut proposer toute modification du régime, y compris sa restriction ou sa suppression, dans les conditions de la révision constitutionnelle.
 
-f) Clause de réexamen. Le présent alinéa et les deux alinéas qui le précèdent font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse selon la procédure de révision prévue au Titre [XVI](#revision), convention constituante et référendum compris, ils deviennent caducs.
+f) Clause de réexamen. Les dispositions relatives aux mesures prévues aux 1° et 2°, y compris les présentes garanties, font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse selon la procédure de révision prévue au Titre [XVI](#revision), convention constituante et référendum compris, ils deviennent caducs.
 
 ### Article 147 — Cadre interdit {#conservatoires-cadre-interdit}
 
@@ -152,7 +152,7 @@ Elle est en outre saisie dans les seuls cas suivants :
 - par au moins un tiers des ministres, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
 - de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [66](#interim-ministeriel) ;
 - par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [72](#relations-exterieures-saisine-secours) ;
-- par le ministre de la Défense, qui l'informe de toute opération défensive, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
+- par le ministre de la Défense, qui l'informe de toute opération défensive ou urgente, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
 - par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [88](#controle-renseignement-armees) ;
 - de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
 
@@ -176,7 +176,7 @@ La convention de secours :
 
 - autorise l'emploi de la force nucléaire dans les conditions prévues à l'article [78](#emploi-arme-nucleaire) ;
 
-- autorise les interventions militaires offensives ou durables lorsque l'urgence ne permet pas la convocation d'une convention thématique dédiée ;
+- autorise les opérations militaires lorsque l'urgence ne permet pas la convocation d'une convention thématique dédiée, et confirme ou fait cesser les opérations urgentes prévues à l'article [77](#autorisation-operations-militaires) ;
 
 - peut demander la révocation de tout membre de l'administration d'exécution ayant agi hors cadre, selon les modalités du Titre [IX](#juridiction-probite) ;
 

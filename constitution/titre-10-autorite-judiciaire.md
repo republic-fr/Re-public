@@ -177,4 +177,4 @@ En cas de contestation sur la nature d'une mesure d'organisation judiciaire, le 
 
 ### Article 126 — Loi organique {#loi-organique-judiciaire}
 
-Une loi organique détermine les modalités d'application du présent titre, notamment la composition détaillée, les règles d'organisation et de fonctionnement du Conseil supérieur de la magistrature, la procédure disciplinaire, les conditions de saisine par les justiciables et la procédure de désignation du premier président de la Cour de cassation et du procureur général près cette Cour.
+Une loi organique détermine les modalités d'application du présent titre, notamment la composition détaillée, les règles d'organisation et de fonctionnement du Conseil supérieur de la magistrature, la procédure disciplinaire, les conditions de saisine par les justiciables et la procédure de désignation de la première présidente ou du premier président de la Cour de cassation, de la procureure générale ou du procureur général près cette Cour et de la présidente ou du président du Conseil d'État.

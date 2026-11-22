@@ -712,7 +712,7 @@ noeuds:
     nom: Vote tous les 30 jours
     detail: Six mois au plus
     info: >-
-      Sans nouveau vote, les mesures tombent. Au-delà de six mois, elles passent à une convention ordinaire, sauf conflit armé ou catastrophe majeure :
+      Sans nouveau vote, les mesures tombent. Au-delà de six mois, elles passent à une convention thématique, sauf conflit armé ou catastrophe majeure :
       prorogation de trois mois aux trois quarts (article [157](#secours-duree-reexamen)).
   - id: fin
     ligne: 6

@@ -54,7 +54,7 @@ Sont interdits et sanctionnés :
 
 - la rétention délibérée d'information déterminante ;
 
-- la manipulation informationnelle organisée ;
+- la manipulation informationnelle organisée, au sens de l'article [177](#atteinte-souverainete-populaire) ;
 
 - le financement illicite des partis, groupements politiques ou campagnes ;
 
@@ -92,7 +92,7 @@ Tout vivier public d'accréditation constitué en application de la présente Co
 
 - motivation publique de tout refus d'accréditation, susceptible de recours devant l'Autorité de programmation civique, puis devant le Conseil constitutionnel.
 
-Ces principes sont applicables aux viviers prévus aux articles [39](#cc-composition), [53](#vivier-scientifique-designation), [63](#jury-technique-ministres), [90](#defenseur-droits-designation), [93](#defenseur-droits-college), [96](#juridiction-probite-composition), [113](#csm-designation-membres) et [170](#vivier-public-experts).
+Ces principes sont applicables aux viviers prévus aux articles [39](#cc-composition), [53](#vivier-scientifique-designation), [63](#jury-technique-ministres), [88](#controle-renseignement-armees), [90](#defenseur-droits-designation), [93](#defenseur-droits-college), [96](#juridiction-probite-composition), [113](#csm-designation-membres), [170](#vivier-public-experts) et [180](#autorite-regulation-vie-democratique).
 
 ### Article 171 — Jury d'experts indépendants {#jury-experts-independants}
 

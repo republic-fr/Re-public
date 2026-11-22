@@ -107,7 +107,7 @@ Les représentants sont révocables en cours de mandat par la Juridiction de pro
 
 ### Article 70 — Obligations de transparence et d'abstention {#representants-transparence-abstention}
 
-Les représentants rendent compte intégralement de leurs entretiens aux ministres concernés et aux organes de contrôle. L'ensemble des comptes rendus est versé au dossier public dans les conditions fixées par la loi organique, sous réserve des secrets strictement protégés par la Constitution.
+Les représentants rendent compte intégralement de leurs entretiens aux ministres concernés et aux organes de contrôle. L'ensemble des comptes rendus est versé au dossier public dans les conditions fixées par la loi organique, sous réserve des secrets définis à l'article [88](#controle-renseignement-armees).
 
 Il est absolument interdit aux représentants de prendre position publiquement en leur nom propre. Ils ne s'expriment qu'au nom des ministres compétents, sur la base d'instructions écrites et publiques.
 
