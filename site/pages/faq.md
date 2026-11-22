@@ -50,7 +50,7 @@ Les droits fondamentaux sont intangibles : aucune loi, aucune crise, aucune rév
 
 ### La démocratie procédurale ne se paie-t-elle pas d’un recul de la liberté d’expression et du pluralisme ?
 
-Les partis restent libres et ne peuvent être dissous pour leurs idées (articles [5](#partis-groupements-politiques) et [186](#dissolution-partis)). Le contrôle d’intégrité des candidats est strictement limité aux positions objectivement incompatibles avec la défense de la Constitution et des droits intangibles (article [99](#controle-prealable-probite)). Les sanctions contre la manipulation informationnelle visent les comportements organisés, jamais les opinions ni les erreurs journalistiques, et restent sous contrôle d’un juge (article [179](#manipulation-sanctions)). Les auditions des conventions doivent représenter toutes les grandes familles d’acteurs (article [175](#pluralite-minimale-auditions)).
+Les partis restent libres et ne peuvent être dissous pour leurs idées (articles [5](#partis-groupements-politiques) et [186](#dissolution-partis)). Le contrôle d’intégrité des candidats porte uniquement sur des actes, comme la violence ou une condamnation pour atteinte aux institutions, jamais sur les opinions (article [99](#controle-prealable-probite)). Les sanctions contre la manipulation informationnelle visent les comportements organisés, jamais les opinions ni les erreurs journalistiques ; toute sanction liée au contenu d’une information, comme le retrait d’une fréquence, est prononcée par un juge (article [179](#manipulation-sanctions)). Les auditions des conventions doivent représenter toutes les grandes familles d’acteurs (article [175](#pluralite-minimale-auditions)).
 
 ## <span class="kicker">03</span>Efficacité et continuité
 
@@ -82,7 +82,7 @@ Siéger est un devoir civique, comme être juré d’assises. On peut être disp
 
 ### Et les partis politiques ? Je ne pourrai plus voter pour mes idées ?
 
-Les partis restent libres, et toutes les opinions sont protégées (article [5](#partis-groupements-politiques)). Ils continuent de débattre, de proposer, de mobiliser l’opinion et de lancer des pétitions. Ce qui change, c’est qu’ils ne choisissent plus ceux qui font la loi. Vous gardez le vote sur la Constitution, la pétition (article [36](#seuils-effets-petitions)) et le recours contre une loi (article [44](#cc-saisine-posteriori)).
+Les partis restent libres, et toutes les opinions sont protégées (article [5](#partis-groupements-politiques)). Ils continuent de débattre, de proposer, de mobiliser l’opinion et de lancer des pétitions, et peuvent verser une contribution écrite, publiée, au dossier de chaque convention (article [175](#pluralite-minimale-auditions)). Ce qui change, c’est qu’ils ne choisissent plus ceux qui font la loi. Vous gardez le vote sur la Constitution, la pétition (article [36](#seuils-effets-petitions)) et le recours contre une loi (article [44](#cc-saisine-posteriori)).
 
 ### Des étrangers pourront-ils voter ou siéger dans une convention ?
 

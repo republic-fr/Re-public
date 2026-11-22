@@ -56,7 +56,9 @@ Avant toute désignation à une fonction soumise à contrôle, la Juridiction v�
 
 - l'intégrité pénale, selon une grille de compatibilité fixée par la loi organique ;
 
-- l'intégrité constitutionnelle, strictement limitée à l'absence de positions publiques objectivement incompatibles avec la défense de la Constitution et le respect des droits intangibles garantis à l'article [9](#droits-intangibles).
+- l'intégrité constitutionnelle, appréciée exclusivement au regard d'actes : la commission de violences, l'appel public à la violence, ou une condamnation définitive pour atteinte aux institutions constitutionnelles ou aux droits intangibles garantis à l'article [9](#droits-intangibles).
+
+Les opinions exprimées par une candidate ou un candidat ne peuvent en aucun cas fonder une décision d'irrecevabilité.
 
 La Juridiction établit la liste des candidates et candidats recevables, transmise à la convention de désignation ou à l'autorité de nomination compétente.
 
