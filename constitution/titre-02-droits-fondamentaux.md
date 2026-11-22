@@ -10,33 +10,30 @@ Elle est complétée et précisée par une convention thématique des droits fon
 
 ### Article 9 — Droits intangibles {#droits-intangibles}
 
-Sont intangibles et ne peuvent faire l'objet d'aucune restriction, d'aucune dérogation ni d'aucune suspension, quel qu'en soit le motif :
+Les droits intangibles comprennent des droits absolus et des droits garantis.
+
+Sont absolus et ne peuvent faire l'objet d'aucune restriction, d'aucune dérogation ni d'aucune suspension, quel qu'en soit le motif :
 
 - la dignité humaine ;
-
 - l'interdiction de la peine de mort, des exécutions arbitraires et des disparitions forcées ;
-
 - l'interdiction de la torture et des peines ou traitements cruels, inhumains ou dégradants ;
-
 - l'interdiction de l'esclavage, de la servitude et du travail forcé ;
+- le principe de légalité des délits et des peines et la non-rétroactivité de la loi pénale plus sévère.
+
+Sont garantis :
 
 - le droit à l'intégrité physique et psychique ;
-
 - la liberté garantie à la femme d'avoir recours à une interruption volontaire de grossesse, et le droit à une fin de vie digne ;
-
 - l'égalité de tous devant la loi et l'interdiction des discriminations ;
-
 - la liberté de conscience, de pensée, d'opinion et de religion ;
-
-- le principe de légalité des délits et des peines et la non-rétroactivité de la loi pénale plus sévère ;
-
 - la présomption d'innocence ;
-
 - les droits de la défense ;
-
 - l'interdiction de la détention arbitraire ;
-
 - l'indépendance de la justice et le droit au recours juridictionnel effectif.
+
+La loi peut encadrer l'exercice d'un droit garanti, dans la mesure nécessaire et proportionnée à un objectif d'intérêt général ou à la protection des droits d'autrui. Elle ne peut ni le supprimer, ni en atteindre la substance. Aucun droit garanti ne peut être suspendu, même en période de crise.
+
+Porte atteinte à un droit intangible toute mesure qui restreint un droit absolu, ou qui supprime un droit garanti, en atteint la substance ou en encadre l'exercice de manière disproportionnée.
 
 ### Article 10 — Principe d'interprétation protectrice {#principe-interpretation-protectrice}
 

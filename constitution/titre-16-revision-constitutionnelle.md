@@ -80,7 +80,7 @@ La révision constitutionnelle est adoptée lorsque deux conditions sont simulta
 
 - la majorité des suffrages exprimés est favorable à la révision ;
 
-- la participation au scrutin atteint au moins la moitié des électrices et électeurs inscrits.
+- les suffrages favorables représentent au moins le tiers des électrices et électeurs inscrits.
 
 À défaut de l'une de ces conditions, le texte est rejeté.
 
