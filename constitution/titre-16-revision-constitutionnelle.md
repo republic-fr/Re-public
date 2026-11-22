@@ -26,7 +26,7 @@ Avant l'ouverture de la convention constituante, le Conseil constitutionnel stat
 
 - le respect du principe d'unité matérielle posé à l'article [214](#referendum-revision-unite-materielle).
 
-Le Conseil constitutionnel statue par décision motivée et publique. Sa décision est susceptible de recours dans les conditions fixées par la loi organique.
+Le Conseil constitutionnel statue par décision motivée et publique. Les auteurs de la demande peuvent, dans le mois, en demander le réexamen par le Conseil en formation plénière, sur un élément nouveau ou pour erreur matérielle.
 
 ## Chapitre II — La convention constituante
 
@@ -64,7 +64,7 @@ Si le Conseil constitutionnel constate d'autres atteintes, il suspend et renvoie
 
 ### Article 213 — Principe et portée {#referendum-revision-principe}
 
-Le texte adopté par la convention constituante et contrôlé par le Conseil constitutionnel est soumis au référendum pour ratification par le corps civique. Tout référendum prévu par la présente Constitution a lieu sur bulletin papier.
+Le texte adopté par la convention constituante et contrôlé par le Conseil constitutionnel est soumis au référendum pour ratification par le corps civique. Tout référendum prévu par la présente Constitution a lieu sur bulletin papier. Il est organisé par l'administration d'exécution sous le contrôle du Conseil constitutionnel, qui veille à sa régularité, juge les réclamations et proclame les résultats.
 
 Le référendum porte exclusivement sur le texte préalablement délibéré et adopté par la convention constituante. Le vote populaire ne peut se substituer à la phase de délibération constituante.
 
@@ -112,7 +112,7 @@ Toute révision qui aurait pour effet ou pour objet de supprimer, de restreindre
 
 Aucune révision constitutionnelle ne peut être engagée ou poursuivie pendant :
 
-- une crise relevant du Titre [XII](#crises), tant que la convention de secours n'a pas constaté la fin de la crise ;
+- une crise au sens de l'article [142](#notion-crise), tant que la convention de secours n'a pas constaté la fin de la crise ;
 
 - une atteinte à l'intégrité du territoire ;
 
@@ -124,4 +124,4 @@ En cas de nécessité exceptionnelle dûment motivée, la convention de secours 
 
 ### Article 220 — Procédure unique {#revision-procedure-unique}
 
-Toute révision constitutionnelle, quelle que soit sa nature ou son ampleur, suit la procédure prévue au présent titre. Aucune procédure allégée n'est admise. Les corrections purement techniques ou les actualisations terminologiques relèvent, selon leur nature, de l'interprétation juridictionnelle ou de la loi organique, sans modification du texte constitutionnel.
+Toute révision constitutionnelle, quelle que soit sa nature ou son ampleur, suit la procédure prévue au présent titre. Aucune procédure allégée n'est admise. Les corrections de pure forme, telles que les erreurs matérielles ou les renvois entre articles, sont regroupées et soumises avec la révision suivante. Ni l'interprétation juridictionnelle ni la loi organique ne peuvent modifier le texte constitutionnel.

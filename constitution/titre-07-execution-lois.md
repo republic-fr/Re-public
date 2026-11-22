@@ -29,7 +29,7 @@ Le décret évoqué est examiné par la convention ordinaire annuelle suivante, 
 
 L'administration d'exécution est collégiale. Elle est composée de ministres responsables de domaines de compétence distincts. Le nombre de ministères, leur périmètre et leurs règles de coordination sont fixés par la loi organique, sans que la concentration de compétences excessives puisse être opérée entre peu de mains.
 
-Les désaccords entre ministres sont réglés par délibération collective. En cas de blocage persistant affectant la mise en œuvre d'une loi ou la continuité d'un service public, la convention de secours peut être saisie dans les conditions prévues au Titre [XII](#crises).
+Les désaccords entre ministres sont réglés par délibération collective. En cas de blocage persistant affectant la mise en œuvre d'une loi ou la continuité d'un service public, la convention de secours peut être saisie, à la demande d'au moins un tiers des ministres, dans les conditions prévues au Titre [XII](#crises).
 
 Le collège des ministres est présidé à tour de rôle par l'un de ses membres, pour une durée d'un an, dans un ordre fixé par la loi organique. Nul ne peut exercer la présidence deux années de suite. En cas de vacance, la présidence revient au ministre suivant dans l'ordre de rotation.
 
@@ -57,7 +57,7 @@ La désignation d'une ou d'un ministre suit trois étapes :
 
 - des auditions publiques et la désignation par la convention de désignation à la majorité absolue de ses membres.
 
-Si aucun candidat n'obtient cette majorité après deux tours de scrutin, un troisième tour oppose les deux candidats arrivés en tête au second tour. Est désigné celui qui recueille la majorité des suffrages exprimés.
+Si aucun candidat n'obtient cette majorité après deux tours de scrutin, un troisième tour oppose les deux candidats arrivés en tête au second tour ; la majorité absolue des membres reste requise. À défaut, la désignation est reprise lors d'une séance ultérieure, après un renouvellement partiel de la convention par tirage au sort, dans les conditions fixées par la loi organique. L'intérim prévu à l'article [66](#interim-ministeriel) s'applique dans l'attente.
 
 ### Article 63 — Jury technique ad hoc {#jury-technique-ministres}
 
@@ -159,7 +159,7 @@ Toute opération militaire autorisée fait l'objet d'un réexamen périodique ob
 
 En cas d'agression nucléaire avérée ou imminente contre le territoire de la République, la décision de riposte est prise par au moins deux des trois autorités suivantes : la présidente ou le président du collège des ministres, la ou le ministre de la Défense et la ou le chef d'état-major des armées. L'attestation de l'agression est établie de manière indépendante selon un protocole technique fixé par la loi organique et vérifié par le Conseil constitutionnel.
 
-En cas d'empêchement de l'une des deux autorités, une chaîne de suppléance fixée par la loi organique garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
+En cas d'empêchement de l'une de ces trois autorités, une chaîne de suppléance fixée par la loi organique garantit la continuité de la décision. Cette chaîne ne peut jamais reposer sur une autorité unique.
 
 Dans tous les autres cas, l'emploi de l'arme nucléaire est subordonné à l'approbation préalable de la convention de secours statuant à la majorité qualifiée.
 
