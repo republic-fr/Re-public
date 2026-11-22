@@ -4,21 +4,25 @@
 
 ## Chapitre I — Négociation, conclusion et ratification
 
-### Article 187 — Négociation et conclusion {#traites-negociation-conclusion}
+### Article 187 — Négociation et conclusion {#traites-negociation-conclusion #negociations-preparatoires}
 
-Les traités internationaux sont négociés par les représentants aux relations extérieures prévus à l'article [68](#representants-relations-exterieures), dans le respect du mandat fixé, selon les matières, par l'administration d'exécution ou par les conventions compétentes.
+Les traités sont négociés par les représentants aux relations extérieures prévus à l'article [68](#representants-relations-exterieures), sans pouvoir de ratification, sur la base d'un mandat écrit fixé, selon les matières, par les ministres concernés ou par les conventions compétentes. Le mandat est public dans ses objectifs et ses lignes rouges. Les positions de repli sont confidentielles ; elles sont communiquées à la Commission permanente de contrôle du renseignement et des forces armées et publiées après la conclusion ou l'abandon de la négociation.
 
-Ils sont signés par les représentants habilités à cet effet.
+Un représentant négocie le texte, le ministre compétent valide la version négociée, et les représentants habilités le signent. Le traité est ensuite ratifié selon les règles de l'article [188](#traites-ratification).
 
-### Article 188 — Ratification {#traites-ratification}
+### Article 188 — Ratification {#traites-ratification #ratification-traites-majeurs #ratification-urgence #autres-traites}
 
-La ratification des traités relève :
+Sont ratifiés :
 
-- de la convention ordinaire annuelle, dans les conditions prévues à l'article [131](#budget-convention-ordinaire), pour les traités majeurs ;
+- par la convention ordinaire annuelle, les traités majeurs, c'est-à-dire ceux qui engagent les finances de la République, sa souveraineté, les compétences des autorités constitutionnelles ou les droits fondamentaux. La convention de programmation peut, par décision motivée, renvoyer à une convention thématique dédiée la ratification d'un traité majeur dont l'importance particulière le justifie. Si un traité majeur doit être ratifié avant la session ordinaire suivante, une session supplémentaire est réunie sur saisine de l'Autorité de programmation civique ;
 
-- d'une convention thématique dédiée, pour les traités comportant cession, échange ou adjonction de territoire, après consultation des populations concernées dans les conditions prévues à l'article [73](#ratification-traites-majeurs) ;
+- par une convention thématique dédiée, les traités comportant cession, échange ou adjonction de territoire. Aucune cession, aucun échange ni aucune adjonction de territoire n'est valable sans le consentement préalable des populations intéressées, recueilli par convention citoyenne territoriale ;
 
-- d'une convention constituante suivie d'un référendum, dans les conditions prévues au Titre [XVI](#revision), pour les traités comportant une clause contraire à la Constitution, après révision préalable de celle-ci conformément à l'article [191](#traites-controle-conformite).
+- par une convention constituante suivie d'un référendum, dans les conditions du Titre [XVI](#revision), les traités comportant une clause contraire à la Constitution, après révision préalable de celle-ci conformément à l'article [191](#traites-controle-conformite) ;
+
+- par le ministre compétent, les autres traités, après information obligatoire et préalable de l'Autorité de programmation civique et publication intégrale du texte et des négociations préparatoires. L'Autorité de contrôle de l'exécution des lois peut examiner leur conformité au programme législatif et aux orientations stratégiques en vigueur.
+
+En cas d'urgence internationale, la convention de secours peut ratifier un traité majeur, sous réserve de confirmation obligatoire par la convention ordinaire annuelle à sa prochaine session ordinaire. À défaut de confirmation, la ratification devient caduque et les engagements sont dénoncés dans les formes du droit international.
 
 Les traités ne prennent effet qu'après ratification ou approbation.
 

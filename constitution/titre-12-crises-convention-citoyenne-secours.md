@@ -151,7 +151,7 @@ Elle est en outre saisie dans les seuls cas suivants :
 - par l'Autorité de programmation civique, pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [25](#reexamen-cas-suspension) ;
 - par au moins un tiers des ministres, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
 - de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [66](#interim-ministeriel) ;
-- par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [72](#relations-exterieures-saisine-secours) ;
+- par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [68](#representants-relations-exterieures) ;
 - par le ministre de la Défense, qui l'informe de toute opération défensive ou urgente, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
 - par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [88](#controle-renseignement-armees) ;
 - de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
@@ -172,7 +172,7 @@ La convention de secours :
 
 - peut à tout moment les suspendre, les modifier ou en ordonner la levée ;
 
-- ratifie, en cas d'urgence internationale, les traités majeurs relevant de l'article [73](#ratification-traites-majeurs), sous réserve de confirmation par la convention ordinaire annuelle ;
+- ratifie, en cas d'urgence internationale, les traités majeurs relevant de l'article [188](#traites-ratification), sous réserve de confirmation par la convention ordinaire annuelle ;
 
 - autorise l'emploi de la force nucléaire dans les conditions prévues à l'article [78](#emploi-arme-nucleaire) ;
 

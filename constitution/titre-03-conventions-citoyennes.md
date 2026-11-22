@@ -182,7 +182,7 @@ La convention ordinaire annuelle siège une fois par an, au moment de l'examen d
 
 - le budget de l'État et les lois fiscales annuelles, dans le cadre des priorités fixées par la convention de programmation et dans les conditions du Titre [XI](#finances-publiques) ;
 
-- la ratification des traités majeurs relevant de l'article [73](#ratification-traites-majeurs) ;
+- la ratification des traités majeurs relevant de l'article [188](#traites-ratification) ;
 
 - le réexamen des textes suspendus, dans les conditions de l'article [25](#reexamen-cas-suspension) ;
 
