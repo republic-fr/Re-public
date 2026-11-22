@@ -20,7 +20,9 @@ D’abord de la représentativité : une convention tirée au sort selon le sexe
 
 ### 150 personnes ne peuvent pas représenter 68 millions d’habitants.
 
-C’est le principe du sondage : un échantillon bien construit reflète la diversité d’une population. Et contrairement à un sondage, ces 150 personnes s’informent, débattent et changent d’avis avant de décider. Il n’y a pas une convention, mais plusieurs chaque année, renouvelées à chaque fois.
+Elles ne prétendent pas parler au nom de chacun, comme le fait un élu. Elles décident à la place de tous, comme les jurés d’une cour d’assises jugent au nom du peuple français. Ce qui fonde leur légitimité n’est pas un mandat, mais l’égalité : chaque citoyenne et chaque citoyen a la même chance d’être tiré au sort, et la convention compte, dans les mêmes proportions que le pays, des femmes et des hommes, des jeunes et des aînés, des ouvriers et des cadres, des diplômés et des non-diplômés, des urbains et des ruraux (article [12](#composition-representativite)). Aucune assemblée élue n’y parvient.
+
+Surtout, une convention ne décide jamais seule, ni pour toujours. Il y en a plusieurs chaque année, avec de nouveaux membres à chaque fois. Chaque loi est contrôlée par le Conseil constitutionnel avant d’entrer en vigueur (article [39](#controle-prealable-automatique-lois)), peut ensuite être contestée par toute personne (article [40](#cc-saisine-posteriori)) et peut être modifiée ou abrogée par une convention suivante. La Constitution, elle, ne change que par référendum (article [168](#referendum-revision-majorite)).
 
 ### Qui rend des comptes, si personne n’est réélu ?
 

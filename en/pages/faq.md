@@ -20,7 +20,9 @@ First from representativeness: a convention drawn by lot according to sex, age, 
 
 ### 150 people cannot represent 68 million inhabitants.
 
-This is the principle behind opinion polls: a well-constructed sample reflects the diversity of a population. And unlike a poll, these 150 people inform themselves, debate and change their minds before deciding. There is not one convention but several each year, with new members every time.
+They do not claim to speak on behalf of each person, as an elected representative does. They decide in place of everyone, just as the jurors of a French criminal court (cour d’assises) give judgement in the name of the French people. Their legitimacy rests not on a mandate but on equality: every citizen has the same chance of being drawn by lot, and the convention includes, in the same proportions as the country, women and men, young and old, manual workers and managers, people with and without qualifications, town and country dwellers (Article [12](#composition-representativite)). No elected assembly achieves this.
+
+Above all, a convention never decides alone, nor for ever. There are several each year, with new members every time. Every law is reviewed by the Constitutional Council before it enters into force (Article [39](#controle-prealable-automatique-lois)), may then be challenged by any person (Article [40](#cc-saisine-posteriori)) and may be amended or repealed by a later convention. The Constitution itself can be changed only by referendum (Article [168](#referendum-revision-majorite)).
 
 ### Who is accountable, if no one is re-elected?
 
