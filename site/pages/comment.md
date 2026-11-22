@@ -60,7 +60,7 @@ Le projet ne demande à personne de devenir professionnel de la politique. Les c
 <tr><td>Conventions thématiques, qui font les lois</td><td class="num">150</td><td>environ 3 mois, puis dissolution</td></tr>
 <tr><td>Convention ordinaire annuelle, qui vote le budget</td><td class="num">150</td><td>environ 1 mois par an</td></tr>
 <tr><td>Convention de programmation</td><td class="num">150</td><td>environ 3 mois, tous les 5 ans</td></tr>
-<tr><td>Convention de désignation</td><td class="num">tirés pour 2 ans</td><td>quelques sessions par an</td></tr>
+<tr><td>Convention de désignation</td><td class="num">50, pour 2 ans</td><td>quelques sessions par an</td></tr>
 <tr><td>Convention de secours</td><td class="num">150</td><td>astreinte, ne siège qu’en cas de crise</td></tr>
 <tr><td>Conventions territoriales</td><td class="num">≈ 30 chacune</td><td>environ 1 mois par an</td></tr>
 </tbody>

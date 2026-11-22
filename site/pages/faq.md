@@ -38,7 +38,7 @@ Le texte y consacre un titre entier (Titre [XIV](#probite-deliberative)). Toute 
 
 ### Qui garantit que le tirage au sort n’est pas truqué ?
 
-Le tirage est public et vérifiable. L’algorithme est publié, et le tirage part d’une source de hasard publique, connue seulement au moment du tirage : personne ne peut choisir le résultat à l’avance. L’Autorité de contrôle de l’exécution des lois refait le calcul pour chaque tirage, et tout tirage peut être contesté devant le Conseil constitutionnel (article [13](#eligibilite-participation)).
+Le tirage est public et vérifiable. L’algorithme est publié, et le tirage part d’une source de hasard publique, connue seulement au moment du tirage : personne ne peut choisir le résultat à l’avance. L’Autorité de contrôle de l’exécution des lois refait le calcul pour chaque tirage, et tout tirage peut être contesté devant le Conseil constitutionnel dans les quinze jours (article [13](#eligibilite-participation)).
 
 ### Les experts et le « contrôle scientifique » vont gouverner à la place du peuple.
 
@@ -64,7 +64,7 @@ Les partis restent libres et ne peuvent être dissous pour leurs idées (article
 
 ### Sans président, qui décide en cas de crise ?
 
-Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles [119](#secours-composition-veille) et [120](#secours-saisine)). En attendant, l’administration prend les mesures de protection immédiate, coordonnées par le ministre qui préside le collège des ministres cette année-là, sous le contrôle d’un juge (article [52](#structure-collegiale)) et articles [115](#conservatoires-cadre-autorise) à [118](#crise-controle-juridictionnel)). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles [113](#crise-interdictions-absolues) et [123](#secours-duree-reexamen)).
+Une convention de secours, tirée au sort à l’avance et en veille permanente, peut se réunir en moins de 72 heures (articles [119](#secours-composition-veille) et [120](#secours-saisine)). En attendant, l’administration prend les mesures de protection immédiate, coordonnées par le ministre qui préside le collège des ministres cette année-là, sous le contrôle d’un juge (articles [52](#structure-collegiale) et [115](#conservatoires-cadre-autorise) à [118](#crise-controle-juridictionnel)). La convention de secours est limitée dans le temps et ne peut jamais toucher aux droits intangibles (articles [113](#crise-interdictions-absolues) et [123](#secours-duree-reexamen)).
 
 ### Le régime de crise ne rend-il pas la France vulnérable face à une cyberattaque, une pandémie ou une guerre ?
 
