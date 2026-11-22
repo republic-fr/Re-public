@@ -70,4 +70,6 @@ La République garantit à toute personne la protection contre la tyrannie de la
 
 Toute personne, qu'elle soit citoyenne, agent public ou militaire, a le droit et le devoir de refuser son concours à toute entreprise ayant pour objet ou pour effet de renverser l'ordre constitutionnel, de porter atteinte aux droits intangibles ou de supprimer le contrôle citoyen des institutions.
 
-Nul ne peut être poursuivi ni sanctionné pour avoir refusé d'exécuter un ordre manifestement contraire à la Constitution.
+Nul ne peut être poursuivi ni sanctionné pour avoir refusé d'exécuter un ordre manifestement contraire à la Constitution. Avoir exécuté un tel ordre n'exonère personne de sa responsabilité.
+
+Tout acte d'une autorité installée ou maintenue par la force est nul. Les auteurs et complices d'une entreprise de renversement de l'ordre constitutionnel ne peuvent bénéficier d'aucune amnistie.

@@ -651,7 +651,7 @@ noeuds:
     nom: Mesures conservatoires
     detail: L’administration agit sans délai
     info: >-
-      Secours, évacuation, protection des infrastructures, continuité des services : des mesures nécessaires, proportionnées et réversibles, coordonnées par le ministre qui préside le collège
+      Secours, évacuation, protection des infrastructures, continuité des services, et pendant 72 heures au plus fermeture de frontières ou restriction de circulation par les forces de police : des mesures nécessaires, proportionnées et réversibles, coordonnées par le ministre qui préside le collège
       (articles [60](#structure-collegiale), [146](#conservatoires-cadre-autorise) et [148](#conservatoires-validite)).
   - id: interdits
     ligne: 2
@@ -694,7 +694,7 @@ noeuds:
     nom: Mesures exceptionnelles
     detail: Autorisées aux deux tiers
     info: >-
-      Restriction de libertés, armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours
+      Restriction de libertés, engagement de l’armée sur le territoire, mesures fiscales exceptionnelles : elles exigent l’autorisation de la convention de secours. Aucune force armée ne peut approcher des institutions sans son accord
       (articles [147](#conservatoires-cadre-interdit) et [154](#secours-competences)).
   - id: controles
     ligne: 4

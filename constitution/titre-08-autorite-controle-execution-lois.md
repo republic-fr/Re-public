@@ -138,7 +138,8 @@ Elle exerce, dans des conditions préservant les secrets strictement nécessaire
 
 - saisine du Conseil constitutionnel, de la Juridiction de probité et de l'autorité judiciaire ;
 
-- saisine de plein droit de la convention de secours en cas de suspicion d'atteinte à l'ordre constitutionnel.
+- information en temps réel de tout mouvement de forces armées ou de gendarmerie sur le territoire national en dehors de leurs missions ordinaires ;
+- saisine immédiate et de plein droit de la convention de secours et du Conseil constitutionnel en cas de suspicion d'atteinte à l'ordre constitutionnel.
 
 Elle rend compte chaque année à la session plénière de l'Autorité de contrôle, selon des modalités garantissant la protection des secrets légitimes et la publicité des constatations structurelles.
 

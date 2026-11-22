@@ -34,7 +34,9 @@ Même en temps de crise, sont absolument interdites toutes mesures ayant pour ef
 
 Aucune situation de crise ne peut entraîner le transfert de pouvoirs civils à l'autorité militaire. L'autorité civile demeure, en toute circonstance, supérieure à l'autorité militaire.
 
-Les forces armées peuvent être mobilisées en appui des autorités civiles dans les conditions prévues par la loi, sous le contrôle du juge et dans le respect des droits fondamentaux. Cette mobilisation ne confère à l'autorité militaire aucun pouvoir propre de police, d'administration ou de contrainte en dehors du cadre strict fixé par la loi.
+Les forces armées peuvent être mobilisées en appui des autorités civiles dans les conditions prévues par la loi et à l'article [147](#conservatoires-cadre-interdit), sous le contrôle du juge et dans le respect des droits fondamentaux. Cette mobilisation ne confère à l'autorité militaire aucun pouvoir propre de police, d'administration ou de contrainte en dehors du cadre strict fixé par la loi.
+
+Aucune force armée, gendarmerie comprise, ne peut être déployée aux abords des lieux où siègent les conventions citoyennes, les juridictions et les autorités constitutionnelles, ni des locaux des médias, sans l'autorisation de la convention de secours. Toute violation de cette interdiction constitue une atteinte à l'ordre constitutionnel.
 
 ## Chapitre II — Les mesures conservatoires
 
@@ -56,29 +58,27 @@ L'administration d'exécution peut prendre, sans délai et sous le contrôle du 
 
 - toute autre mesure strictement opérationnelle répondant aux critères de l'article [148](#conservatoires-validite).
 
-Proposition d'ajout : En cas de menace imminente avérée pour la sécurité nationale ou la vie des personnes, l'administration d'exécution peut également ordonner, pour une durée maximale de soixante-douze heures non renouvelable :
+En cas de menace imminente avérée pour la sécurité nationale ou la vie des personnes, l'administration d'exécution peut également ordonner, pour une durée maximale de soixante-douze heures non renouvelable :
 
-1° le déploiement de l'armée sur le territoire national en appui des forces de sécurité, au-delà de ses missions ordinaires, à des fins exclusivement défensives ;
+1° des restrictions de circulation territorialement délimitées, distinctes de l'évacuation de zones dangereuses ;
 
-2° des restrictions de circulation territorialement délimitées, distinctes de l'évacuation de zones dangereuses ;
+2° la fermeture temporaire de points de passage frontaliers.
 
-3° la fermeture temporaire de points de passage frontaliers.
+Ces mesures sont exécutées par les seules forces placées sous l'autorité du ministre de l'Intérieur, dans le cadre de leurs missions de police. Elles sont coordonnées par la présidente ou le président du collège des ministres et soumises au contrôle juridictionnel prévu à l'article [149](#crise-controle-juridictionnel). Elles cessent de plein droit à l'entrée en fonction de la convention de secours, qui peut les prolonger, les modifier ou les abroger.
 
-Ces mesures cessent de plein droit à l'entrée en fonction de la convention de secours, qui peut les prolonger, les modifier ou les abroger.
+Les mesures prévues aux 1° et 2° font l'objet des garanties suivantes :
 
-Les mesures prises au titre des points 1° à 3° du présent article font l'objet des garanties suivantes :
+a) Compétence juridictionnelle. La Juridiction de probité et de responsabilité publique est compétente pour connaître des fautes commises par les agents et autorités d'exécution dans leur mise en œuvre. Elle peut être saisie par tout citoyen, par la convention de secours ou par la convention thématique de contrôle prévue au e).
 
-- Compétence juridictionnelle. La Juridiction de probité et de responsabilité publique est compétente pour connaître des fautes commises par les agents et autorités d'exécution dans la mise en œuvre des mesures du présent article. Elle peut être saisie par tout citoyen, par la convention de secours, ou par la convention thématique de contrôle prévue au point E.
+b) Sanction de non-confirmation. Toute mesure non confirmée par la convention de secours dans les délais prévus à l'article [153](#secours-delai-siege) est réputée illégale. Elle ouvre droit à réparation pour les personnes lésées et engage la responsabilité personnelle des autorités l'ayant ordonnée, dans les conditions fixées par la loi organique.
 
-- Sanction de non-confirmation. Toute mesure non confirmée par la convention de secours dans les délais prévus à l'article [153](#secours-delai-siege) est réputée illégale. Elle ouvre droit à réparation pour les personnes lésées et engage la responsabilité personnelle des autorités l'ayant ordonnée, dans les conditions fixées par la loi organique.
+c) Plafond annuel. Le recours à ces mesures est limité à trois épisodes par année civile. Au-delà, il requiert l'autorisation préalable de la convention de secours statuant à la majorité qualifiée, sauf état de guerre déclaré par convention thématique.
 
-- Plafond annuel. Le recours aux mesures des points 1° à 3° est plafonné à trois épisodes par année civile. Au-delà, l'activation requiert l'autorisation préalable de la convention de secours statuant à la majorité qualifiée, à moins qu'une situation de guerre déclarée par convention thématique soit en vigueur.
+d) Audit annuel. La Juridiction de probité et de responsabilité publique publie chaque année un rapport sur l'usage de ces mesures : leur fondement, leur durée effective et le résultat des contrôles. Ce rapport est transmis à la convention ordinaire annuelle, qui peut proposer d'amender le régime.
 
-- Audit annuel. La Juridiction de probité dresse chaque année un rapport public sur l'usage des mesures du présent article. Ce rapport recense l'ensemble des mesures prises, leur fondement, leur durée effective, le résultat du contrôle juridictionnel et de l'examen par la convention de secours. Il est transmis à la convention ordinaire annuelle, qui peut s'en saisir pour amender le régime.
+e) Convention thématique de contrôle. Tous les cinq ans, une convention thématique dédiée examine l'usage cumulé de ces mesures. Elle peut proposer toute modification du régime, y compris sa restriction ou sa suppression, dans les conditions de la révision constitutionnelle.
 
-- Convention thématique de contrôle. Tous les cinq ans, une convention thématique dédiée examine l'usage cumulé des mesures du présent article sur la période. Elle peut proposer toute modification du régime, y compris sa restriction ou sa suppression, dans les conditions de la révision constitutionnelle.
-
-- Clause de réexamen. Le présent article fait l'objet d'un réexamen obligatoire par convention constituante quinze ans après son entrée en vigueur. À défaut de reconfirmation expresse, les dispositions des points 1° à 3° et les garanties A à F deviennent caduques.
+f) Clause de réexamen. Le présent alinéa et les deux alinéas qui le précèdent font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse, ils deviennent caducs.
 
 ### Article 147 — Cadre interdit {#conservatoires-cadre-interdit}
 
@@ -88,7 +88,7 @@ Ne peuvent être prises qu'avec l'autorisation expresse de la convention de seco
 
 - toute mesure privative de liberté individuelle hors cadre judiciaire ordinaire ;
 
-- toute mobilisation de l'armée sur le territoire national ;
+- tout engagement sur le territoire national des forces placées sous l'autorité du ministre de la Défense, au-delà de leurs missions ordinaires prévues par la loi, et tout emploi de moyens militaires par la gendarmerie en dehors de ses missions de police ;
 
 - toute suspension ou restriction de médias, de réseaux de communication ou d'internet ;
 
@@ -97,6 +97,8 @@ Ne peuvent être prises qu'avec l'autorisation expresse de la convention de seco
 - toute réquisition de biens privés excédant un seuil fixé par la loi organique ;
 
 - toute modification des compétences d'une autorité constitutionnelle.
+
+Les restrictions de circulation et les fermetures de frontières prévues à l'article [146](#conservatoires-cadre-autorise) peuvent être prises sans cette autorisation, dans les seules conditions de cet article.
 
 ### Article 148 — Critères de validité {#conservatoires-validite}
 
@@ -132,7 +134,7 @@ Toute personne affectée par une mesure conservatoire peut saisir le même juge,
 
 La convention citoyenne de secours est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite). Elle est en veille permanente : ses membres sont désignés à l'avance, formés et placés sous astreinte pour une durée fixée par la loi organique, sans qu'aucune continuité de personnes ne soit assurée d'une période d'astreinte à la suivante. Ils sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
-La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion.
+La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Lorsque des membres sont empêchés de siéger par la force, le quorum et les majorités sont calculés sur les seuls membres qui ne sont pas empêchés.
 
 ### Article 152 — Saisine {#secours-saisine}
 
