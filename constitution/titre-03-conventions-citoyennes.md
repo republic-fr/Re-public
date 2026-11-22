@@ -44,6 +44,8 @@ Le corps civique comprend les Françaises et les Français majeurs, ainsi que le
 
 Tout membre du corps civique résidant en France est éligible au tirage au sort civique. Le tirage au sort est effectué dans les fichiers administratifs de population, notamment fiscaux et sociaux, et non sur les listes électorales, dans des conditions fixées par la loi organique qui garantissent la protection des données personnelles. Les personnes placées sous un régime juridique de protection ou dont l'état de santé rend impossible la participation bénéficient de mesures d'adaptation ou, à défaut, sont exemptées.
 
+Tout tirage au sort prévu par la présente Constitution est public et vérifiable. L'algorithme utilisé est publié. Le tirage part d'une source de hasard publique, connue seulement au moment du tirage. L'Autorité de contrôle de l'exécution des lois refait le calcul pour chaque tirage et en publie le résultat. Tout tirage peut être contesté devant le Conseil constitutionnel.
+
 La participation à une convention citoyenne tirée au sort constitue un devoir civique. Le refus de siéger n'est admis que pour motif grave, notamment médical, familial ou de force majeure, dans les conditions et selon la procédure fixées par la loi organique. La loi organique détermine les conséquences des refus non motivés.
 
 ### Article 14 — Statut du conventionnel {#statut-conventionnel}

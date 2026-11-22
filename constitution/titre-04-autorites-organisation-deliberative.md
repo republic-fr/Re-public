@@ -18,7 +18,7 @@ Son mandat est de six ans, non renouvelable. Il est révocable par la Juridictio
 
 L'Autorité générale des conventions citoyennes :
 
-- organise le tirage au sort et vérifie la représentativité ;
+- organise le tirage au sort, dans les conditions de publicité et de vérification prévues à l'article [13](#eligibilite-participation), et vérifie la représentativité ;
 
 - assure la convocation des membres des conventions et leur protection sociale et matérielle ;
 
@@ -54,7 +54,7 @@ L'Autorité de programmation civique est une autorité constitutionnelle indépe
 
 Le mandat des membres est d'un an, non renouvelable immédiatement. Le renouvellement s'effectue par moitié tous les six mois afin d'assurer la continuité des travaux.
 
-Les membres bénéficient du statut du conventionnel défini à l'article [14](#statut-conventionnel).
+Les membres bénéficient du statut du conventionnel défini à l'article [14](#statut-conventionnel). Par dérogation à l'article [14](#statut-conventionnel), l'identité de ses membres reste confidentielle pendant leur mandat et n'est rendue publique qu'à son terme ; ses délibérations sont publiées sous une forme qui ne permet pas d'identifier ses membres.
 
 ### Article 33 — Fonctionnement {#apc-fonctionnement}
 

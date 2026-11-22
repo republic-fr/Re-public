@@ -16,6 +16,8 @@ La loi fixe les règles et les principes essentiels. Relèvent notamment de la l
 
 L'administration d'exécution prend, par décret, les mesures d'application de la loi. Tout acte d'exécution est strictement subordonné à la lettre, à l'objet et à l'intention de la loi. Il ne peut ni altérer l'économie générale d'une loi, ni en réduire la portée, ni en différer indûment l'application.
 
+Les décrets nécessaires à l'application d'une loi sont pris dans le délai qu'elle fixe ou, à défaut, dans les six mois suivant son entrée en vigueur. Passé ce délai, l'Autorité de contrôle de l'exécution des lois est saisie de plein droit : elle peut demander au juge d'ordonner la publication du décret, et le ministre compétent s'explique publiquement devant sa session plénière.
+
 Dans les deux mois suivant sa publication, un décret peut être soumis à une convention citoyenne :
 
 - par décision motivée et publique de l'Autorité de programmation civique, prise d'office ou à la demande des rapporteurs de la convention ayant adopté la loi ou de la session plénière de l'Autorité de contrôle de l'exécution des lois ;
@@ -39,7 +41,7 @@ La présidente ou le président du collège représente la République au Consei
 
 ### Article 61 — Convention de désignation {#convention-designation-ministres}
 
-Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente. Elle est composée de cinquante membres tirés au sort pour un mandat de deux ans et renouvelés par moitié chaque année. Elle se réunit au moins une fois par trimestre, et sans délai en cas de vacance.
+Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente. Elle est composée de cinquante membres tirés au sort pour un mandat de deux ans et renouvelés par moitié chaque année. Elle se réunit au moins une fois par trimestre, et sans délai en cas de vacance. Par dérogation à l'article [14](#statut-conventionnel), l'identité de ses membres reste confidentielle pendant leur mandat et n'est rendue publique qu'à son terme ; ses délibérations sont publiées sous une forme qui ne permet pas d'identifier ses membres.
 
 Les directrices et directeurs d'administration sont nommés par les ministres, sous le contrôle de la Juridiction de probité et de responsabilité publique ; ils ne relèvent pas de la convention de désignation.
 

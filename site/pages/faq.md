@@ -36,6 +36,10 @@ Les membres du Conseil constitutionnel, de la Juridiction de probité et la part
 
 Le texte y consacre un titre entier (Titre [XIV](#probite-deliberative)). Toute influence doit être déclarée et publiée dans un registre public (articles [167](#obligation-generale-transparence-influences) et [168](#registre-public-influences)). Les experts auditionnés déclarent leurs intérêts (article [176](#declarations-interets-expertes-experts)), le pluralisme des auditions est obligatoire (article [175](#pluralite-minimale-auditions)), et toute pression sur un conventionnel est un délit aggravé (article [169](#influences-interdictions-sanctions)). Un élu de carrière est d’ailleurs une cible plus durable qu’un citoyen qui siège trois mois.
 
+### Qui garantit que le tirage au sort n’est pas truqué ?
+
+Le tirage est public et vérifiable. L’algorithme est publié, et le tirage part d’une source de hasard publique, connue seulement au moment du tirage : personne ne peut choisir le résultat à l’avance. L’Autorité de contrôle de l’exécution des lois refait le calcul pour chaque tirage, et tout tirage peut être contesté devant le Conseil constitutionnel (article [13](#eligibilite-participation)).
+
 ### Les experts et le « contrôle scientifique » vont gouverner à la place du peuple.
 
 Non. Le contrôle scientifique ne porte que sur un contresens scientifique manifeste qui menace la santé, l’intégrité des personnes ou l’environnement, et seulement s’il existe un consensus scientifique (article [55](#controle-scientifique-champ)). Il ne peut que suspendre un texte, jamais le réécrire, et ne juge pas son opportunité politique (article [56](#controle-scientifique-suspension)). Sur les effets économiques et sociaux d’une loi, il rend seulement un avis public, sans pouvoir la suspendre : la convention décide en connaissance de cause (article [55](#controle-scientifique-champ)). Le dernier mot revient à une convention citoyenne (article [25](#reexamen-cas-suspension)).
