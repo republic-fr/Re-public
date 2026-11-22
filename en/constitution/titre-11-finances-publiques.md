@@ -1,4 +1,4 @@
-# Title XI — Public Finances {#finances-publiques}
+# Title XI — Public finances {#finances-publiques}
 
 ## Chapter I — Budgetary Principles
 

@@ -1,4 +1,4 @@
-# Title XVII — Transitional Provisions {#transition}
+# Title XVII — Transitional provisions {#transition}
 
 ### Article 174 — Entry into Force and Continuity {#transition-entree-vigueur}
 

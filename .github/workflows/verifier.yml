@@ -17,4 +17,5 @@ jobs:
       - run: npm ci
       - run: npm run refs
       - run: npm run refonte
+      - run: npm run traduction
       - run: npm run build

@@ -1,4 +1,4 @@
-# Title XV — International Treaties and Relations with the European Union {#traites-union-europeenne}
+# Title XV — International treaties and relations with the European Union {#traites-union-europeenne}
 
 ## Section I — International Treaties
 

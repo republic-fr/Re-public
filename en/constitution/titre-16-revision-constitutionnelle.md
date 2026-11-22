@@ -1,4 +1,4 @@
-# Title XVI — Constitutional Amendment {#revision}
+# Title XVI — Constitutional amendment {#revision}
 
 ## Chapter I — Initiative for Amendment
 

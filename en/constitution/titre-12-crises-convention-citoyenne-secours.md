@@ -1,4 +1,4 @@
-# Title XII — Crises and the Emergency Convention {#crises}
+# Title XII — Crises and the emergency convention {#crises}
 
 ## Chapter I — General Principles
 

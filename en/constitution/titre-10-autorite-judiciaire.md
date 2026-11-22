@@ -1,4 +1,4 @@
-# Title X — On the Judicial Authority and the Administrative Courts {#autorite-judiciaire}
+# Title X — The judicial authority and the administrative courts {#autorite-judiciaire}
 
 ## Chapter I — General principles
 

@@ -1,4 +1,4 @@
-# Title VI — Scientific Review {#controle-scientifique}
+# Title VI — Scientific review {#controle-scientifique}
 
 ### Article 45 — Principle and ad hoc Scientific Council {#controle-scientifique-principe #conseil-scientifique-ad-hoc}
 

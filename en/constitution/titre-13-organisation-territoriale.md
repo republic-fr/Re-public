@@ -1,4 +1,4 @@
-# Title XIII — Territorial Organisation {#territoires}
+# Title XIII — Territorial organisation {#territoires}
 
 ### Article 124 — Territorial convention principle {#principe-conventionnel-territorial}
 

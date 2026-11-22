@@ -3,10 +3,11 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node site/build.mjs",
+    "build": "node site/build.mjs && node site/build-en.mjs",
     "refs": "node site/refs.mjs",
     "serve": "node site/build.mjs && npx --yes serve dist -l 4173",
-    "refonte": "node site/refonte.mjs"
+    "refonte": "node site/refonte.mjs",
+    "traduction": "node site/traduction.mjs"
   },
   "dependencies": {
     "js-yaml": "4.1.0",

@@ -1,4 +1,4 @@
-# Title VIII — On the Law Implementation Oversight Authority {#controle-execution}
+# Title VIII — The Law Implementation Oversight Authority {#controle-execution}
 
 ## Chapter I — Nature and Organisation
 

@@ -1,4 +1,4 @@
-# Title VII — On the Implementation of Laws {#execution}
+# Title VII — Implementation of laws {#execution}
 
 ## Chapter I — Principles of Implementation
 

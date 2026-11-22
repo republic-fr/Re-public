@@ -1,4 +1,4 @@
-# Title XIV — Deliberative Integrity and the Prevention of Manipulation {#probite-deliberative}
+# Title XIV — Deliberative integrity and the prevention of manipulation {#probite-deliberative}
 
 ## Chapter I — General Principles
 

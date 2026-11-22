@@ -1,4 +1,4 @@
-# Title IX — On the Court of Public Integrity and Accountability {#juridiction-probite}
+# Title IX — The Court of Public Integrity and Accountability {#juridiction-probite}
 
 ## Chapter I — Nature and composition
 

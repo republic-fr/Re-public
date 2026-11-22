@@ -1,4 +1,4 @@
-# Title IV — Deliberative Organisation Authorities {#autorites-deliberatives}
+# Title IV — Authorities organising deliberation {#autorites-deliberatives}
 
 ## Chapter I — The General Authority for Citizens' Conventions
 
