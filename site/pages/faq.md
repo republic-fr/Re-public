@@ -28,7 +28,7 @@ Surtout, une convention ne décide jamais seule, ni pour toujours. Il y en a plu
 
 Les conventions sont temporaires et sans réélection : personne n’a de carrière à protéger ni de clientèle à satisfaire. Ceux qui exercent un pouvoir durable, ministres et responsables publics, sont contrôlés en continu par l’Autorité de contrôle de l’exécution des lois (Titre [VIII](#controle-execution)) et révocables par la Juridiction de probité (Titre [IX](#juridiction-probite)). Un ministre qui n’exécute pas les lois peut aussi être averti, puis remplacé (article [56](#duree-mandat-ministeriel)).
 
-### Le projet dénonce le « gouvernement des juges », mais ne le renforce-t-il pas ?
+### Avec autant de contrôles juridictionnels, le projet ne risque-t-il pas un gouvernement des juges ?
 
 Les membres du Conseil constitutionnel, de la Juridiction de probité et la part non magistrate du CSM sont tirés au sort : aucun pouvoir politique ne les choisit (articles [36](#cc-composition), [78](#juridiction-probite-composition) et [92](#csm-designation-membres)). Leurs mandats sont uniques et non renouvelables, leurs décisions motivées, publiques et accompagnées des opinions dissidentes (article [44](#cc-autorite-decisions)). Le Conseil constitutionnel ne réécrit jamais une loi : il la suspend et la renvoie à une convention citoyenne, qui peut la corriger ou la confirmer. Seules les atteintes aux droits absolus, comme l’interdiction de la torture, et aux règles qui organisent les institutions ne peuvent pas être confirmées (article [23](#reexamen-cas-suspension)). Et le peuple garde le dernier mot sur la Constitution elle-même, par la convention constituante et le référendum (Titre [XVI](#revision)).
 

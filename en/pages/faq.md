@@ -28,7 +28,7 @@ Above all, a convention never decides alone, nor for ever. There are several eac
 
 Conventions are temporary and there is no re-election: no one has a career to protect or a clientele to satisfy. Those who hold lasting power, ministers and public office-holders, are continuously overseen by the Law Implementation Oversight Authority (Title [VIII](#controle-execution)) and can be removed by the Court of Public Integrity (Title [IX](#juridiction-probite)). A minister who fails to implement the laws can also be warned, then replaced (Article [56](#duree-mandat-ministeriel)).
 
-### The project denounces ‘government by judges’, but does it not strengthen it?
+### With so much judicial review, does the project not risk government by judges?
 
 The members of the Constitutional Council and of the Court of Public Integrity, and the non-judicial members of the High Council of the Judiciary (CSM), are drawn by lot: no political power chooses them (Articles [36](#cc-composition), [78](#juridiction-probite-composition) and [92](#csm-designation-membres)). Their terms are single and non-renewable, and their decisions are reasoned, public and accompanied by dissenting opinions (Article [44](#cc-autorite-decisions)). The Constitutional Council never rewrites a law: it suspends it and sends it back to a citizens’ convention, which may correct or confirm it. Only violations of absolute rights, such as the prohibition of torture, and of the rules that organise the institutions cannot be confirmed (Article [23](#reexamen-cas-suspension)). And the people keep the last word on the Constitution itself, through the constituent convention and the referendum (Title [XVI](#revision)).
 
