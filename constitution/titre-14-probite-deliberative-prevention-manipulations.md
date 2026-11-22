@@ -2,11 +2,9 @@
 
 ## Chapitre I — Principes généraux
 
-### Article 166 — Probité de la délibération citoyenne {#probite-deliberation-citoyenne}
+### Article 166 — Probité de la délibération et transparence des influences {#probite-deliberation-citoyenne #obligation-generale-transparence-influences}
 
 La qualité de la délibération est une condition constitutionnelle de la légitimité de la loi. La République protège la formation de la volonté générale contre la manipulation, la capture, la corruption, la désinformation et les asymétries d'information. Les dispositions du présent titre complètent les garanties posées par les autres titres de la Constitution.
-
-### Article 167 — Obligation générale de transparence des influences {#obligation-generale-transparence-influences}
 
 Toute influence exercée sur une convention citoyenne, sur une autorité constitutionnelle ou sur l'administration d'exécution doit être déclarée, tracée et rendue publique selon des modalités garantissant l'intelligibilité pour les citoyennes et citoyens.
 
@@ -38,7 +36,7 @@ Un registre public permanent des influences est tenu par l'Autorité générale 
 
 - les financements indirects connus ;
 
-- les déclarations d'intérêts des expertes et experts auditionnés.
+- les déclarations d'intérêts des experts auditionnés.
 
 Le registre est tenu dans des conditions d'accessibilité, d'intelligibilité et de recherche fixées par la loi organique. L'Autorité de contrôle de l'exécution des lois contrôle la régularité de sa tenue.
 
@@ -84,7 +82,7 @@ Tout refus d'accréditation est motivé et peut faire l'objet d'un recours devan
 
 Tout vivier public d'accréditation constitué en application de la présente Constitution est ouvert selon les principes suivants :
 
-- double voie d'accès : chaque candidate ou candidat peut solliciter son accréditation sur proposition d'une instance professionnelle, académique ou savante, ou sur présentation personnelle justifiée par les pièces attestant des compétences requises, sans qu'aucune filière ne bénéficie de préséance ;
+- double voie d'accès : chaque personne candidate peut solliciter son accréditation sur proposition d'une instance professionnelle, académique ou savante, ou sur présentation personnelle justifiée par les pièces attestant des compétences requises, sans qu'aucune filière ne bénéficie de préséance ;
 
 - critères d'accréditation objectifs et publics, fondés sur la compétence et l'intégrité, à l'exclusion de tout critère de notoriété ou de parcours institutionnel dominant ;
 
@@ -98,15 +96,13 @@ Tout vivier public d'accréditation constitué en application de la présente Co
 
 Ces principes sont applicables aux viviers prévus aux articles [39](#cc-composition), [53](#vivier-scientifique-designation), [63](#jury-technique-ministres), [88](#controle-renseignement-armees), [90](#defenseur-droits-designation), [93](#defenseur-droits-college), [96](#juridiction-probite-composition), [113](#csm-designation-membres), [170](#vivier-public-experts) et [180](#autorite-regulation-vie-democratique).
 
-### Article 171 — Jury d'experts indépendants {#jury-experts-independants}
+### Article 171 — Jury d'experts indépendants {#jury-experts-independants #jury-experts-mission #jury-experts-independance}
 
 Pour chaque convention thématique et pour la convention de programmation, un jury d'experts indépendants est constitué aux fins de préparation du dossier et de proposition des auditions.
 
 Les membres du jury sont désignés par tirage au sort stratifié dans le vivier prévu à l'article [170](#vivier-public-experts). Le tirage au sort est automatique dès l'ouverture de la convention par l'Autorité de programmation civique, selon des règles de stratification garantissant le pluralisme disciplinaire, méthodologique et d'école, fixées par la loi organique. Aucune autorité ne choisit les membres du jury.
 
 Le jury est dissous à la remise de son dossier à l'Autorité générale des conventions citoyennes.
-
-### Article 172 — Mission du jury {#jury-experts-mission}
 
 Le jury d'experts indépendants :
 
@@ -118,9 +114,7 @@ Le jury n'a aucun pouvoir d'orientation politique. Sa mission est strictement de
 
 Pour les conventions ordinaires annuelles, la fonction du jury d'experts est assurée par le service technique de l'Autorité de contrôle de l'exécution des lois, dans les conditions prévues à l'article [132](#preparation-projet-budget).
 
-### Article 173 — Garanties d'indépendance du jury {#jury-experts-independance}
-
-Les membres du jury d'experts sont soumis aux garanties suivantes :
+Les membres du jury bénéficient des garanties suivantes :
 
 - mandat limité à la durée de la préparation du dossier ;
 
@@ -138,7 +132,7 @@ Les membres du jury d'experts sont soumis aux garanties suivantes :
 
 Le dossier préparé par le jury d'experts et la première liste d'auditions proposée sont publiés dès leur remise.
 
-Dans un délai public fixé par la loi organique, les citoyennes et citoyens, les organisations représentatives et les futurs membres de la convention peuvent proposer des auditions supplémentaires, des expertes ou experts additionnels et des notes complémentaires.
+Dans un délai public fixé par la loi organique, les citoyens, les organisations représentatives et les futurs membres de la convention peuvent proposer des auditions supplémentaires, des experts additionnels et des notes complémentaires.
 
 L'Autorité générale des conventions citoyennes instruit ces propositions. L'Autorité de programmation civique statue publiquement et de façon motivée et établit la liste définitive des auditions en veillant au pluralisme minimal obligatoire par familles d'acteurs du domaine concerné, conformément à l'article [175](#pluralite-minimale-auditions).
 
@@ -146,13 +140,13 @@ L'Autorité générale des conventions citoyennes instruit ces propositions. L'A
 
 Pour chaque convention, l'Autorité de programmation civique arrête, sur proposition de l'Autorité générale des conventions citoyennes, la liste des organisations reconnues comme représentatives du domaine traité, notamment les associations agréées, les syndicats représentatifs, les ordres professionnels et les collectifs citoyens inscrits dans un registre public.
 
-La convention doit entendre, au titre de la pluralité obligatoire, au moins une représentante ou un représentant de chacune des grandes familles d'organisations du domaine, notamment le patronat, les syndicats, les associations d'usagers, les associations de protection des droits et les expertes et experts académiques de différentes écoles.
+La convention doit entendre, au titre de la pluralité obligatoire, au moins un représentant de chacune des grandes familles d'organisations du domaine, notamment le patronat, les syndicats, les associations d'usagers, les associations de protection des droits et les experts académiques de différentes écoles.
 
 Au-delà de cette pluralité minimale, la convention conserve le choix de ses auditions complémentaires, dans les conditions prévues à l'article [174](#contre-expertise-publique).
 
 Tout parti ou groupement politique déclaré peut verser au dossier de toute convention une contribution écrite sur le sujet en délibération. Ces contributions sont publiées et inscrites au registre public des influences.
 
-### Article 176 — Déclarations d'intérêts des expertes et experts {#declarations-interets-expertes-experts}
+### Article 176 — Déclarations d'intérêts des experts {#declarations-interets-expertes-experts}
 
 Tout expert auditionné par une convention ou par une autorité constitutionnelle déclare préalablement, de façon publique, ses affiliations, financements, intérêts et conflits d'intérêts potentiels liés au sujet traité.
 
@@ -218,7 +212,7 @@ Il est institué par la présente Constitution une Autorité de régulation ind�
 
 - du contrôle du financement des partis et groupements politiques, dans les conditions prévues à l'article [184](#financement-partis) ;
 
-- du contrôle des campagnes de soutien ou d'opposition aux référendums et des campagnes de collecte de signatures pour les pétitions d'initiative citoyenne, dans les conditions prévues à l'article [185](#campagnes-referendaires-signatures) ;
+- du contrôle des campagnes de soutien ou d'opposition aux référendums et des campagnes de collecte de signatures pour les pétitions d'initiative citoyenne, dans les conditions prévues à l'article [184](#financement-partis) ;
 
 - de prononcer les sanctions administratives prévues à l'article [179](#manipulation-sanctions) et par la loi dans les matières relevant de ses compétences, et de saisir le juge des manquements touchant au contenu des informations.
 
@@ -244,13 +238,11 @@ Lorsqu'un média attribue à une convention citoyenne une décision qu'elle n'a 
 
 ## Chapitre VII — Des partis et groupements politiques
 
-### Article 184 — Financement des partis et groupements politiques {#financement-partis}
+### Article 184 — Financement des partis et des campagnes {#financement-partis #campagnes-referendaires-signatures}
 
 Le financement des partis et groupements politiques par des États étrangers, par des personnes morales étrangères ou sous contrôle étranger, ou par des personnes physiques qui ne font pas partie du corps civique, est interdit.
 
 La transparence intégrale des sources et des emplois de financement des partis et groupements politiques est garantie. Les modalités en sont fixées par la loi. Le contrôle du respect de ces règles relève de l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique). Les manquements sont sanctionnés dans les conditions fixées par la loi.
-
-### Article 185 — Campagnes référendaires et collecte de signatures {#campagnes-referendaires-signatures}
 
 Les campagnes de soutien ou d'opposition aux référendums, ainsi que les campagnes de collecte de signatures pour les pétitions d'initiative citoyenne prévues par la présente Constitution, sont soumises à des règles de plafonnement, de transparence et de contrôle, fixées par la loi et appliquées par l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique).
 
@@ -260,9 +252,7 @@ L'égalité entre partis et groupements politiques dans l'accès aux médias pub
 
 ### Article 186 — Dissolution des partis et groupements politiques {#dissolution-partis}
 
-Conformément à l'article [5](#partis-groupements-politiques), un parti ou groupement politique ne peut être dissous à raison des idées ou opinions qu'il défend publiquement.
-
-La dissolution peut être prononcée par décision contradictoire, motivée et publique du juge judiciaire ordinaire, dans les seuls cas où l'organisation ou les activités matérielles du parti portent atteinte aux principes constitutionnels :
+Dans le respect de l'article [5](#partis-groupements-politiques), qui interdit toute dissolution en raison des idées ou opinions défendues, la dissolution d'un parti ou groupement politique ne peut être prononcée que par décision contradictoire, motivée et publique du juge judiciaire ordinaire, dans les seuls cas où l'organisation ou les activités matérielles du parti portent atteinte aux principes constitutionnels :
 
 - la constitution de groupes de combat, milices privées ou structures paramilitaires ;
 

@@ -195,7 +195,7 @@ noeuds:
     detail: Tiré au sort, prépare le dossier
     info: >-
       Des experts tirés au sort dans un vivier pluraliste préparent un dossier contradictoire et proposent des auditions. Ils n’ont aucun pouvoir d’orientation
-      (articles [171](#jury-experts-independants) et [172](#jury-experts-mission)).
+      (article [171](#jury-experts-independants)).
   - id: convention
     ligne: 3
     colonne: 2
@@ -767,7 +767,7 @@ noeuds:
     detail: Convention intercommunale
     info: >-
       Quand une commune est trop petite pour un tirage représentatif, la convention est commune à plusieurs communes
-      (article [162](#mutualisation-communes)).
+      (article [161](#existence-juridique-communes)).
   - id: executif
     ligne: 3
     colonne: 1
@@ -794,7 +794,7 @@ noeuds:
     detail: Compétences et péréquation
     info: >-
       La loi organique répartit les compétences selon l’autonomie locale et la subsidiarité ; la loi organise la solidarité financière entre territoires.
-      Le Conseil constitutionnel veille au respect de cette répartition (articles [140](#architecture-fiscale-territoriale), [164](#territoires-principes-directeurs) et [46](#cc-etendue-controle)).
+      Le Conseil constitutionnel veille au respect de cette répartition (articles [140](#architecture-fiscale-territoriale), [163](#territoires-repartition-competences) et [46](#cc-etendue-controle)).
   - id: outremer
     ligne: 5
     colonne: 2
