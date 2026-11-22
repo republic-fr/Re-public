@@ -100,6 +100,8 @@ La dépense publique est autorisée par la convention ordinaire annuelle, au niv
 
 En cas de besoin urgent apparu en cours d'année, notamment en cas de crise relevant du Titre [XII](#crises), la convention de secours peut autoriser, à la majorité qualifiée, les dépenses supplémentaires strictement nécessaires. Les autorisations ainsi accordées font l'objet d'une confirmation obligatoire par la convention ordinaire annuelle suivante.
 
+En cas de menace immédiate sur la stabilité financière, la ou le ministre chargé des finances peut, avec l'accord de la présidente ou du président du collège des ministres, accorder une garantie de l'État dans la limite d'un plafond fixé chaque année par la convention ordinaire annuelle avec le budget. La convention de secours est saisie sans délai ; à défaut de confirmation dans les soixante-douze heures, la garantie cesse pour l'avenir. Il en est rendu compte publiquement à la session plénière de l'Autorité de contrôle de l'exécution des lois.
+
 Hors crise, une session supplémentaire de la convention ordinaire annuelle peut être réunie, sur saisine de l'Autorité de programmation civique, lorsqu'une dépense nouvelle d'ampleur significative ne peut attendre la session ordinaire suivante.
 
 ## Chapitre V — Contrôle de l'exécution budgétaire

@@ -48,6 +48,8 @@ Tout tirage au sort prévu par la présente Constitution est public et vérifiab
 
 La participation à une convention citoyenne tirée au sort constitue un devoir civique. Le refus de siéger n'est admis que pour motif grave, notamment médical, familial ou de force majeure, dans les conditions et selon la procédure fixées par la loi organique. La loi organique détermine les conséquences des refus non motivés.
 
+Chaque convention comprend des suppléants, tirés au sort dans les mêmes conditions que ses membres. Un membre ne peut se retirer en cours de mandat que pour motif grave. Une pression, une menace ou un risque pour ses proches constitue un motif grave ; il est examiné de manière confidentielle par la Défenseure ou le Défenseur des droits, et la menace est transmise à l'autorité judiciaire. Le membre qui se retire est remplacé par un suppléant.
+
 ### Article 14 — Statut du conventionnel {#statut-conventionnel}
 
 Tout membre d'une convention citoyenne bénéficie d'un statut constitutionnel protecteur comprenant notamment :
@@ -67,6 +69,8 @@ Tout membre d'une convention citoyenne bénéficie d'un statut constitutionnel p
 - la protection contre les pressions, les menaces, les représailles et les conflits d'intérêts ;
 
 - le caractère public des délibérations, la protection de la parole individuelle et le secret du vote.
+
+Tout membre d'une convention peut demander que son identité reste confidentielle pendant son mandat. Pour les conventions qui traitent de la défense ou du renseignement, la confidentialité est la règle. Les délibérations restent publiques, sous une forme qui ne permet pas d'identifier les membres protégés.
 
 L'atteinte au statut du conventionnel est sanctionnée par la loi.
 
@@ -99,6 +103,8 @@ Sauf disposition contraire de la présente Constitution, les décisions des conv
 Lorsque la présente Constitution requiert la majorité qualifiée, celle-ci est des deux tiers des membres de la convention. Elle est réservée aux décisions exceptionnelles, notamment la confirmation d'un texte suspendu, les mesures exceptionnelles de crise et les dérogations aux priorités fixées par la convention de programmation.
 
 Les décisions relatives à la procédure interne et à l'organisation des travaux sont prises à la majorité simple des membres présents.
+
+Les votes des conventions laissent une trace qui permet leur vérification, dans le respect du secret du vote.
 
 Une convention ne délibère valablement que si la majorité de ses membres est présente. À défaut, la délibération est ajournée et la convention est reconvoquée dans un délai fixé par la loi organique, qui ne peut excéder sept jours.
 
