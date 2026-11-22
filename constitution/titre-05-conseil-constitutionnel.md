@@ -114,6 +114,8 @@ La loi ou l'acte déclaré non conforme est réexaminé dans les conditions pré
 
 Les décisions du Conseil constitutionnel sont motivées, publiques et accompagnées des opinions dissidentes éventuelles. Elles s'imposent aux pouvoirs publics et à toutes les autorités administratives et juridictionnelles.
 
+Le Conseil constitutionnel présente chaque année un rapport public d'activité à la session plénière de l'Autorité de contrôle de l'exécution des lois, dans les conditions prévues à l'article [82](#session-pleniere-competences).
+
 ### Article 50 — Abrogé {#cc-saisine-convention-secours}
 
 Disposition supprimée : le réexamen des textes suspendus, y compris pour atteinte à un droit intangible, relève de l'article [25](#reexamen-cas-suspension).

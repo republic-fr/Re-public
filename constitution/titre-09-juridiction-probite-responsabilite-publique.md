@@ -42,6 +42,8 @@ La fonction de membre de la Juridiction est absolument incompatible avec toute f
 
 La rémunération des membres est uniforme, indépendante de la notoriété ou de l'expérience préalable. Les opinions dissidentes sont publiées.
 
+La Juridiction présente chaque année un rapport public d'activité à la session plénière de l'Autorité de contrôle de l'exécution des lois, dans les conditions prévues à l'article [82](#session-pleniere-competences).
+
 L'intégrité des membres de la Juridiction est contrôlée, préalablement à leur désignation et périodiquement en cours de mandat, par une formation spécifique de la Juridiction ne comprenant pas les membres concernés, selon les conditions fixées par la loi organique.
 
 ## Chapitre II — Fonctions et périmètre
