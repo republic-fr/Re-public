@@ -61,7 +61,7 @@ noeuds:
     detail: Ouvertes à tous, à tout moment
     info: >-
       Toutes les pétitions qui atteignent le seuil légal sont recensées par l’Autorité de programmation civique et transmises à la prochaine convention
-      de programmation. À cinq cent mille signatures, l’Autorité doit en plus examiner, sans attendre, l’ouverture d’une convention thématique dédiée
+      de programmation. À un pour cent du corps civique, soit environ 550 000 signatures, l’Autorité doit en plus examiner, sans attendre, l’ouverture d’une convention thématique dédiée
       (article [36](#seuils-effets-petitions)).
   - id: apc
     ligne: 3
@@ -158,9 +158,9 @@ noeuds:
     colonne: 1
     type: electeurs
     nom: Pétition
-    detail: 500 000 signatures
+    detail: 1 % du corps civique
     info: >-
-      À ce seuil, l’Autorité de programmation civique doit examiner l’ouverture d’une convention, par une décision motivée et contestable
+      À un pour cent du corps civique (environ 550 000 signatures), l’Autorité de programmation civique doit examiner l’ouverture d’une convention, par une décision motivée et contestable
       (article [36](#seuils-effets-petitions)).
   - id: programme
     ligne: 1
@@ -332,7 +332,7 @@ noeuds:
     colonne: 2
     type: citoyens
     nom: Convention de désignation
-    detail: Permanente, membres renouvelés tous les deux ans
+    detail: 50 citoyens, renouvelés par moitié chaque année
     info: >-
       Elle auditionne publiquement les candidats recevables et désigne les ministres à la majorité absolue de ses membres ; après deux tours sans résultat, un troisième tour départage les deux premiers. Elle désigne aussi les représentants
       aux relations extérieures (articles [61](#convention-designation-ministres) et [62](#procedure-designation-ministres)).
@@ -614,7 +614,7 @@ noeuds:
     detail: Obligatoire ou à la demande
     info: >-
       Obligatoire pour les transferts majeurs. Pour un transfert intermédiaire, il peut être décidé par la convention aux deux tiers ou demandé
-      par un million de signatures (article [199](#referendum-transferts-intermediaires)).
+      par deux pour cent du corps civique, environ 1,1 million de signatures (article [199](#referendum-transferts-intermediaires)).
 liens:
   - ue -> controle | projets d’actes
   - ue -> representants | négociations

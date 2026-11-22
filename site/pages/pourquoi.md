@@ -68,7 +68,7 @@ Toute personne majeure de nationalité française, ou de nationalité étrangèr
 
 ### Vous pouvez mettre un sujet à l’agenda
 
-Une pétition qui atteint le seuil fixé par la loi organique est transmise à la convention de programmation. À cinq cent mille signatures, l’Autorité de programmation civique doit examiner l’ouverture d’une convention dédiée et motiver publiquement sa décision (article [36](#seuils-effets-petitions)). Une pétition peut aussi engager une révision de la Constitution, à partir d’un seuil qui ne peut être inférieur à deux millions de signatures (article [208](#revision-initiative)).
+Une pétition qui atteint le seuil fixé par la loi organique est transmise à la convention de programmation. À un pour cent du corps civique, soit environ 550 000 signatures, l’Autorité de programmation civique doit examiner l’ouverture d’une convention dédiée et motiver publiquement sa décision (article [36](#seuils-effets-petitions)). Une pétition peut aussi engager une révision de la Constitution, à partir d’un seuil qui ne peut être inférieur à quatre pour cent du corps civique, soit environ 2,2 millions de signatures (article [208](#revision-initiative)).
 
 ### Vous pouvez contester une loi ou un abus
 

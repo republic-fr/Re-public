@@ -116,7 +116,7 @@ En cas de doute ou de contestation, le Conseil constitutionnel privilégie la pr
 
 Lorsqu'un transfert intermédiaire est examiné par une convention thématique, la convention peut, à la majorité qualifiée définie à l'article [17](#majorite-qualifiee), décider de soumettre le texte au référendum avant ratification.
 
-Un référendum peut également être déclenché par pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à un million de signatures de membres du corps civique, dans un délai fixé par la loi organique à compter de l'adoption du texte par la convention thématique.
+Un référendum peut également être déclenché par pétition citoyenne atteignant un seuil fixé par la loi organique, qui ne peut être inférieur à deux pour cent du corps civique, dans un délai fixé par la loi organique à compter de l'adoption du texte par la convention thématique.
 
 Les règles de campagne référendaire et de majorité sont celles prévues aux articles du Titre [XVI](#revision) relatifs au référendum constitutionnel, adaptées par la loi organique aux spécificités du référendum européen.
 

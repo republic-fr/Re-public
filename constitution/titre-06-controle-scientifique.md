@@ -40,6 +40,8 @@ Le Conseil scientifique ad hoc intervient exclusivement en cas de consensus scie
 
 L'existence du consensus scientifique suffisant est établie à la majorité des deux tiers des membres du Conseil scientifique ad hoc. La qualification du consensus peut être contestée devant le Conseil constitutionnel, dans les conditions fixées par la loi organique.
 
+Avant le vote final, le Conseil scientifique ad hoc constitué pour le texte rend en outre un avis public sur ses effets économiques et sociaux prévisibles. Cet avis porte sur les effets attendus, non sur les objectifs ni sur les choix politiques du texte. Il n'a pas d'effet suspensif. La convention qui s'en écarte motive publiquement sa décision.
+
 ### Article 56 — Effet de la suspension {#controle-scientifique-suspension}
 
 Le Conseil scientifique ad hoc dispose exclusivement d'un pouvoir de suspension, assorti de la motivation des griefs précis qui fondent sa décision. Son appréciation est strictement limitée aux cas prévus par la présente Constitution. Elle ne porte pas sur l'opportunité politique du texte, qui relève de la convention.
