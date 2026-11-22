@@ -318,3 +318,8 @@ sup { font-size: 0.6em; line-height: 0; vertical-align: super; }
 .rf-label { text-transform: uppercase; letter-spacing: .08em; font-size: .72rem; opacity: .6; margin: 0; }
 @media (max-width: 760px) { .rf-cols { grid-template-columns: 1fr; } }
 .prose.rf { max-width: 76rem; }
+
+/* Lien vers l'autre langue */
+.site-nav__lang { border: 1px solid currentColor; padding: 0 6px; font-size: 13px; letter-spacing: .06em; align-self: center; }
+@media (max-width: 720px) { .site-nav__lang { border: 0; border-top: 1px solid var(--rule-soft); padding: var(--space-3); font-size: 22px; align-self: stretch; } }
+.translation-note { font-size: .85rem; border-left: 3px solid #8a5a00; padding: .3rem .7rem; margin: 0 0 1rem; }
