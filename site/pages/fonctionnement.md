@@ -680,14 +680,14 @@ noeuds:
     detail: 150 citoyens en veille, siège sous 72 h
     info: >-
       Ses membres sont tirés au sort et formés à l’avance. Elle se saisit dès qu’une mesure est validée ; à défaut, elle est convoquée de plein droit
-      sous 24 heures. Elle peut siéger à distance ou dans un siège de repli (articles [151](#secours-composition-veille) à [153](#secours-delai-siege)).
+      sous 24 heures. Elle peut siéger à distance ou dans un siège de repli (articles [151](#secours-composition-veille) et [152](#secours-saisine)).
   - id: recours
     ligne: 4
     colonne: 1
     type: electeurs
     nom: Recours citoyen
     detail: À tout moment
-    info: Toute personne touchée par une mesure peut demander au juge de la lever ou de la limiter (article [150](#crise-recours-citoyen)).
+    info: Toute personne touchée par une mesure peut demander au juge de la lever ou de la limiter (article [149](#crise-controle-juridictionnel)).
   - id: exceptionnelles
     ligne: 4
     colonne: 2
@@ -721,7 +721,7 @@ noeuds:
     type: etape
     nom: Fin de la crise
     detail: Constatée par la convention ou le Conseil constitutionnel
-    info: La convention se désactive elle-même, ou le Conseil constitutionnel constate que la crise est terminée (article [158](#secours-desactivation)).
+    info: La convention se désactive elle-même, ou le Conseil constitutionnel constate que la crise est terminée (article [157](#secours-duree-reexamen)).
 liens:
   - crise -> conservatoires | agit
   - crise -> secours | saisie sous 24 h
@@ -794,7 +794,7 @@ noeuds:
     detail: Compétences et péréquation
     info: >-
       La loi organique répartit les compétences selon l’autonomie locale et la subsidiarité ; la loi organise la solidarité financière entre territoires.
-      Le Conseil constitutionnel veille au respect de cette répartition (articles [141](#perequation), [164](#territoires-principes-directeurs) et [46](#cc-etendue-controle)).
+      Le Conseil constitutionnel veille au respect de cette répartition (articles [140](#architecture-fiscale-territoriale), [164](#territoires-principes-directeurs) et [46](#cc-etendue-controle)).
   - id: outremer
     ligne: 5
     colonne: 2
