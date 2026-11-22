@@ -75,7 +75,7 @@ function valeur(phrase) {
 
 const FRACTIONS = [['deux tiers', '2/3'], ['trois quarts', '3/4'], ['moitié', '1/2'], ['tiers', '1/3'], ['quart', '1/4'], ['cinquième', '1/5'], ['dixième', '1/10']];
 const MAJORITES = /majorité (absolue|qualifiée|simple|relative)/gi;
-export const VERROUS = ['ne peut', 'ne peuvent', 'interdit', 'interdite', 'interdits', 'interdites', 'jamais', 'aucun', 'aucune', 'nul', 'nulle', 'de plein droit', 'exclusivement', 'seul', 'seule', 'seuls', 'seules', 'au plus', 'au moins', 'sauf', 'sous réserve', 'obligatoire', 'tenu', 'tenue', 'doit', 'doivent', 'sans délai', 'non renouvelable', 'absolument', 'strictement'];
+export const VERROUS = ['ne peut', 'ne peuvent', 'interdit', 'interdite', 'interdits', 'interdites', 'jamais', 'aucun', 'aucune', 'nul', 'nulle', 'de plein droit', 'exclusivement', 'seul', 'seule', 'seuls', 'seules', 'au plus', 'au moins', 'sauf', 'sous réserve', 'obligatoire', 'tenu', 'doit', 'doivent', 'sans délai', 'non renouvelable', 'absolument', 'strictement'];
 export const INSTITUTIONS = [
   'convention constituante', 'convention de programmation', 'convention thématique', 'convention ordinaire annuelle', 'convention de désignation', 'convention de secours', 'convention citoyenne territoriale', 'convention des droits fondamentaux',
   'Autorité générale des conventions citoyennes', 'Autorité de programmation civique', 'Conseil constitutionnel', 'Conseil scientifique', 'jury technique', "Autorité de contrôle de l'exécution des lois", 'session plénière', 'service technique', 'Procureur général des comptes publics', 'Commission permanente', 'Défenseur des droits',

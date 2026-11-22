@@ -26,43 +26,41 @@ Son principe est le gouvernement du peuple, par le peuple et pour le peuple.
 
 La souveraineté appartient au peuple, formé du corps civique défini à l'article [13](#eligibilite-participation).
 
-Elle s'exerce, comme mode normal, par des conventions citoyennes tirées au sort selon des procédures assurant la représentativité sociale, territoriale et démographique de la République, et, dans les cas prévus par la présente Constitution, par voie de suffrage universel direct.
+Elle s'exerce normalement par des conventions citoyennes tirées au sort, représentatives de la diversité sociale, territoriale et démographique de la République, et, dans les cas prévus par la présente Constitution, par le suffrage universel direct.
 
 ### Article 4 — Séparation des pouvoirs {#separation-pouvoirs}
 
-Les fonctions suivantes sont exercées par des autorités distinctes :
+Six fonctions sont exercées par des autorités distinctes :
 
-— former la loi, y compris la loi de finances, qui détermine l'impôt et autorise la dépense ;
+- former la loi, y compris la loi de finances, qui détermine l'impôt et autorise la dépense ;
 
-— organiser la délibération citoyenne ;
+- organiser la délibération citoyenne ;
 
-— contrôler la conformité de la loi à la Constitution et, dans les limites fixées au Titre [VI](#controle-scientifique), sa validité scientifique ;
+- contrôler la conformité de la loi à la Constitution et, dans les limites fixées au Titre [VI](#controle-scientifique), sa validité scientifique ;
 
-— exécuter la loi, ce qui comprend le commandement des forces armées ;
+- exécuter la loi, ce qui comprend le commandement des forces armées ;
 
-— contrôler l'exécution de la loi et l'emploi des fonds publics ;
+- contrôler l'exécution de la loi et l'emploi des fonds publics, avec le concours de la Cour des comptes, juridiction financière, dans les conditions prévues à l'article [84](#juridiction-financiere-service-technique) ;
 
-— juger.
+- juger.
 
 L'engagement des forces armées est décidé par une convention citoyenne. Seules les opérations strictement défensives en cas d'agression directe et les opérations urgentes limitativement énumérées à l'article [77](#autorisation-operations-militaires) peuvent être engagées par l'autorité d'exécution, dans les conditions prévues à cet article.
 
-La Cour des comptes, juridiction financière, concourt au contrôle de l'emploi des fonds publics, dans les conditions prévues à l'article [84](#juridiction-financiere-service-technique).
-
-Par dérogation, la convention citoyenne de secours peut, en cas de crise et dans les conditions fixées au Titre [XII](#crises), exercer temporairement plusieurs de ces fonctions, à l'exclusion de la fonction de juger et du contrôle de constitutionnalité.
+En cas de crise, la convention de secours peut exercer temporairement plusieurs de ces fonctions, dans les conditions fixées au Titre [XII](#crises), à l'exclusion de la fonction de juger et du contrôle de constitutionnalité.
 
 ### Article 5 — Partis et groupements politiques {#partis-groupements-politiques}
 
-Les partis et groupements politiques se forment et exercent leur activité librement. L'expression des idées politiques, y compris minoritaires, critiques ou dissidentes, est protégée.
+Les partis et groupements politiques se forment et agissent librement. Ils concourent à l'expression du pluralisme. L'expression des idées politiques, y compris minoritaires, critiques ou dissidentes, est protégée.
 
-Les partis et groupements politiques concourent à l'expression du pluralisme. Ils ne disposent d'aucun rôle propre dans la formation de la loi, dans la désignation des responsables publics ni dans l'organisation des conventions citoyennes, qui reposent sur le tirage au sort civique.
+Ils n'ont aucun rôle propre dans la formation de la loi, la désignation des responsables publics ou l'organisation des conventions citoyennes, qui reposent sur le tirage au sort civique.
 
-Un parti ou groupement politique ne peut être dissous à raison des idées ou opinions qu'il défend publiquement. La dissolution ne peut être prononcée que par décision motivée et contradictoire du juge judiciaire, pour des faits matériels graves portant atteinte à l'ordre constitutionnel, ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique, dans les conditions fixées au Titre [XIV](#probite-deliberative).
+Un parti ou groupement politique ne peut être dissous en raison des idées ou opinions qu'il défend publiquement. Seul le juge judiciaire peut prononcer une dissolution, par décision motivée et contradictoire, pour des faits matériels graves portant atteinte à l'ordre constitutionnel ou pour un ensemble de condamnations définitives révélant un mode opératoire systémique.
 
-Les règles relatives au financement des partis, à la transparence de leurs ressources et à leur participation aux campagnes référendaires sont fixées au Titre [XIV](#probite-deliberative).
+Le Titre [XIV](#probite-deliberative) fixe les conditions de la dissolution ainsi que les règles de financement des partis, de transparence de leurs ressources et de participation aux campagnes référendaires.
 
 ### Article 6 — Force obligatoire de la loi {#force-obligatoire-loi}
 
-Toute autorité publique est tenue par la lettre et la finalité de la loi adoptée selon la Constitution. Aucun motif d'urgence, d'opportunité ou de convenance ne peut justifier de s'y soustraire.
+Toute autorité publique est tenue par la lettre et par la finalité de la loi adoptée selon la Constitution. Aucun motif d'urgence, d'opportunité ou de convenance ne peut justifier de s'y soustraire.
 
 ### Article 7 — Protection contre la tyrannie de la majorité, résistance et désobéissance {#tyrannie-majorite-resistance}
 

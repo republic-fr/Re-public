@@ -36,9 +36,9 @@ L'Autorité générale des conventions citoyennes :
 
 - convoque une nouvelle session budgétaire après échec de la première, dans les conditions prévues au Titre [XI](#finances-publiques) ;
 
-- assure les travaux administratifs permanents au bénéfice de l'Autorité de programmation civique, sous le contrôle de celle-ci.
+- assure, sous le contrôle de l'Autorité de programmation civique, les travaux administratifs permanents de celle-ci, notamment le répertoriage des saisines et la tenue des registres.
 
-La validation de la pluralité effective des viviers mobilisés pour chaque convention et des programmes de formation des conventionnels, relève de l'Autorité de programmation civique. Toute mise à disposition d'expertise par l'Autorité générale des conventions citoyennes peut être contestée devant l'Autorité de programmation civique, qui statue dans un délai d'un mois.
+L'Autorité de programmation civique valide la pluralité des viviers et des programmes de formation. Toute mise à disposition d'expertise par l'Autorité générale peut être contestée devant elle, dans les conditions de l'article [34](#apc-missions).
 
 ### Article 31 — Interdictions {#agcc-interdictions}
 
@@ -60,17 +60,15 @@ Les membres bénéficient du statut du conventionnel défini à l'article [14](#
 
 ### Article 33 — Fonctionnement {#apc-fonctionnement}
 
-L'Autorité de programmation civique siège selon une fréquence mensuelle. Elle peut être convoquée en session extraordinaire lorsque les circonstances l'exigent, notamment pour :
+L'Autorité de programmation civique siège chaque mois. Elle peut être convoquée en session extraordinaire lorsque les circonstances l'exigent, notamment pour :
 
 - examiner l'opportunité d'ouvrir une convention thématique à la suite d'une pétition atteignant le seuil prévu à l'article [36](#seuils-effets-petitions) ;
 
 - saisir le Conseil constitutionnel dans les cas prévus par la présente Constitution ;
 
-- convoquer une session supplémentaire de la convention ordinaire annuelle pour les cas prévus par la présente Constitution.
+- convoquer une session supplémentaire de la convention ordinaire annuelle dans les cas prévus par la présente Constitution.
 
-Les modalités de la convocation en session extraordinaire, ainsi que les règles de quorum et de majorité applicables, sont fixées par la loi organique.
-
-Les travaux administratifs permanents nécessaires à l'exercice de ses missions, notamment le répertoriage des saisines et la tenue des registres, sont assurés par les services de l'Autorité générale des conventions citoyennes, sous le contrôle de l'Autorité de programmation civique.
+La loi organique fixe les modalités de convocation en session extraordinaire et les règles de quorum et de majorité applicables.
 
 ### Article 34 — Missions {#apc-missions}
 
@@ -86,25 +84,21 @@ L'Autorité de programmation civique :
 
 - propose à chaque convention citoyenne les sous-spécialités pertinentes des viviers d'expertise pour le sujet traité ;
 
-- valide la pluralité effective des viviers d'expertise mobilisés pour chaque convention citoyenne et pour chaque désignation aux fonctions juridictionnelles tirées au sort, ainsi que des programmes de formation des conventionnels. Elle peut imposer la modification de la composition d'un vivier ou d'un programme de formation pour défaut de pluralité ;
-
-- valide les formateurs intervenant dans la formation préalable des conventionnels.
+- valide la pluralité effective des viviers d'expertise mobilisés pour chaque convention et pour chaque désignation aux fonctions juridictionnelles tirées au sort, ainsi que les programmes de formation des conventionnels et leurs formateurs. Elle peut imposer la modification d'un vivier ou d'un programme de formation pour défaut de pluralité.
 
 La pluralité des viviers est appréciée selon des indicateurs objectifs vérifiables fixés par la loi organique, comprenant notamment :
 
-— la diversité des établissements de formation initiale ;
+- la diversité des établissements de formation initiale ;
 
-— la distribution géographique ;
+- la distribution géographique ;
 
-— la diversité des secteurs d'activité ;
+- la diversité des secteurs d'activité ;
 
-— la diversité des positions doctrinales ou professionnelles, appréciée à partir des publications, des fonctions exercées et des contributions identifiables dans la spécialité.
-
-Le répertoriage des saisines et la tenue des registres sont matériellement assurés par les services de l'Autorité générale des conventions citoyennes, sous le contrôle de l'Autorité de programmation civique.
+- la diversité des positions doctrinales ou professionnelles, appréciée à partir des publications, des fonctions exercées et des contributions identifiables dans la spécialité.
 
 Les saisines émanant des juridictions prennent la forme de rapports publics collectifs, adoptés par la juridiction en formation plénière. Elles ne peuvent porter sur une affaire pendante devant la juridiction qui saisit. Les modalités de ces saisines sont précisées par la loi organique.
 
-L'Autorité de programmation civique peut être saisie par tout conventionnel, par tout membre d'un vivier d'expertise, ou par toute personne intéressée d'une contestation portant sur la pluralité d'un vivier, sur le choix des sous-spécialités mobilisées, sur le programme de formation ou sur les formateurs validés. Elle statue dans un délai d'un mois.
+Tout conventionnel, tout membre d'un vivier d'expertise et toute personne intéressée peut contester devant l'Autorité de programmation civique la pluralité d'un vivier, le choix des sous-spécialités mobilisées, l'expertise mise à disposition, le programme de formation ou les formateurs validés. Elle statue dans un délai d'un mois.
 
 ### Article 35 — Interdictions et ouvertures hors programme {#apc-interdictions}
 

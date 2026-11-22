@@ -6,7 +6,7 @@ La Constitution est complétée par une Déclaration des droits fondamentaux qui
 
 La Déclaration des droits fondamentaux se fonde sur la Déclaration des droits de l'homme et du citoyen du 26 août 1789, les principes économiques et sociaux particulièrement nécessaires à notre temps énoncés dans le Préambule de la Constitution du 27 octobre 1946, et la Charte de l'environnement de 2004.
 
-Elle est complétée et précisée par une convention thématique des droits fondamentaux, sans que ses travaux puissent réduire la substance des libertés et droits humains fondamentaux déjà reconnus, à l'exception du droit de propriété, garanti dans les termes de l'alinéa suivant.
+Elle est complétée et précisée par la convention des droits fondamentaux, convention thématique dédiée, sans que ses travaux puissent réduire la substance des libertés et droits humains fondamentaux déjà reconnus, à l'exception du droit de propriété, garanti dans les termes de l'alinéa suivant.
 
 La propriété est garantie. Son usage sert aussi l'intérêt général, notamment social et environnemental. Nul ne peut en être privé que pour un motif d'intérêt général défini par la loi, et moyennant une juste indemnité. Le présent alinéa se substitue à l'article 17 de la Déclaration des droits de l'homme et du citoyen de 1789.
 
