@@ -36,7 +36,7 @@ La République peut conclure des accords avec des États qui souhaitent s'associ
 
 ## Chapitre II — Contrôle constitutionnel des traités
 
-### Article 191 — Contrôle de conformité préalable {#traites-controle-conformite}
+### Article 191 — Contrôle de conformité préalable {#traites-controle-conformite #controle-prealable-traites}
 
 Avant toute ratification, le Conseil constitutionnel peut être saisi par l'Autorité de programmation civique, par toute convention ayant compétence pour ratifier, par une autorité constitutionnelle ou par une pétition citoyenne atteignant le seuil fixé par la loi organique, afin de déclarer si un traité comporte une clause contraire à la Constitution.
 
