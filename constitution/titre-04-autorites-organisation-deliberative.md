@@ -2,21 +2,21 @@
 
 ## Chapitre I — L'Autorité générale des conventions citoyennes
 
-### Article 28 — Nature {#agcc-nature}
+### Article 25 — Nature {#agcc-nature}
 
 L'Autorité générale des conventions citoyennes est une autorité constitutionnelle indépendante. Elle assure l'organisation matérielle, sociale et procédurale des conventions citoyennes prévues par la présente Constitution, ainsi que les autres missions d'intendance constitutionnelle qui lui sont confiées.
 
-### Article 29 — Direction {#agcc-direction}
+### Article 26 — Direction {#agcc-direction}
 
 L'Autorité générale des conventions citoyennes est dirigée par une directrice générale ou un directeur général.
 
-Elle, ou il, est nommé par la convention de désignation, selon la procédure prévue à l'article [62](#procedure-designation-ministres), après appel à candidatures public et contrôle préalable de probité par la Juridiction de probité et de responsabilité publique.
+Elle, ou il, est nommé par la convention de désignation, selon la procédure prévue à l'article [54](#procedure-designation-ministres), après appel à candidatures public et contrôle préalable de probité par la Juridiction de probité et de responsabilité publique.
 
 L'appel à candidatures est alors organisé par l'Autorité de contrôle de l'exécution des lois, et non par l'Autorité générale. Aucun agent de l'Autorité générale ne participe à cette désignation.
 
 Son mandat est de six ans, non renouvelable. Il est révocable par la Juridiction de probité et de responsabilité publique dans les conditions prévues au Titre [IX](#juridiction-probite).
 
-### Article 30 — Missions {#agcc-missions}
+### Article 27 — Missions {#agcc-missions}
 
 L'Autorité générale des conventions citoyennes :
 
@@ -38,9 +38,9 @@ L'Autorité générale des conventions citoyennes :
 
 - assure, sous le contrôle de l'Autorité de programmation civique, les travaux administratifs permanents de celle-ci, notamment le répertoriage des saisines et la tenue des registres.
 
-L'Autorité de programmation civique valide la pluralité des viviers et des programmes de formation. Toute mise à disposition d'expertise par l'Autorité générale peut être contestée devant elle, dans les conditions de l'article [34](#apc-missions).
+L'Autorité de programmation civique valide la pluralité des viviers et des programmes de formation. Toute mise à disposition d'expertise par l'Autorité générale peut être contestée devant elle, dans les conditions de l'article [31](#apc-missions).
 
-### Article 31 — Interdictions {#agcc-interdictions}
+### Article 28 — Interdictions {#agcc-interdictions}
 
 La mission de l'Autorité générale des conventions citoyennes est exclusivement d'intendance constitutionnelle. Elle organise matériellement la délibération sans intervenir sur son contenu, ses orientations politiques, ses controverses scientifiques ou son contrôle constitutionnel, qui relèvent des autorités compétentes.
 
@@ -50,7 +50,7 @@ La loi organique fixe les mécanismes empêchant la capture, la corruption, l'in
 
 ## Chapitre II — L'Autorité de programmation civique
 
-### Article 32 — Nature et composition {#apc-nature-composition}
+### Article 29 — Nature et composition {#apc-nature-composition}
 
 L'Autorité de programmation civique est une autorité constitutionnelle indépendante, composée de cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite).
 
@@ -58,11 +58,11 @@ Le mandat des membres est d'un an, non renouvelable immédiatement. Le renouvell
 
 Les membres bénéficient du statut du conventionnel défini à l'article [14](#statut-conventionnel). Par dérogation à l'article [14](#statut-conventionnel), l'identité de ses membres reste confidentielle pendant leur mandat et n'est rendue publique qu'à son terme ; ses délibérations sont publiées sous une forme qui ne permet pas d'identifier ses membres.
 
-### Article 33 — Fonctionnement {#apc-fonctionnement}
+### Article 30 — Fonctionnement {#apc-fonctionnement}
 
 L'Autorité de programmation civique siège chaque mois. Elle peut être convoquée en session extraordinaire lorsque les circonstances l'exigent, notamment pour :
 
-- examiner l'opportunité d'ouvrir une convention thématique à la suite d'une pétition atteignant le seuil prévu à l'article [36](#seuils-effets-petitions) ;
+- examiner l'opportunité d'ouvrir une convention thématique à la suite d'une pétition atteignant le seuil prévu à l'article [33](#seuils-effets-petitions) ;
 
 - saisir le Conseil constitutionnel dans les cas prévus par la présente Constitution ;
 
@@ -70,7 +70,7 @@ L'Autorité de programmation civique siège chaque mois. Elle peut être convoqu
 
 La loi organique fixe les modalités de convocation en session extraordinaire et les règles de quorum et de majorité applicables.
 
-### Article 34 — Missions {#apc-missions}
+### Article 31 — Missions {#apc-missions}
 
 L'Autorité de programmation civique :
 
@@ -100,18 +100,18 @@ Les saisines émanant des juridictions prennent la forme de rapports publics col
 
 Tout conventionnel, tout membre d'un vivier d'expertise et toute personne intéressée peut contester devant l'Autorité de programmation civique la pluralité d'un vivier, le choix des sous-spécialités mobilisées, l'expertise mise à disposition, le programme de formation ou les formateurs validés. Elle statue dans un délai d'un mois.
 
-### Article 35 — Interdictions et ouvertures hors programme {#apc-interdictions}
+### Article 32 — Interdictions et ouvertures hors programme {#apc-interdictions}
 
 L'Autorité de programmation civique ne vote pas la loi et ne décide pas du contenu du programme législatif, qui relève de la convention de programmation.
 
 Elle ouvre les conventions thématiques en application du programme fixé par la convention de programmation. Elle ne peut en ouvrir hors programme, par décision motivée et publique, que dans les cas suivants :
 
-- sur pétition, dans les conditions prévues à l'article [36](#seuils-effets-petitions) ;
+- sur pétition, dans les conditions prévues à l'article [33](#seuils-effets-petitions) ;
 - à la demande de la session plénière de l'Autorité de contrôle de l'exécution des lois ;
 - à la demande de la convention de programmation ou de la convention ordinaire annuelle, notamment pour une réforme fiscale majeure ;
 - sur proposition motivée du Conseil supérieur de la magistrature, pour le statut des magistrates et magistrats ou l'organisation judiciaire ;
 - pour un projet d'acte de l'Union européenne ou pour la transposition d'un tel acte ;
-- pour l'autorisation d'une opération militaire, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
+- pour l'autorisation d'une opération militaire, dans les conditions prévues à l'article [61](#autorisation-operations-militaires) ;
 - lorsqu'une échéance juridique certaine l'exige ;
 
 - lorsque la présente Constitution prévoit une convention thématique dédiée.
@@ -120,7 +120,7 @@ Hors pétition, hors autorisation militaire, hors convention thématique prévue
 
 Les situations de crise relèvent de la convention de secours, dans les conditions prévues au Titre [XII](#crises).
 
-### Article 36 — Seuils et effets des pétitions citoyennes {#seuils-effets-petitions}
+### Article 33 — Seuils et effets des pétitions citoyennes {#seuils-effets-petitions}
 
 Les pétitions citoyennes relatives à l'agenda législatif sont accueillies selon deux régimes distincts :
 
@@ -130,9 +130,9 @@ Les pétitions citoyennes relatives à l'agenda législatif sont accueillies sel
 
 L'examen d'opportunité prévu au second alinéa donne lieu à une décision motivée et publique. L'Autorité de programmation civique peut décider soit l'ouverture d'une convention thématique, soit la transmission à la prochaine convention de programmation, soit, par décision motivée, de ne pas donner suite. Sa décision est susceptible de recours devant le Conseil constitutionnel dans les conditions fixées par la loi organique.
 
-Les autres seuils de pétition, notamment ceux prévus aux articles [199](#referendum-transferts-intermediaires) et [208](#revision-initiative) pour les référendums européens et les révisions constitutionnelles, demeurent régis par les dispositions propres de la présente Constitution.
+Les autres seuils de pétition, notamment ceux prévus aux articles [156](#referendum-transferts-intermediaires) et [163](#revision-initiative) pour les référendums européens et les révisions constitutionnelles, demeurent régis par les dispositions propres de la présente Constitution.
 
-### Article 37 — Garanties contre la capture {#apc-garanties-contre-capture}
+### Article 34 — Garanties contre la capture {#apc-garanties-contre-capture}
 
 La participation à l'Autorité de programmation civique est incompatible avec toute fonction d'exécution, de contrôle constitutionnel ou de direction partisane.
 

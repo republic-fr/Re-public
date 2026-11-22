@@ -2,11 +2,11 @@
 
 ## Chapitre I — Nature et composition
 
-### Article 95 — Nature {#juridiction-probite-nature}
+### Article 77 — Nature {#juridiction-probite-nature}
 
 La Juridiction de probité et de responsabilité publique est une juridiction constitutionnelle indépendante. Elle contrôle l'intégrité des responsables publics avant leur désignation et périodiquement pendant leur mandat, et juge les fautes graves commises dans l'exercice des fonctions publiques.
 
-### Article 96 — Composition {#juridiction-probite-composition}
+### Article 78 — Composition {#juridiction-probite-composition}
 
 La Juridiction compte quinze membres, exclusivement magistrats ou juristes de formation juridictionnelle équivalente, ayant une expertise particulière du droit pénal, du droit disciplinaire, du droit administratif ou du contrôle de la probité publique.
 
@@ -22,11 +22,11 @@ Sont inscrits de plein droit au vivier :
 
 - les conseillers maîtres à la Cour des comptes et les magistrats des juridictions financières, en exercice ou honoraires.
 
-Le vivier est stratifié par domaines de spécialisation selon une nomenclature fixée par la loi organique. Une personne peut figurer dans plusieurs domaines selon ses qualifications attestées. Les listes sont tenues à jour par le Conseil supérieur de la magistrature pour les magistrats, par les conseils de l'ordre pour les avocats, par les universités pour les professeurs et par leurs corps de rattachement pour les autres juristes. Les principes communs aux viviers de l'article [170](#vivier-public-experts) s'appliquent.
+Le vivier est stratifié par domaines de spécialisation selon une nomenclature fixée par la loi organique. Une personne peut figurer dans plusieurs domaines selon ses qualifications attestées. Les listes sont tenues à jour par le Conseil supérieur de la magistrature pour les magistrats, par les conseils de l'ordre pour les avocats, par les universités pour les professeurs et par leurs corps de rattachement pour les autres juristes. Les principes communs aux viviers de l'article [132](#vivier-public-experts) s'appliquent.
 
 L'inscription au vivier suppose le respect des règles d'indépendance, d'impartialité et d'intégrité fixées par la loi organique. Le Conseil supérieur de la magistrature peut radier du vivier toute personne qui ne les respecte plus, par décision motivée. Cette décision est susceptible de recours devant la Juridiction elle-même, siégeant dans une formation distincte de celle dont l'intéressé pourrait être membre.
 
-### Article 97 — Mandat, statut et indépendance {#juridiction-probite-duree-mandat #juridiction-probite-statut}
+### Article 79 — Mandat, statut et indépendance {#juridiction-probite-duree-mandat #juridiction-probite-statut}
 
 Le mandat des membres est de neuf ans, non renouvelable. La Juridiction se renouvelle par tiers tous les trois ans. En cas de vacance, un nouveau membre est tiré au sort dans le vivier, dans le même domaine de spécialisation, pour la durée du mandat restant à courir.
 
@@ -34,11 +34,11 @@ La fonction de membre est absolument incompatible avec toute fonction ministéri
 
 La rémunération des membres est uniforme, indépendante de la notoriété ou de l'expérience préalable. Les opinions dissidentes sont publiées. L'intégrité des membres est contrôlée, avant leur désignation et périodiquement pendant leur mandat, par une formation spécifique de la Juridiction qui ne comprend pas les membres concernés, dans des conditions fixées par la loi organique.
 
-La Juridiction présente chaque année un rapport public d'activité à la session plénière de l'Autorité de contrôle de l'exécution des lois, dans les conditions de l'article [82](#session-pleniere-competences).
+La Juridiction présente chaque année un rapport public d'activité à la session plénière de l'Autorité de contrôle de l'exécution des lois, dans les conditions de l'article [65](#session-pleniere-competences).
 
 ## Chapitre II — Fonctions et périmètre
 
-### Article 99 — Contrôle de l'intégrité {#controle-prealable-probite #controle-periodique-integrite}
+### Article 80 — Contrôle de l'intégrité {#controle-prealable-probite #controle-periodique-integrite}
 
 Avant toute désignation à une fonction soumise à son contrôle, la Juridiction vérifie, pour chaque personne candidate :
 
@@ -54,7 +54,7 @@ Les opinions exprimées par une personne candidate ne peuvent en aucun cas fonde
 
 Pendant le mandat, la Juridiction contrôle périodiquement la probité des responsables publics soumis à son contrôle, notamment au vu de leurs déclarations actualisées de patrimoine et d'intérêts. En cas de manquement grave, ce contrôle peut conduire à une procédure de responsabilité.
 
-### Article 101 — Fautes graves {#jugement-fautes-graves}
+### Article 81 — Fautes graves {#jugement-fautes-graves}
 
 La Juridiction juge les fautes graves commises dans l'exercice des fonctions publiques. Constituent notamment des fautes graves :
 
@@ -76,9 +76,9 @@ La Juridiction juge les fautes graves commises dans l'exercice des fonctions pub
 
 - l'atteinte à l'indépendance d'une autre autorité constitutionnelle ;
 
-- la violation du serment constitutionnel prêté en application de l'article [58](#nature-administration-execution).
+- la violation du serment constitutionnel prêté en application de l'article [50](#nature-administration-execution).
 
-### Article 102 — Personnes soumises à son contrôle {#juridiction-probite-perimetre}
+### Article 82 — Personnes soumises à son contrôle {#juridiction-probite-perimetre}
 
 Sont soumis au contrôle de la Juridiction, au sens de la présente Constitution :
 
@@ -94,7 +94,7 @@ Sont soumis au contrôle de la Juridiction, au sens de la présente Constitution
 
 - les membres de l'Autorité de programmation civique et les responsables de l'Autorité générale des conventions citoyennes ;
 
-- les membres du Conseil supérieur de la magistrature, et les magistrats dans les conditions de l'article [121](#repartition-probite-judiciaire) ;
+- les membres du Conseil supérieur de la magistrature, et les magistrats dans les conditions de l'article [97](#repartition-probite-judiciaire) ;
 
 - le Défenseur des droits ;
 
@@ -108,7 +108,7 @@ Sont soumis au contrôle de la Juridiction, au sens de la présente Constitution
 
 ## Chapitre III — Saisine, procédure et sanctions
 
-### Article 103 — Saisine {#juridiction-probite-saisine}
+### Article 83 — Saisine {#juridiction-probite-saisine}
 
 Le contrôle préalable de probité est systématique pour toute désignation à une fonction soumise au contrôle de la Juridiction. Elle est saisie par l'Autorité générale des conventions citoyennes ou par l'autorité de nomination compétente.
 
@@ -130,15 +130,15 @@ La Juridiction écarte d'office, par décision motivée, les saisines manifestem
 
 Toute personne peut en outre saisir la Juridiction en cas de révélation de faits nouveaux affectant l'intégrité d'un responsable public, qui n'étaient pas connus ou n'avaient pas été révélés lors de la désignation ou du dernier contrôle périodique.
 
-### Article 104 — Procédure et recours {#juridiction-probite-procedure}
+### Article 84 — Procédure et recours {#juridiction-probite-procedure}
 
 La procédure est contradictoire. Le responsable mis en cause peut se défendre, présenter des pièces et être assisté d'un conseil.
 
-Les séances sont publiques, sauf exception strictement motivée par la protection de tiers ou par un secret défini à l'article [88](#controle-renseignement-armees). Les décisions sont motivées, publiques et accompagnées des opinions dissidentes. La Juridiction statue dans un délai raisonnable fixé par la loi organique.
+Les séances sont publiques, sauf exception strictement motivée par la protection de tiers ou par un secret défini à l'article [70](#secrets). Les décisions sont motivées, publiques et accompagnées des opinions dissidentes. La Juridiction statue dans un délai raisonnable fixé par la loi organique.
 
 Ses décisions ne sont susceptibles que d'un recours devant une formation de recours de la Juridiction, composée de membres n'ayant pas siégé en première instance. Les décisions déclarant une candidature irrecevable et les décisions de révocation peuvent en outre être portées devant le Conseil constitutionnel.
 
-### Article 105 — Sanctions {#juridiction-probite-sanctions}
+### Article 85 — Sanctions {#juridiction-probite-sanctions}
 
 Selon la gravité des manquements, la Juridiction peut prononcer :
 

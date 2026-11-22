@@ -295,14 +295,18 @@ function sommaire() {
 // ---------- Concordance avec la v25 ----------
 
 const v25 = JSON.parse(fs.readFileSync(path.join(SITE, 'concordance', 'v25.json'), 'utf8'));
+// Anciens numéros : ceux de la v25, complétés par les articles ajoutés ensuite (texte figé avant la refonte).
+const anciens = { ...v25.articles };
+const avantRefonte = path.join(SITE, 'refonte', 'avant.json');
+if (fs.existsSync(avantRefonte)) for (const a of JSON.parse(fs.readFileSync(avantRefonte, 'utf8')).articles) if (!anciens[a.num]) anciens[a.num] = a.id;
 const now = (id) => { const e = refs.byId.get(id); return e ? refs.byId.get(e.primary) : null; };
-const changes = Object.entries(v25.articles).map(([n, id]) => ({ n: +n, id, e: now(id) })).filter((r) => !r.e || r.e.label !== String(r.n) || r.e.primary !== r.id);
+const changes = Object.entries(anciens).map(([n, id]) => ({ n: +n, id, e: now(id) })).filter((r) => !r.e || r.e.label !== String(r.n) || r.e.primary !== r.id);
 
 function concordance() {
   const rows = changes.map((r) => `<tr><td>${r.n}</td><td>${r.e ? `<a href="${urlArticleId(r.e.primary)}">Article ${r.e.label}</a> — ${esc(stripIds(r.e.name))}` : '—'}</td></tr>`).join('');
   const table = changes.length
     ? `<p>Les articles dont le numéro a changé depuis la version 25 sont listés ci-dessous. Les anciens liens vers ces articles redirigent automatiquement vers leur nouvelle place.</p>
-<table class="concordance"><thead><tr><th scope="col">Article (v25)</th><th scope="col">Aujourd’hui</th></tr></thead><tbody>${rows}</tbody></table>`
+<table class="concordance"><thead><tr><th scope="col">Ancien numéro (v25)</th><th scope="col">Aujourd’hui</th></tr></thead><tbody>${rows}</tbody></table>`
     : `<p>La numérotation n’a pas changé depuis la version 25 : chaque article garde son numéro. Si elle change, cette page indiquera la nouvelle place de chaque article, et les anciens liens continueront de fonctionner.</p>`;
   const body = `<div class="wrap page-head"><div class="rp-tags"><span class="rp-tag rp-tag--solid">Texte</span><span class="rp-tag">Concordance</span></div><h1 class="rp-title">Table de concordance</h1></div>
 <div class="wrap prose">${table}<p><a href="/texte/">Revenir au sommaire</a></p></div>`;
@@ -395,7 +399,7 @@ if (refonte) {
 const oldTitre = (r) => `/texte/titre-${String(ROMAN.indexOf(r) + 1).padStart(2, '0')}/`;
 const redirects = Object.entries(v25.titres).map(([r, id]) => [oldTitre(r), urlTitre(titreById.get(now(id).primary))]);
 fs.writeFileSync(path.join(OUT, '_redirects'), redirects.map(([a, b]) => `${a} ${b} 301\n${a.slice(0, -1)} ${b} 301`).join('\n') + '\n');
-fs.writeFileSync(path.join(OUT, 'v25.json'), JSON.stringify(Object.fromEntries(Object.entries(v25.articles).map(([n, id]) => [n, urlArticleId(now(id).primary)]))));
+fs.writeFileSync(path.join(OUT, 'v25.json'), JSON.stringify(Object.fromEntries(Object.entries(anciens).map(([n, id]) => [n, urlArticleId(now(id).primary)]))));
 for (const [file, href] of [['pourquoi.md', '/pourquoi/'], ['fonctionnement.md', '/fonctionnement/'], ['comment.md', '/comment/'], ['commenter.md', '/commenter/'], ['faq.md', '/faq/'], ['contact.md', '/contact/']]) {
   write(href.replaceAll('/', ''), contentPage(file, href));
 }

@@ -62,7 +62,7 @@ Tout membre d'une convention bénéficie d'un statut constitutionnel protecteur,
 
 Tout membre peut demander que son identité reste confidentielle pendant son mandat. La confidentialité est la règle pour les conventions qui traitent de la défense ou du renseignement. Les délibérations restent publiques, sous une forme qui ne permet pas d'identifier les membres protégés.
 
-Pour les conventions dont les membres sont confidentiels de plein droit, le tirage a lieu sur un fichier pseudonymisé par l'administration qui le détient. L'Autorité générale des conventions citoyennes ne connaît les membres que par leur pseudonyme et leur catégorie. Le Défenseur des droits conserve la table de correspondance, et son service adresse les convocations. Chaque convocation donne lieu à un accusé de réception pseudonymisé, communiqué à l'Autorité générale et à l'Autorité de contrôle de l'exécution des lois. Ne pas envoyer une convocation dans le délai est une faute grave au sens de l'article [101](#jugement-fautes-graves).
+Pour les conventions dont les membres sont confidentiels de plein droit, le tirage a lieu sur un fichier pseudonymisé par l'administration qui le détient. L'Autorité générale des conventions citoyennes ne connaît les membres que par leur pseudonyme et leur catégorie. Le Défenseur des droits conserve la table de correspondance, et son service adresse les convocations. Chaque convocation donne lieu à un accusé de réception pseudonymisé, communiqué à l'Autorité générale et à l'Autorité de contrôle de l'exécution des lois. Ne pas envoyer une convocation dans le délai est une faute grave au sens de l'article [81](#jugement-fautes-graves).
 
 Pour les autres conventions, seul un service restreint de l'Autorité générale accède aux identités. Chaque consultation est enregistrée, et ce registre est audité chaque année par l'Autorité de contrôle de l'exécution des lois.
 
@@ -118,7 +118,7 @@ Les lois organiques nécessaires à la première mise en place des institutions,
 
 Une convention de programmation de cent cinquante citoyens tirés au sort est réunie tous les cinq ans.
 
-Elle ouvre ses travaux par un bilan public de la période écoulée : l'application des lois, le fonctionnement des institutions et la participation des citoyens, notamment à partir des rapports de l'Autorité de contrôle de l'exécution des lois. Elle peut en tirer une proposition de révision de la Constitution, dans les conditions de l'article [208](#revision-initiative).
+Elle ouvre ses travaux par un bilan public de la période écoulée : l'application des lois, le fonctionnement des institutions et la participation des citoyens, notamment à partir des rapports de l'Autorité de contrôle de l'exécution des lois. Elle peut en tirer une proposition de révision de la Constitution, dans les conditions de l'article [163](#revision-initiative).
 
 Elle examine l'ensemble des saisines répertoriées par l'Autorité de programmation civique et fixe notamment :
 
@@ -134,9 +134,9 @@ La durée de ses travaux est fixée par la loi organique. Elle est dissoute à l
 
 ## Chapitre III — Les conventions thématiques
 
-### Article 21 — Ouverture, composition et rapporteurs {#thematique-formation-objet}
+### Article 20 — Ouverture, composition et rapporteurs {#thematique-formation-objet}
 
-Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme fixé par la convention de programmation ou, par exception, dans les cas prévus à l'article [35](#apc-interdictions). Chacune compte cent cinquante citoyens tirés au sort et examine un sujet déterminé, sur lequel elle peut adopter une ou plusieurs lois. Elle est dissoute à l'issue de sa mission.
+Les conventions thématiques sont ouvertes par l'Autorité de programmation civique, en application du programme fixé par la convention de programmation ou, par exception, dans les cas prévus à l'article [32](#apc-interdictions). Chacune compte cent cinquante citoyens tirés au sort et examine un sujet déterminé, sur lequel elle peut adopter une ou plusieurs lois. Elle est dissoute à l'issue de sa mission.
 
 Avant sa dissolution, la convention désigne trois rapporteurs parmi ses membres volontaires, à la majorité simple des membres présents. Pendant cinq ans, renouvelables une fois pour cinq ans si aucune convention thématique ne s'est tenue sur le même sujet entre-temps, les rapporteurs peuvent :
 
@@ -148,13 +148,13 @@ Avant sa dissolution, la convention désigne trois rapporteurs parmi ses membres
 
 Ils bénéficient d'un statut fixé par la loi organique, qui les protège contre les pressions, leur donne un secrétariat léger et indemnise le temps qu'ils consacrent à leur mission.
 
-### Article 22 — Déroulement et durée {#thematique-cycle-deliberatif #thematique-duree}
+### Article 21 — Déroulement et durée {#thematique-cycle-deliberatif #thematique-duree}
 
 Chaque convention thématique se déroule ainsi : formation de ses membres, remise d'un dossier pluraliste et contradictoire, contre-expertise publique prévue au Titre [XIV](#probite-deliberative), auditions publiques, délibération interne protégée, rédaction avec une assistance neutre, adoption du texte, puis dissolution.
 
 L'Autorité de programmation civique fixe sa durée à l'ouverture, selon la complexité et le volume du sujet, entre une durée minimale et une durée maximale fixées par la loi organique. La convention peut demander une prorogation motivée, dans les conditions fixées par la loi organique.
 
-### Article 24 — Adoption de la loi {#adoption-loi}
+### Article 22 — Adoption de la loi {#adoption-loi}
 
 La convention thématique adopte la loi à la majorité absolue de ses membres.
 
@@ -162,9 +162,9 @@ Avec chaque loi, elle publie un compte rendu des citoyens, rédigé en langage c
 
 Sous réserve des contrôles scientifique et constitutionnel, la loi entre en vigueur à la date qu'elle fixe ou, à défaut, le lendemain de sa publication officielle. Les modalités de publication sont fixées par la loi organique.
 
-### Article 25 — Réexamen d'un texte suspendu {#reexamen-cas-suspension #cc-saisine-convention-secours}
+### Article 23 — Réexamen d'un texte suspendu {#reexamen-cas-suspension #cc-saisine-convention-secours}
 
-Lorsque le Conseil constitutionnel ou le Conseil scientifique ad hoc suspend un texte, sa décision qualifie chaque grief de grief de forme ou de grief de fond. Toute convention qui adopte un texte désigne à cette fin trois rapporteurs, dans les conditions de l'article [21](#thematique-formation-objet).
+Lorsque le Conseil constitutionnel ou le Conseil scientifique ad hoc suspend un texte, sa décision qualifie chaque grief de grief de forme ou de grief de fond. Toute convention qui adopte un texte désigne à cette fin trois rapporteurs, dans les conditions de l'article [20](#thematique-formation-objet).
 
 En cas de grief de forme, les rapporteurs peuvent, dans un délai d'un mois, retirer ou rectifier les seules dispositions visées. Ils ne peuvent ajouter aucune disposition nouvelle. Le Conseil constitutionnel statue de nouveau dans un délai fixé par la loi organique. Le texte suit la procédure prévue pour le grief de fond si le Conseil estime que la rectification modifie l'économie générale du texte, si le tiers des membres de la convention d'origine le demande, ou si le grief ne peut être levé que par un nouveau vote.
 
@@ -176,16 +176,16 @@ Lorsque le texte doit entrer en vigueur avant une échéance juridique certaine,
 
 ## Chapitre IV — La convention ordinaire annuelle
 
-### Article 26 — Objet {#convention-ordinaire-objet}
+### Article 24 — Objet {#convention-ordinaire-objet}
 
 La convention ordinaire annuelle siège une fois par an, au moment de l'examen du budget, sous réserve des sessions supplémentaires prévues par la présente Constitution. Elle adopte chaque année :
 
 - le budget de l'État et les lois fiscales annuelles, dans le cadre des priorités fixées par la convention de programmation et dans les conditions du Titre [XI](#finances-publiques) ;
 
-- la ratification des traités majeurs relevant de l'article [188](#traites-ratification) ;
+- la ratification des traités majeurs relevant de l'article [147](#traites-ratification) ;
 
-- le réexamen des textes suspendus, dans les conditions de l'article [25](#reexamen-cas-suspension) ;
+- le réexamen des textes suspendus, dans les conditions de l'article [23](#reexamen-cas-suspension) ;
 
-- l'organisation judiciaire ordinaire, dans les conditions de l'article [125](#organisation-judiciaire) ;
+- l'organisation judiciaire ordinaire, dans les conditions de l'article [99](#organisation-judiciaire) ;
 
-- l'examen des décrets évoqués, dans les conditions de l'article [59](#subordination-loi).
+- l'examen des décrets évoqués, dans les conditions de l'article [51](#subordination-loi).

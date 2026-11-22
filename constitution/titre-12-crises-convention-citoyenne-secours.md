@@ -2,7 +2,7 @@
 
 ## Chapitre I — Principes généraux
 
-### Article 142 — Notion de crise et régime applicable {#notion-crise #architecture-regime-crise}
+### Article 112 — Notion de crise et régime applicable {#notion-crise #architecture-regime-crise}
 
 Constitue une crise, au sens du présent titre, toute situation grave et immédiate qui menace la vie ou la santé des personnes, la continuité des services publics essentiels, l'intégrité du territoire, la sécurité nationale, l'environnement, l'ordre démocratique ou le fonctionnement des institutions constitutionnelles.
 
@@ -12,7 +12,7 @@ En cas de crise, deux mécanismes distincts sont activés simultanément :
 
 - les mesures exceptionnelles, qui ne peuvent être autorisées que par la convention citoyenne de secours.
 
-### Article 144 — Interdictions absolues {#crise-interdictions-absolues}
+### Article 113 — Interdictions absolues {#crise-interdictions-absolues}
 
 Même en temps de crise, sont absolument interdites toutes mesures ayant pour effet ou pour objet :
 
@@ -26,21 +26,21 @@ Même en temps de crise, sont absolument interdites toutes mesures ayant pour ef
 
 - de porter atteinte aux droits intangibles garantis à l'article [9](#droits-intangibles) ;
 
-- de prolonger une situation d'exception au-delà des durées et sans les contrôles prévus à l'article [157](#secours-duree-reexamen) ;
+- de prolonger une situation d'exception au-delà des durées et sans les contrôles prévus à l'article [123](#secours-duree-reexamen) ;
 
 - de cumuler avec le pouvoir juridictionnel ou avec le contrôle de la validité constitutionnelle de la loi.
 
-### Article 145 — Exclusion du régime militaire d'exception {#exclusion-regime-militaire-exception}
+### Article 114 — Exclusion du régime militaire d'exception {#exclusion-regime-militaire-exception}
 
 Aucune situation de crise ne peut entraîner le transfert de pouvoirs civils à l'autorité militaire. L'autorité civile demeure, en toute circonstance, supérieure à l'autorité militaire.
 
-Les forces armées peuvent être mobilisées en appui des autorités civiles dans les conditions prévues par la loi et à l'article [147](#conservatoires-cadre-interdit), sous le contrôle du juge et dans le respect des droits fondamentaux. Cette mobilisation ne confère à l'autorité militaire aucun pouvoir propre de police, d'administration ou de contrainte en dehors du cadre strict fixé par la loi.
+Les forces armées peuvent être mobilisées en appui des autorités civiles dans les conditions prévues par la loi et à l'article [116](#conservatoires-cadre-interdit), sous le contrôle du juge et dans le respect des droits fondamentaux. Cette mobilisation ne confère à l'autorité militaire aucun pouvoir propre de police, d'administration ou de contrainte en dehors du cadre strict fixé par la loi.
 
 Aucune force armée ou de sécurité intérieure, gendarmerie et police comprises, ne peut pénétrer dans les lieux où siègent les conventions citoyennes, les juridictions et les autorités constitutionnelles, ni dans les locaux des médias, ni être déployée à leurs abords, sans l'autorisation de l'institution concernée ou de la convention de secours. Font exception la garde ordinaire placée sous l'autorité de l'institution et les actes ordonnés par un juge. Toute violation de cette interdiction constitue une atteinte à l'ordre constitutionnel.
 
 ## Chapitre II — Les mesures conservatoires
 
-### Article 146 — Cadre autorisé {#conservatoires-cadre-autorise}
+### Article 115 — Cadre autorisé {#conservatoires-cadre-autorise}
 
 L'administration d'exécution peut prendre, sans délai et sous le contrôle du juge, des mesures strictement opérationnelles, nécessaires, proportionnées et réversibles, relevant notamment des domaines suivants :
 
@@ -56,7 +56,7 @@ L'administration d'exécution peut prendre, sans délai et sous le contrôle du 
 
 - la coordination opérationnelle des forces de sécurité dans le respect de leurs missions ordinaires ;
 
-- toute autre mesure strictement opérationnelle répondant aux critères de l'article [148](#conservatoires-validite).
+- toute autre mesure strictement opérationnelle répondant aux critères de l'article [117](#conservatoires-validite).
 
 En cas de menace imminente avérée pour la sécurité nationale ou la vie des personnes, l'administration d'exécution peut également ordonner, pour une durée maximale de soixante-douze heures non renouvelable :
 
@@ -64,13 +64,13 @@ En cas de menace imminente avérée pour la sécurité nationale ou la vie des p
 
 2° la fermeture temporaire de points de passage frontaliers.
 
-Ces mesures sont exécutées par les seules forces placées sous l'autorité du ministre de l'Intérieur, dans le cadre de leurs missions de police. Elles sont coordonnées par le membre qui préside le collège des ministres et soumises au contrôle juridictionnel prévu à l'article [149](#crise-controle-juridictionnel). Elles cessent de plein droit à l'entrée en fonction de la convention de secours, qui peut les prolonger, les modifier ou les abroger.
+Ces mesures sont exécutées par les seules forces placées sous l'autorité du ministre de l'Intérieur, dans le cadre de leurs missions de police. Elles sont coordonnées par le membre qui préside le collège des ministres et soumises au contrôle juridictionnel prévu à l'article [118](#crise-controle-juridictionnel). Elles cessent de plein droit à l'entrée en fonction de la convention de secours, qui peut les prolonger, les modifier ou les abroger.
 
 Les mesures prévues aux 1° et 2° font l'objet des garanties suivantes :
 
 a) Compétence juridictionnelle. La Juridiction de probité et de responsabilité publique est compétente pour connaître des fautes commises par les agents et autorités d'exécution dans leur mise en œuvre. Elle peut être saisie par tout citoyen, par la convention de secours ou par la convention thématique de contrôle prévue au e).
 
-b) Sanction de non-confirmation. Toute mesure non confirmée par la convention de secours dans les délais prévus à l'article [152](#secours-saisine) est réputée illégale. Elle ouvre droit à réparation pour les personnes lésées et engage la responsabilité personnelle des autorités l'ayant ordonnée, dans les conditions fixées par la loi organique.
+b) Sanction de non-confirmation. Toute mesure non confirmée par la convention de secours dans les délais prévus à l'article [120](#secours-saisine) est réputée illégale. Elle ouvre droit à réparation pour les personnes lésées et engage la responsabilité personnelle des autorités l'ayant ordonnée, dans les conditions fixées par la loi organique.
 
 c) Plafond annuel. Le recours à ces mesures est limité à trois épisodes par année civile. Au-delà, il requiert l'autorisation préalable de la convention de secours statuant à la majorité qualifiée, sauf état de guerre déclaré par convention thématique.
 
@@ -80,7 +80,7 @@ e) Convention thématique de contrôle. Tous les cinq ans, une convention théma
 
 f) Clause de réexamen. Les dispositions relatives aux mesures prévues aux 1° et 2°, y compris les présentes garanties, font l'objet d'un réexamen obligatoire par convention constituante quinze ans après l'entrée en vigueur de la présente Constitution. À défaut de reconfirmation expresse selon la procédure de révision prévue au Titre [XVI](#revision), convention constituante et référendum compris, ils deviennent caducs.
 
-### Article 147 — Cadre interdit {#conservatoires-cadre-interdit}
+### Article 116 — Cadre interdit {#conservatoires-cadre-interdit}
 
 Ne peuvent être prises qu'avec l'autorisation expresse de la convention de secours :
 
@@ -92,15 +92,15 @@ Ne peuvent être prises qu'avec l'autorisation expresse de la convention de seco
 
 - toute suspension ou restriction de médias, de réseaux de communication ou d'internet ;
 
-- toute mesure fiscale, budgétaire ou monétaire exceptionnelle, sous réserve des garanties d'urgence prévues à l'article [135](#depenses-cours-annee) ;
+- toute mesure fiscale, budgétaire ou monétaire exceptionnelle, sous réserve des garanties d'urgence prévues à l'article [107](#depenses-cours-annee) ;
 
 - toute réquisition de biens privés excédant un seuil fixé par la loi organique ;
 
 - toute modification des compétences d'une autorité constitutionnelle.
 
-Les restrictions de circulation et les fermetures de frontières prévues à l'article [146](#conservatoires-cadre-autorise) peuvent être prises sans cette autorisation, dans les seules conditions de cet article.
+Les restrictions de circulation et les fermetures de frontières prévues à l'article [115](#conservatoires-cadre-autorise) peuvent être prises sans cette autorisation, dans les seules conditions de cet article.
 
-### Article 148 — Critères de validité {#conservatoires-validite}
+### Article 117 — Critères de validité {#conservatoires-validite}
 
 Chaque mesure conservatoire doit satisfaire, pour pouvoir être prise ou maintenue, aux critères suivants :
 
@@ -114,7 +114,7 @@ Chaque mesure conservatoire doit satisfaire, pour pouvoir être prise ou mainten
 
 - respect des droits intangibles : elle ne peut en aucun cas y porter atteinte.
 
-### Article 149 — Contrôle juridictionnel et recours citoyen {#crise-controle-juridictionnel #crise-recours-citoyen}
+### Article 118 — Contrôle juridictionnel et recours citoyen {#crise-controle-juridictionnel #crise-recours-citoyen}
 
 Chaque mesure conservatoire est validée individuellement par une chambre spécialisée d'une juridiction indépendante, siégeant en formation d'urgence vingt-quatre heures sur vingt-quatre pendant les périodes de crise. La composition, les règles de fonctionnement et les délais de cette formation sont fixés par la loi organique, dans le respect de l'indépendance juridictionnelle et du droit au recours.
 
@@ -128,13 +128,13 @@ Toute personne affectée par une mesure conservatoire peut saisir le même juge,
 
 ## Chapitre III — La convention citoyenne de secours
 
-### Article 151 — Composition et veille permanente {#secours-composition-veille}
+### Article 119 — Composition et veille permanente {#secours-composition-veille}
 
 La convention citoyenne de secours est composée de cent cinquante citoyens tirés au sort selon les critères de représentativité définis à l'article [12](#composition-representativite). Elle est en veille permanente : ses membres sont désignés à l'avance, formés et placés sous astreinte pour une durée fixée par la loi organique, sans qu'aucune continuité de personnes ne soit assurée d'une période d'astreinte à la suivante. Ils sont protégés par le statut du conventionnel défini à l'article [14](#statut-conventionnel).
 
 La convention de secours dispose de sièges secondaires pré-désignés, répartis sur le territoire, maintenus en condition opérationnelle. En cas d'empêchement du siège principal ou d'impossibilité de réunion physique, elle siège dans un siège secondaire ou par voie de communication sécurisée, selon des protocoles approuvés par le Conseil constitutionnel. Ses moyens de communication sont indépendants des réseaux ordinaires. Une convention valablement constituée s'impose aux pouvoirs publics quel que soit le lieu de sa réunion. Les membres empêchés de siéger sont remplacés sans délai par des suppléants. Le quorum et les majorités sont toujours calculés sur l'effectif complet de la convention, qui ne délibère jamais avec moins de la moitié de ses membres. Seule est valable une réunion convoquée selon ces protocoles et dont la liste des présents est publiée. Si plusieurs réunions se réclament de la convention, le Conseil constitutionnel désigne la réunion légitime ; s'il est empêché, la réunion qui compte le plus de membres régulièrement désignés l'emporte. Toute autre réunion est nulle de plein droit, dans les conditions de l'article [7](#tyrannie-majorite-resistance).
 
-### Article 152 — Saisine et délai de siège {#secours-saisine #secours-delai-siege}
+### Article 120 — Saisine et délai de siège {#secours-saisine #secours-delai-siege}
 
 La convention de secours peut s'auto-saisir dès qu'une mesure conservatoire a été validée par le juge. L'administration d'exécution et le juge ont l'obligation constitutionnelle de l'informer sans délai de toute mesure conservatoire en cours ou demandée.
 
@@ -144,45 +144,45 @@ En l'absence de mesure conservatoire, la convention de secours peut également �
 
 Elle est en outre saisie dans les seuls cas suivants :
 
-- par l'Autorité de programmation civique, pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [25](#reexamen-cas-suspension) ;
-- par au moins un tiers des ministres, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [60](#structure-collegiale) ;
-- de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [66](#interim-ministeriel) ;
-- par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [68](#representants-relations-exterieures) ;
-- par le ministre de la Défense, qui l'informe de toute opération défensive ou urgente, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [77](#autorisation-operations-militaires) ;
-- par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [88](#controle-renseignement-armees) ;
-- de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [138](#blocage-adoption-budget).
+- par l'Autorité de programmation civique, pour le réexamen d'un texte suspendu soumis à une échéance juridique, dans les conditions prévues à l'article [23](#reexamen-cas-suspension) ;
+- par au moins un tiers des ministres, en cas de blocage persistant au sein du collège des ministres, dans les conditions prévues à l'article [52](#structure-collegiale) ;
+- de plein droit, lorsqu'une vacance ministérielle n'est pas pourvue dans le délai prévu à l'article [57](#interim-ministeriel) ;
+- par tout représentant aux relations extérieures, en cas d'urgence internationale, dans les conditions prévues à l'article [58](#representants-relations-exterieures) ;
+- par le ministre de la Défense, qui l'informe de toute opération défensive ou urgente, et pour le réexamen des opérations militaires, dans les conditions prévues à l'article [61](#autorisation-operations-militaires) ;
+- par la Commission permanente de contrôle du renseignement et des forces armées, en cas de suspicion d'atteinte à l'ordre constitutionnel, dans les conditions prévues à l'article [69](#controle-renseignement-armees) ;
+- de plein droit, en cas d'échec du second examen du budget, dans les conditions prévues à l'article [109](#blocage-adoption-budget).
 
-Les saisines pour le réexamen d'un texte suspendu, pour un blocage du collège des ministres, pour une vacance ministérielle et pour l'échec du budget ne constituent pas une crise au sens de l'article [142](#notion-crise). La convention n'y statue que sur l'objet de la saisine et ne peut prendre aucune des mesures prévues à l'article [147](#conservatoires-cadre-interdit).
+Les saisines pour le réexamen d'un texte suspendu, pour un blocage du collège des ministres, pour une vacance ministérielle et pour l'échec du budget ne constituent pas une crise au sens de l'article [112](#notion-crise). La convention n'y statue que sur l'objet de la saisine et ne peut prendre aucune des mesures prévues à l'article [116](#conservatoires-cadre-interdit).
 
 La convention de secours siège au plus tard soixante-douze heures après sa saisine.
 
-### Article 154 — Compétences {#secours-competences}
+### Article 121 — Compétences {#secours-competences}
 
 La convention de secours :
 
-- autorise, à la majorité qualifiée, les mesures exceptionnelles relevant du cadre interdit défini à l'article [147](#conservatoires-cadre-interdit) ;
+- autorise, à la majorité qualifiée, les mesures exceptionnelles relevant du cadre interdit défini à l'article [116](#conservatoires-cadre-interdit) ;
 
 - encadre leur durée, leur portée et leurs conditions ;
 
 - peut à tout moment les suspendre, les modifier ou en ordonner la levée ;
 
-- ratifie, en cas d'urgence internationale, les traités majeurs relevant de l'article [188](#traites-ratification), sous réserve de confirmation par la convention ordinaire annuelle ;
+- ratifie, en cas d'urgence internationale, les traités majeurs relevant de l'article [147](#traites-ratification), sous réserve de confirmation par la convention ordinaire annuelle ;
 
-- autorise l'emploi de la force nucléaire dans les conditions prévues à l'article [78](#emploi-arme-nucleaire) ;
+- autorise l'emploi de la force nucléaire dans les conditions prévues à l'article [62](#emploi-arme-nucleaire) ;
 
-- autorise les opérations militaires lorsque l'urgence ne permet pas la convocation d'une convention thématique dédiée, et confirme ou fait cesser les opérations urgentes prévues à l'article [77](#autorisation-operations-militaires) ;
+- autorise les opérations militaires lorsque l'urgence ne permet pas la convocation d'une convention thématique dédiée, et confirme ou fait cesser les opérations urgentes prévues à l'article [61](#autorisation-operations-militaires) ;
 
 - peut demander la révocation de tout membre de l'administration d'exécution ayant agi hors cadre, selon les modalités du Titre [IX](#juridiction-probite) ;
 
 - peut, à la majorité qualifiée, suspendre certaines conventions ordinaires pour priorité opérationnelle, par décision motivée.
 
-### Article 155 — Contrôles et continuité maintenus {#secours-controles-maintenus #secours-continuite-conventions}
+### Article 122 — Contrôles et continuité maintenus {#secours-controles-maintenus #secours-continuite-conventions}
 
 Les mesures exceptionnelles autorisées par la convention de secours sont soumises aux contrôles constitutionnels et scientifiques applicables aux lois ordinaires, selon des modalités adaptées à l'urgence et précisées par la loi organique. Le Conseil constitutionnel, l'Autorité de contrôle de l'exécution des lois, la Juridiction de probité et de responsabilité publique et les juridictions compétentes demeurent pleinement compétents pendant la crise.
 
 Les conventions ordinaires en cours poursuivent leurs travaux pendant la crise, sauf décision motivée de suspension prise par la convention de secours à la majorité qualifiée. La continuité institutionnelle est le principe ; la suspension, l'exception motivée.
 
-### Article 157 — Durée, réexamen et désactivation {#secours-duree-reexamen #secours-desactivation}
+### Article 123 — Durée, réexamen et désactivation {#secours-duree-reexamen #secours-desactivation}
 
 La convention de secours dure tant que dure la crise. Tous les trente jours, elle doit voter à la majorité qualifiée le maintien de l'état de crise et des mesures exceptionnelles en vigueur. À défaut de confirmation, les mesures exceptionnelles deviennent caduques.
 
