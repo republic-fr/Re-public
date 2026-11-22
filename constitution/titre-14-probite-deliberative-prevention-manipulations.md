@@ -146,6 +146,8 @@ La convention doit entendre, au titre de la pluralité obligatoire, au moins une
 
 Au-delà de cette pluralité minimale, la convention conserve le choix de ses auditions complémentaires, dans les conditions prévues à l'article [174](#contre-expertise-publique).
 
+Tout parti ou groupement politique déclaré peut verser au dossier de toute convention une contribution écrite sur le sujet en délibération. Ces contributions sont publiées et inscrites au registre public des influences.
+
 ### Article 176 — Déclarations d'intérêts des expertes et experts {#declarations-interets-expertes-experts}
 
 Tout expert auditionné par une convention ou par une autorité constitutionnelle déclare préalablement, de façon publique, ses affiliations, financements, intérêts et conflits d'intérêts potentiels liés au sujet traité.
@@ -192,7 +194,7 @@ Les plateformes numériques et les médias audiovisuels et écrits d'information
 
 - en cas de manquements répétés et caractérisés, le retrait de l'autorisation d'émettre ou de l'agrément, pour les médias audiovisuels et les services soumis à agrément.
 
-Les sanctions sont prononcées par l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique), sous contrôle juridictionnel. Les recours relèvent des juridictions de droit commun et, en cas d'atteinte alléguée à la liberté d'expression, peuvent être portés devant le Conseil constitutionnel.
+Les manquements aux obligations de transparence et de pluralisme sont sanctionnés par l'Autorité de régulation indépendante prévue à l'article [180](#autorite-regulation-vie-democratique), sous le contrôle du juge. Les manquements touchant au contenu des informations, notamment la vérification des faits, la distinction entre information et opinion et la désinformation organisée, ne peuvent être sanctionnés que par le juge judiciaire, saisi par l'Autorité ou par toute personne intéressée. Le retrait d'une autorisation d'émettre ou d'un agrément ne peut être prononcé que par le juge. En cas d'atteinte alléguée à la liberté d'expression, les décisions peuvent être portées devant le Conseil constitutionnel.
 
 Les sanctions visent les comportements organisés et caractérisés, non les simples erreurs journalistiques ni les opinions, même polémiques.
 
@@ -208,7 +210,7 @@ Il est institué par la présente Constitution une Autorité de régulation ind�
 
 - du contrôle des campagnes de soutien ou d'opposition aux référendums et des campagnes de collecte de signatures pour les pétitions d'initiative citoyenne, dans les conditions prévues à l'article [185](#campagnes-referendaires-signatures) ;
 
-- de prononcer les sanctions prévues à l'article [179](#manipulation-sanctions) et les sanctions administratives prévues par la loi dans les matières relevant de ses compétences.
+- de prononcer les sanctions administratives prévues à l'article [179](#manipulation-sanctions) et par la loi dans les matières relevant de ses compétences, et de saisir le juge des manquements touchant au contenu des informations.
 
 L'Autorité est indépendante du pouvoir exécutif, des conventions citoyennes, des partis et groupements politiques et des intérêts privés. Sa composition, les modalités de désignation de ses membres, ses pouvoirs et ses règles de fonctionnement sont fixés par la loi organique, dans le respect des principes de la présente Constitution. L'intégrité de ses membres est contrôlée par la Juridiction de probité et de responsabilité publique. Ils sont révocables dans les conditions prévues au Titre [IX](#juridiction-probite).
 
