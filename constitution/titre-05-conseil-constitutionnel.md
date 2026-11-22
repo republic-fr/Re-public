@@ -40,7 +40,7 @@ Le mandat des membres du Conseil constitutionnel est de neuf ans, non renouvelab
 
 Les membres du Conseil constitutionnel sont soumis à des obligations strictes d'indépendance, d'impartialité et de probité. Ils ne peuvent exercer aucune autre fonction publique, aucune activité professionnelle susceptible de créer un conflit d'intérêts, ni aucune fonction de direction partisane, pendant la durée de leur mandat.
 
-Ils sont irrévocables, sauf décision de la Juridiction de probité et de responsabilité publique prise dans les conditions prévues au Titre [IX](#juridiction-probite).
+Ils sont irrévocables, sauf décision de la Juridiction de probité et de responsabilité publique prise dans les conditions prévues au Titre [IX](#juridiction-probite) et confirmée par le Conseil constitutionnel siégeant sans le membre concerné.
 
 Leur rémunération, leur protection et leurs conditions d'exercice sont fixées par la loi organique, de manière à garantir l'indépendance effective de leur fonction.
 

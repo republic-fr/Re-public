@@ -102,7 +102,7 @@ La Juridiction est compétente à l'égard :
 
 - des membres du Conseil constitutionnel ;
 
-- des membres de la Juridiction de probité et de responsabilité publique, jugés par une formation spécifique de la Juridiction ne comprenant pas les membres concernés ;
+- des membres de la Juridiction de probité et de responsabilité publique, jugés par une formation spécifique de la Juridiction ne comprenant pas les membres concernés et complétée par trois membres du Conseil constitutionnel tirés au sort ;
 
 - des membres de l'Autorité de contrôle de l'exécution des lois et du Procureur général des comptes publics ;
 
@@ -150,7 +150,7 @@ Les séances sont publiques, sauf exception strictement motivée par la protecti
 
 La Juridiction statue dans un délai raisonnable fixé par la loi organique.
 
-Un recours juridictionnel est ouvert devant une formation de recours de la Juridiction, composée de membres n'ayant pas siégé en première instance.
+Un recours juridictionnel est ouvert devant une formation de recours de la Juridiction, composée de membres n'ayant pas siégé en première instance. Les décisions déclarant une candidature irrecevable et les décisions de révocation peuvent en outre être portées devant le Conseil constitutionnel.
 
 ### Article 105 — Sanctions {#juridiction-probite-sanctions}
 
@@ -168,7 +168,7 @@ Selon la gravité des manquements, la Juridiction peut prononcer :
 
 - la saisine du juge pénal pour les faits susceptibles de qualification pénale.
 
-Les décisions de la Juridiction ne sont susceptibles que du recours prévu à l'article [104](#juridiction-probite-procedure).
+Les décisions de la Juridiction ne sont susceptibles que des recours prévus à l'article [104](#juridiction-probite-procedure).
 
 ## Chapitre IV — Indépendance du ministère public
 

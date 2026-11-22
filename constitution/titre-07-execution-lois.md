@@ -39,7 +39,7 @@ La présidente ou le président du collège représente la République au Consei
 
 ### Article 61 — Convention de désignation {#convention-designation-ministres}
 
-Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente. Elle est composée de cinquante membres tirés au sort pour un mandat de deux ans et renouvelés par moitié chaque année. Elle se réunit au moins une fois par trimestre, et sans délai en cas de vacance.
+Les ministres et les représentants aux relations extérieures sont désignés par une convention citoyenne de désignation. Cette convention est permanente. Elle est composée de cinquante membres tirés au sort pour un mandat de deux ans et renouvelés par moitié chaque année. Elle se réunit au moins une fois par trimestre, et sans délai en cas de vacance. Par dérogation à l'article [14](#statut-conventionnel), l'identité de ses membres reste confidentielle pendant leur mandat et n'est rendue publique qu'à son terme ; ses délibérations sont publiées sous une forme qui ne permet pas d'identifier ses membres.
 
 Les directrices et directeurs d'administration sont nommés par les ministres, sous le contrôle de la Juridiction de probité et de responsabilité publique ; ils ne relèvent pas de la convention de désignation.
 
