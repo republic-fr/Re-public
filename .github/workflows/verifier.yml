@@ -16,4 +16,5 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run refs
+      - run: npm run refonte
       - run: npm run build

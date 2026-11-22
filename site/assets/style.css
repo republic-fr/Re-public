@@ -303,3 +303,18 @@ sup { font-size: 0.6em; line-height: 0; vertical-align: super; }
 .dg-index a { display: inline-flex; align-items: center; gap: var(--space-2); height: 36px; padding: 0 var(--space-3); border: 1px solid var(--ink); text-decoration: none; font-size: 15px; }
 .dg-index a::before { content: counter(dgi, decimal-leading-zero); color: var(--ink-muted); font-size: 13px; }
 .dg-index a:hover { background: var(--inverse); color: var(--on-inverse); }
+
+/* Refonte : comparaison avant / après */
+.rf-item { border-top: 1px solid var(--rule, #ddd); padding: 1.5rem 0; }
+.rf-item--alerte h3::before { content: "● "; color: #b3261e; }
+.rf-words { font-weight: 400; font-size: .8em; opacity: .65; margin-left: .5em; }
+.rf-flags { list-style: none; padding: 0; margin: .5rem 0 1rem; display: flex; flex-wrap: wrap; gap: .4rem; }
+.rf-flag { font-size: .85rem; padding: .2rem .55rem; border: 1px solid currentColor; }
+.rf-bad { color: #b3261e; } .rf-warn { color: #8a5a00; } .rf-info { opacity: .7; }
+.rf-ok { font-size: .85rem; opacity: .7; }
+.rf-cols { display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; }
+.rf-col { min-width: 0; font-size: .92rem; }
+.rf-col h4 { font-size: .9rem; margin: .8rem 0 .3rem; }
+.rf-label { text-transform: uppercase; letter-spacing: .08em; font-size: .72rem; opacity: .6; margin: 0; }
+@media (max-width: 760px) { .rf-cols { grid-template-columns: 1fr; } }
+.prose.rf { max-width: 76rem; }
