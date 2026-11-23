@@ -41,6 +41,8 @@ A guaranteed right may be neither abolished nor suspended, even in time of crisi
 - it is necessary and proportionate to that objective;
 - it does not deprive the right of its substance, so that everyone can continue to exercise it effectively.
 
+Measures taken to apply the law, or Title [XII](#crises) in time of crisis, in particular by the administration, the courts or the emergency convention, shall comply with the same conditions and with the limits set by their legal basis.
+
 Any measure, whatever its author or form, that disregards this Article infringes the inviolable rights.
 
 ### Article 10 — Principle of protective interpretation {#principe-interpretation-protectrice}
