@@ -766,7 +766,7 @@ noeuds:
     nom: Petites communes
     detail: Convention intercommunale
     info: >-
-      Quand une commune est trop petite pour un tirage représentatif, la convention est commune à plusieurs communes
+      Quand une commune est trop petite pour un tirage représentatif, c’est la convention de son intercommunalité qui délibère pour elle
       (article [126](#existence-juridique-communes)).
   - id: executif
     ligne: 3

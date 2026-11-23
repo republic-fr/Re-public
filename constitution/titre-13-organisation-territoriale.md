@@ -12,7 +12,7 @@ La République reconnaît l'autonomie politique des collectivités territoriales
 
 Les communes conservent leur existence juridique, leurs compétences de proximité et leur administration. Les actes de l'état civil, la gestion des services du quotidien et la représentation symbolique de la commune sont assurés par son administration sous le contrôle de la convention citoyenne compétente.
 
-Pour les communes dont la population ne permet pas la constitution d'un vivier citoyen garantissant une représentativité suffisante, la convention citoyenne territoriale compétente est mutualisée à l'échelle intercommunale, selon des seuils et des modalités fixés par la loi organique. Les compétences strictement communales restent exercées par l'administration communale sous le contrôle de la convention mutualisée.
+Pour les communes dont la population ne permet pas la constitution d'un vivier citoyen garantissant une représentativité suffisante, la convention citoyenne de l'intercommunalité dont elles sont membres exerce les fonctions de convention communale, selon des seuils et des modalités fixés par la loi organique. Les compétences strictement communales restent exercées par l'administration communale sous le contrôle de cette convention.
 
 ### Article 127 — Répartition des compétences {#territoires-repartition-competences #territoires-principes-directeurs}
 
