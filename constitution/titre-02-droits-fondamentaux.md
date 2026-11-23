@@ -41,6 +41,8 @@ Un droit garanti ne peut être ni supprimé, ni suspendu, même en période de c
 - il est nécessaire et proportionné à cet objectif ;
 - il ne prive pas le droit de sa substance, de sorte que chacun puisse continuer à l'exercer effectivement.
 
+Les mesures prises pour l'application de la loi, ou du Titre [XII](#crises) en période de crise, notamment par l'administration, le juge ou la convention de secours, respectent les mêmes conditions et les limites fixées par leur fondement.
+
 Toute mesure, quels qu'en soient l'auteur et la forme, qui méconnaît le présent article porte atteinte aux droits intangibles.
 
 ### Article 10 — Principe d'interprétation protectrice {#principe-interpretation-protectrice}
