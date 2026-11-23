@@ -79,3 +79,7 @@ Le site est généré à partir des fichiers de `constitution/` : toute modifica
 - Générer en local : `npm install` puis `npm run build` (résultat dans `dist/`), ou `npm run serve` pour le voir sur http://localhost:4173.
 - Hébergement : Cloudflare Pages, relié à ce dépôt. Commande de build `npm run build`, dossier de sortie `dist`.
 - Commentaires : Giscus, sur GitHub Discussions, un fil par article. Les identifiants se règlent dans `site/config.json` (`giscus.categoryId`).
+
+## Modèle budgétaire
+
+Le chiffrage présenté sur la page Comment vient du tableur `site/assets/budget-republique-deliberative.xlsx`, généré par `budget/chiffrage.py`. Chaque montant du système actuel y est sourcé ; chaque hypothèse sur la République délibérative est modifiable.

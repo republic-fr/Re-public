@@ -2,7 +2,7 @@
 title: Comment y parvenir
 tag: Comment
 subtag: Étapes et contraintes
-description: Les étapes pour passer à la République délibérative, ce qu'elle coûte comparée au système actuel, et la place qu'elle demande aux citoyens.
+description: Les étapes pour passer à la République délibérative, ce qu'elle coûte comparée au système actuel (deux fois moins), et la place qu'elle demande aux citoyens.
 ---
 
 <p class="lead">Une Constitution ne s’impose pas : elle se délibère, puis se ratifie. Le projet suit lui-même la méthode qu’il propose.</p>
@@ -28,27 +28,44 @@ Une Constitution ne peut pas organiser sa propre adoption : ce sont les règles 
 
 Deux expériences étrangères guident la méthode. En Islande, une Constitution préparée avec des citoyens a été approuvée par les deux tiers des votants en 2012, puis jamais adoptée par le Parlement, faute de référendum contraignant : la voie choisie doit lier juridiquement. Au Chili, le projet de 2022 a été rejeté, notamment parce qu’il était jugé trop long et trop chargé : un texte sobre, qui organise le pouvoir sans trancher à l’avance les choix de société, a plus de chances d’être adopté.
 
-## <span class="kicker">03</span>Pas plus cher que le système actuel
+## <span class="kicker">03</span>Deux fois moins cher que le système actuel
 
-Le projet a été chiffré poste par poste, en comparant ce que coûteraient les conventions et les nouvelles autorités avec les institutions qu’elles remplacent : présidence, Assemblée nationale, Sénat, CESE, indemnités des élus locaux.
+Le projet a été chiffré poste par poste. On ne compare que ce que la Constitution change : d’un côté, les institutions qu’elle supprime ou remplace (présidence, Assemblée nationale, Sénat, CESE, plusieurs autorités indépendantes, élections, indemnités des élus locaux) ; de l’autre, les conventions, les équipes d’exécution locales et les nouvelles autorités. Les ministères, les administrations et les juridictions existent dans les deux systèmes : ils ne sont comptés d’aucun côté.
 
 <div class="figures">
-<div class="figure"><b>≈ 3 Md€</b><span>par an aujourd’hui : institutions nationales (1,2 Md€) et indemnités des élus locaux (1,5 à 2 Md€).</span></div>
-<div class="figure"><b>1,7 à 2 Md€</b><span>par an pour la République délibérative, conventions et autorités comprises.</span></div>
-<div class="figure"><b>100 k€</b><span>par an et par conventionnel à temps plein : revenus maintenus, indemnité, frais, logistique et expertise.</span></div>
+<div class="figure"><b>≈ 3,7 Md€</b><span>par an aujourd’hui, soit 53 € par habitant : institutions nationales, élections et indemnités des élus locaux.</span></div>
+<div class="figure"><b>≈ 1,7 Md€</b><span>par an pour la République délibérative, soit 24 € par habitant : entre 1,2 et 2,5 Md€ selon les hypothèses.</span></div>
+<div class="figure"><b>≈ 2 Md€</b><span>d’économie par an. Même dans l’hypothèse la plus coûteuse, la réforme reste moins chère d’environ 1,2 Md€.</span></div>
 </div>
 
 <table>
-<thead><tr><th>Poste, en millions d’euros par an</th><th class="num">Aujourd’hui</th><th class="num">Projet</th></tr></thead>
+<thead><tr><th>Système actuel, en millions d’euros par an</th><th class="num">Coût</th></tr></thead>
 <tbody>
-<tr><td>Conventions citoyennes nationales</td><td class="num">—</td><td class="num">22</td></tr>
-<tr><td>Institutions et autorités nationales</td><td class="num">1 209</td><td class="num">386 à 691</td></tr>
-<tr><td>Échelon local : élus aujourd’hui, conventions territoriales demain</td><td class="num">1 500 à 2 000</td><td class="num">1 250</td></tr>
-<tr class="total"><td>Total</td><td class="num">≈ 2 959</td><td class="num">1 658 à 1 963</td></tr>
+<tr><td>Présidence, Assemblée nationale, Sénat, chaînes parlementaires, Conseil constitutionnel actuel, Cour de justice de la République</td><td class="num">1 140</td></tr>
+<tr><td>CESE, Haute Autorité pour la transparence, Arcom, commissions des comptes de campagne et du renseignement</td><td class="num">109</td></tr>
+<tr><td>Élections nationales et locales, ramenées à l’année, et aide publique aux partis</td><td class="num">239</td></tr>
+<tr><td>Indemnités des élus locaux</td><td class="num">2 180</td></tr>
+<tr class="total"><td>Total</td><td class="num">≈ 3 670</td></tr>
 </tbody>
 </table>
 
-<p class="note">Hypothèses du modèle budgétaire du projet (références 2024-2025). Ces montants ne comprennent pas les coûts indirects, comme la perte de productivité pour les employeurs ou la gestion des viviers d’experts, estimés entre 0,5 et 1,5 Md€ par an. En les ajoutant, le total va de 2,2 à 3,5 Md€ : un coût du même ordre que celui du système actuel. Une étude d’impact dédiée reste nécessaire.</p>
+<table>
+<thead><tr><th>République délibérative, en millions d’euros par an</th><th class="num">Hypothèse centrale</th><th class="num">Fourchette</th></tr></thead>
+<tbody>
+<tr><td>Conventions et mandats citoyens nationaux</td><td class="num">45</td><td class="num">16 à 97</td></tr>
+<tr><td>Conventions territoriales (environ 4 600)</td><td class="num">778</td><td class="num">593 à 979</td></tr>
+<tr><td>Équipes d’exécution locales</td><td class="num">278</td><td class="num">167 à 501</td></tr>
+<tr><td>Autorités permanentes, dont le nouveau Conseil constitutionnel</td><td class="num">512</td><td class="num">370 à 700</td></tr>
+<tr><td>Expertise des conventions, référendums et, dans la fourchette haute, aide aux partis</td><td class="num">48</td><td class="num">16 à 177</td></tr>
+<tr class="total"><td>Total</td><td class="num">≈ 1 660</td><td class="num">1 160 à 2 450</td></tr>
+</tbody>
+</table>
+
+Les conventions nationales coûtent peu : un mois de convention revient à environ 11 000 € par membre, revenus maintenus, indemnité, séjour et organisation compris. L’essentiel du coût vient de l’échelon local. Le modèle compte une convention par région, par département, par intercommunalité et par commune de plus de 3 500 habitants ; les plus petites communes sont regroupées dans la convention de leur intercommunalité. Chaque convention siège l’équivalent d’un mois par an.
+
+La mise en place coûterait entre 0,2 et 0,65 Md€ une seule fois, référendum de ratification compris : moins qu’une année d’économies.
+
+<p class="note">Sources : projet de loi de finances 2026, rapports budgétaires de l’Assemblée nationale et du Sénat, données de la DGCL et de l’INSEE. Le coût du système actuel ne retient que des montants publiés : il est prudent. Ne sont comptés ni plusieurs dépenses qui disparaîtraient aussi (cotisations sur les indemnités des élus, formation, frais de mission, collaborateurs de cabinet), ni les coûts indirects de la réforme, comme la désorganisation des employeurs. Les durées des conventions sont des hypothèses : la loi organique les fixera. <a href="/assets/budget-republique-deliberative.xlsx">Télécharger le modèle budgétaire</a> (tableur, toutes les sources et hypothèses sont modifiables).</p>
 
 ## <span class="kicker">04</span>Une implication raisonnée des citoyens
 
@@ -58,16 +75,19 @@ Le projet ne demande à personne de devenir professionnel de la politique. Les c
 <thead><tr><th>Convention</th><th class="num">Membres</th><th>Durée</th></tr></thead>
 <tbody>
 <tr><td>Conventions thématiques, qui font les lois</td><td class="num">150</td><td>environ 3 mois, puis dissolution</td></tr>
-<tr><td>Convention ordinaire annuelle, qui vote le budget</td><td class="num">150</td><td>environ 1 mois par an</td></tr>
+<tr><td>Convention ordinaire annuelle, qui vote le budget</td><td class="num">150</td><td>environ 1 mois et demi par an</td></tr>
 <tr><td>Convention de programmation</td><td class="num">150</td><td>environ 3 mois, tous les 5 ans</td></tr>
+<tr><td>Autorité de programmation civique</td><td class="num">50, pour 1 an</td><td>2 à 3 jours par mois</td></tr>
 <tr><td>Convention de désignation</td><td class="num">50, pour 2 ans</td><td>quelques sessions par an</td></tr>
+<tr><td>Session plénière de contrôle de l’exécution des lois</td><td class="num">150</td><td>au moins 4 semaines par an</td></tr>
 <tr><td>Convention de secours</td><td class="num">150</td><td>astreinte, ne siège qu’en cas de crise</td></tr>
-<tr><td>Conventions territoriales</td><td class="num">≈ 30 chacune</td><td>environ 1 mois par an</td></tr>
+<tr><td>Convention constituante</td><td class="num">300</td><td>3 à 6 mois, seulement pour réviser la Constitution</td></tr>
+<tr><td>Conventions territoriales</td><td class="num">25 à 80 selon l’échelon</td><td>environ 1 mois par an</td></tr>
 </tbody>
 </table>
 
 <p class="note">Durées indicatives retenues par le modèle budgétaire ; les durées exactes seront fixées par la loi organique.</p>
 
-Au niveau national, environ un millier de personnes siègent chaque année. Avec l’échelon local, le modèle retient environ 150 000 personnes mobilisées un mois par an : en ordre de grandeur, une chance sur trois cent cinquante d’être tiré au sort chaque année.
+Au niveau national, environ 1 750 personnes sont tirées au sort chaque année. Avec l’échelon local, le modèle en compte environ 145 000, mobilisées l’équivalent d’un mois par an : en ordre de grandeur, une chance sur 365 d’être tiré au sort une année donnée.
 
 Pendant ce temps, chacun est protégé : revenus maintenus, emploi garanti, frais pris en charge, garde d’enfants assurée (article [14](#statut-conventionnel)). Le refus n’est admis que pour motif grave (article [13](#eligibilite-participation)).
