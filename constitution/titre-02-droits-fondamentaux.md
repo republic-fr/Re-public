@@ -33,9 +33,15 @@ Sont garantis :
 - l'interdiction de la détention arbitraire ;
 - l'indépendance de la justice et le droit au recours juridictionnel effectif.
 
-La loi peut encadrer l'exercice d'un droit garanti, dans la mesure nécessaire et proportionnée à un objectif d'intérêt général ou à la protection des droits d'autrui. Elle ne peut ni le supprimer, ni en atteindre la substance. Aucun droit garanti ne peut être suspendu, même en période de crise.
+Un droit absolu ne peut faire l'objet d'aucune limitation.
 
-Porte atteinte à un droit intangible toute mesure qui restreint un droit absolu, ou qui supprime un droit garanti, en atteint la substance ou en encadre l'exercice de manière disproportionnée.
+Un droit garanti ne peut être ni supprimé, ni suspendu, même en période de crise. Seule la loi peut en encadrer l'exercice, à trois conditions :
+
+- l'encadrement poursuit un objectif d'intérêt général ou protège les droits d'autrui ;
+- il est nécessaire et proportionné à cet objectif ;
+- il ne prive pas le droit de sa substance, de sorte que chacun puisse continuer à l'exercer effectivement.
+
+Toute mesure, quels qu'en soient l'auteur et la forme, qui méconnaît le présent article porte atteinte aux droits intangibles.
 
 ### Article 10 — Principe d'interprétation protectrice {#principe-interpretation-protectrice}
 
