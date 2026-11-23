@@ -2,7 +2,7 @@
 title: How to get there
 tag: How
 subtag: Steps and constraints
-description: The steps towards the Deliberative Republic, what it costs compared with the current system (half as much), and the role it asks citizens to play.
+description: The steps from France’s Fifth Republic to the Deliberative Republic, what it costs compared with the current French system (half as much), and the role it asks citizens to play.
 ---
 
 <p class="lead">A Constitution cannot be imposed: it is deliberated, then ratified. The project itself follows the method it proposes.</p>
@@ -11,14 +11,14 @@ description: The steps towards the Deliberative Republic, what it costs compared
 
 <ol class="steps">
 <li><div><h3>An open draft</h3><p>The text you are reading. It is published, commented on article by article and reviewed by experts, so that the constituent convention can focus on the points under debate.</p><a class="open" href="/en/comment/">Comment on the text</a></div></li>
-<li><div><h3>Opening the process</h3><p>A law, adopted under the rules of the current Constitution, creates the constituent convention and provides for the final referendum. The two possible routes are set out below.</p></div></li>
+<li><div><h3>Opening the process</h3><p>A law, adopted under the rules of the current French Constitution (the 1958 Constitution of the Fifth Republic), creates the constituent convention and provides for the final referendum. The two possible routes are set out below.</p></div></li>
 <li><div><h3>Two conventions in parallel</h3><p>For three to six months, three hundred citizens drawn by lot deliberate on the Constitution article by article (Title [XVI](#revision)), while another hundred and fifty draft the Declaration of Fundamental Rights, starting from the 1789 Declaration, the 1946 Preamble and the Charter for the Environment (Article [8](#declaration-droits-fondamentaux)). The constituent convention also adopts the organic laws needed to get started (Article [18](#application-autres-conventions)).</p></div></li>
 <li><div><h3>Preparation, during the campaign</h3><p>A preparatory authority, built on the staff of the Economic, Social and Environmental Council (CESE) who organised the citizens’ conventions on climate and on end of life, prepares everything in advance: it sets up the pools, draws by lot the members of the future institutions subject to the result, and examines applications for ministerial posts (Article [175](#transition-preparation)).</p></div></li>
 <li><div><h3>The referendum, in two questions</h3><p>On the same day, voters decide on the Constitution and, separately, on the Declaration of Rights (Article [178](#transition-declaration-droits)). Each text is adopted if a majority of those voting approve it and the ‘yes’ votes represent at least one third of the civic body (Article [168](#referendum-revision-majorite)).</p></div></li>
 <li><div><h3>Up and running in a month</h3><p>From ratification, the emergency convention is in place and the safeguards against a coup apply. Within the month, the Constitutional Council, the other courts and the Civic Agenda Authority are installed and the ministers appointed; within three months, the first agenda-setting convention sits. The outgoing government handles day-to-day business until then (Articles [174](#transition-entree-vigueur) to [177](#transition-interim)).</p></div></li>
 </ol>
 
-## <span class="kicker">02</span>Opening the process under the current Constitution
+## <span class="kicker">02</span>Opening the process under the current French Constitution
 
 A Constitution cannot organise its own adoption: the 1958 rules apply until the referendum. There are two routes.
 
@@ -28,7 +28,7 @@ A Constitution cannot organise its own adoption: the 1958 rules apply until the 
 
 Two experiences abroad guide the method. In Iceland, a Constitution drafted with citizens was approved by two thirds of voters in 2012, then never adopted by Parliament, for want of a binding referendum: the chosen route must be legally binding. In Chile, the 2022 draft was rejected, in particular because it was seen as too long and too heavily loaded: a concise text, which organises power without settling society’s choices in advance, stands a better chance of being adopted.
 
-## <span class="kicker">03</span>Half the cost of the current system
+## <span class="kicker">03</span>Half the cost of the current French system
 
 The project has been costed item by item. Only what the Constitution changes is compared: on one side, the institutions it abolishes or replaces (the presidency, the National Assembly, the Senate, the CESE, several independent authorities, elections, local councillors’ allowances); on the other, the conventions, the local executive teams and the new authorities. Ministries, administrations and courts exist in both systems, so they are counted on neither side.
 

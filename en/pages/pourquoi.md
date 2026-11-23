@@ -2,17 +2,17 @@
 title: Why change the Constitution
 tag: Why
 subtag: Diagnosis and effects
-description: The diagnosis behind the project, and what the deliberative Constitution changes in practice for every citizen.
+description: The diagnosis of France’s Fifth Republic behind the project, and what the deliberative Constitution changes in practice for every citizen.
 ---
 
-<p class="lead">The Fifth Republic has delivered stability. It has also built in a lasting imbalance, which is no accident of the regime: it is its very structure.</p>
+<p class="lead">France’s Fifth Republic, founded by the Constitution of 4 October 1958, has delivered stability. It has also built in a lasting imbalance, which is no accident of the regime: it is its very structure.</p>
 
 ## <span class="kicker">01</span>A structural problem
 
-Nearly seventy years of the Fifth Republic, after thirteen successive Constitutions. Four flaws keep coming back:
+Nearly seventy years of the French Fifth Republic, after thirteen successive Constitutions in France. Four flaws keep coming back:
 
-- the concentration of power around the figure of the President;
-- the weakening of Parliament, in particular through <a href="https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_16">Articles&nbsp;16</a> and <a href="https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_49">49.3</a> of the 1958 Constitution (emergency powers for the President, and a procedure that lets the government pass a bill without a vote);
+- the concentration of power around the figure of the President of the Republic;
+- the weakening of the French Parliament, in particular through <a href="https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_16">Articles&nbsp;16</a> and <a href="https://www.conseil-constitutionnel.fr/le-bloc-de-constitutionnalite/texte-integral-de-la-constitution-du-4-octobre-1958-en-vigueur#article_49">49.3</a> of the 1958 Constitution (emergency powers for the President, and a procedure that lets the government pass a bill without a vote);
 - the poor representativeness of electoral mechanisms;
 - the reduction of participation to the occasional act of voting.
 
