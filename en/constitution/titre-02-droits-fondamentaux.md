@@ -33,9 +33,15 @@ The following are guaranteed:
 - the prohibition of arbitrary detention;
 - the independence of justice and the right to an effective judicial remedy.
 
-The law may regulate the exercise of a guaranteed right, to the extent necessary and proportionate to an objective of general interest or to the protection of the rights of others. It may neither abolish it nor impair its substance. No guaranteed right may be suspended, even in time of crisis.
+An absolute right may not be subject to any limitation.
 
-Any measure that restricts an absolute right, or that abolishes a guaranteed right, impairs its substance or regulates its exercise disproportionately, infringes an inviolable right.
+A guaranteed right may be neither abolished nor suspended, even in time of crisis. Only the law may regulate its exercise, subject to three conditions:
+
+- the regulation pursues an objective of general interest or protects the rights of others;
+- it is necessary and proportionate to that objective;
+- it does not deprive the right of its substance, so that everyone can continue to exercise it effectively.
+
+Any measure, whatever its author or form, that disregards this Article infringes the inviolable rights.
 
 ### Article 10 — Principle of protective interpretation {#principe-interpretation-protectrice}
 

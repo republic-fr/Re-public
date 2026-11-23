@@ -8,7 +8,7 @@
   "force-obligatoire-loi": "d1ceb08f6598",
   "tyrannie-majorite-resistance": "dfe84151c566",
   "declaration-droits-fondamentaux": "d241f38e58dc",
-  "droits-intangibles": "932b2536c9d3",
+  "droits-intangibles": "d8cf5890d2ab",
   "principe-interpretation-protectrice": "fd431d9cdb5a",
   "nature-conventions-citoyennes": "cda8392c4f0a",
   "composition-representativite": "21d872b7a1be",
@@ -181,10 +181,10 @@
   "transition-premiers-mandats": "8ce1dd246aac"
  },
  "pages": {
-  "comment.md": "fb0ca2a6f0b9",
+  "comment.md": "051c4fed27cb",
   "commenter.md": "affe8fe104ce",
   "contact.md": "df351e9af35d",
-  "faq.md": "007e403d8a12",
+  "faq.md": "a296c14e1739",
   "fonctionnement.md": "03419f7627e6",
   "pourquoi.md": "2afddabc3d61"
  },
