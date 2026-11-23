@@ -12,7 +12,7 @@ At each territorial level, the citizens' convention appoints the local executive
 
 Municipalities retain their legal existence, their local competences and their administration. Civil registration, the management of everyday services and the symbolic representation of the municipality are carried out by its administration under the supervision of the competent citizens' convention.
 
-For municipalities whose population does not allow the constitution of a citizen pool guaranteeing sufficient representativeness, the competent territorial citizens' convention is pooled at inter-municipal level, according to thresholds and procedures laid down by the organic law. Strictly municipal competences continue to be exercised by the municipal administration under the supervision of the pooled convention.
+For municipalities whose population does not allow the constitution of a citizen pool guaranteeing sufficient representativeness, the citizens' convention of the inter-municipal body of which they are members performs the functions of the municipal convention, according to thresholds and procedures laid down by the organic law. Strictly municipal competences continue to be exercised by the municipal administration under the supervision of that convention.
 
 ### Article 127 — Division of powers {#territoires-repartition-competences #territoires-principes-directeurs}
 

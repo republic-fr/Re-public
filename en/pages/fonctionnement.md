@@ -766,7 +766,7 @@ noeuds:
     nom: Small municipalities
     detail: Inter-municipal convention
     info: >-
-      When a municipality is too small for a representative draw, the convention is shared by several municipalities
+      When a municipality is too small for a representative draw, the convention of its inter-municipal body deliberates on its behalf
       (Article [126](#existence-juridique-communes)).
   - id: executif
     ligne: 3
