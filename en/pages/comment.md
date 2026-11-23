@@ -22,7 +22,7 @@ description: The steps towards the Deliberative Republic, what it costs compared
 
 A Constitution cannot organise its own adoption: the 1958 rules apply until the referendum. There are two routes.
 
-**Amendment by Parliament (Article 89 of the 1958 Constitution).** The National Assembly and the Senate adopt a constitutional law that creates the constituent convention drawn by lot and provides for the referendum. This is how the drafting of the current Constitution was launched: the constitutional law of 3 June 1958 organised the transition from the Fourth to the Fifth Republic. It is the safest route legally, but it requires the agreement of both chambers, including the Senate, which is set to disappear.
+**Amendment by Parliament (Article 89 of the 1958 Constitution).** The National Assembly and the Senate adopt a constitutional law that creates the constituent convention drawn by lot and provides for the referendum. This is how the drafting of the current Constitution was launched: the constitutional law of 3 June 1958 organised the transition from the Fourth to the Fifth Republic. It is the safest route legally, but it requires the agreement of both chambers, even though both are set to disappear.
 
 **A referendum called by the President (Article 11 of the 1958 Constitution).** The President puts a law organising the constituent convention directly to the people. General de Gaulle amended the Constitution this way in 1962; whether the procedure is lawful is still debated, but the Constitutional Council declared that it had no jurisdiction to rule on it. It is the most direct route: it requires a President committed to it, for example in their manifesto.
 
