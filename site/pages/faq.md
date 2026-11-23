@@ -104,7 +104,7 @@ Oui, après cinq ans de résidence régulière en France. Le peuple souverain, c
 
 ### Combien ça coûte ?
 
-Le projet a été chiffré poste par poste. Hors coûts indirects, il coûterait environ 1 milliard d’euros de moins par an que les institutions actuelles. En incluant ces coûts indirects, le total est du même ordre. Le détail est sur la page [Comment](/comment/).
+Environ deux fois moins que le système actuel : 1,7 milliard d’euros par an, contre 3,7 milliards pour la présidence, le Parlement, les élections et les indemnités des élus locaux. Même dans l’hypothèse la plus coûteuse, la réforme reste moins chère d’environ 1,2 milliard par an. Le détail, les sources et le modèle budgétaire sont sur la page [Comment](/comment/).
 
 ## <span class="kicker">05</span>Le projet
 

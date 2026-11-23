@@ -104,7 +104,7 @@ Yes, after five years of lawful residence in France. The sovereign people is the
 
 ### How much does it cost?
 
-The project has been costed item by item. Excluding indirect costs, it would cost around €1bn a year less than the current institutions. Including those indirect costs, the total is of the same order. The details are on the [How](/en/how/) page.
+About half as much as the current system: €1.7bn a year, against €3.7bn for the presidency, Parliament, elections and local councillors’ allowances. Even under the most expensive assumptions, the reform still costs around €1.2bn a year less. The details, sources and budget model are on the [How](/en/how/) page.
 
 ## <span class="kicker">05</span>The project
 

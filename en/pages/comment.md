@@ -2,7 +2,7 @@
 title: How to get there
 tag: How
 subtag: Steps and constraints
-description: The steps towards the Deliberative Republic, what it costs compared with the current system, and the role it asks citizens to play.
+description: The steps towards the Deliberative Republic, what it costs compared with the current system (half as much), and the role it asks citizens to play.
 ---
 
 <p class="lead">A Constitution cannot be imposed: it is deliberated, then ratified. The project itself follows the method it proposes.</p>
@@ -28,27 +28,44 @@ A Constitution cannot organise its own adoption: the 1958 rules apply until the 
 
 Two experiences abroad guide the method. In Iceland, a Constitution drafted with citizens was approved by two thirds of voters in 2012, then never adopted by Parliament, for want of a binding referendum: the chosen route must be legally binding. In Chile, the 2022 draft was rejected, in particular because it was seen as too long and too heavily loaded: a concise text, which organises power without settling society’s choices in advance, stands a better chance of being adopted.
 
-## <span class="kicker">03</span>No more expensive than the current system
+## <span class="kicker">03</span>Half the cost of the current system
 
-The project has been costed item by item, comparing what the conventions and the new authorities would cost with the institutions they replace: the presidency, the National Assembly, the Senate, the CESE, and allowances for local elected officials.
+The project has been costed item by item. Only what the Constitution changes is compared: on one side, the institutions it abolishes or replaces (the presidency, the National Assembly, the Senate, the CESE, several independent authorities, elections, local councillors’ allowances); on the other, the conventions, the local executive teams and the new authorities. Ministries, administrations and courts exist in both systems, so they are counted on neither side.
 
 <div class="figures">
-<div class="figure"><b>≈ €3bn</b><span>a year today: national institutions (€1.2bn) and allowances for local elected officials (€1.5–2bn).</span></div>
-<div class="figure"><b>€1.7–2bn</b><span>a year for the Deliberative Republic, conventions and authorities included.</span></div>
-<div class="figure"><b>€100k</b><span>a year per full-time convention member: maintained income, allowance, expenses, logistics and expertise.</span></div>
+<div class="figure"><b>≈ €3.7bn</b><span>a year today, or €53 per inhabitant: national institutions, elections and local councillors’ allowances.</span></div>
+<div class="figure"><b>≈ €1.7bn</b><span>a year for the Deliberative Republic, or €24 per inhabitant: between €1.2bn and €2.5bn depending on the assumptions.</span></div>
+<div class="figure"><b>≈ €2bn</b><span>saved each year. Even under the most expensive assumptions, the reform still costs around €1.2bn less.</span></div>
 </div>
 
 <table>
-<thead><tr><th>Item, in millions of euros a year</th><th class="num">Today</th><th class="num">Project</th></tr></thead>
+<thead><tr><th>Current system, in millions of euros a year</th><th class="num">Cost</th></tr></thead>
 <tbody>
-<tr><td>National citizens’ conventions</td><td class="num">—</td><td class="num">22</td></tr>
-<tr><td>National institutions and authorities</td><td class="num">1,209</td><td class="num">386–691</td></tr>
-<tr><td>Local level: elected officials today, territorial conventions tomorrow</td><td class="num">1,500–2,000</td><td class="num">1,250</td></tr>
-<tr class="total"><td>Total</td><td class="num">≈ 2,959</td><td class="num">1,658–1,963</td></tr>
+<tr><td>Presidency, National Assembly, Senate, parliamentary channels, current Constitutional Council, Court of Justice of the Republic</td><td class="num">1,140</td></tr>
+<tr><td>CESE, High Authority for Transparency in Public Life, Arcom, campaign accounts and intelligence oversight commissions</td><td class="num">109</td></tr>
+<tr><td>National and local elections, averaged per year, and public funding for parties</td><td class="num">239</td></tr>
+<tr><td>Local councillors’ allowances</td><td class="num">2,180</td></tr>
+<tr class="total"><td>Total</td><td class="num">≈ 3,670</td></tr>
 </tbody>
 </table>
 
-<p class="note">Assumptions of the project’s budget model (2024–2025 reference figures). These amounts do not include indirect costs, such as lost productivity for employers or the management of expert pools, estimated at €0.5–1.5bn a year. Adding them, the total ranges from €2.2bn to €3.5bn: a cost of the same order as the current system. A dedicated impact assessment is still needed.</p>
+<table>
+<thead><tr><th>Deliberative Republic, in millions of euros a year</th><th class="num">Central assumption</th><th class="num">Range</th></tr></thead>
+<tbody>
+<tr><td>National citizens’ conventions and mandates</td><td class="num">45</td><td class="num">16–97</td></tr>
+<tr><td>Territorial conventions (about 4,600)</td><td class="num">778</td><td class="num">593–979</td></tr>
+<tr><td>Local executive teams</td><td class="num">278</td><td class="num">167–501</td></tr>
+<tr><td>Permanent authorities, including the new Constitutional Council</td><td class="num">512</td><td class="num">370–700</td></tr>
+<tr><td>Expertise for the conventions, referendums and, at the top of the range, party funding</td><td class="num">48</td><td class="num">16–177</td></tr>
+<tr class="total"><td>Total</td><td class="num">≈ 1,660</td><td class="num">1,160–2,450</td></tr>
+</tbody>
+</table>
+
+National conventions cost little: one month of convention comes to about €11,000 per member, including maintained income, allowance, accommodation and organisation. Most of the cost comes from the local level. The model counts one convention per region, per department, per intercommunal body and per municipality of more than 3,500 inhabitants; smaller municipalities are grouped within the convention of their intercommunal body. Each convention sits the equivalent of one month a year.
+
+Setting it up would cost between €0.2bn and €0.65bn, once, including the ratification referendum: less than one year’s savings.
+
+<p class="note">Sources: 2026 budget bill, budget reports of the National Assembly and the Senate, DGCL and INSEE data. The cost of the current system includes only published amounts, so it is a cautious figure. It leaves out several items that would also disappear (contributions on councillors’ allowances, training, travel expenses, political advisers), and the reform’s indirect costs, such as disruption for employers, are not counted either. Convention durations are assumptions: organic law will set them. <a href="/assets/budget-republique-deliberative.xlsx">Download the budget model</a> (spreadsheet in French; every source and assumption can be changed).</p>
 
 ## <span class="kicker">04</span>A reasonable commitment from citizens
 
@@ -58,16 +75,19 @@ The project asks no one to become a professional politician. Conventions are **t
 <thead><tr><th>Convention</th><th class="num">Members</th><th>Duration</th></tr></thead>
 <tbody>
 <tr><td>Thematic conventions, which make the laws</td><td class="num">150</td><td>about 3 months, then dissolved</td></tr>
-<tr><td>Annual ordinary convention, which votes the budget</td><td class="num">150</td><td>about 1 month a year</td></tr>
+<tr><td>Annual ordinary convention, which votes the budget</td><td class="num">150</td><td>about one and a half months a year</td></tr>
 <tr><td>Agenda-setting convention</td><td class="num">150</td><td>about 3 months, every 5 years</td></tr>
+<tr><td>Civic Agenda Authority</td><td class="num">50, for 1 year</td><td>2 to 3 days a month</td></tr>
 <tr><td>Appointments convention</td><td class="num">50, for 2 years</td><td>a few sessions a year</td></tr>
+<tr><td>Plenary session overseeing law implementation</td><td class="num">150</td><td>at least 4 weeks a year</td></tr>
 <tr><td>Emergency convention</td><td class="num">150</td><td>on standby, sits only in a crisis</td></tr>
-<tr><td>Territorial conventions</td><td class="num">≈ 30 each</td><td>about 1 month a year</td></tr>
+<tr><td>Constituent convention</td><td class="num">300</td><td>3 to 6 months, only to amend the Constitution</td></tr>
+<tr><td>Territorial conventions</td><td class="num">25 to 80 depending on the level</td><td>about 1 month a year</td></tr>
 </tbody>
 </table>
 
 <p class="note">Indicative durations used in the budget model; the exact durations will be set by organic law.</p>
 
-At national level, around a thousand people sit each year. Including the local level, the model assumes around 150,000 people taking part for one month a year: roughly a one-in-three-hundred-and-fifty chance of being drawn by lot each year.
+At national level, around 1,750 people are drawn by lot each year. Including the local level, the model counts around 145,000, taking part for the equivalent of one month a year: roughly a one-in-365 chance of being drawn by lot in any given year.
 
 Throughout, everyone is protected: income maintained, job guaranteed, expenses covered, childcare provided (Article [14](#statut-conventionnel)). Refusal is accepted only on serious grounds (Article [13](#eligibilite-participation)).
