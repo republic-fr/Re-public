@@ -31,6 +31,7 @@ export const fiche = {
       { titre: 'Pour les citoyens', items: [
         'Siéger est un devoir civique, avec maintien intégral des revenus, emploi protégé, frais et garde d’enfants pris en charge.',
         'Toute personne majeure, française ou résidant en France depuis cinq ans, peut être tirée au sort.',
+        'La Déclaration des droits fondamentaux est elle aussi rédigée par 150 citoyens tirés au sort, à partir de la Déclaration de 1789, du Préambule de 1946 et de la Charte de l’environnement, sans pouvoir réduire les droits existants. Elle est soumise à référendum.',
       ] },
     ],
     chiffres: [
@@ -42,7 +43,7 @@ export const fiche = {
     chemin: [
       'Un avant-projet ouvert aux commentaires',
       'Une loi ou un référendum ouvre le processus',
-      '300 citoyens tirés au sort délibèrent sur la Constitution',
+      '300 citoyens tirés au sort délibèrent sur la Constitution, 150 sur la Déclaration des droits',
       'Référendum de ratification',
       'Mise en place en un mois',
     ],
@@ -75,6 +76,7 @@ export const fiche = {
       { titre: 'For citizens', items: [
         'Serving is a civic duty, with full income maintained, job protection, and expenses and childcare covered.',
         'Any adult who is French, or has lived in France for five years, may be drawn by lot.',
+        'The Declaration of Fundamental Rights is itself drafted by 150 citizens drawn by lot, starting from the 1789 Declaration, the 1946 Preamble and the Charter for the Environment, without being able to reduce existing rights. It is put to a referendum.',
       ] },
     ],
     chiffres: [
@@ -86,7 +88,7 @@ export const fiche = {
     chemin: [
       'A draft open to comments',
       'A law or a referendum opens the process',
-      '300 citizens drawn by lot deliberate on the Constitution',
+      '300 citizens drawn by lot deliberate on the Constitution, 150 on the Declaration of Rights',
       'Ratification referendum',
       'In place within one month',
     ],

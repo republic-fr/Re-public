@@ -37,19 +37,19 @@ function htmlFiche(c, lang) {
 header{display:flex;justify-content:space-between;align-items:flex-start;border-bottom:2px solid #000;padding-bottom:5mm}
 header .kicker{margin-top:5mm}
 h1{font-size:38px;font-weight:700;letter-spacing:-.02em;line-height:1.05;margin-top:1.5mm}
-.chapeau{font-size:15.5px;line-height:1.45;margin:6mm 0 6mm;font-weight:500}
-.cols{display:grid;grid-template-columns:1fr 1fr;gap:6mm 8mm}
+.chapeau{font-size:15px;line-height:1.42;margin:4.5mm 0 4.5mm;font-weight:500}
+.cols{display:grid;grid-template-columns:1fr 1fr;gap:4.5mm 8mm}
 section h2{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border-top:1px solid #000;padding-top:2mm;margin-bottom:1.6mm}
-ul{list-style:none}li{font-size:12.2px;line-height:1.42;padding-left:3.6mm;position:relative;margin-bottom:1.8mm}
+ul{list-style:none}li{font-size:11.9px;line-height:1.4;padding-left:3.6mm;position:relative;margin-bottom:1.8mm}
 li::before{content:"";position:absolute;left:0;top:1.75mm;width:1.6mm;height:1.6mm;background:#000}
-.chiffres{display:grid;grid-template-columns:repeat(3,1fr);margin:7mm 0 7mm;border:1px solid #000}
+.chiffres{display:grid;grid-template-columns:repeat(3,1fr);margin:5mm 0 5mm;border:1px solid #000}
 .chiffres div{padding:2.6mm 3.5mm;border-right:1px solid #000}.chiffres div:last-child{border:0}
 .chiffres b{display:block;font-size:28px;font-weight:700;letter-spacing:-.02em}.chiffres span{font-size:11.5px;line-height:1.35;display:block;margin-top:.8mm}
-.chemin h2{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:2mm}
+.chemin{margin-bottom:5mm}.chemin h2{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;margin-bottom:2mm}
 .chemin ol{list-style:none;display:grid;grid-template-columns:repeat(5,1fr);gap:2mm;counter-reset:e}
 .chemin li{border:1px solid #000;padding:2.5mm 2.6mm 3mm;font-size:11.2px;line-height:1.35;margin:0;counter-increment:e}
 .chemin li::before{content:counter(e);position:static;display:block;width:auto;height:auto;background:none;font-weight:700;font-size:13px;margin-bottom:.8mm}
-footer{margin-top:auto;background:#000;color:#fff;padding:4mm 5mm;display:flex;justify-content:space-between;align-items:center;gap:6mm}
+footer{margin-top:auto;flex-shrink:0;background:#000;color:#fff;padding:4mm 5mm;display:flex;justify-content:space-between;align-items:center;gap:6mm}
 footer p{font-size:11.5px;line-height:1.4}footer .url{font-size:22px;font-weight:700;white-space:nowrap}footer .repo{font-size:10px;opacity:.8;margin-top:1mm}
 </style></head><body><div class="page">
 <header><div>${marque('20px')}<p class="kicker">${esc(c.surtitre)}</p><h1>${esc(c.titre)}</h1></div>${grille(9, 9, 3)}</header>
