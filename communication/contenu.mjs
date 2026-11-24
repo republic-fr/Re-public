@@ -21,7 +21,7 @@ export const fiche = {
         'La Ve République concentre le pouvoir autour du président et affaiblit le Parlement (pouvoirs exceptionnels de l’article 16, adoption sans vote par le 49.3).',
         'Les mécanismes électoraux représentent mal la diversité sociale, et la participation se réduit à l’acte intermittent du vote.',
         'Le monde a changé depuis 1958 : le numérique a bouleversé la formation de l’opinion, les démocraties représentatives peinent à se hisser à la hauteur des défis écologiques et géopolitiques du siècle, et des forces hostiles à l’État de droit accèdent au pouvoir par les urnes.',
-      ] },
+      ], conclusion: 'D’où une démocratie délibérative : des décisions fondées sur des positions informées et débattues, une représentation fidèle de la diversité du pays, et un État de droit capable de se défendre.' },
       { titre: 'Les garde-fous', items: [
         'Un Conseil constitutionnel de juristes tirés au sort et, en cas de contresens scientifique manifeste, un conseil scientifique peuvent suspendre une loi et la renvoyer à une convention, jamais la réécrire.',
         'Les droits fondamentaux intangibles ne reculent ni en crise ni par révision. En crise, une convention de secours tirée au sort à l’avance se réunit sous 72 heures.',
@@ -66,7 +66,7 @@ export const fiche = {
         'The Fifth Republic concentrates power in the President and weakens Parliament (emergency powers under Article 16; Article 49.3 lets a bill pass without a vote).',
         'Elections poorly reflect social diversity, and participation is reduced to an occasional vote.',
         'The world has changed since 1958: digital technology has transformed how opinion is formed, representative democracies struggle to rise to the ecological and geopolitical challenges of the century, and forces hostile to the rule of law are winning power at the ballot box.',
-      ] },
+      ], conclusion: 'Hence a deliberative democracy: decisions based on informed and debated positions, faithful representation of the country’s diversity, and a rule of law able to defend itself.' },
       { titre: 'The safeguards', items: [
         'A Constitutional Council of lawyers chosen by lot and, in case of manifest scientific error, a scientific council may suspend a law and send it back to a convention, never rewrite it.',
         'Inviolable fundamental rights cannot be rolled back, in a crisis or by amendment. In a crisis, an emergency convention drawn by lot in advance meets within 72 hours.',

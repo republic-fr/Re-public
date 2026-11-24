@@ -32,7 +32,7 @@ body{font-family:"Hanken Grotesk",Arial,sans-serif;color:#000;background:#fff;-w
 function htmlFiche(c, lang) {
   const blocs = c.blocs.map((b) => b.encadre
     ? `<section class="encadre"><h2>${esc(b.titre)}</h2><p class="citation">${esc(b.items[0])}</p>${b.items.slice(1).map((i) => `<p>${esc(i)}</p>`).join('')}</section>`
-    : `<section><h2>${esc(b.titre)}</h2><ul>${b.items.map((i) => `<li>${esc(i)}</li>`).join('')}</ul></section>`).join('');
+    : `<section><h2>${esc(b.titre)}</h2><ul>${b.items.map((i) => `<li>${esc(i)}</li>`).join('')}</ul>${b.conclusion ? `<p class="conclusion">${esc(b.conclusion)}</p>` : ''}</section>`).join('');
   return `<!doctype html><html lang="${lang}"><head><meta charset="utf-8"><title>${esc(c.titreDoc)}</title><style>${BASE}
 @page{size:A4;margin:0}
 .page{width:210mm;height:297mm;padding:12mm 14mm 11mm;display:flex;flex-direction:column}
@@ -42,6 +42,7 @@ h1{font-size:29px;font-weight:700;letter-spacing:-.02em;line-height:1.05;margin-
 .chapeau{font-size:12.8px;line-height:1.42;margin:3.5mm 0 3.5mm;font-weight:500}
 .cols{display:grid;grid-template-columns:1fr 1fr;gap:3.5mm 7mm}
 section h2{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border-top:1px solid #000;padding-top:2mm;margin-bottom:1.6mm}
+.conclusion{font-size:10.6px;line-height:1.38;font-weight:700;border-left:2px solid #000;padding-left:2.5mm;margin-top:2mm}
 .encadre{background:#f2f2f2;padding:0 3.5mm 3mm;border-top:2px solid #000}.encadre h2{border-top:0}.encadre p+p{margin-top:1.4mm}.encadre p{font-size:10.4px;line-height:1.36}.encadre .citation{font-weight:700;font-size:11.4px;margin-bottom:1.6mm}
 ul{list-style:none}li{font-size:10.4px;line-height:1.36;padding-left:3.4mm;position:relative;margin-bottom:1.3mm}
 li::before{content:"";position:absolute;left:0;top:1.55mm;width:1.5mm;height:1.5mm;background:#000}
