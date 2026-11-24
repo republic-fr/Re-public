@@ -55,7 +55,7 @@ The draft constitution combines several deliberative mechanisms:
 - **Territorial conventions** that run regions, departments, inter-municipal bodies and larger municipalities.
 - **Safeguards:** a list of inviolable rights that cannot be restricted, even in a crisis; crisis measures affecting freedoms must be authorised by an emergency convention selected by lot in advance; constitutional amendments require a referendum.
 
-Serving in a convention is a civic duty; members keep their full income and job protection, and expenses including childcare are covered. The draft extends eligibility to foreign nationals who have resided in France for at least five years.
+Serving in a convention is a civic duty; members keep their full income and job protection, and expenses including childcare are covered.
 
 ### Major Projects and Events
 
