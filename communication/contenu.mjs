@@ -20,8 +20,7 @@ export const fiche = {
       { titre: 'Pourquoi', items: [
         'La Ve République concentre le pouvoir autour du président et affaiblit le Parlement (pouvoirs exceptionnels de l’article 16, adoption sans vote par le 49.3).',
         'Les mécanismes électoraux représentent mal la diversité sociale, et la participation se réduit à l’acte intermittent du vote.',
-        'Depuis 1958, le numérique a bouleversé la formation de l’opinion, et le court-termisme électoral peine à répondre à la crise écologique.',
-        'Des forces qui contestent l’État de droit peuvent accéder au pouvoir par les urnes : une démocratie doit pouvoir se protéger contre ses propres dérives.',
+        'Depuis l’écriture de la Ve République en 1958, le numérique a bouleversé la formation de l’opinion ; les bouleversements écologiques et géopolitiques du XXIe siècle n’ont trouvé que peu de réponses ambitieuses dans les démocraties représentatives ; et des forces qui contestent l’État de droit accèdent au pouvoir par les urnes.',
       ] },
       { titre: 'Les garde-fous', items: [
         'Un Conseil constitutionnel de juristes tirés au sort et, en cas de contresens scientifique manifeste, un conseil scientifique peuvent suspendre une loi et la renvoyer à une convention, jamais la réécrire.',
@@ -66,8 +65,7 @@ export const fiche = {
       { titre: 'Why', items: [
         'The Fifth Republic concentrates power in the President and weakens Parliament (emergency powers under Article 16; Article 49.3 lets a bill pass without a vote).',
         'Elections poorly reflect social diversity, and participation is reduced to an occasional vote.',
-        'Since 1958, digital technology has upended how opinion is formed, and electoral short-termism struggles to respond to the ecological crisis.',
-        'Forces that challenge the rule of law can come to power through the ballot box: a democracy must be able to protect itself against its own drift.',
+        'Since the Fifth Republic was drafted in 1958, digital technology has upended how opinion is formed; the ecological and geopolitical upheavals of the 21st century have met few ambitious responses from representative democracies; and forces that challenge the rule of law are coming to power through the ballot box.',
       ] },
       { titre: 'The safeguards', items: [
         'A Constitutional Council of lawyers chosen by lot and, in case of manifest scientific error, a scientific council may suspend a law and send it back to a convention, never rewrite it.',
