@@ -416,6 +416,8 @@ fs.writeFileSync(path.join(OUT, 'search.json'), JSON.stringify(searchIndex));
 // Fichiers utilitaires
 fs.writeFileSync(path.join(OUT, '404.html'), layout({ title: 'Page introuvable', noindex: true, path: '/404', body: `<div class="wrap page-head"><h1 class="rp-display">404</h1><p>Cette page n’existe pas. <a href="/texte/">Revenir au texte</a>.</p></div>` }));
 fs.writeFileSync(path.join(OUT, 'robots.txt'), `User-agent: *\nAllow: /\nSitemap: ${config.siteUrl}/sitemap.xml\n`);
+// Clé IndexNow : prouve aux moteurs de recherche (Bing…) que les notifications de mise à jour viennent du site.
+if (config.indexNowKey) fs.writeFileSync(path.join(OUT, `${config.indexNowKey}.txt`), config.indexNowKey);
 const urls = ['/', '/texte/', ...all.map(urlTitre), '/texte/concordance/', '/pourquoi/', '/fonctionnement/', '/comment/', '/commenter/', '/faq/', '/contact/'];
 fs.writeFileSync(path.join(OUT, 'sitemap.xml'), `<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">${urls.map((u) => `<url><loc>${config.siteUrl}${u}</loc></url>`).join('')}</urlset>\n`);
 

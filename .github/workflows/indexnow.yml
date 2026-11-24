@@ -1,0 +1,30 @@
+# Signale les pages du site aux moteurs de recherche qui utilisent IndexNow (Bing, Yandex, Seznam…),
+# après chaque mise à jour du texte ou des pages. Aucun compte n'est nécessaire : la clé publiée
+# à la racine du site (site/config.json, indexNowKey) prouve que la demande vient du site.
+name: IndexNow
+on:
+  push:
+    branches: [main]
+    paths: ['constitution/**', 'site/pages/**', 'en/**']
+  workflow_dispatch:
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Attendre la fin du déploiement Cloudflare
+        run: sleep 240
+      - name: Envoyer la liste des pages à IndexNow
+        run: |
+          set -euo pipefail
+          KEY=$(jq -r .indexNowKey site/config.json)
+          SITE=$(jq -r .siteUrl site/config.json)
+          HOST=${SITE#https://}
+          curl -fsS "$SITE/$KEY.txt" | grep -qx "$KEY"
+          URLS=$(curl -fsS "$SITE/sitemap.xml" | grep -o '<loc>[^<]*</loc>' | sed 's/<[^>]*>//g' | jq -R . | jq -s .)
+          echo "$URLS" | jq length
+          jq -n --arg host "$HOST" --arg key "$KEY" --arg loc "$SITE/$KEY.txt" --argjson urls "$URLS" \
+            '{host:$host,key:$key,keyLocation:$loc,urlList:$urls}' > body.json
+          curl -sS -o /dev/null -w '%{http_code}\n' -X POST https://api.indexnow.org/indexnow \
+            -H 'Content-Type: application/json; charset=utf-8' --data @body.json | tee code.txt
+          grep -qE '^(200|202)$' code.txt
