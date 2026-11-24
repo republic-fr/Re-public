@@ -15,3 +15,7 @@ The most useful thing is to comment directly on the article concerned, or to ope
 ## <span class="kicker">02</span>To contribute
 
 Lawyers, historians, political scientists, specialists in public finance or deliberation: the project needs expert reviews. See [Comment and contribute](/en/comment/).
+
+## <span class="kicker">03</span>To present the project
+
+A one-page overview and a short presentation, free to download and share: [one-page overview](/assets/republic-fiche-en.pdf), [presentation](/assets/republic-presentation-en.pdf). French versions: [fiche](/assets/republic-fiche-fr.pdf), [présentation](/assets/republic-presentation-fr.pdf).
