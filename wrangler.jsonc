@@ -2,6 +2,8 @@
 {
   "name": "re-public",
   "compatibility_date": "2026-11-01",
+  // Petit script qui redirige l'ancienne adresse workers.dev vers republic-fr.org.
+  "main": "./site/worker.js",
   "workers_dev": true,
   "preview_urls": true,
   // Nom de domaine principal, rattaché au site (certificat HTTPS automatique).
@@ -10,6 +12,9 @@
   "previews": {},
   "assets": {
     "directory": "./dist",
+    "binding": "ASSETS",
+    // Le script passe avant les fichiers, pour pouvoir rediriger l'ancienne adresse.
+    "run_worker_first": true,
     "html_handling": "auto-trailing-slash",
     "not_found_handling": "404-page"
   }
