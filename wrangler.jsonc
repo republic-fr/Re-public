@@ -4,6 +4,8 @@
   "compatibility_date": "2026-11-01",
   "workers_dev": true,
   "preview_urls": true,
+  // Nom de domaine principal, rattaché au site (certificat HTTPS automatique).
+  "routes": [{ "pattern": "republic-fr.org", "custom_domain": true }],
   // Versions d'essai des pull requests (commande « wrangler preview »).
   "previews": {},
   "assets": {
