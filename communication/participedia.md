@@ -48,10 +48,10 @@ The authors are not identified. The text is maintained in a public version-contr
 The draft constitution combines several deliberative mechanisms:
 
 - **Thematic citizens' conventions** of 150 members selected by stratified lot, each dealing with one subject. They receive training, hold hearings with opposing experts and commission counter-expertise before adopting laws, then dissolve. Three rapporteurs follow up on each convention's work for five years.
-- **An agenda-setting convention**, held every five years, which selects the subjects of the thematic conventions and sets budget priorities, and **an annual convention** that adopts the budget.
+- **An agenda-setting convention**, held every five years, which selects the subjects of the thematic conventions and sets budget priorities, and an annual convention that adopts the budget.
 - **A Civic Agenda Authority** of 50 citizens selected by lot, which registers petitions and opens conventions. A petition signed by one per cent of the civic body obliges it to consider opening a dedicated convention.
 - **An appointed executive:** there is no president or prime minister. Ministers form a college and are chosen by a 50-member appointments convention selected by lot, from public applicants who pass competence and integrity checks.
-- **Oversight bodies**, including a citizens' plenary session that reviews the implementation of laws each year, a court of public integrity able to remove office-holders, and a Constitutional Council that reviews every law before it enters into force. A scientific council may also suspend a law; suspended laws return to citizens' conventions.
+- **Oversight bodies**, including a citizens' plenary session that reviews the implementation of laws each year, a court of public integrity able to remove office-holders, and a Constitutional Council that reviews every law before it enters into force. In case of manifest scientific error, a scientific council may also suspend a law; suspended laws return to citizens' conventions.
 - **Territorial conventions** that run regions, departments, inter-municipal bodies and larger municipalities.
 - **Safeguards:** a list of inviolable rights that cannot be restricted, even in a crisis; crisis measures affecting freedoms must be authorised by an emergency convention selected by lot in advance; constitutional amendments require a referendum.
 
