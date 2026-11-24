@@ -18,9 +18,10 @@ export const fiche = {
         'Régions, départements, intercommunalités et communes sont administrés de la même façon, par des conventions territoriales.',
       ] },
       { titre: 'Pourquoi', items: [
-        'La Ve République concentre le pouvoir autour du président et permet de contourner le Parlement (pouvoirs exceptionnels de l’article 16, adoption sans vote par le 49.3).',
-        'Les mécanismes électoraux représentent mal la diversité sociale ; la participation se réduit à un vote tous les cinq ans.',
-        'La Convention citoyenne pour le climat a montré que 150 citoyens tirés au sort délibèrent sérieusement. Restée consultative, elle a vu ses propositions les plus structurantes vidées, retardées ou abandonnées.',
+        'La Ve République concentre le pouvoir autour du président et affaiblit le Parlement (pouvoirs exceptionnels de l’article 16, adoption sans vote par le 49.3).',
+        'Les mécanismes électoraux représentent mal la diversité sociale, et la participation se réduit à l’acte intermittent du vote.',
+        'Depuis 1958, le numérique a bouleversé la formation de l’opinion, et le court-termisme électoral peine à répondre à la crise écologique.',
+        'Des forces qui contestent l’État de droit peuvent accéder au pouvoir par les urnes : une démocratie doit pouvoir se protéger contre ses propres dérives.',
       ] },
       { titre: 'Les garde-fous', items: [
         'Un Conseil constitutionnel de juristes tirés au sort et, en cas de contresens scientifique manifeste, un conseil scientifique peuvent suspendre une loi et la renvoyer à une convention, jamais la réécrire.',
@@ -30,7 +31,8 @@ export const fiche = {
       ] },
       { titre: 'L’objection principale', encadre: true, items: [
         '« Des citoyens ordinaires ne sont pas compétents, et seront manipulés. »',
-        'La compétence s’organise : un seul sujet, plusieurs mois, des experts tirés au sort dans des viviers publics, un dossier contradictoire et une contre-expertise publique. C’est le principe du jury d’assises appliqué à la loi. Et un citoyen qui siège quelques mois, sans réélection à gagner, est une cible moins durable qu’un élu de carrière.',
+        'Les députés et les sénateurs ne sont pas non plus spécialistes de chaque texte qu’ils votent, et restent exposés aux groupes d’intérêts pendant toute leur carrière. La Convention citoyenne pour le climat l’a montré : 150 citoyens tirés au sort, formés, ayant auditionné scientifiques, juristes, économistes et associations, ont adopté 149 propositions argumentées.',
+        'La Constitution organise cette compétence pour chaque loi (experts tirés au sort, dossier contradictoire, contre-expertise publique). Un citoyen qui siège quelques mois, sans réélection à gagner, est une cible moins durable qu’un élu de carrière.',
       ] },
     ],
     chiffres: [
@@ -38,12 +40,12 @@ export const fiche = {
       { n: '≈ 1,7 Md€', t: 'par an (1,2 à 2,5), contre ≈ 3,7 Md€ pour la présidence, le Parlement, les élections et les élus locaux' },
       { n: '1 sur 365', t: 'chance d’être tiré au sort une année donnée, surtout au niveau local' },
     ],
-    cheminTitre: 'Comment y parvenir',
+    cheminTitre: 'Comment y parvenir : deux textes, un référendum',
     chemin: [
-      'Aujourd’hui : un avant-projet ouvert aux commentaires',
+      'Aujourd’hui : cet avant-projet, ouvert aux commentaires',
       'Une loi constitutionnelle ou un référendum, selon les règles de 1958, ouvre le processus',
-      '300 citoyens tirés au sort révisent le texte ; 150 autres écrivent la Déclaration des droits',
-      'Référendum de ratification, une question par texte',
+      'Deux conventions tirées au sort, en parallèle : 300 citoyens écrivent la Constitution, 150 la Déclaration des droits fondamentaux',
+      'Un référendum, deux questions : l’une sur la Constitution, l’autre sur la Déclaration des droits',
       'Nouvelles institutions en place en un mois',
     ],
     appel: 'Texte intégral, chiffrage poste par poste et réponses aux principales objections. Questions : republic‑fr.org/contact',
@@ -53,7 +55,7 @@ export const fiche = {
     titreDoc: 'REpublic — One-page overview',
     surtitre: 'Draft Constitution · The Deliberative Republic',
     titre: 'Laws written by citizens chosen by lot',
-    chapeau: 'REpublic is a complete draft constitution for France, which has lived under the 1958 Constitution of the Fifth Republic for nearly seventy years. It has no president, no parliament and no elected representatives: conventions of 150 citizens chosen by lot, trained and paid for their time, pass the laws and the budget. Where France’s Citizens’ Convention for Climate could only make recommendations, these conventions decide; the civil service implements, under permanent oversight.',
+    chapeau: 'REpublic is a complete draft constitution to replace France’s 1958 Constitution (the Fifth Republic). It has no president, no parliament and no elected representatives: conventions of 150 citizens chosen by lot, trained and paid for their time, pass the laws and the budget. Where France’s Citizens’ Convention for Climate could only make recommendations, these conventions decide; the civil service implements, under permanent oversight.',
     blocs: [
       { titre: 'What changes', items: [
         'Each law is entrusted to a convention of 150 citizens chosen by lot to mirror the country (sex, age, education, social class, place): training, adversarial hearings, counter-expertise, a vote, then dissolution.',
@@ -62,9 +64,10 @@ export const fiche = {
         'Regions, departments, inter-municipal bodies and municipalities are run the same way, by territorial conventions.',
       ] },
       { titre: 'Why', items: [
-        'The Fifth Republic concentrates power in the President and lets the executive bypass Parliament (emergency powers under Article 16; Article 49.3 lets a bill pass without a vote).',
-        'Elections poorly reflect social diversity; participation is reduced to a vote every five years.',
-        'France’s Citizens’ Convention for Climate showed that 150 citizens chosen by lot deliberate seriously. Because it was only advisory, its most far-reaching proposals were watered down, delayed or dropped.',
+        'The Fifth Republic concentrates power in the President and weakens Parliament (emergency powers under Article 16; Article 49.3 lets a bill pass without a vote).',
+        'Elections poorly reflect social diversity, and participation is reduced to an occasional vote.',
+        'Since 1958, digital technology has upended how opinion is formed, and electoral short-termism struggles to respond to the ecological crisis.',
+        'Forces that challenge the rule of law can come to power through the ballot box: a democracy must be able to protect itself against its own drift.',
       ] },
       { titre: 'The safeguards', items: [
         'A Constitutional Council of lawyers chosen by lot and, in case of manifest scientific error, a scientific council may suspend a law and send it back to a convention, never rewrite it.',
@@ -74,7 +77,8 @@ export const fiche = {
       ] },
       { titre: 'The main objection', encadre: true, items: [
         '“Ordinary citizens aren’t competent, and lobbies will capture them.”',
-        'Competence is organised: one subject, several months, experts drawn by lot from public pools, an adversarial briefing file and public counter-expertise: the jury principle applied to law-making. And a citizen who serves a few months, with no re-election to win, is a poorer long-term target than a career politician.',
+        'Members of parliament are not specialists in every bill they vote on either, and they remain exposed to interest groups throughout their careers. France’s Citizens’ Convention for Climate showed what citizens can do: 150 people chosen by lot, trained, after hearing scientists, lawyers, economists and associations, adopted 149 reasoned proposals.',
+        'The Constitution organises this competence for every law (experts drawn by lot, an adversarial briefing file, public counter-expertise). A citizen who serves a few months, with no re-election to win, is a poorer long-term target than a career politician.',
       ] },
     ],
     chiffres: [
@@ -82,12 +86,12 @@ export const fiche = {
       { n: '≈ €1.7bn', t: 'a year (€1.2–2.5bn), against ≈ €3.7bn for the presidency, Parliament, elections and local councillors' },
       { n: '1 in 365', t: 'chance of being chosen in any given year, mostly at local level' },
     ],
-    cheminTitre: 'How to get there',
+    cheminTitre: 'How to get there: two texts, one referendum',
     chemin: [
-      'Today: a draft open to comments',
+      'Today: this draft, open to comments',
       'A constitutional law or a referendum, under the 1958 rules, opens the process',
-      '300 citizens chosen by lot revise the text; 150 others write the Declaration of Rights',
-      'Ratification referendum, one question per text',
+      'Two conventions chosen by lot, side by side: 300 citizens write the Constitution, 150 the Declaration of Fundamental Rights',
+      'One referendum, two questions: one on the Constitution, one on the Declaration of Rights',
       'New institutions in place within one month',
     ],
     appel: 'Full text, item-by-item costing and answers to the main objections to sortition. Questions: republic‑fr.org/en/contact',

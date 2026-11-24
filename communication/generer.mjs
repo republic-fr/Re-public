@@ -42,7 +42,7 @@ h1{font-size:29px;font-weight:700;letter-spacing:-.02em;line-height:1.05;margin-
 .chapeau{font-size:12.8px;line-height:1.42;margin:3.5mm 0 3.5mm;font-weight:500}
 .cols{display:grid;grid-template-columns:1fr 1fr;gap:3.5mm 7mm}
 section h2{font-size:12px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;border-top:1px solid #000;padding-top:2mm;margin-bottom:1.6mm}
-.encadre{background:#f2f2f2;padding:0 3.5mm 3mm;border-top:2px solid #000}.encadre h2{border-top:0}.encadre p{font-size:10.4px;line-height:1.36}.encadre .citation{font-weight:700;font-size:11.4px;margin-bottom:1.6mm}
+.encadre{background:#f2f2f2;padding:0 3.5mm 3mm;border-top:2px solid #000}.encadre h2{border-top:0}.encadre p+p{margin-top:1.4mm}.encadre p{font-size:10.4px;line-height:1.36}.encadre .citation{font-weight:700;font-size:11.4px;margin-bottom:1.6mm}
 ul{list-style:none}li{font-size:10.4px;line-height:1.36;padding-left:3.4mm;position:relative;margin-bottom:1.3mm}
 li::before{content:"";position:absolute;left:0;top:1.55mm;width:1.5mm;height:1.5mm;background:#000}
 .chiffres{display:grid;grid-template-columns:repeat(3,1fr);margin:4mm 0 4mm;border:1px solid #000}
